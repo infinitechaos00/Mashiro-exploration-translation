@@ -1,0 +1,4973 @@
+{
+  "json_class": "RPG::Map",
+  "events": [
+    [
+      1,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV001",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Variables"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Variables"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Else"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あっ…！"
+                  ],
+                  "translation": [
+                    "Ah…！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "穴が締まっちゃった……"
+                  ],
+                  "translation": [
+                    "The hole is tightened……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Else"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んにぃ～っ…！"
+                  ],
+                  "translation": [
+                    "Bye～…！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "だめかぁ……",
+                    "私の力じゃもう開かないみたい…"
+                  ],
+                  "translation": [
+                    "……",
+                    "It seems my power does not open anymore…"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ニノさんの体内だもの。",
+                    "あーしたちにはどうすることも出来ないしょ。"
+                  ],
+                  "translation": [
+                    "Mr. Nino's body。",
+                    "AhーWe can not do anything about it。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadein Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      2,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV002",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      3,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV003",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      4,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV004",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      5,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV005",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Variables"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Variables"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Else"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あっ…！"
+                  ],
+                  "translation": [
+                    "Ah…！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "穴が締まっちゃった……"
+                  ],
+                  "translation": [
+                    "The hole is tightened……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Else"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んにぃ～っ…！"
+                  ],
+                  "translation": [
+                    "Bye～…！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "だめかぁ……",
+                    "私の力じゃもう開かないみたい…"
+                  ],
+                  "translation": [
+                    "……",
+                    "It seems my power does not open anymore…"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ニノさんの体内だもの。",
+                    "あーしたちにはどうすることも出来ないしょ。"
+                  ],
+                  "translation": [
+                    "Mr. Nino's body。",
+                    "AhーWe can not do anything about it。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadein Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      6,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV006",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Variables"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Variables"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Else"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あっ…！"
+                  ],
+                  "translation": [
+                    "Ah…！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "穴が締まっちゃった……"
+                  ],
+                  "translation": [
+                    "The hole is tightened……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Else"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んにぃ～っ…！"
+                  ],
+                  "translation": [
+                    "Bye～…！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "だめかぁ……",
+                    "私の力じゃもう開かないみたい…"
+                  ],
+                  "translation": [
+                    "……",
+                    "It seems my power does not open anymore…"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ニノさんの体内だもの。",
+                    "あーしたちにはどうすることも出来ないしょ。"
+                  ],
+                  "translation": [
+                    "Mr. Nino's body。",
+                    "AhーWe can not do anything about it。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadein Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      7,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV007",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      8,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV008",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ふぅ……",
+                    "ここがニノのお尻の穴だね。"
+                  ],
+                  "translation": [
+                    "Fuu……",
+                    "This is the hole in Nino's ass。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ちょっと、体がぴりぴりするかな。",
+                    "あちこち少し溶けてきてるかも。"
+                  ],
+                  "translation": [
+                    "A little、I wonder if my body is spiraling.。",
+                    "Maybe they melt a little bit。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "でも、ニノが控えめにしてくれたみたいだね。",
+                    "いつもだったらもう溶けてるけど",
+                    "無事ここまで辿り着けたんだし。"
+                  ],
+                  "translation": [
+                    "But、It seems that Nino made it discreet。",
+                    "If it is usual it is already melting",
+                    "I've arrived safely so far。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ。",
+                    "きたきたっ。"
+                  ],
+                  "translation": [
+                    "Oh。",
+                    "I came。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "そいでは……とっつげきー！"
+                  ],
+                  "translation": [
+                    "Consequently……Awkwardnessー！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout BGS"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout BGM"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Switches"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ニノのお尻の穴だね。",
+                    "ここから外に出られるけど……"
+                  ],
+                  "translation": [
+                    "It's a hole in Nino's ass。",
+                    "Although I can get out from here……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Choices",
+                "parameters": [
+                  [
+                    {
+                      "json_class": "TranslatableString",
+                      "original   ": "脱出する",
+                      "translation": "To escape"
+                    },
+                    {
+                      "json_class": "TranslatableString",
+                      "original   ": "しない",
+                      "translation": "Do not do"
+                    }
+                  ],
+                  2
+                ]
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "When"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉー。",
+                    "ひくひくしてるぅー❤"
+                  ],
+                  "translation": [
+                    "Ohー。",
+                    "It's hungry.ー❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おーし、行きますか！"
+                  ],
+                  "translation": [
+                    "YourーTo、Are you going！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぅさー♪"
+                  ],
+                  "translation": [
+                    "Ohー♪"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "とっつげきー！"
+                  ],
+                  "translation": [
+                    "Awkwardnessー！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "よいっしょ……よいっしょ……"
+                  ],
+                  "translation": [
+                    "Togetherness……Togetherness……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…んーむ……結構狭いんだねぇ……",
+                    "ゆっくり進んでよ、マシロ。"
+                  ],
+                  "translation": [
+                    "…Hmmー……That's pretty narrow.……",
+                    "Go slowly.、Mashiro。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ニノのお尻ならこれくらいなんともないよ。",
+                    "ニノがその気ならもっとキツくできるしね。"
+                  ],
+                  "translation": [
+                    "If it is Nino's ass this is nothing。",
+                    "You can make it even harder if you feel that way。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んっ……まぁ、そりゃそうですけどね。",
+                    "普通の人でも自在に操れる消化器官は",
+                    "口か肛門か、ってなくらいだからね。"
+                  ],
+                  "translation": [
+                    "nn……Well、That's right, but that's right。",
+                    "Digestive organs that can be freely manipulated by ordinary people",
+                    "Mouth or anus?、Because it is。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "きゃっ！？"
+                  ],
+                  "translation": [
+                    "！？"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ほぎょぉっ！？"
+                  ],
+                  "translation": [
+                    "Hockey！？"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "うぁっ…！",
+                    "締め付けて……くるしっ……！"
+                  ],
+                  "translation": [
+                    "Wow…！",
+                    "Tighten……Cover……！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "すっ、スッゴいキツいんですけどぉ…！？"
+                  ],
+                  "translation": [
+                    "A、It is a wonderful experience…！？"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "で、でもこれくらいなら…",
+                    "なんとか進んでいけるかも…"
+                  ],
+                  "translation": [
+                    "So、But if this is about…",
+                    "Maybe I can move on somehow.…"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Choices",
+                "parameters": [
+                  [
+                    {
+                      "json_class": "TranslatableString",
+                      "original   ": "立ち止まる",
+                      "translation": "Stop"
+                    },
+                    {
+                      "json_class": "TranslatableString",
+                      "original   ": "突き進む",
+                      "translation": "To push forward"
+                    }
+                  ],
+                  2
+                ]
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "When"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "進むとなるとこの後の括約筋が怖いね……",
+                    "まるで雑巾のように搾られそう……"
+                  ],
+                  "translation": [
+                    "As you move forward you will be scared of the later sphincter……",
+                    "It is almost like squeezing like a cloth……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ここまで来たんだし、後はニノに任せよう。"
+                  ],
+                  "translation": [
+                    "I have come so far.、Let's leave it to Nino afterwards。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "それが賢明だね。",
+                    "こういう時は流れに逆らっちゃいけないよ。"
+                  ],
+                  "translation": [
+                    "That's wise.。",
+                    "I should not go against the flow at such times。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ふぁっ…"
+                  ],
+                  "translation": [
+                    "Huh…"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉう……"
+                  ],
+                  "translation": [
+                    "Wow……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout BGM"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout BGS"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Switches"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "When"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あ、あともうちょっとだし……",
+                    "このまま行っちゃおう…！"
+                  ],
+                  "translation": [
+                    "Ah、Another little more……",
+                    "Let's go on like this…！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あっ…、ちょっと、今進んだら……！"
+                  ],
+                  "translation": [
+                    "Ah…、A little、If you go now……！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あっ"
+                  ],
+                  "translation": [
+                    "Ah"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ほっ"
+                  ],
+                  "translation": [
+                    "Ho"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout BGS"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout BGM"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Switches"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Choices End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "When"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Choices End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ニノのお尻の穴だね。",
+                    "ここから外に出られるけど……"
+                  ],
+                  "translation": [
+                    "It's a hole in Nino's ass。",
+                    "Although I can get out from here……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Choices",
+                "parameters": [
+                  [
+                    {
+                      "json_class": "TranslatableString",
+                      "original   ": "脱出する",
+                      "translation": "To escape"
+                    },
+                    {
+                      "json_class": "TranslatableString",
+                      "original   ": "しない",
+                      "translation": "Do not do"
+                    }
+                  ],
+                  2
+                ]
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "When"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あははっ。",
+                    "なんか、待ち遠しそうだね❤"
+                  ],
+                  "translation": [
+                    "Haha。",
+                    "Something、I am looking forward to it❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "そいでは……ぬるりと❤"
+                  ],
+                  "translation": [
+                    "Consequently……Slippery❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んっ…しょ……"
+                  ],
+                  "translation": [
+                    "nn…Cane……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ふぁっ…"
+                  ],
+                  "translation": [
+                    "Huh…"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout BGM"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout BGS"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Switches"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "When"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Choices End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ニノのお尻の穴だね。",
+                    "無事にここまでたどり着いたけど……"
+                  ],
+                  "translation": [
+                    "It's a hole in Nino's ass。",
+                    "Although it reached here safely……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Choices",
+                "parameters": [
+                  [
+                    {
+                      "json_class": "TranslatableString",
+                      "original   ": "脱出する",
+                      "translation": "To escape"
+                    },
+                    {
+                      "json_class": "TranslatableString",
+                      "original   ": "しない",
+                      "translation": "Do not do"
+                    }
+                  ],
+                  2
+                ]
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "When"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "うー……大丈夫かな…？",
+                    "大腸くらいからなにも無かったから",
+                    "かえって不安なんだよね……"
+                  ],
+                  "translation": [
+                    "Uー……Is it alright…？",
+                    "Because there was nothing from the large intestine",
+                    "It is rather uneasy, does not it?……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おそるおそる……だよぅ……"
+                  ],
+                  "translation": [
+                    "Fearfully……So much……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あぅー……"
+                  ],
+                  "translation": [
+                    "Ahー……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout BGM"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout BGS"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Switches"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "When"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Choices End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Choices",
+                "parameters": [
+                  [
+                    {
+                      "json_class": "TranslatableString",
+                      "original   ": "脱出する",
+                      "translation": "To escape"
+                    },
+                    {
+                      "json_class": "TranslatableString",
+                      "original   ": "しない",
+                      "translation": "Do not do"
+                    }
+                  ],
+                  2
+                ]
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "When"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout BGM"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout BGS"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Switches"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "When"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Choices End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      9,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV009",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      10,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV010",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      11,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV011",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      12,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV012",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      13,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV013",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      14,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV014",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      15,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV015",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      16,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV016",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      17,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV017",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      18,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV018",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      19,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV019",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      20,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV020",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      21,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV021",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      22,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV022",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      23,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV023",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      24,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV024",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Call Common Event"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Erase Event"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      25,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV025",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Call Common Event"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Erase Event"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      26,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV026",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      27,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV027",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      28,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV028",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      29,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV029",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      30,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV030",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      31,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV031",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      32,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV032",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      33,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV033",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      34,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV034",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      35,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV035",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      36,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV036",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      37,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV037",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      38,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV038",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      39,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV039",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      40,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV040",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      41,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV041",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……ねちょねちょ……"
+                  ],
+                  "translation": [
+                    "Oh……A cat……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      42,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV042",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      43,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV043",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      44,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV044",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      45,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV045",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      46,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV046",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      47,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV047",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Call Common Event"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Erase Event"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ]
+}

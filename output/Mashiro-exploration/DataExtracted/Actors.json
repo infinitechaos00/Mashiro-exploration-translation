@@ -1,0 +1,336 @@
+[
+  [
+    0,
+    null
+  ],
+  [
+    1,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "マシロ",
+        "translation": "Mashiro"
+      }
+    }
+  ],
+  [
+    2,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "スバル",
+        "translation": "Subaru"
+      }
+    }
+  ],
+  [
+    3,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "レイ",
+        "translation": "Rei"
+      }
+    }
+  ],
+  [
+    4,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    5,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    6,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    7,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナ",
+        "translation": "Hibana"
+      }
+    }
+  ],
+  [
+    8,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    9,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    10,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    11,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    12,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    13,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    14,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    15,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    16,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    17,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    18,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    19,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    20,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ブランク",
+        "translation": "Blank"
+      }
+    }
+  ],
+  [
+    21,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    22,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    23,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    24,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    25,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    26,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "カイト",
+        "translation": "Kite"
+      }
+    }
+  ],
+  [
+    27,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "リッカ",
+        "translation": "Rikka"
+      }
+    }
+  ],
+  [
+    28,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アイリ",
+        "translation": "Airi"
+      }
+    }
+  ],
+  [
+    29,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "フィア",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    30,
+    {
+      "json_class": "RPG::Actor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ]
+]

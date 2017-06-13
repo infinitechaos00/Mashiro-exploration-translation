@@ -1,0 +1,538 @@
+{
+  "json_class": "RPG::Map",
+  "events": [
+    [
+      1,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV001",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "………ふむ❤",
+                    "お嬢様は、無事にアキちゃんの胃の中で",
+                    "消化されちゃったみたいですねぇ❤"
+                  ],
+                  "translation": [
+                    "………HM❤",
+                    "Milady is、Surely in Aki's stomach",
+                    "It seems they have been digested❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ほんとですか？",
+                    "ニノ様、そういうの分かるんだ……"
+                  ],
+                  "translation": [
+                    "Really？",
+                    "Dear Nino,、I understand that kind of thing……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んまぁ、特殊な能力が無くても今回は…ねぇ❤",
+                    "…見てくださいよ、このアキちゃんの顔❤"
+                  ],
+                  "translation": [
+                    "Oh well、Even if there is no special ability this time…Hey❤",
+                    "…Please look.、This Aki's face❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…………………くふぅ…………"
+                  ],
+                  "translation": [
+                    "…………………Kufu…………"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あっ♪",
+                    "何か、美味しいもの食べた顔してる。"
+                  ],
+                  "translation": [
+                    "Ah♪",
+                    "Something、I ate delicious food and I have a face。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "夢に出ちゃうくらいに美味しいですからねぇ❤",
+                    "魔力が減って枯渇しそうな状態ですと",
+                    "尚のこと美味しく感じちゃうモノですよ❤"
+                  ],
+                  "translation": [
+                    "It's delicious as it comes out in a dream❤",
+                    "If the magical power is reduced and it seems to be exhausted",
+                    "It is a thing I feel delicious a little further❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "なるほどー♪"
+                  ],
+                  "translation": [
+                    "I seeー♪"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……さて♪",
+                    "そんなこんなで事情によりアキちゃんが",
+                    "先になっちゃいましたけども……",
+                    "次はハルちゃんの番ですねぇ❤"
+                  ],
+                  "translation": [
+                    "……Now♪",
+                    "Because of such circumstances by such circumstances Aki",
+                    "It was a while ago……",
+                    "Next is Hal's turn❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "うん？",
+                    "わたしの？"
+                  ],
+                  "translation": [
+                    "Yup？",
+                    "My？"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "えぇ❤",
+                    "今し方アキちゃんに施してあげた魔法を",
+                    "ハルちゃんにもしてあげますよ❤"
+                  ],
+                  "translation": [
+                    "Yeah❤",
+                    "Magic you've done to Aki for now",
+                    "I will give you to Haru chan❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "胎内の環境をランクアップさせて",
+                    "より消化吸収の効率を高めて",
+                    "快感の享受を更に得るための魔法です❤",
+                    "ま、デメリットは一切無いと思いますよぉ❤"
+                  ],
+                  "translation": [
+                    "Let me rank up the environment in my womb",
+                    "Increase the efficiency of digestion and absorption",
+                    "It is the magic to obtain further enjoyment of pleasure❤",
+                    "Up、I do not think there is any disadvantage at all❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……あっ、そういうことなんだね。",
+                    "マシロちゃんが言ってた改築って。"
+                  ],
+                  "translation": [
+                    "……Ah、That's it。",
+                    "Machiro said that renovation。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おっ。",
+                    "話を聞いているのならば話も早いですねぇ。"
+                  ],
+                  "translation": [
+                    "Oh。",
+                    "If you are listening to a story the story is too early。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……お嬢様を取り込む快楽を知ったのなら",
+                    "この改築は念願叶うものですよ❤",
+                    "毎日のオナニーも捗るというものです❤"
+                  ],
+                  "translation": [
+                    "……If you know the pleasure to take in a lady",
+                    "This renovation is a wishful thing❤",
+                    "Everyday masturbationーIt is also to say that it will progress❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…もぉっ……",
+                    "……ニノ様、すぐ恥ずかしいこと言う…"
+                  ],
+                  "translation": [
+                    "…Well……",
+                    "……Dear Nino,、Say embarrassing soon…"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…………みんなには…内緒にしててね？"
+                  ],
+                  "translation": [
+                    "…………To everyone…Keep it secret？"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "勿論ですよ❤",
+                    "でも、どうしても体が疼いてしまうようならば",
+                    "是非とも私かイトリさんに相談を❤"
+                  ],
+                  "translation": [
+                    "Of course❤",
+                    "But、If it seems that your body will be dying",
+                    "Please consult me ​​or Mr. Itri by all means❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…自分の体だけでは到底味わえない至極の快楽…",
+                    "淫魔に許された珠玉の性感の到達点……",
+                    "壊れてしまわない程度に…堪能させてあげます❤"
+                  ],
+                  "translation": [
+                    "…The ultimate pleasure that you can not taste with your body alone…",
+                    "The point of arrival of the gem of the gem that was forgiven by the devil……",
+                    "To the extent that it does not break…I will do my best❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "はいっ❤",
+                    "よろしく、お願いします❤"
+                  ],
+                  "translation": [
+                    "Yes❤",
+                    "Nice to meet you、Please❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んふっふっふっふっふ❤"
+                  ],
+                  "translation": [
+                    "Huffing fluffy foot❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "それでは！",
+                    "私たちオトナの世界へいらっしゃいませぇ❤"
+                  ],
+                  "translation": [
+                    "Thank you.！",
+                    "Welcome to our world of adults❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Animation"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Animation"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Call Common Event"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Switches"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Switches"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ]
+}

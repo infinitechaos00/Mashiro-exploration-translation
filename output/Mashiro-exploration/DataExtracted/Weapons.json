@@ -1,0 +1,1056 @@
+[
+  [
+    0,
+    null
+  ],
+  [
+    1,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "クラブ",
+        "translation": "Club"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "シンプルな木製の棍棒。",
+        "translation": "A simple wooden stick。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    2,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ロングソード",
+        "translation": "Longseoー"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ごく一般的な量産型の長剣。",
+        "translation": "A typical production model a long sword。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    3,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ロングスピア",
+        "translation": "Long spear"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ごく一般的な量産型の槍。",
+        "translation": "A typical mass-produced spear。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    4,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ロングボウ",
+        "translation": "Long bow"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ごく一般的な量産型の弓。",
+        "translation": "A typical production model bow。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    5,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "レザーウィップ",
+        "translation": "LeatherーWhip"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "動物の皮を加工して作られた鞭。",
+        "translation": "Processing of animal skins and made whips。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    6,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ブロードソード",
+        "translation": "ProーDoosoー"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "オーソドックスな幅広の剣。",
+        "translation": "ーSodox wide sword。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    7,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アイアンナックル",
+        "translation": "Iron NaCl"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "鉄で作られた格闘家用の爪。",
+        "translation": "Fighting for House made of Iron nails。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    8,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "メイス",
+        "translation": "Mace"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "金属製の純粋な打撃武器。",
+        "translation": "Metal pure melee weapons.。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    9,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "トライデント",
+        "translation": "Trident"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "農具から発展した三つ又の鉾。",
+        "translation": "Was developed from a farming tool three-pronged Trident。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    10,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "バスタードソード",
+        "translation": "BustaーDoosoー"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "比較的扱いやすい両手剣。",
+        "translation": "Relatively easy two-handed sword。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    11,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ラップドボウ",
+        "translation": "Looped bow"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "動物の腱を裏打ちして強化した弓。",
+        "translation": "Strengthening the tendons of animals with bow。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    12,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "バトルアックス",
+        "translation": "Battle axe"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "木工具から発展した戦闘用の斧。",
+        "translation": "Battle-axe was developed from a woodworking jig。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    13,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "クレイモア",
+        "translation": "Claymore"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "敵を斬ることを重視して作られた両手剣。",
+        "translation": "Made focused on enemies with his two-handed sword。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    14,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハルバート",
+        "translation": "Halbaー"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "突くだけでなく叩き斬ることもできる槍。",
+        "translation": "Can even poke the cuts hitting the spear。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    15,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "フレイル",
+        "translation": "Flail"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "棒の先に鉄球を鎖でつないだ打撃武器。",
+        "translation": "Stick iron balls connected by a chain shot weapon。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    16,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "フランベルジュ",
+        "translation": "Flanders"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "炎のように波打つ刃を持った両手剣。",
+        "translation": "Wavy flame-bladed sword。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    17,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "クロスボウ",
+        "translation": "Crossbow"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "通常の弓より威力のある矢を射出できる武器。",
+        "translation": "Weapons you can launch arrows with power than the normal arch。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    18,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "モーニングスター",
+        "translation": "ーNingstaー"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "刺つきの鉄球が取り付けられたメイス。",
+        "translation": "Mace were fitted with iron balls with a bite。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    19,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ミスリルナックル",
+        "translation": "Mithrilnackl"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "魔法の金属ミスリル銀で作られた爪。",
+        "translation": "Made of metal Mithril Silver Magic nails。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    20,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ミスリルスピア",
+        "translation": "Mithril Spear"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "魔法の金属ミスリル銀で作られた槍。",
+        "translation": "Spears made of metal Mithril Silver Magic。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    21,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ミスリルソード",
+        "translation": "Mythrilsosー"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "魔法の金属ミスリル銀で作られた片手剣。",
+        "translation": "One-hand sword made of metal Mithril Silver Magic。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    22,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ゴールドスタッフ",
+        "translation": "ーRudd Staff"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "黄金色に輝く魔法の杖。",
+        "translation": "Golden magic wand。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    23,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "グレートアックス",
+        "translation": "GrayーToax"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "柄を長くした強力なバトルアックス。",
+        "translation": "A powerful battle axe with long handle。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    24,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "グレートクロスボウ",
+        "translation": "GrayーCrossbow"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "改良を重ねられた扱いやすいクロスボウ。",
+        "translation": "Easy-to-handle crossbow stacked improvements。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    25,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ウィザードロッド",
+        "translation": "WizardーA droid"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "内に込められた魔力で衝撃波を発生させる杖。",
+        "translation": "To raise a shock in the magic imbued within the wand。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    26,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ドラゴンウィップ",
+        "translation": "Dragon whip"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ドラゴンのひげを加工して作られた鞭。",
+        "translation": "Whip made of a dragon's beard。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    27,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ドラゴンスピア",
+        "translation": "Dragon spear"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ドラゴンの鱗を加工して作られた槍。",
+        "translation": "Spears made a dragon scale。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    28,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ドラゴンクロー",
+        "translation": "Dragon Kuroー"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ドラゴンの爪を加工して作られた格闘家用の武器。",
+        "translation": "Working Dragon claws made for fighting weapon。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    29,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ドラゴンソード",
+        "translation": "Dragonsoー"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ドラゴンの鱗を加工して作られた片手剣。",
+        "translation": "Processing of Dragon scales made of one-hand sword。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    30,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "キングスソード",
+        "translation": "King's Sー"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "真の勇者のみが手にできるといわれる伝説の剣。",
+        "translation": "It is said that only a true hero can get legendary sword。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    31,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    32,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    33,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    34,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    35,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    36,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    37,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    38,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    39,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    40,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "灯の短刀",
+        "translation": "Lamp dagger"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "火の元素を灯した短刀。|洞窟では松明の代わりになります。",
+        "translation": "A dagger that lighted an element of fire。|In the cave it will be a substitute for a torch。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    41,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "円火の太刀",
+        "translation": "Circle-fire sword"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "炎の元素を宿した太刀。|寒ければ暖も取れる優れもの。",
+        "translation": "A sword with an element of fire。|Excellent which can take warm if it is cold。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    42,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "雫の短刀",
+        "translation": "Drop's short sword"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "水の元素を滴らせた短刀。|飲んだら体の毒です。",
+        "translation": "Dagger with water element dropped。|It is a poison of a body after drinking。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    43,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "水沫の太刀",
+        "translation": "A sword of sweetness"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "水の元素を宿した太刀。|こっちは飲めます。清らかなお味。",
+        "translation": "A sword holding an element of water。|I can drink this place.。Pure taste。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    44,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "閃の短刀",
+        "translation": "Sword dagger"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "雷の元素を帯びた短刀。|鍼灸治療にも使えます。",
+        "translation": "Dagger with thunder element。|It can also be used for acupuncture and moxibustion treatment。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    45,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "雷光の太刀",
+        "translation": "Thunder of lightning light"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "雷の元素を宿した太刀。|刃に触るとあばばばば。",
+        "translation": "A sword holding elements of thunder。|When you touch the blade。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    46,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    47,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    48,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    49,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    50,
+    {
+      "json_class": "RPG::Weapon",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ]
+]

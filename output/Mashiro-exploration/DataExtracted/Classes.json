@@ -1,0 +1,336 @@
+[
+  [
+    0,
+    null
+  ],
+  [
+    1,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "円卓の娘",
+        "translation": "Round Table daughter"
+      }
+    }
+  ],
+  [
+    2,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "物好き探検家",
+        "translation": "Favorite explorer"
+      }
+    }
+  ],
+  [
+    3,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "巻き込まれハーレム君",
+        "translation": "Caught inーRem"
+      }
+    }
+  ],
+  [
+    4,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    5,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    6,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    7,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "若年狐っ娘",
+        "translation": "Young fox daughter"
+      }
+    }
+  ],
+  [
+    8,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    9,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    10,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    11,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    12,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    13,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    14,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    15,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    16,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    17,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    18,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    19,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    20,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    21,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "胎内監禁中",
+        "translation": "In the womb"
+      }
+    }
+  ],
+  [
+    22,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    23,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    24,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    25,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    26,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "冒険者",
+        "translation": "Adventurer"
+      }
+    }
+  ],
+  [
+    27,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "冒険者",
+        "translation": "Adventurer"
+      }
+    }
+  ],
+  [
+    28,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "冒険者",
+        "translation": "Adventurer"
+      }
+    }
+  ],
+  [
+    29,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "訪問者",
+        "translation": "Visitor"
+      }
+    }
+  ],
+  [
+    30,
+    {
+      "json_class": "RPG::Class",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ]
+]

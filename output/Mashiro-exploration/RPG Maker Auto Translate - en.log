@@ -7,28 +7,28 @@ Settings file exists: {
   "skipJsonDump": 0,
   "skipTranslate": 0,
   "logCacheHits": 0,
-  "logTranslations": 1,
+  "logTranslations": 0,
   "breakBlocksOnKatakana": 0,
   "translateScripts": 0,
   "translateLinesWithVars": 0,
   "overrideCharacters": "ー,",
   "outputLanguage": "en",
-  "Actors": "Skip",
-  "Animators": "Skip",
-  "Armors": "Skip",
-  "Classes": "Skip",
-  "CommonEvents": "Skip",
-  "Enemies": "Skip",
-  "Items": "Skip",
-  "Map": "Skip",
-  "Scripts": "Skip",
-  "Skills": "Skip",
-  "States": "Skip",
-  "System": "Skip",
-  "Tilesets": "Skip",
-  "Troops": "Skip",
-  "Weapons": "Skip",
-  "Other": "Skip"
+  "Actors": "Translate All",
+  "Animators": "Translate All",
+  "Armors": "Translate All",
+  "Classes": "Translate All",
+  "CommonEvents": "Translate All",
+  "Enemies": "Translate All",
+  "Items": "Translate All",
+  "Map": "Translate All",
+  "Scripts": "Translate All",
+  "Skills": "Translate All",
+  "States": "Translate All",
+  "System": "Translate All",
+  "Tilesets": "Translate All",
+  "Troops": "Translate All",
+  "Weapons": "Translate All",
+  "Other": "Translate All"
 }
 Output path: [../output/Mashiro-exploration]
 Setting up directories
@@ -273,908 +273,1229 @@ Cache file exists, loading...
 24089 cached values
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Actors.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Actors.rvdata] to [../output/Mashiro-exploration/Data/Actors.rvdata]
+2017-06-13 13:59:18 -0400 Progress: Total [0/2307556] Mashiro-exploration/Actors.json [0/336] Cache hits [0] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Animations.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Animations.rvdata] to [../output/Mashiro-exploration/Data/Animations.rvdata]
+2017-06-13 13:59:18 -0400 Progress: Total [336/2307556] Mashiro-exploration/Animations.json [0/1777] Cache hits [9] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Areas.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Areas.rvdata] to [../output/Mashiro-exploration/Data/Areas.rvdata]
+2017-06-13 13:59:18 -0400 Progress: Total [2113/2307556] Mashiro-exploration/Areas.json [0/3] Cache hits [175] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Armors.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Armors.rvdata] to [../output/Mashiro-exploration/Data/Armors.rvdata]
+2017-06-13 13:59:18 -0400 Progress: Total [2116/2307556] Mashiro-exploration/Armors.json [0/1476] Cache hits [175] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Classes.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Classes.rvdata] to [../output/Mashiro-exploration/Data/Classes.rvdata]
+2017-06-13 13:59:18 -0400 Progress: Total [3592/2307556] Mashiro-exploration/Classes.json [0/336] Cache hits [297] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/CommonEvents.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/CommonEvents.rvdata] to [../output/Mashiro-exploration/Data/CommonEvents.rvdata]
+2017-06-13 13:59:18 -0400 Progress: Total [3928/2307556] Mashiro-exploration/CommonEvents.json [0/28885] Cache hits [307] Translations [0] Failures [0]
+2017-06-13 13:59:18 -0400 Progress: Total [13928/2307556] Mashiro-exploration/CommonEvents.json [10000/28885] Cache hits [480] Translations [0] Failures [0]
+2017-06-13 13:59:19 -0400 Progress: Total [23928/2307556] Mashiro-exploration/CommonEvents.json [20000/28885] Cache hits [756] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Enemies.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Enemies.rvdata] to [../output/Mashiro-exploration/Data/Enemies.rvdata]
+2017-06-13 13:59:20 -0400 Progress: Total [32813/2307556] Mashiro-exploration/Enemies.json [0/1286] Cache hits [915] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Items.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Items.rvdata] to [../output/Mashiro-exploration/Data/Items.rvdata]
+2017-06-13 13:59:20 -0400 Progress: Total [34099/2307556] Mashiro-exploration/Items.json [0/2106] Cache hits [952] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map001.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map001.rvdata] to [../output/Mashiro-exploration/Data/Map001.rvdata]
+2017-06-13 13:59:20 -0400 Progress: Total [36205/2307556] Mashiro-exploration/Map001.json [0/91294] Cache hits [1175] Translations [0] Failures [0]
+2017-06-13 13:59:21 -0400 Progress: Total [46205/2307556] Mashiro-exploration/Map001.json [10000/91294] Cache hits [2165] Translations [0] Failures [0]
+2017-06-13 13:59:22 -0400 Progress: Total [56205/2307556] Mashiro-exploration/Map001.json [20000/91294] Cache hits [3055] Translations [0] Failures [0]
+2017-06-13 13:59:24 -0400 Progress: Total [66205/2307556] Mashiro-exploration/Map001.json [30000/91294] Cache hits [3858] Translations [0] Failures [0]
+2017-06-13 13:59:27 -0400 Progress: Total [76205/2307556] Mashiro-exploration/Map001.json [40000/91294] Cache hits [4703] Translations [0] Failures [0]
+2017-06-13 13:59:31 -0400 Progress: Total [86205/2307556] Mashiro-exploration/Map001.json [50000/91294] Cache hits [5606] Translations [0] Failures [0]
+2017-06-13 13:59:36 -0400 Progress: Total [96205/2307556] Mashiro-exploration/Map001.json [60000/91294] Cache hits [6527] Translations [0] Failures [0]
+2017-06-13 13:59:42 -0400 Progress: Total [106205/2307556] Mashiro-exploration/Map001.json [70000/91294] Cache hits [7423] Translations [0] Failures [0]
+2017-06-13 13:59:48 -0400 Progress: Total [116205/2307556] Mashiro-exploration/Map001.json [80000/91294] Cache hits [8323] Translations [0] Failures [0]
+2017-06-13 13:59:56 -0400 Progress: Total [126205/2307556] Mashiro-exploration/Map001.json [90000/91294] Cache hits [9081] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map002.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map002.rvdata] to [../output/Mashiro-exploration/Data/Map002.rvdata]
+2017-06-13 13:59:57 -0400 Progress: Total [127499/2307556] Mashiro-exploration/Map002.json [0/99388] Cache hits [9209] Translations [0] Failures [0]
+2017-06-13 13:59:57 -0400 Progress: Total [137499/2307556] Mashiro-exploration/Map002.json [10000/99388] Cache hits [10259] Translations [0] Failures [0]
+2017-06-13 13:59:58 -0400 Progress: Total [147499/2307556] Mashiro-exploration/Map002.json [20000/99388] Cache hits [11155] Translations [0] Failures [0]
+2017-06-13 14:00:00 -0400 Progress: Total [157499/2307556] Mashiro-exploration/Map002.json [30000/99388] Cache hits [12061] Translations [0] Failures [0]
+2017-06-13 14:00:04 -0400 Progress: Total [167499/2307556] Mashiro-exploration/Map002.json [40000/99388] Cache hits [12916] Translations [0] Failures [0]
+2017-06-13 14:00:08 -0400 Progress: Total [177499/2307556] Mashiro-exploration/Map002.json [50000/99388] Cache hits [13800] Translations [0] Failures [0]
+2017-06-13 14:00:13 -0400 Progress: Total [187499/2307556] Mashiro-exploration/Map002.json [60000/99388] Cache hits [14866] Translations [0] Failures [0]
+2017-06-13 14:00:19 -0400 Progress: Total [197499/2307556] Mashiro-exploration/Map002.json [70000/99388] Cache hits [15885] Translations [0] Failures [0]
+2017-06-13 14:00:25 -0400 Progress: Total [207499/2307556] Mashiro-exploration/Map002.json [80000/99388] Cache hits [16897] Translations [0] Failures [0]
+2017-06-13 14:00:33 -0400 Progress: Total [217499/2307556] Mashiro-exploration/Map002.json [90000/99388] Cache hits [17722] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map003.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map003.rvdata] to [../output/Mashiro-exploration/Data/Map003.rvdata]
+2017-06-13 14:00:40 -0400 Progress: Total [226887/2307556] Mashiro-exploration/Map003.json [0/4228] Cache hits [18422] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map004.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map004.rvdata] to [../output/Mashiro-exploration/Data/Map004.rvdata]
+2017-06-13 14:00:41 -0400 Progress: Total [231115/2307556] Mashiro-exploration/Map004.json [0/3692] Cache hits [18897] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map006.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map006.rvdata] to [../output/Mashiro-exploration/Data/Map006.rvdata]
+2017-06-13 14:00:41 -0400 Progress: Total [234807/2307556] Mashiro-exploration/Map006.json [0/18303] Cache hits [18950] Translations [0] Failures [0]
+2017-06-13 14:00:41 -0400 Progress: Total [244807/2307556] Mashiro-exploration/Map006.json [10000/18303] Cache hits [19459] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map007.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map007.rvdata] to [../output/Mashiro-exploration/Data/Map007.rvdata]
+2017-06-13 14:00:42 -0400 Progress: Total [253110/2307556] Mashiro-exploration/Map007.json [0/12989] Cache hits [19675] Translations [0] Failures [0]
+2017-06-13 14:00:42 -0400 Progress: Total [263110/2307556] Mashiro-exploration/Map007.json [10000/12989] Cache hits [20354] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map008.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map008.rvdata] to [../output/Mashiro-exploration/Data/Map008.rvdata]
+2017-06-13 14:00:42 -0400 Progress: Total [266099/2307556] Mashiro-exploration/Map008.json [0/339] Cache hits [20524] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map009.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map009.rvdata] to [../output/Mashiro-exploration/Data/Map009.rvdata]
+2017-06-13 14:00:42 -0400 Progress: Total [266438/2307556] Mashiro-exploration/Map009.json [0/10443] Cache hits [20524] Translations [0] Failures [0]
+2017-06-13 14:00:43 -0400 Progress: Total [276438/2307556] Mashiro-exploration/Map009.json [10000/10443] Cache hits [21260] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map010.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map010.rvdata] to [../output/Mashiro-exploration/Data/Map010.rvdata]
+2017-06-13 14:00:43 -0400 Progress: Total [276881/2307556] Mashiro-exploration/Map010.json [0/9524] Cache hits [21287] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map011.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map011.rvdata] to [../output/Mashiro-exploration/Data/Map011.rvdata]
+2017-06-13 14:00:43 -0400 Progress: Total [286405/2307556] Mashiro-exploration/Map011.json [0/11126] Cache hits [21546] Translations [0] Failures [0]
+2017-06-13 14:00:43 -0400 Progress: Total [296405/2307556] Mashiro-exploration/Map011.json [10000/11126] Cache hits [21852] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map018.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map018.rvdata] to [../output/Mashiro-exploration/Data/Map018.rvdata]
+2017-06-13 14:00:44 -0400 Progress: Total [297531/2307556] Mashiro-exploration/Map018.json [0/21803] Cache hits [21859] Translations [0] Failures [0]
+2017-06-13 14:00:44 -0400 Progress: Total [307531/2307556] Mashiro-exploration/Map018.json [10000/21803] Cache hits [22431] Translations [0] Failures [0]
+2017-06-13 14:00:45 -0400 Progress: Total [317531/2307556] Mashiro-exploration/Map018.json [20000/21803] Cache hits [22894] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map019.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map019.rvdata] to [../output/Mashiro-exploration/Data/Map019.rvdata]
+2017-06-13 14:00:45 -0400 Progress: Total [319334/2307556] Mashiro-exploration/Map019.json [0/4270] Cache hits [22984] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map020.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map020.rvdata] to [../output/Mashiro-exploration/Data/Map020.rvdata]
+2017-06-13 14:00:45 -0400 Progress: Total [323604/2307556] Mashiro-exploration/Map020.json [0/825] Cache hits [23071] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map021.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map021.rvdata] to [../output/Mashiro-exploration/Data/Map021.rvdata]
+2017-06-13 14:00:45 -0400 Progress: Total [324429/2307556] Mashiro-exploration/Map021.json [0/7167] Cache hits [23138] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map022.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map022.rvdata] to [../output/Mashiro-exploration/Data/Map022.rvdata]
+2017-06-13 14:00:45 -0400 Progress: Total [331596/2307556] Mashiro-exploration/Map022.json [0/4973] Cache hits [23268] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map024.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map024.rvdata] to [../output/Mashiro-exploration/Data/Map024.rvdata]
+2017-06-13 14:00:45 -0400 Progress: Total [336569/2307556] Mashiro-exploration/Map024.json [0/60998] Cache hits [23445] Translations [0] Failures [0]
+2017-06-13 14:00:46 -0400 Progress: Total [346569/2307556] Mashiro-exploration/Map024.json [10000/60998] Cache hits [24330] Translations [0] Failures [0]
+2017-06-13 14:00:47 -0400 Progress: Total [356569/2307556] Mashiro-exploration/Map024.json [20000/60998] Cache hits [25178] Translations [0] Failures [0]
+2017-06-13 14:00:49 -0400 Progress: Total [366569/2307556] Mashiro-exploration/Map024.json [30000/60998] Cache hits [25914] Translations [0] Failures [0]
+2017-06-13 14:00:52 -0400 Progress: Total [376569/2307556] Mashiro-exploration/Map024.json [40000/60998] Cache hits [26777] Translations [0] Failures [0]
+2017-06-13 14:00:56 -0400 Progress: Total [386569/2307556] Mashiro-exploration/Map024.json [50000/60998] Cache hits [27651] Translations [0] Failures [0]
+2017-06-13 14:01:01 -0400 Progress: Total [396569/2307556] Mashiro-exploration/Map024.json [60000/60998] Cache hits [28453] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map025.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map025.rvdata] to [../output/Mashiro-exploration/Data/Map025.rvdata]
+2017-06-13 14:01:01 -0400 Progress: Total [397567/2307556] Mashiro-exploration/Map025.json [0/775] Cache hits [28542] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map026.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map026.rvdata] to [../output/Mashiro-exploration/Data/Map026.rvdata]
+2017-06-13 14:01:01 -0400 Progress: Total [398342/2307556] Mashiro-exploration/Map026.json [0/4467] Cache hits [28542] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map027.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map027.rvdata] to [../output/Mashiro-exploration/Data/Map027.rvdata]
+2017-06-13 14:01:01 -0400 Progress: Total [402809/2307556] Mashiro-exploration/Map027.json [0/12196] Cache hits [28578] Translations [0] Failures [0]
+2017-06-13 14:01:01 -0400 Progress: Total [412809/2307556] Mashiro-exploration/Map027.json [10000/12196] Cache hits [29036] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map028.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map028.rvdata] to [../output/Mashiro-exploration/Data/Map028.rvdata]
+2017-06-13 14:01:02 -0400 Progress: Total [415005/2307556] Mashiro-exploration/Map028.json [0/6402] Cache hits [29105] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map029.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map029.rvdata] to [../output/Mashiro-exploration/Data/Map029.rvdata]
+2017-06-13 14:01:02 -0400 Progress: Total [421407/2307556] Mashiro-exploration/Map029.json [0/6697] Cache hits [29355] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map030.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map030.rvdata] to [../output/Mashiro-exploration/Data/Map030.rvdata]
+2017-06-13 14:01:02 -0400 Progress: Total [428104/2307556] Mashiro-exploration/Map030.json [0/755] Cache hits [29618] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map031.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map031.rvdata] to [../output/Mashiro-exploration/Data/Map031.rvdata]
+2017-06-13 14:01:02 -0400 Progress: Total [428859/2307556] Mashiro-exploration/Map031.json [0/18800] Cache hits [29618] Translations [0] Failures [0]
+2017-06-13 14:01:02 -0400 Progress: Total [438859/2307556] Mashiro-exploration/Map031.json [10000/18800] Cache hits [30490] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map032.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map032.rvdata] to [../output/Mashiro-exploration/Data/Map032.rvdata]
+2017-06-13 14:01:03 -0400 Progress: Total [447659/2307556] Mashiro-exploration/Map032.json [0/36494] Cache hits [31434] Translations [0] Failures [0]
+2017-06-13 14:01:04 -0400 Progress: Total [457659/2307556] Mashiro-exploration/Map032.json [10000/36494] Cache hits [31980] Translations [0] Failures [0]
+2017-06-13 14:01:05 -0400 Progress: Total [467659/2307556] Mashiro-exploration/Map032.json [20000/36494] Cache hits [32471] Translations [0] Failures [0]
+2017-06-13 14:01:06 -0400 Progress: Total [477659/2307556] Mashiro-exploration/Map032.json [30000/36494] Cache hits [32631] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map033.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map033.rvdata] to [../output/Mashiro-exploration/Data/Map033.rvdata]
+2017-06-13 14:01:08 -0400 Progress: Total [484153/2307556] Mashiro-exploration/Map033.json [0/5492] Cache hits [33006] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map034.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map034.rvdata] to [../output/Mashiro-exploration/Data/Map034.rvdata]
+2017-06-13 14:01:08 -0400 Progress: Total [489645/2307556] Mashiro-exploration/Map034.json [0/12834] Cache hits [33274] Translations [0] Failures [0]
+2017-06-13 14:01:08 -0400 Progress: Total [499645/2307556] Mashiro-exploration/Map034.json [10000/12834] Cache hits [33773] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map035.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map035.rvdata] to [../output/Mashiro-exploration/Data/Map035.rvdata]
+2017-06-13 14:01:08 -0400 Progress: Total [502479/2307556] Mashiro-exploration/Map035.json [0/15269] Cache hits [33871] Translations [0] Failures [0]
+2017-06-13 14:01:09 -0400 Progress: Total [512479/2307556] Mashiro-exploration/Map035.json [10000/15269] Cache hits [34163] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map036.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map036.rvdata] to [../output/Mashiro-exploration/Data/Map036.rvdata]
+2017-06-13 14:01:09 -0400 Progress: Total [517748/2307556] Mashiro-exploration/Map036.json [0/13871] Cache hits [34268] Translations [0] Failures [0]
+2017-06-13 14:01:09 -0400 Progress: Total [527748/2307556] Mashiro-exploration/Map036.json [10000/13871] Cache hits [34578] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map037.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map037.rvdata] to [../output/Mashiro-exploration/Data/Map037.rvdata]
+2017-06-13 14:01:09 -0400 Progress: Total [531619/2307556] Mashiro-exploration/Map037.json [0/1649] Cache hits [34655] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map038.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map038.rvdata] to [../output/Mashiro-exploration/Data/Map038.rvdata]
+2017-06-13 14:01:10 -0400 Progress: Total [533268/2307556] Mashiro-exploration/Map038.json [0/32103] Cache hits [34677] Translations [0] Failures [0]
+2017-06-13 14:01:10 -0400 Progress: Total [543268/2307556] Mashiro-exploration/Map038.json [10000/32103] Cache hits [34957] Translations [0] Failures [0]
+2017-06-13 14:01:11 -0400 Progress: Total [553268/2307556] Mashiro-exploration/Map038.json [20000/32103] Cache hits [35443] Translations [0] Failures [0]
+2017-06-13 14:01:12 -0400 Progress: Total [563268/2307556] Mashiro-exploration/Map038.json [30000/32103] Cache hits [35911] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map039.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map039.rvdata] to [../output/Mashiro-exploration/Data/Map039.rvdata]
+2017-06-13 14:01:12 -0400 Progress: Total [565371/2307556] Mashiro-exploration/Map039.json [0/6179] Cache hits [36005] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map040.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map040.rvdata] to [../output/Mashiro-exploration/Data/Map040.rvdata]
+2017-06-13 14:01:13 -0400 Progress: Total [571550/2307556] Mashiro-exploration/Map040.json [0/3957] Cache hits [36287] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map041.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map041.rvdata] to [../output/Mashiro-exploration/Data/Map041.rvdata]
+2017-06-13 14:01:13 -0400 Progress: Total [575507/2307556] Mashiro-exploration/Map041.json [0/2996] Cache hits [36471] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map042.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map042.rvdata] to [../output/Mashiro-exploration/Data/Map042.rvdata]
+2017-06-13 14:01:13 -0400 Progress: Total [578503/2307556] Mashiro-exploration/Map042.json [0/2144] Cache hits [36514] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map043.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map043.rvdata] to [../output/Mashiro-exploration/Data/Map043.rvdata]
+2017-06-13 14:01:13 -0400 Progress: Total [580647/2307556] Mashiro-exploration/Map043.json [0/3038] Cache hits [36599] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map044.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map044.rvdata] to [../output/Mashiro-exploration/Data/Map044.rvdata]
+2017-06-13 14:01:13 -0400 Progress: Total [583685/2307556] Mashiro-exploration/Map044.json [0/1747] Cache hits [36840] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map045.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map045.rvdata] to [../output/Mashiro-exploration/Data/Map045.rvdata]
+2017-06-13 14:01:13 -0400 Progress: Total [585432/2307556] Mashiro-exploration/Map045.json [0/6] Cache hits [36983] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map046.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map046.rvdata] to [../output/Mashiro-exploration/Data/Map046.rvdata]
+2017-06-13 14:01:13 -0400 Progress: Total [585438/2307556] Mashiro-exploration/Map046.json [0/12680] Cache hits [36983] Translations [0] Failures [0]
+2017-06-13 14:01:13 -0400 Progress: Total [595438/2307556] Mashiro-exploration/Map046.json [10000/12680] Cache hits [37595] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map047.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map047.rvdata] to [../output/Mashiro-exploration/Data/Map047.rvdata]
+2017-06-13 14:01:13 -0400 Progress: Total [598118/2307556] Mashiro-exploration/Map047.json [0/11438] Cache hits [37786] Translations [0] Failures [0]
+2017-06-13 14:01:13 -0400 Progress: Total [608118/2307556] Mashiro-exploration/Map047.json [10000/11438] Cache hits [37799] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map070.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map070.rvdata] to [../output/Mashiro-exploration/Data/Map070.rvdata]
+2017-06-13 14:01:14 -0400 Progress: Total [609556/2307556] Mashiro-exploration/Map070.json [0/499] Cache hits [37799] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map071.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map071.rvdata] to [../output/Mashiro-exploration/Data/Map071.rvdata]
+2017-06-13 14:01:14 -0400 Progress: Total [610055/2307556] Mashiro-exploration/Map071.json [0/3299] Cache hits [37799] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map081.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map081.rvdata] to [../output/Mashiro-exploration/Data/Map081.rvdata]
+2017-06-13 14:01:14 -0400 Progress: Total [613354/2307556] Mashiro-exploration/Map081.json [0/113] Cache hits [38210] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map084.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map084.rvdata] to [../output/Mashiro-exploration/Data/Map084.rvdata]
+2017-06-13 14:01:14 -0400 Progress: Total [613467/2307556] Mashiro-exploration/Map084.json [0/118] Cache hits [38214] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map095.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map095.rvdata] to [../output/Mashiro-exploration/Data/Map095.rvdata]
+2017-06-13 14:01:14 -0400 Progress: Total [613585/2307556] Mashiro-exploration/Map095.json [0/17360] Cache hits [38214] Translations [0] Failures [0]
+2017-06-13 14:01:14 -0400 Progress: Total [623585/2307556] Mashiro-exploration/Map095.json [10000/17360] Cache hits [38900] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map097.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map097.rvdata] to [../output/Mashiro-exploration/Data/Map097.rvdata]
+2017-06-13 14:01:14 -0400 Progress: Total [630945/2307556] Mashiro-exploration/Map097.json [0/20496] Cache hits [39178] Translations [0] Failures [0]
+2017-06-13 14:01:15 -0400 Progress: Total [640945/2307556] Mashiro-exploration/Map097.json [10000/20496] Cache hits [39908] Translations [0] Failures [0]
+2017-06-13 14:01:16 -0400 Progress: Total [650945/2307556] Mashiro-exploration/Map097.json [20000/20496] Cache hits [40589] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map098.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map098.rvdata] to [../output/Mashiro-exploration/Data/Map098.rvdata]
+2017-06-13 14:01:16 -0400 Progress: Total [651441/2307556] Mashiro-exploration/Map098.json [0/12352] Cache hits [40620] Translations [0] Failures [0]
+2017-06-13 14:01:16 -0400 Progress: Total [661441/2307556] Mashiro-exploration/Map098.json [10000/12352] Cache hits [41441] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map099.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map099.rvdata] to [../output/Mashiro-exploration/Data/Map099.rvdata]
+2017-06-13 14:01:16 -0400 Progress: Total [663793/2307556] Mashiro-exploration/Map099.json [0/1257] Cache hits [41632] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map100.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map100.rvdata] to [../output/Mashiro-exploration/Data/Map100.rvdata]
+2017-06-13 14:01:16 -0400 Progress: Total [665050/2307556] Mashiro-exploration/Map100.json [0/236] Cache hits [41736] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map101.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map101.rvdata] to [../output/Mashiro-exploration/Data/Map101.rvdata]
+2017-06-13 14:01:16 -0400 Progress: Total [665286/2307556] Mashiro-exploration/Map101.json [0/2680] Cache hits [41736] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map102.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map102.rvdata] to [../output/Mashiro-exploration/Data/Map102.rvdata]
+2017-06-13 14:01:16 -0400 Progress: Total [667966/2307556] Mashiro-exploration/Map102.json [0/492] Cache hits [41779] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map103.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map103.rvdata] to [../output/Mashiro-exploration/Data/Map103.rvdata]
+2017-06-13 14:01:16 -0400 Progress: Total [668458/2307556] Mashiro-exploration/Map103.json [0/12759] Cache hits [41779] Translations [0] Failures [0]
+2017-06-13 14:01:17 -0400 Progress: Total [678458/2307556] Mashiro-exploration/Map103.json [10000/12759] Cache hits [42236] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map104.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map104.rvdata] to [../output/Mashiro-exploration/Data/Map104.rvdata]
+2017-06-13 14:01:17 -0400 Progress: Total [681217/2307556] Mashiro-exploration/Map104.json [0/29856] Cache hits [42319] Translations [0] Failures [0]
+2017-06-13 14:01:17 -0400 Progress: Total [691217/2307556] Mashiro-exploration/Map104.json [10000/29856] Cache hits [42816] Translations [0] Failures [0]
+2017-06-13 14:01:18 -0400 Progress: Total [701217/2307556] Mashiro-exploration/Map104.json [20000/29856] Cache hits [43503] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map105.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map105.rvdata] to [../output/Mashiro-exploration/Data/Map105.rvdata]
+2017-06-13 14:01:19 -0400 Progress: Total [711073/2307556] Mashiro-exploration/Map105.json [0/4931] Cache hits [43733] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map106.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map106.rvdata] to [../output/Mashiro-exploration/Data/Map106.rvdata]
+2017-06-13 14:01:19 -0400 Progress: Total [716004/2307556] Mashiro-exploration/Map106.json [0/79] Cache hits [43742] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map107.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map107.rvdata] to [../output/Mashiro-exploration/Data/Map107.rvdata]
+2017-06-13 14:01:19 -0400 Progress: Total [716083/2307556] Mashiro-exploration/Map107.json [0/33921] Cache hits [43742] Translations [0] Failures [0]
+2017-06-13 14:01:20 -0400 Progress: Total [726083/2307556] Mashiro-exploration/Map107.json [10000/33921] Cache hits [43984] Translations [0] Failures [0]
+2017-06-13 14:01:20 -0400 Progress: Total [736083/2307556] Mashiro-exploration/Map107.json [20000/33921] Cache hits [44273] Translations [0] Failures [0]
+2017-06-13 14:01:22 -0400 Progress: Total [746083/2307556] Mashiro-exploration/Map107.json [30000/33921] Cache hits [44721] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map108.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map108.rvdata] to [../output/Mashiro-exploration/Data/Map108.rvdata]
+2017-06-13 14:01:22 -0400 Progress: Total [750004/2307556] Mashiro-exploration/Map108.json [0/68463] Cache hits [44897] Translations [0] Failures [0]
+2017-06-13 14:01:23 -0400 Progress: Total [760004/2307556] Mashiro-exploration/Map108.json [10000/68463] Cache hits [45218] Translations [0] Failures [0]
+2017-06-13 14:01:23 -0400 Progress: Total [770004/2307556] Mashiro-exploration/Map108.json [20000/68463] Cache hits [45395] Translations [0] Failures [0]
+2017-06-13 14:01:25 -0400 Progress: Total [780004/2307556] Mashiro-exploration/Map108.json [30000/68463] Cache hits [45804] Translations [0] Failures [0]
+2017-06-13 14:01:27 -0400 Progress: Total [790004/2307556] Mashiro-exploration/Map108.json [40000/68463] Cache hits [46208] Translations [0] Failures [0]
+2017-06-13 14:01:31 -0400 Progress: Total [800004/2307556] Mashiro-exploration/Map108.json [50000/68463] Cache hits [46589] Translations [0] Failures [0]
+2017-06-13 14:01:35 -0400 Progress: Total [810004/2307556] Mashiro-exploration/Map108.json [60000/68463] Cache hits [47028] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map109.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map109.rvdata] to [../output/Mashiro-exploration/Data/Map109.rvdata]
+2017-06-13 14:01:39 -0400 Progress: Total [818467/2307556] Mashiro-exploration/Map109.json [0/1514] Cache hits [47417] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map110.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map110.rvdata] to [../output/Mashiro-exploration/Data/Map110.rvdata]
+2017-06-13 14:01:39 -0400 Progress: Total [819981/2307556] Mashiro-exploration/Map110.json [0/4963] Cache hits [47447] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map111.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map111.rvdata] to [../output/Mashiro-exploration/Data/Map111.rvdata]
+2017-06-13 14:01:40 -0400 Progress: Total [824944/2307556] Mashiro-exploration/Map111.json [0/13046] Cache hits [47597] Translations [0] Failures [0]
+2017-06-13 14:01:40 -0400 Progress: Total [834944/2307556] Mashiro-exploration/Map111.json [10000/13046] Cache hits [48006] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map112.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map112.rvdata] to [../output/Mashiro-exploration/Data/Map112.rvdata]
+2017-06-13 14:01:40 -0400 Progress: Total [837990/2307556] Mashiro-exploration/Map112.json [0/1888] Cache hits [48103] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map113.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map113.rvdata] to [../output/Mashiro-exploration/Data/Map113.rvdata]
+2017-06-13 14:01:40 -0400 Progress: Total [839878/2307556] Mashiro-exploration/Map113.json [0/26247] Cache hits [48103] Translations [0] Failures [0]
+2017-06-13 14:01:40 -0400 Progress: Total [849878/2307556] Mashiro-exploration/Map113.json [10000/26247] Cache hits [48322] Translations [0] Failures [0]
+2017-06-13 14:01:41 -0400 Progress: Total [859878/2307556] Mashiro-exploration/Map113.json [20000/26247] Cache hits [48518] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map114.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map114.rvdata] to [../output/Mashiro-exploration/Data/Map114.rvdata]
+2017-06-13 14:01:42 -0400 Progress: Total [866125/2307556] Mashiro-exploration/Map114.json [0/19675] Cache hits [48599] Translations [0] Failures [0]
+2017-06-13 14:01:42 -0400 Progress: Total [876125/2307556] Mashiro-exploration/Map114.json [10000/19675] Cache hits [49157] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map115.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map115.rvdata] to [../output/Mashiro-exploration/Data/Map115.rvdata]
+2017-06-13 14:01:43 -0400 Progress: Total [885800/2307556] Mashiro-exploration/Map115.json [0/19735] Cache hits [49602] Translations [0] Failures [0]
+2017-06-13 14:01:43 -0400 Progress: Total [895800/2307556] Mashiro-exploration/Map115.json [10000/19735] Cache hits [50160] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map116.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map116.rvdata] to [../output/Mashiro-exploration/Data/Map116.rvdata]
+2017-06-13 14:01:44 -0400 Progress: Total [905535/2307556] Mashiro-exploration/Map116.json [0/898] Cache hits [50605] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map117.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map117.rvdata] to [../output/Mashiro-exploration/Data/Map117.rvdata]
+2017-06-13 14:01:44 -0400 Progress: Total [906433/2307556] Mashiro-exploration/Map117.json [0/17598] Cache hits [50634] Translations [0] Failures [0]
+2017-06-13 14:01:44 -0400 Progress: Total [916433/2307556] Mashiro-exploration/Map117.json [10000/17598] Cache hits [50740] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map118.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map118.rvdata] to [../output/Mashiro-exploration/Data/Map118.rvdata]
+2017-06-13 14:01:45 -0400 Progress: Total [924031/2307556] Mashiro-exploration/Map118.json [0/12861] Cache hits [50957] Translations [0] Failures [0]
+2017-06-13 14:01:45 -0400 Progress: Total [934031/2307556] Mashiro-exploration/Map118.json [10000/12861] Cache hits [51122] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map119.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map119.rvdata] to [../output/Mashiro-exploration/Data/Map119.rvdata]
+2017-06-13 14:01:45 -0400 Progress: Total [936892/2307556] Mashiro-exploration/Map119.json [0/297] Cache hits [51234] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map120.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map120.rvdata] to [../output/Mashiro-exploration/Data/Map120.rvdata]
+2017-06-13 14:01:45 -0400 Progress: Total [937189/2307556] Mashiro-exploration/Map120.json [0/1990] Cache hits [51234] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map121.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map121.rvdata] to [../output/Mashiro-exploration/Data/Map121.rvdata]
+2017-06-13 14:01:45 -0400 Progress: Total [939179/2307556] Mashiro-exploration/Map121.json [0/1125] Cache hits [51270] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map122.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map122.rvdata] to [../output/Mashiro-exploration/Data/Map122.rvdata]
+2017-06-13 14:01:45 -0400 Progress: Total [940304/2307556] Mashiro-exploration/Map122.json [0/925] Cache hits [51294] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map123.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map123.rvdata] to [../output/Mashiro-exploration/Data/Map123.rvdata]
+2017-06-13 14:01:45 -0400 Progress: Total [941229/2307556] Mashiro-exploration/Map123.json [0/1949] Cache hits [51333] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map124.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map124.rvdata] to [../output/Mashiro-exploration/Data/Map124.rvdata]
+2017-06-13 14:01:45 -0400 Progress: Total [943178/2307556] Mashiro-exploration/Map124.json [0/1199] Cache hits [51380] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map125.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map125.rvdata] to [../output/Mashiro-exploration/Data/Map125.rvdata]
+2017-06-13 14:01:45 -0400 Progress: Total [944377/2307556] Mashiro-exploration/Map125.json [0/1574] Cache hits [51404] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map126.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map126.rvdata] to [../output/Mashiro-exploration/Data/Map126.rvdata]
+2017-06-13 14:01:45 -0400 Progress: Total [945951/2307556] Mashiro-exploration/Map126.json [0/2530] Cache hits [51445] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map127.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map127.rvdata] to [../output/Mashiro-exploration/Data/Map127.rvdata]
+2017-06-13 14:01:46 -0400 Progress: Total [948481/2307556] Mashiro-exploration/Map127.json [0/2409] Cache hits [51613] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map128.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map128.rvdata] to [../output/Mashiro-exploration/Data/Map128.rvdata]
+2017-06-13 14:01:46 -0400 Progress: Total [950890/2307556] Mashiro-exploration/Map128.json [0/4387] Cache hits [51893] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map129.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map129.rvdata] to [../output/Mashiro-exploration/Data/Map129.rvdata]
+2017-06-13 14:01:46 -0400 Progress: Total [955277/2307556] Mashiro-exploration/Map129.json [0/2054] Cache hits [52382] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map130.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map130.rvdata] to [../output/Mashiro-exploration/Data/Map130.rvdata]
+2017-06-13 14:01:46 -0400 Progress: Total [957331/2307556] Mashiro-exploration/Map130.json [0/13686] Cache hits [52467] Translations [0] Failures [0]
+2017-06-13 14:01:46 -0400 Progress: Total [967331/2307556] Mashiro-exploration/Map130.json [10000/13686] Cache hits [52746] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map131.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map131.rvdata] to [../output/Mashiro-exploration/Data/Map131.rvdata]
+2017-06-13 14:01:46 -0400 Progress: Total [971017/2307556] Mashiro-exploration/Map131.json [0/26128] Cache hits [52896] Translations [0] Failures [0]
+2017-06-13 14:01:47 -0400 Progress: Total [981017/2307556] Mashiro-exploration/Map131.json [10000/26128] Cache hits [53414] Translations [0] Failures [0]
+2017-06-13 14:01:47 -0400 Progress: Total [991017/2307556] Mashiro-exploration/Map131.json [20000/26128] Cache hits [53564] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map132.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map132.rvdata] to [../output/Mashiro-exploration/Data/Map132.rvdata]
+2017-06-13 14:01:48 -0400 Progress: Total [997145/2307556] Mashiro-exploration/Map132.json [0/13449] Cache hits [53713] Translations [0] Failures [0]
+2017-06-13 14:01:48 -0400 Progress: Total [1007145/2307556] Mashiro-exploration/Map132.json [10000/13449] Cache hits [54082] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map133.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map133.rvdata] to [../output/Mashiro-exploration/Data/Map133.rvdata]
+2017-06-13 14:01:49 -0400 Progress: Total [1010594/2307556] Mashiro-exploration/Map133.json [0/8045] Cache hits [54166] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map134.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map134.rvdata] to [../output/Mashiro-exploration/Data/Map134.rvdata]
+2017-06-13 14:01:49 -0400 Progress: Total [1018639/2307556] Mashiro-exploration/Map134.json [0/1406] Cache hits [54429] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map135.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map135.rvdata] to [../output/Mashiro-exploration/Data/Map135.rvdata]
+2017-06-13 14:01:49 -0400 Progress: Total [1020045/2307556] Mashiro-exploration/Map135.json [0/1354] Cache hits [54454] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map136.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map136.rvdata] to [../output/Mashiro-exploration/Data/Map136.rvdata]
+2017-06-13 14:01:49 -0400 Progress: Total [1021399/2307556] Mashiro-exploration/Map136.json [0/2588] Cache hits [54488] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map137.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map137.rvdata] to [../output/Mashiro-exploration/Data/Map137.rvdata]
+2017-06-13 14:01:49 -0400 Progress: Total [1023987/2307556] Mashiro-exploration/Map137.json [0/1582] Cache hits [54570] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map138.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map138.rvdata] to [../output/Mashiro-exploration/Data/Map138.rvdata]
+2017-06-13 14:01:49 -0400 Progress: Total [1025569/2307556] Mashiro-exploration/Map138.json [0/551] Cache hits [54617] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map139.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map139.rvdata] to [../output/Mashiro-exploration/Data/Map139.rvdata]
+2017-06-13 14:01:49 -0400 Progress: Total [1026120/2307556] Mashiro-exploration/Map139.json [0/10053] Cache hits [54667] Translations [0] Failures [0]
+2017-06-13 14:01:49 -0400 Progress: Total [1036120/2307556] Mashiro-exploration/Map139.json [10000/10053] Cache hits [54907] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map140.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map140.rvdata] to [../output/Mashiro-exploration/Data/Map140.rvdata]
+2017-06-13 14:01:49 -0400 Progress: Total [1036173/2307556] Mashiro-exploration/Map140.json [0/28911] Cache hits [54907] Translations [0] Failures [0]
+2017-06-13 14:01:49 -0400 Progress: Total [1046173/2307556] Mashiro-exploration/Map140.json [10000/28911] Cache hits [55189] Translations [0] Failures [0]
+2017-06-13 14:01:50 -0400 Progress: Total [1056173/2307556] Mashiro-exploration/Map140.json [20000/28911] Cache hits [55691] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map141.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map141.rvdata] to [../output/Mashiro-exploration/Data/Map141.rvdata]
+2017-06-13 14:01:52 -0400 Progress: Total [1065084/2307556] Mashiro-exploration/Map141.json [0/2095] Cache hits [56033] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map142.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map142.rvdata] to [../output/Mashiro-exploration/Data/Map142.rvdata]
+2017-06-13 14:01:52 -0400 Progress: Total [1067179/2307556] Mashiro-exploration/Map142.json [0/7515] Cache hits [56075] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map143.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map143.rvdata] to [../output/Mashiro-exploration/Data/Map143.rvdata]
+2017-06-13 14:01:52 -0400 Progress: Total [1074694/2307556] Mashiro-exploration/Map143.json [0/9645] Cache hits [56255] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map144.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map144.rvdata] to [../output/Mashiro-exploration/Data/Map144.rvdata]
+2017-06-13 14:01:52 -0400 Progress: Total [1084339/2307556] Mashiro-exploration/Map144.json [0/1381] Cache hits [56709] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map145.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map145.rvdata] to [../output/Mashiro-exploration/Data/Map145.rvdata]
+2017-06-13 14:01:52 -0400 Progress: Total [1085720/2307556] Mashiro-exploration/Map145.json [0/2165] Cache hits [56733] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map146.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map146.rvdata] to [../output/Mashiro-exploration/Data/Map146.rvdata]
+2017-06-13 14:01:52 -0400 Progress: Total [1087885/2307556] Mashiro-exploration/Map146.json [0/1425] Cache hits [56904] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map147.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map147.rvdata] to [../output/Mashiro-exploration/Data/Map147.rvdata]
+2017-06-13 14:01:52 -0400 Progress: Total [1089310/2307556] Mashiro-exploration/Map147.json [0/1248] Cache hits [56928] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map148.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map148.rvdata] to [../output/Mashiro-exploration/Data/Map148.rvdata]
+2017-06-13 14:01:52 -0400 Progress: Total [1090558/2307556] Mashiro-exploration/Map148.json [0/3988] Cache hits [56953] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map149.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map149.rvdata] to [../output/Mashiro-exploration/Data/Map149.rvdata]
+2017-06-13 14:01:52 -0400 Progress: Total [1094546/2307556] Mashiro-exploration/Map149.json [0/14438] Cache hits [57123] Translations [0] Failures [0]
+2017-06-13 14:01:52 -0400 Progress: Total [1104546/2307556] Mashiro-exploration/Map149.json [10000/14438] Cache hits [57273] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map150.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map150.rvdata] to [../output/Mashiro-exploration/Data/Map150.rvdata]
+2017-06-13 14:01:53 -0400 Progress: Total [1108984/2307556] Mashiro-exploration/Map150.json [0/8614] Cache hits [57580] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map151.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map151.rvdata] to [../output/Mashiro-exploration/Data/Map151.rvdata]
+2017-06-13 14:01:53 -0400 Progress: Total [1117598/2307556] Mashiro-exploration/Map151.json [0/1948] Cache hits [57890] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map152.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map152.rvdata] to [../output/Mashiro-exploration/Data/Map152.rvdata]
+2017-06-13 14:01:53 -0400 Progress: Total [1119546/2307556] Mashiro-exploration/Map152.json [0/926] Cache hits [57942] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map153.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map153.rvdata] to [../output/Mashiro-exploration/Data/Map153.rvdata]
+2017-06-13 14:01:53 -0400 Progress: Total [1120472/2307556] Mashiro-exploration/Map153.json [0/948] Cache hits [57943] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map154.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map154.rvdata] to [../output/Mashiro-exploration/Data/Map154.rvdata]
+2017-06-13 14:01:53 -0400 Progress: Total [1121420/2307556] Mashiro-exploration/Map154.json [0/6428] Cache hits [57944] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map155.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map155.rvdata] to [../output/Mashiro-exploration/Data/Map155.rvdata]
+2017-06-13 14:01:53 -0400 Progress: Total [1127848/2307556] Mashiro-exploration/Map155.json [0/3251] Cache hits [58237] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map156.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map156.rvdata] to [../output/Mashiro-exploration/Data/Map156.rvdata]
+2017-06-13 14:01:53 -0400 Progress: Total [1131099/2307556] Mashiro-exploration/Map156.json [0/764] Cache hits [58405] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map157.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map157.rvdata] to [../output/Mashiro-exploration/Data/Map157.rvdata]
+2017-06-13 14:01:53 -0400 Progress: Total [1131863/2307556] Mashiro-exploration/Map157.json [0/5457] Cache hits [58415] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map158.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map158.rvdata] to [../output/Mashiro-exploration/Data/Map158.rvdata]
+2017-06-13 14:01:53 -0400 Progress: Total [1137320/2307556] Mashiro-exploration/Map158.json [0/1911] Cache hits [58724] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map159.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map159.rvdata] to [../output/Mashiro-exploration/Data/Map159.rvdata]
+2017-06-13 14:01:53 -0400 Progress: Total [1139231/2307556] Mashiro-exploration/Map159.json [0/6] Cache hits [58830] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map160.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map160.rvdata] to [../output/Mashiro-exploration/Data/Map160.rvdata]
+2017-06-13 14:01:53 -0400 Progress: Total [1139237/2307556] Mashiro-exploration/Map160.json [0/1072] Cache hits [58830] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map161.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map161.rvdata] to [../output/Mashiro-exploration/Data/Map161.rvdata]
+2017-06-13 14:01:53 -0400 Progress: Total [1140309/2307556] Mashiro-exploration/Map161.json [0/724] Cache hits [58873] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map162.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map162.rvdata] to [../output/Mashiro-exploration/Data/Map162.rvdata]
+2017-06-13 14:01:53 -0400 Progress: Total [1141033/2307556] Mashiro-exploration/Map162.json [0/1753] Cache hits [58873] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map163.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map163.rvdata] to [../output/Mashiro-exploration/Data/Map163.rvdata]
+2017-06-13 14:01:53 -0400 Progress: Total [1142786/2307556] Mashiro-exploration/Map163.json [0/6248] Cache hits [59011] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map164.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map164.rvdata] to [../output/Mashiro-exploration/Data/Map164.rvdata]
+2017-06-13 14:01:54 -0400 Progress: Total [1149034/2307556] Mashiro-exploration/Map164.json [0/13378] Cache hits [59083] Translations [0] Failures [0]
+2017-06-13 14:01:54 -0400 Progress: Total [1159034/2307556] Mashiro-exploration/Map164.json [10000/13378] Cache hits [59236] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map165.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map165.rvdata] to [../output/Mashiro-exploration/Data/Map165.rvdata]
+2017-06-13 14:01:54 -0400 Progress: Total [1162412/2307556] Mashiro-exploration/Map165.json [0/3017] Cache hits [59344] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map166.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map166.rvdata] to [../output/Mashiro-exploration/Data/Map166.rvdata]
+2017-06-13 14:01:54 -0400 Progress: Total [1165429/2307556] Mashiro-exploration/Map166.json [0/2290] Cache hits [59554] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map167.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map167.rvdata] to [../output/Mashiro-exploration/Data/Map167.rvdata]
+2017-06-13 14:01:54 -0400 Progress: Total [1167719/2307556] Mashiro-exploration/Map167.json [0/554] Cache hits [59668] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map168.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map168.rvdata] to [../output/Mashiro-exploration/Data/Map168.rvdata]
+2017-06-13 14:01:54 -0400 Progress: Total [1168273/2307556] Mashiro-exploration/Map168.json [0/1480] Cache hits [59668] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map169.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map169.rvdata] to [../output/Mashiro-exploration/Data/Map169.rvdata]
+2017-06-13 14:01:54 -0400 Progress: Total [1169753/2307556] Mashiro-exploration/Map169.json [0/11513] Cache hits [59714] Translations [0] Failures [0]
+2017-06-13 14:01:54 -0400 Progress: Total [1179753/2307556] Mashiro-exploration/Map169.json [10000/11513] Cache hits [59925] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map170.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map170.rvdata] to [../output/Mashiro-exploration/Data/Map170.rvdata]
+2017-06-13 14:01:55 -0400 Progress: Total [1181266/2307556] Mashiro-exploration/Map170.json [0/1709] Cache hits [59975] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map171.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map171.rvdata] to [../output/Mashiro-exploration/Data/Map171.rvdata]
+2017-06-13 14:01:55 -0400 Progress: Total [1182975/2307556] Mashiro-exploration/Map171.json [0/10133] Cache hits [60035] Translations [0] Failures [0]
+2017-06-13 14:01:55 -0400 Progress: Total [1192975/2307556] Mashiro-exploration/Map171.json [10000/10133] Cache hits [60192] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map172.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map172.rvdata] to [../output/Mashiro-exploration/Data/Map172.rvdata]
+2017-06-13 14:01:55 -0400 Progress: Total [1193108/2307556] Mashiro-exploration/Map172.json [0/15017] Cache hits [60194] Translations [0] Failures [0]
+2017-06-13 14:01:55 -0400 Progress: Total [1203108/2307556] Mashiro-exploration/Map172.json [10000/15017] Cache hits [60416] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map173.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map173.rvdata] to [../output/Mashiro-exploration/Data/Map173.rvdata]
+2017-06-13 14:01:56 -0400 Progress: Total [1208125/2307556] Mashiro-exploration/Map173.json [0/10903] Cache hits [60480] Translations [0] Failures [0]
+2017-06-13 14:01:56 -0400 Progress: Total [1218125/2307556] Mashiro-exploration/Map173.json [10000/10903] Cache hits [60658] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map174.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map174.rvdata] to [../output/Mashiro-exploration/Data/Map174.rvdata]
+2017-06-13 14:01:56 -0400 Progress: Total [1219028/2307556] Mashiro-exploration/Map174.json [0/9368] Cache hits [60667] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map175.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map175.rvdata] to [../output/Mashiro-exploration/Data/Map175.rvdata]
+2017-06-13 14:01:56 -0400 Progress: Total [1228396/2307556] Mashiro-exploration/Map175.json [0/72249] Cache hits [60858] Translations [0] Failures [0]
+2017-06-13 14:01:56 -0400 Progress: Total [1238396/2307556] Mashiro-exploration/Map175.json [10000/72249] Cache hits [61220] Translations [0] Failures [0]
+2017-06-13 14:01:57 -0400 Progress: Total [1248396/2307556] Mashiro-exploration/Map175.json [20000/72249] Cache hits [61731] Translations [0] Failures [0]
+2017-06-13 14:01:58 -0400 Progress: Total [1258396/2307556] Mashiro-exploration/Map175.json [30000/72249] Cache hits [62210] Translations [0] Failures [0]
+2017-06-13 14:02:01 -0400 Progress: Total [1268396/2307556] Mashiro-exploration/Map175.json [40000/72249] Cache hits [62603] Translations [0] Failures [0]
+2017-06-13 14:02:05 -0400 Progress: Total [1278396/2307556] Mashiro-exploration/Map175.json [50000/72249] Cache hits [63091] Translations [0] Failures [0]
+2017-06-13 14:02:09 -0400 Progress: Total [1288396/2307556] Mashiro-exploration/Map175.json [60000/72249] Cache hits [63618] Translations [0] Failures [0]
+2017-06-13 14:02:14 -0400 Progress: Total [1298396/2307556] Mashiro-exploration/Map175.json [70000/72249] Cache hits [64047] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map176.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map176.rvdata] to [../output/Mashiro-exploration/Data/Map176.rvdata]
+2017-06-13 14:02:15 -0400 Progress: Total [1300645/2307556] Mashiro-exploration/Map176.json [0/196074] Cache hits [64098] Translations [0] Failures [0]
+2017-06-13 14:02:16 -0400 Progress: Total [1310645/2307556] Mashiro-exploration/Map176.json [10000/196074] Cache hits [64345] Translations [0] Failures [0]
+2017-06-13 14:02:16 -0400 Progress: Total [1320645/2307556] Mashiro-exploration/Map176.json [20000/196074] Cache hits [64783] Translations [0] Failures [0]
+2017-06-13 14:02:18 -0400 Progress: Total [1330645/2307556] Mashiro-exploration/Map176.json [30000/196074] Cache hits [64918] Translations [0] Failures [0]
+2017-06-13 14:02:20 -0400 Progress: Total [1340645/2307556] Mashiro-exploration/Map176.json [40000/196074] Cache hits [65060] Translations [0] Failures [0]
+2017-06-13 14:02:24 -0400 Progress: Total [1350645/2307556] Mashiro-exploration/Map176.json [50000/196074] Cache hits [65203] Translations [0] Failures [0]
+2017-06-13 14:02:28 -0400 Progress: Total [1360645/2307556] Mashiro-exploration/Map176.json [60000/196074] Cache hits [65345] Translations [0] Failures [0]
+2017-06-13 14:02:33 -0400 Progress: Total [1370645/2307556] Mashiro-exploration/Map176.json [70000/196074] Cache hits [65488] Translations [0] Failures [0]
+2017-06-13 14:02:39 -0400 Progress: Total [1380645/2307556] Mashiro-exploration/Map176.json [80000/196074] Cache hits [65631] Translations [0] Failures [0]
+2017-06-13 14:02:45 -0400 Progress: Total [1390645/2307556] Mashiro-exploration/Map176.json [90000/196074] Cache hits [65769] Translations [0] Failures [0]
+2017-06-13 14:02:53 -0400 Progress: Total [1400645/2307556] Mashiro-exploration/Map176.json [100000/196074] Cache hits [65917] Translations [0] Failures [0]
+2017-06-13 14:03:01 -0400 Progress: Total [1410645/2307556] Mashiro-exploration/Map176.json [110000/196074] Cache hits [66077] Translations [0] Failures [0]
+2017-06-13 14:03:10 -0400 Progress: Total [1420645/2307556] Mashiro-exploration/Map176.json [120000/196074] Cache hits [66236] Translations [0] Failures [0]
+2017-06-13 14:03:20 -0400 Progress: Total [1430645/2307556] Mashiro-exploration/Map176.json [130000/196074] Cache hits [66391] Translations [0] Failures [0]
+2017-06-13 14:03:30 -0400 Progress: Total [1440645/2307556] Mashiro-exploration/Map176.json [140000/196074] Cache hits [66550] Translations [0] Failures [0]
+2017-06-13 14:03:42 -0400 Progress: Total [1450645/2307556] Mashiro-exploration/Map176.json [150000/196074] Cache hits [66709] Translations [0] Failures [0]
+2017-06-13 14:03:54 -0400 Progress: Total [1460645/2307556] Mashiro-exploration/Map176.json [160000/196074] Cache hits [66869] Translations [0] Failures [0]
+2017-06-13 14:04:07 -0400 Progress: Total [1470645/2307556] Mashiro-exploration/Map176.json [170000/196074] Cache hits [67021] Translations [0] Failures [0]
+2017-06-13 14:04:21 -0400 Progress: Total [1480645/2307556] Mashiro-exploration/Map176.json [180000/196074] Cache hits [67177] Translations [0] Failures [0]
+2017-06-13 14:04:35 -0400 Progress: Total [1490645/2307556] Mashiro-exploration/Map176.json [190000/196074] Cache hits [67336] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map177.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map177.rvdata] to [../output/Mashiro-exploration/Data/Map177.rvdata]
+2017-06-13 14:04:45 -0400 Progress: Total [1496719/2307556] Mashiro-exploration/Map177.json [0/81484] Cache hits [67431] Translations [0] Failures [0]
+2017-06-13 14:04:45 -0400 Progress: Total [1506719/2307556] Mashiro-exploration/Map177.json [10000/81484] Cache hits [67822] Translations [0] Failures [0]
+2017-06-13 14:04:46 -0400 Progress: Total [1516719/2307556] Mashiro-exploration/Map177.json [20000/81484] Cache hits [67978] Translations [0] Failures [0]
+2017-06-13 14:04:47 -0400 Progress: Total [1526719/2307556] Mashiro-exploration/Map177.json [30000/81484] Cache hits [68137] Translations [0] Failures [0]
+2017-06-13 14:04:49 -0400 Progress: Total [1536719/2307556] Mashiro-exploration/Map177.json [40000/81484] Cache hits [68297] Translations [0] Failures [0]
+2017-06-13 14:04:53 -0400 Progress: Total [1546719/2307556] Mashiro-exploration/Map177.json [50000/81484] Cache hits [68452] Translations [0] Failures [0]
+2017-06-13 14:04:57 -0400 Progress: Total [1556719/2307556] Mashiro-exploration/Map177.json [60000/81484] Cache hits [68595] Translations [0] Failures [0]
+2017-06-13 14:05:02 -0400 Progress: Total [1566719/2307556] Mashiro-exploration/Map177.json [70000/81484] Cache hits [68738] Translations [0] Failures [0]
+2017-06-13 14:05:08 -0400 Progress: Total [1576719/2307556] Mashiro-exploration/Map177.json [80000/81484] Cache hits [68874] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map178.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map178.rvdata] to [../output/Mashiro-exploration/Data/Map178.rvdata]
+2017-06-13 14:05:09 -0400 Progress: Total [1578203/2307556] Mashiro-exploration/Map178.json [0/1090] Cache hits [68884] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map179.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map179.rvdata] to [../output/Mashiro-exploration/Data/Map179.rvdata]
+2017-06-13 14:05:09 -0400 Progress: Total [1579293/2307556] Mashiro-exploration/Map179.json [0/3101] Cache hits [68910] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map190.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map190.rvdata] to [../output/Mashiro-exploration/Data/Map190.rvdata]
+2017-06-13 14:05:09 -0400 Progress: Total [1582394/2307556] Mashiro-exploration/Map190.json [0/1189] Cache hits [69048] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map191.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map191.rvdata] to [../output/Mashiro-exploration/Data/Map191.rvdata]
+2017-06-13 14:05:09 -0400 Progress: Total [1583583/2307556] Mashiro-exploration/Map191.json [0/8151] Cache hits [69066] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map192.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map192.rvdata] to [../output/Mashiro-exploration/Data/Map192.rvdata]
+2017-06-13 14:05:10 -0400 Progress: Total [1591734/2307556] Mashiro-exploration/Map192.json [0/4779] Cache hits [69266] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map193.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map193.rvdata] to [../output/Mashiro-exploration/Data/Map193.rvdata]
+2017-06-13 14:05:10 -0400 Progress: Total [1596513/2307556] Mashiro-exploration/Map193.json [0/1667] Cache hits [69460] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map194.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map194.rvdata] to [../output/Mashiro-exploration/Data/Map194.rvdata]
+2017-06-13 14:05:10 -0400 Progress: Total [1598180/2307556] Mashiro-exploration/Map194.json [0/4881] Cache hits [69463] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map195.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map195.rvdata] to [../output/Mashiro-exploration/Data/Map195.rvdata]
+2017-06-13 14:05:10 -0400 Progress: Total [1603061/2307556] Mashiro-exploration/Map195.json [0/2072] Cache hits [69607] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map196.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map196.rvdata] to [../output/Mashiro-exploration/Data/Map196.rvdata]
+2017-06-13 14:05:10 -0400 Progress: Total [1605133/2307556] Mashiro-exploration/Map196.json [0/24605] Cache hits [69625] Translations [0] Failures [0]
+2017-06-13 14:05:10 -0400 Progress: Total [1615133/2307556] Mashiro-exploration/Map196.json [10000/24605] Cache hits [70139] Translations [0] Failures [0]
+2017-06-13 14:05:11 -0400 Progress: Total [1625133/2307556] Mashiro-exploration/Map196.json [20000/24605] Cache hits [70683] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map197.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map197.rvdata] to [../output/Mashiro-exploration/Data/Map197.rvdata]
+2017-06-13 14:05:12 -0400 Progress: Total [1629738/2307556] Mashiro-exploration/Map197.json [0/26209] Cache hits [70915] Translations [0] Failures [0]
+2017-06-13 14:05:12 -0400 Progress: Total [1639738/2307556] Mashiro-exploration/Map197.json [10000/26209] Cache hits [71167] Translations [0] Failures [0]
+2017-06-13 14:05:13 -0400 Progress: Total [1649738/2307556] Mashiro-exploration/Map197.json [20000/26209] Cache hits [71320] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map198.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map198.rvdata] to [../output/Mashiro-exploration/Data/Map198.rvdata]
+2017-06-13 14:05:13 -0400 Progress: Total [1655947/2307556] Mashiro-exploration/Map198.json [0/5675] Cache hits [71429] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map199.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map199.rvdata] to [../output/Mashiro-exploration/Data/Map199.rvdata]
+2017-06-13 14:05:13 -0400 Progress: Total [1661622/2307556] Mashiro-exploration/Map199.json [0/291] Cache hits [71614] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map200.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map200.rvdata] to [../output/Mashiro-exploration/Data/Map200.rvdata]
+2017-06-13 14:05:13 -0400 Progress: Total [1661913/2307556] Mashiro-exploration/Map200.json [0/31] Cache hits [71614] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map202.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map202.rvdata] to [../output/Mashiro-exploration/Data/Map202.rvdata]
+2017-06-13 14:05:13 -0400 Progress: Total [1661944/2307556] Mashiro-exploration/Map202.json [0/3809] Cache hits [71614] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map203.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map203.rvdata] to [../output/Mashiro-exploration/Data/Map203.rvdata]
+2017-06-13 14:05:13 -0400 Progress: Total [1665753/2307556] Mashiro-exploration/Map203.json [0/3102] Cache hits [71697] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map204.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map204.rvdata] to [../output/Mashiro-exploration/Data/Map204.rvdata]
+2017-06-13 14:05:13 -0400 Progress: Total [1668855/2307556] Mashiro-exploration/Map204.json [0/6] Cache hits [71783] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map205.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map205.rvdata] to [../output/Mashiro-exploration/Data/Map205.rvdata]
+2017-06-13 14:05:13 -0400 Progress: Total [1668861/2307556] Mashiro-exploration/Map205.json [0/6] Cache hits [71783] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map206.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map206.rvdata] to [../output/Mashiro-exploration/Data/Map206.rvdata]
+2017-06-13 14:05:13 -0400 Progress: Total [1668867/2307556] Mashiro-exploration/Map206.json [0/8560] Cache hits [71783] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map207.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map207.rvdata] to [../output/Mashiro-exploration/Data/Map207.rvdata]
+2017-06-13 14:05:14 -0400 Progress: Total [1677427/2307556] Mashiro-exploration/Map207.json [0/225] Cache hits [71899] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map208.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map208.rvdata] to [../output/Mashiro-exploration/Data/Map208.rvdata]
+2017-06-13 14:05:14 -0400 Progress: Total [1677652/2307556] Mashiro-exploration/Map208.json [0/180] Cache hits [71899] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map209.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map209.rvdata] to [../output/Mashiro-exploration/Data/Map209.rvdata]
+2017-06-13 14:05:14 -0400 Progress: Total [1677832/2307556] Mashiro-exploration/Map209.json [0/6] Cache hits [71908] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map210.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map210.rvdata] to [../output/Mashiro-exploration/Data/Map210.rvdata]
+2017-06-13 14:05:14 -0400 Progress: Total [1677838/2307556] Mashiro-exploration/Map210.json [0/27] Cache hits [71908] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map211.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map211.rvdata] to [../output/Mashiro-exploration/Data/Map211.rvdata]
+2017-06-13 14:05:14 -0400 Progress: Total [1677865/2307556] Mashiro-exploration/Map211.json [0/19194] Cache hits [71908] Translations [0] Failures [0]
+2017-06-13 14:05:14 -0400 Progress: Total [1687865/2307556] Mashiro-exploration/Map211.json [10000/19194] Cache hits [72367] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map212.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map212.rvdata] to [../output/Mashiro-exploration/Data/Map212.rvdata]
+2017-06-13 14:05:15 -0400 Progress: Total [1697059/2307556] Mashiro-exploration/Map212.json [0/2476] Cache hits [72761] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map213.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map213.rvdata] to [../output/Mashiro-exploration/Data/Map213.rvdata]
+2017-06-13 14:05:15 -0400 Progress: Total [1699535/2307556] Mashiro-exploration/Map213.json [0/6] Cache hits [72998] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map214.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map214.rvdata] to [../output/Mashiro-exploration/Data/Map214.rvdata]
+2017-06-13 14:05:15 -0400 Progress: Total [1699541/2307556] Mashiro-exploration/Map214.json [0/15311] Cache hits [72998] Translations [0] Failures [0]
+2017-06-13 14:05:15 -0400 Progress: Total [1709541/2307556] Mashiro-exploration/Map214.json [10000/15311] Cache hits [73550] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map215.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map215.rvdata] to [../output/Mashiro-exploration/Data/Map215.rvdata]
+2017-06-13 14:05:15 -0400 Progress: Total [1714852/2307556] Mashiro-exploration/Map215.json [0/783] Cache hits [73821] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map216.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map216.rvdata] to [../output/Mashiro-exploration/Data/Map216.rvdata]
+2017-06-13 14:05:15 -0400 Progress: Total [1715635/2307556] Mashiro-exploration/Map216.json [0/675] Cache hits [73825] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map217.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map217.rvdata] to [../output/Mashiro-exploration/Data/Map217.rvdata]
+2017-06-13 14:05:15 -0400 Progress: Total [1716310/2307556] Mashiro-exploration/Map217.json [0/1256] Cache hits [73825] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map219.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map219.rvdata] to [../output/Mashiro-exploration/Data/Map219.rvdata]
+2017-06-13 14:05:15 -0400 Progress: Total [1717566/2307556] Mashiro-exploration/Map219.json [0/3579] Cache hits [73895] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map220.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map220.rvdata] to [../output/Mashiro-exploration/Data/Map220.rvdata]
+2017-06-13 14:05:16 -0400 Progress: Total [1721145/2307556] Mashiro-exploration/Map220.json [0/554] Cache hits [74075] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map221.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map221.rvdata] to [../output/Mashiro-exploration/Data/Map221.rvdata]
+2017-06-13 14:05:16 -0400 Progress: Total [1721699/2307556] Mashiro-exploration/Map221.json [0/6582] Cache hits [74075] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map222.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map222.rvdata] to [../output/Mashiro-exploration/Data/Map222.rvdata]
+2017-06-13 14:05:16 -0400 Progress: Total [1728281/2307556] Mashiro-exploration/Map222.json [0/17598] Cache hits [74371] Translations [0] Failures [0]
+2017-06-13 14:05:16 -0400 Progress: Total [1738281/2307556] Mashiro-exploration/Map222.json [10000/17598] Cache hits [74473] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map223.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map223.rvdata] to [../output/Mashiro-exploration/Data/Map223.rvdata]
+2017-06-13 14:05:17 -0400 Progress: Total [1745879/2307556] Mashiro-exploration/Map223.json [0/6] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map224.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map224.rvdata] to [../output/Mashiro-exploration/Data/Map224.rvdata]
+2017-06-13 14:05:17 -0400 Progress: Total [1745885/2307556] Mashiro-exploration/Map224.json [0/6] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map225.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map225.rvdata] to [../output/Mashiro-exploration/Data/Map225.rvdata]
+2017-06-13 14:05:17 -0400 Progress: Total [1745891/2307556] Mashiro-exploration/Map225.json [0/6] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map226.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map226.rvdata] to [../output/Mashiro-exploration/Data/Map226.rvdata]
+2017-06-13 14:05:17 -0400 Progress: Total [1745897/2307556] Mashiro-exploration/Map226.json [0/6] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map227.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map227.rvdata] to [../output/Mashiro-exploration/Data/Map227.rvdata]
+2017-06-13 14:05:17 -0400 Progress: Total [1745903/2307556] Mashiro-exploration/Map227.json [0/6] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map228.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map228.rvdata] to [../output/Mashiro-exploration/Data/Map228.rvdata]
+2017-06-13 14:05:17 -0400 Progress: Total [1745909/2307556] Mashiro-exploration/Map228.json [0/6] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map229.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map229.rvdata] to [../output/Mashiro-exploration/Data/Map229.rvdata]
+2017-06-13 14:05:17 -0400 Progress: Total [1745915/2307556] Mashiro-exploration/Map229.json [0/6] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map230.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map230.rvdata] to [../output/Mashiro-exploration/Data/Map230.rvdata]
+2017-06-13 14:05:17 -0400 Progress: Total [1745921/2307556] Mashiro-exploration/Map230.json [0/6] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map231.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map231.rvdata] to [../output/Mashiro-exploration/Data/Map231.rvdata]
+2017-06-13 14:05:17 -0400 Progress: Total [1745927/2307556] Mashiro-exploration/Map231.json [0/561] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map232.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map232.rvdata] to [../output/Mashiro-exploration/Data/Map232.rvdata]
+2017-06-13 14:05:17 -0400 Progress: Total [1746488/2307556] Mashiro-exploration/Map232.json [0/2245] Cache hits [74741] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map233.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map233.rvdata] to [../output/Mashiro-exploration/Data/Map233.rvdata]
+2017-06-13 14:05:17 -0400 Progress: Total [1748733/2307556] Mashiro-exploration/Map233.json [0/2515] Cache hits [74921] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map234.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map234.rvdata] to [../output/Mashiro-exploration/Data/Map234.rvdata]
+2017-06-13 14:05:17 -0400 Progress: Total [1751248/2307556] Mashiro-exploration/Map234.json [0/8426] Cache hits [75117] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map235.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map235.rvdata] to [../output/Mashiro-exploration/Data/Map235.rvdata]
+2017-06-13 14:05:17 -0400 Progress: Total [1759674/2307556] Mashiro-exploration/Map235.json [0/7244] Cache hits [75324] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map236.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map236.rvdata] to [../output/Mashiro-exploration/Data/Map236.rvdata]
+2017-06-13 14:05:17 -0400 Progress: Total [1766918/2307556] Mashiro-exploration/Map236.json [0/13654] Cache hits [75509] Translations [0] Failures [0]
+2017-06-13 14:05:17 -0400 Progress: Total [1776918/2307556] Mashiro-exploration/Map236.json [10000/13654] Cache hits [76004] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map237.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map237.rvdata] to [../output/Mashiro-exploration/Data/Map237.rvdata]
+2017-06-13 14:05:18 -0400 Progress: Total [1780572/2307556] Mashiro-exploration/Map237.json [0/7252] Cache hits [76183] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map238.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map238.rvdata] to [../output/Mashiro-exploration/Data/Map238.rvdata]
+2017-06-13 14:05:18 -0400 Progress: Total [1787824/2307556] Mashiro-exploration/Map238.json [0/14478] Cache hits [76368] Translations [0] Failures [0]
+2017-06-13 14:05:18 -0400 Progress: Total [1797824/2307556] Mashiro-exploration/Map238.json [10000/14478] Cache hits [76980] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map239.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map239.rvdata] to [../output/Mashiro-exploration/Data/Map239.rvdata]
+2017-06-13 14:05:18 -0400 Progress: Total [1802302/2307556] Mashiro-exploration/Map239.json [0/4154] Cache hits [77332] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map240.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map240.rvdata] to [../output/Mashiro-exploration/Data/Map240.rvdata]
+2017-06-13 14:05:19 -0400 Progress: Total [1806456/2307556] Mashiro-exploration/Map240.json [0/7874] Cache hits [77818] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map241.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map241.rvdata] to [../output/Mashiro-exploration/Data/Map241.rvdata]
+2017-06-13 14:05:19 -0400 Progress: Total [1814330/2307556] Mashiro-exploration/Map241.json [0/1509] Cache hits [78058] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map242.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map242.rvdata] to [../output/Mashiro-exploration/Data/Map242.rvdata]
+2017-06-13 14:05:19 -0400 Progress: Total [1815839/2307556] Mashiro-exploration/Map242.json [0/1936] Cache hits [78122] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map243.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map243.rvdata] to [../output/Mashiro-exploration/Data/Map243.rvdata]
+2017-06-13 14:05:19 -0400 Progress: Total [1817775/2307556] Mashiro-exploration/Map243.json [0/6] Cache hits [78323] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map244.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map244.rvdata] to [../output/Mashiro-exploration/Data/Map244.rvdata]
+2017-06-13 14:05:19 -0400 Progress: Total [1817781/2307556] Mashiro-exploration/Map244.json [0/6991] Cache hits [78323] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map245.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map245.rvdata] to [../output/Mashiro-exploration/Data/Map245.rvdata]
+2017-06-13 14:05:19 -0400 Progress: Total [1824772/2307556] Mashiro-exploration/Map245.json [0/9783] Cache hits [78546] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map246.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map246.rvdata] to [../output/Mashiro-exploration/Data/Map246.rvdata]
+2017-06-13 14:05:19 -0400 Progress: Total [1834555/2307556] Mashiro-exploration/Map246.json [0/37736] Cache hits [79253] Translations [0] Failures [0]
+2017-06-13 14:05:20 -0400 Progress: Total [1844555/2307556] Mashiro-exploration/Map246.json [10000/37736] Cache hits [79946] Translations [0] Failures [0]
+2017-06-13 14:05:21 -0400 Progress: Total [1854555/2307556] Mashiro-exploration/Map246.json [20000/37736] Cache hits [80867] Translations [0] Failures [0]
+2017-06-13 14:05:22 -0400 Progress: Total [1864555/2307556] Mashiro-exploration/Map246.json [30000/37736] Cache hits [81768] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map247.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map247.rvdata] to [../output/Mashiro-exploration/Data/Map247.rvdata]
+2017-06-13 14:05:24 -0400 Progress: Total [1872291/2307556] Mashiro-exploration/Map247.json [0/13445] Cache hits [82539] Translations [0] Failures [0]
+2017-06-13 14:05:25 -0400 Progress: Total [1882291/2307556] Mashiro-exploration/Map247.json [10000/13445] Cache hits [83198] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map254.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map254.rvdata] to [../output/Mashiro-exploration/Data/Map254.rvdata]
+2017-06-13 14:05:25 -0400 Progress: Total [1885736/2307556] Mashiro-exploration/Map254.json [0/6] Cache hits [83570] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map255.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map255.rvdata] to [../output/Mashiro-exploration/Data/Map255.rvdata]
+2017-06-13 14:05:25 -0400 Progress: Total [1885742/2307556] Mashiro-exploration/Map255.json [0/3436] Cache hits [83570] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map257.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map257.rvdata] to [../output/Mashiro-exploration/Data/Map257.rvdata]
+2017-06-13 14:05:25 -0400 Progress: Total [1889178/2307556] Mashiro-exploration/Map257.json [0/6] Cache hits [83648] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map258.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map258.rvdata] to [../output/Mashiro-exploration/Data/Map258.rvdata]
+2017-06-13 14:05:25 -0400 Progress: Total [1889184/2307556] Mashiro-exploration/Map258.json [0/5504] Cache hits [83648] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map259.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map259.rvdata] to [../output/Mashiro-exploration/Data/Map259.rvdata]
+2017-06-13 14:05:25 -0400 Progress: Total [1894688/2307556] Mashiro-exploration/Map259.json [0/538] Cache hits [83790] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map260.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map260.rvdata] to [../output/Mashiro-exploration/Data/Map260.rvdata]
+2017-06-13 14:05:25 -0400 Progress: Total [1895226/2307556] Mashiro-exploration/Map260.json [0/3846] Cache hits [83852] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map261.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map261.rvdata] to [../output/Mashiro-exploration/Data/Map261.rvdata]
+2017-06-13 14:05:25 -0400 Progress: Total [1899072/2307556] Mashiro-exploration/Map261.json [0/36584] Cache hits [83975] Translations [0] Failures [0]
+2017-06-13 14:05:25 -0400 Progress: Total [1909072/2307556] Mashiro-exploration/Map261.json [10000/36584] Cache hits [84560] Translations [0] Failures [0]
+2017-06-13 14:05:26 -0400 Progress: Total [1919072/2307556] Mashiro-exploration/Map261.json [20000/36584] Cache hits [85200] Translations [0] Failures [0]
+2017-06-13 14:05:28 -0400 Progress: Total [1929072/2307556] Mashiro-exploration/Map261.json [30000/36584] Cache hits [85833] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map262.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map262.rvdata] to [../output/Mashiro-exploration/Data/Map262.rvdata]
+2017-06-13 14:05:29 -0400 Progress: Total [1935656/2307556] Mashiro-exploration/Map262.json [0/39709] Cache hits [86044] Translations [0] Failures [0]
+2017-06-13 14:05:30 -0400 Progress: Total [1945656/2307556] Mashiro-exploration/Map262.json [10000/39709] Cache hits [86269] Translations [0] Failures [0]
+2017-06-13 14:05:30 -0400 Progress: Total [1955656/2307556] Mashiro-exploration/Map262.json [20000/39709] Cache hits [86428] Translations [0] Failures [0]
+2017-06-13 14:05:31 -0400 Progress: Total [1965656/2307556] Mashiro-exploration/Map262.json [30000/39709] Cache hits [86655] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map263.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map263.rvdata] to [../output/Mashiro-exploration/Data/Map263.rvdata]
+2017-06-13 14:05:34 -0400 Progress: Total [1975365/2307556] Mashiro-exploration/Map263.json [0/7127] Cache hits [86813] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map264.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map264.rvdata] to [../output/Mashiro-exploration/Data/Map264.rvdata]
+2017-06-13 14:05:34 -0400 Progress: Total [1982492/2307556] Mashiro-exploration/Map264.json [0/5962] Cache hits [86984] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map265.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map265.rvdata] to [../output/Mashiro-exploration/Data/Map265.rvdata]
+2017-06-13 14:05:34 -0400 Progress: Total [1988454/2307556] Mashiro-exploration/Map265.json [0/60059] Cache hits [87099] Translations [0] Failures [0]
+2017-06-13 14:05:35 -0400 Progress: Total [1998454/2307556] Mashiro-exploration/Map265.json [10000/60059] Cache hits [87672] Translations [0] Failures [0]
+2017-06-13 14:05:35 -0400 Progress: Total [2008454/2307556] Mashiro-exploration/Map265.json [20000/60059] Cache hits [88314] Translations [0] Failures [0]
+2017-06-13 14:05:37 -0400 Progress: Total [2018454/2307556] Mashiro-exploration/Map265.json [30000/60059] Cache hits [88923] Translations [0] Failures [0]
+2017-06-13 14:05:39 -0400 Progress: Total [2028454/2307556] Mashiro-exploration/Map265.json [40000/60059] Cache hits [89396] Translations [0] Failures [0]
+2017-06-13 14:05:43 -0400 Progress: Total [2038454/2307556] Mashiro-exploration/Map265.json [50000/60059] Cache hits [90012] Translations [0] Failures [0]
+2017-06-13 14:05:48 -0400 Progress: Total [2048454/2307556] Mashiro-exploration/Map265.json [60000/60059] Cache hits [90502] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map266.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map266.rvdata] to [../output/Mashiro-exploration/Data/Map266.rvdata]
+2017-06-13 14:05:48 -0400 Progress: Total [2048513/2307556] Mashiro-exploration/Map266.json [0/40404] Cache hits [90502] Translations [0] Failures [0]
+2017-06-13 14:05:48 -0400 Progress: Total [2058513/2307556] Mashiro-exploration/Map266.json [10000/40404] Cache hits [90739] Translations [0] Failures [0]
+2017-06-13 14:05:49 -0400 Progress: Total [2068513/2307556] Mashiro-exploration/Map266.json [20000/40404] Cache hits [90898] Translations [0] Failures [0]
+2017-06-13 14:05:50 -0400 Progress: Total [2078513/2307556] Mashiro-exploration/Map266.json [30000/40404] Cache hits [91141] Translations [0] Failures [0]
+2017-06-13 14:05:53 -0400 Progress: Total [2088513/2307556] Mashiro-exploration/Map266.json [40000/40404] Cache hits [91349] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map267.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map267.rvdata] to [../output/Mashiro-exploration/Data/Map267.rvdata]
+2017-06-13 14:05:53 -0400 Progress: Total [2088917/2307556] Mashiro-exploration/Map267.json [0/8727] Cache hits [91351] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map268.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map268.rvdata] to [../output/Mashiro-exploration/Data/Map268.rvdata]
+2017-06-13 14:05:53 -0400 Progress: Total [2097644/2307556] Mashiro-exploration/Map268.json [0/59592] Cache hits [91568] Translations [0] Failures [0]
+2017-06-13 14:05:54 -0400 Progress: Total [2107644/2307556] Mashiro-exploration/Map268.json [10000/59592] Cache hits [92218] Translations [0] Failures [0]
+2017-06-13 14:05:54 -0400 Progress: Total [2117644/2307556] Mashiro-exploration/Map268.json [20000/59592] Cache hits [92864] Translations [0] Failures [0]
+2017-06-13 14:05:56 -0400 Progress: Total [2127644/2307556] Mashiro-exploration/Map268.json [30000/59592] Cache hits [93324] Translations [0] Failures [0]
+2017-06-13 14:05:59 -0400 Progress: Total [2137644/2307556] Mashiro-exploration/Map268.json [40000/59592] Cache hits [93749] Translations [0] Failures [0]
+2017-06-13 14:06:02 -0400 Progress: Total [2147644/2307556] Mashiro-exploration/Map268.json [50000/59592] Cache hits [94449] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map269.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map269.rvdata] to [../output/Mashiro-exploration/Data/Map269.rvdata]
+2017-06-13 14:06:07 -0400 Progress: Total [2157236/2307556] Mashiro-exploration/Map269.json [0/39026] Cache hits [95128] Translations [0] Failures [0]
+2017-06-13 14:06:07 -0400 Progress: Total [2167236/2307556] Mashiro-exploration/Map269.json [10000/39026] Cache hits [95691] Translations [0] Failures [0]
+2017-06-13 14:06:08 -0400 Progress: Total [2177236/2307556] Mashiro-exploration/Map269.json [20000/39026] Cache hits [96105] Translations [0] Failures [0]
+2017-06-13 14:06:09 -0400 Progress: Total [2187236/2307556] Mashiro-exploration/Map269.json [30000/39026] Cache hits [96518] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map270.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map270.rvdata] to [../output/Mashiro-exploration/Data/Map270.rvdata]
+2017-06-13 14:06:12 -0400 Progress: Total [2196262/2307556] Mashiro-exploration/Map270.json [0/7521] Cache hits [97091] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map271.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map271.rvdata] to [../output/Mashiro-exploration/Data/Map271.rvdata]
+2017-06-13 14:06:12 -0400 Progress: Total [2203783/2307556] Mashiro-exploration/Map271.json [0/6] Cache hits [97384] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map272.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map272.rvdata] to [../output/Mashiro-exploration/Data/Map272.rvdata]
+2017-06-13 14:06:12 -0400 Progress: Total [2203789/2307556] Mashiro-exploration/Map272.json [0/21307] Cache hits [97384] Translations [0] Failures [0]
+2017-06-13 14:06:12 -0400 Progress: Total [2213789/2307556] Mashiro-exploration/Map272.json [10000/21307] Cache hits [97564] Translations [0] Failures [0]
+2017-06-13 14:06:13 -0400 Progress: Total [2223789/2307556] Mashiro-exploration/Map272.json [20000/21307] Cache hits [97975] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map273.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map273.rvdata] to [../output/Mashiro-exploration/Data/Map273.rvdata]
+2017-06-13 14:06:13 -0400 Progress: Total [2225096/2307556] Mashiro-exploration/Map273.json [0/6] Cache hits [98033] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map275.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map275.rvdata] to [../output/Mashiro-exploration/Data/Map275.rvdata]
+2017-06-13 14:06:13 -0400 Progress: Total [2225102/2307556] Mashiro-exploration/Map275.json [0/8139] Cache hits [98033] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map276.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map276.rvdata] to [../output/Mashiro-exploration/Data/Map276.rvdata]
+2017-06-13 14:06:13 -0400 Progress: Total [2233241/2307556] Mashiro-exploration/Map276.json [0/9316] Cache hits [98770] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map277.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map277.rvdata] to [../output/Mashiro-exploration/Data/Map277.rvdata]
+2017-06-13 14:06:13 -0400 Progress: Total [2242557/2307556] Mashiro-exploration/Map277.json [0/6] Cache hits [99422] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map278.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map278.rvdata] to [../output/Mashiro-exploration/Data/Map278.rvdata]
+2017-06-13 14:06:13 -0400 Progress: Total [2242563/2307556] Mashiro-exploration/Map278.json [0/6] Cache hits [99422] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map279.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map279.rvdata] to [../output/Mashiro-exploration/Data/Map279.rvdata]
+2017-06-13 14:06:13 -0400 Progress: Total [2242569/2307556] Mashiro-exploration/Map279.json [0/1465] Cache hits [99422] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map280.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map280.rvdata] to [../output/Mashiro-exploration/Data/Map280.rvdata]
+2017-06-13 14:06:13 -0400 Progress: Total [2244034/2307556] Mashiro-exploration/Map280.json [0/25867] Cache hits [99504] Translations [0] Failures [0]
+2017-06-13 14:06:14 -0400 Progress: Total [2254034/2307556] Mashiro-exploration/Map280.json [10000/25867] Cache hits [100131] Translations [0] Failures [0]
+2017-06-13 14:06:14 -0400 Progress: Total [2264034/2307556] Mashiro-exploration/Map280.json [20000/25867] Cache hits [100792] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map284.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map284.rvdata] to [../output/Mashiro-exploration/Data/Map284.rvdata]
+2017-06-13 14:06:15 -0400 Progress: Total [2269901/2307556] Mashiro-exploration/Map284.json [0/7363] Cache hits [101128] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map286.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map286.rvdata] to [../output/Mashiro-exploration/Data/Map286.rvdata]
+2017-06-13 14:06:15 -0400 Progress: Total [2277264/2307556] Mashiro-exploration/Map286.json [0/79] Cache hits [101591] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map288.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map288.rvdata] to [../output/Mashiro-exploration/Data/Map288.rvdata]
+2017-06-13 14:06:15 -0400 Progress: Total [2277343/2307556] Mashiro-exploration/Map288.json [0/6] Cache hits [101591] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/MapInfos.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/MapInfos.rvdata] to [../output/Mashiro-exploration/Data/MapInfos.rvdata]
+2017-06-13 14:06:15 -0400 Progress: Total [2277349/2307556] Mashiro-exploration/MapInfos.json [0/2345] Cache hits [101591] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Scripts.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Scripts.rvdata] to [../output/Mashiro-exploration/Data/Scripts.rvdata]
+2017-06-13 14:06:15 -0400 Progress: Total [2279694/2307556] Mashiro-exploration/Scripts.json [0/1487] Cache hits [101924] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Skills.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Skills.rvdata] to [../output/Mashiro-exploration/Data/Skills.rvdata]
+2017-06-13 14:06:15 -0400 Progress: Total [2281181/2307556] Mashiro-exploration/Skills.json [0/9616] Cache hits [102014] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/States.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/States.rvdata] to [../output/Mashiro-exploration/Data/States.rvdata]
+2017-06-13 14:06:16 -0400 Progress: Total [2290797/2307556] Mashiro-exploration/States.json [0/7206] Cache hits [102496] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/System.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/System.rvdata] to [../output/Mashiro-exploration/Data/System.rvdata]
+2017-06-13 14:06:16 -0400 Progress: Total [2298003/2307556] Mashiro-exploration/System.json [0/6268] Cache hits [102569] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Troops.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Troops.rvdata] to [../output/Mashiro-exploration/Data/Troops.rvdata]
+2017-06-13 14:06:16 -0400 Progress: Total [2304271/2307556] Mashiro-exploration/Troops.json [0/2229] Cache hits [103226] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Weapons.json
-Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Weapons.rvdata] to [../output/Mashiro-exploration/Data/Weapons.rvdata]
+2017-06-13 14:06:16 -0400 Progress: Total [2306500/2307556] Mashiro-exploration/Weapons.json [0/1056] Cache hits [103265] Translations [0] Failures [0]
 Running command: ruby "Z:/Github/Mashiro/Mashiro-exploration/RPG-Maker-Translator/3rdParty/rmxp_translator/rmvx_translator.rb" --translate="../output/Mashiro-exploration/DataExtracted/*.rvdata" --dest="../output/Mashiro-exploration/Data"
-Translating ../output/Mashiro-exploration/DataExtracted/Actors.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Animations.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Areas.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Armors.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Classes.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/CommonEvents.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Enemies.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Items.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map001.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map002.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map003.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map004.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map006.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map007.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map008.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map009.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map010.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map011.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map018.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map019.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map020.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map021.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map022.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map024.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map025.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map026.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map027.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map028.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map029.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map030.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map031.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map032.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map033.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map034.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map035.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map036.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map037.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map038.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map039.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map040.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map041.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map042.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map043.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map044.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map045.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map046.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map047.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map070.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map071.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map081.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map084.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map095.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map097.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map098.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map099.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map100.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map101.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map102.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map103.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map104.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map105.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map106.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map107.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map108.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map109.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map110.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map111.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map112.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map113.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map114.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map115.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map116.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map117.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map118.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map119.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map120.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map121.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map122.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map123.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map124.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map125.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map126.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map127.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map128.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map129.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map130.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map131.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map132.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map133.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map134.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map135.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map136.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map137.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map138.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map139.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map140.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map141.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map142.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map143.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map144.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map145.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map146.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map147.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map148.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map149.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map150.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map151.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map152.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map153.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map154.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map155.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map156.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map157.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map158.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map159.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map160.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map161.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map162.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map163.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map164.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map165.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map166.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map167.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map168.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map169.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map170.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map171.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map172.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map173.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map174.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map175.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map176.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map177.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map178.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map179.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map190.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map191.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map192.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map193.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map194.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map195.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map196.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map197.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map198.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map199.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map200.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map202.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map203.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map204.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map205.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map206.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map207.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map208.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map209.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map210.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map211.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map212.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map213.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map214.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map215.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map216.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map217.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map219.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map220.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map221.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map222.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map223.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map224.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map225.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map226.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map227.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map228.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map229.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map230.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map231.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map232.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map233.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map234.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map235.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map236.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map237.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map238.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map239.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map240.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map241.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map242.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map243.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map244.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map245.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map246.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map247.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map254.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map255.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map257.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map258.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map259.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map260.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map261.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map262.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map263.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map264.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map265.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map266.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map267.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map268.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map269.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map270.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map271.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map272.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map273.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map275.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map276.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map277.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map278.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map279.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map280.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map284.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map286.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Map288.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/MapInfos.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Scripts.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Skills.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/States.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/System.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Troops.rvdata... translation missing, ignoring.
-Translating ../output/Mashiro-exploration/DataExtracted/Weapons.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Actors.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Animations.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Areas.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Armors.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Classes.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/CommonEvents.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Enemies.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Items.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map001.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map002.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map003.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map004.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map006.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map007.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map008.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map009.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map010.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map011.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map018.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map019.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map020.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map021.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map022.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map024.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map025.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map026.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map027.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map028.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map029.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map030.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map031.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map032.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map033.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map034.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map035.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map036.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map037.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map038.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map039.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map040.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map041.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map042.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map043.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map044.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map045.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map046.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map047.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map070.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map071.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map081.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map084.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map095.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map097.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map098.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map099.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map100.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map101.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map102.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map103.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map104.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map105.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map106.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map107.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map108.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map109.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map110.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map111.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map112.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map113.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map114.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map115.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map116.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map117.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map118.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map119.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map120.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map121.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map122.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map123.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map124.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map125.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map126.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map127.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map128.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map129.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map130.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map131.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map132.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map133.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map134.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map135.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map136.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map137.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map138.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map139.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map140.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map141.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map142.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map143.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map144.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map145.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map146.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map147.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map148.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map149.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map150.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map151.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map152.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map153.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map154.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map155.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map156.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map157.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map158.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map159.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map160.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map161.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map162.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map163.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map164.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map165.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map166.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map167.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map168.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map169.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map170.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map171.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map172.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map173.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map174.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map175.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map176.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map177.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map178.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map179.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map190.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map191.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map192.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map193.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map194.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map195.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map196.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map197.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map198.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map199.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map200.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map202.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map203.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map204.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map205.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map206.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map207.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map208.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map209.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map210.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map211.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map212.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map213.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map214.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map215.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map216.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map217.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map219.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map220.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map221.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map222.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map223.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map224.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map225.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map226.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map227.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map228.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map229.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map230.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map231.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map232.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map233.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map234.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map235.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map236.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map237.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map238.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map239.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map240.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map241.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map242.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map243.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map244.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map245.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map246.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map247.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map254.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map255.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map257.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map258.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map259.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map260.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map261.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map262.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map263.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map264.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map265.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map266.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map267.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map268.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map269.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map270.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map271.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map272.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map273.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map275.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map276.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map277.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map278.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map279.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map280.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map284.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map286.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Map288.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/MapInfos.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Scripts.rvdata... READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script000.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script001.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script002.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script003.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script004.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script005.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script006.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script007.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script008.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script009.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script010.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script011.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script012.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script013.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script014.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script015.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script016.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script017.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script018.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script019.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script020.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script021.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script022.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script023.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script024.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script025.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script026.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script027.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script028.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script029.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script030.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script031.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script032.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script033.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script034.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script035.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script036.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script037.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script038.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script039.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script040.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script041.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script042.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script043.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script044.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script045.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script046.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script047.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script048.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script049.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script050.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script051.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script052.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script053.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script054.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script055.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script056.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script057.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script058.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script059.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script060.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script061.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script062.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script063.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script064.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script065.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script066.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script067.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script068.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script069.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script070.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script071.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script072.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script073.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script074.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script075.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script076.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script077.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script078.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script079.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script080.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script081.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script082.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script083.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script084.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script085.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script086.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script087.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script088.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script089.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script090.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script091.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script092.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script093.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script094.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script095.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script096.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script097.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script098.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script099.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script100.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script101.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script102.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script103.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script104.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script105.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script106.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script107.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script108.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script109.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script110.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script111.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script112.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script113.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script114.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script115.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script116.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script117.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script118.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script119.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script120.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script121.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script122.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script123.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script124.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script125.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script126.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script127.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script128.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script129.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script130.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script131.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script132.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script133.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script134.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script135.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script136.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script137.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script138.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script139.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script140.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script141.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script142.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script143.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script144.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script145.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script146.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script147.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script148.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script149.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script150.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script151.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script152.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script153.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script154.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script155.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script156.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script157.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script158.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script159.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script160.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script161.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script162.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script163.rb
+READING ../output/Mashiro-exploration/JsonExtracted/scripts/Script164.rb
+ok
+Translating ../output/Mashiro-exploration/DataExtracted/Skills.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/States.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/System.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Troops.rvdata... ok
+Translating ../output/Mashiro-exploration/DataExtracted/Weapons.rvdata... ok
 
-Processed 0 lines in 16.671365 seconds
+Processed 2307556 lines in 445.620455 seconds

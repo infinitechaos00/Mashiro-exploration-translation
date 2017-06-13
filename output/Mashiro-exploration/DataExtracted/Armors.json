@@ -1,0 +1,1476 @@
+[
+  [
+    0,
+    null
+  ],
+  [
+    1,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "レザーシールド",
+        "translation": "LeatherーーRed"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "動物の皮を貼り付けて作られた盾。",
+        "translation": "Shields made of a paste made of animal skin。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    2,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "スケールシールド",
+        "translation": "ScheduleーーRed"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "小さな金属片を鱗状に縫い付けた盾。",
+        "translation": "Scaly sewed a small metal shield。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    3,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "フレイムシールド",
+        "translation": "FleeceーRed"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "炎属性のダメージを半減する盾。",
+        "translation": "Bad flame attributesーShield to halve。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    4,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アイスシールド",
+        "translation": "Ice sushiーRed"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "冷気属性のダメージを半減する盾。",
+        "translation": "No coolness attributeーShield to halve。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    5,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ミスリルシールド",
+        "translation": "MithrilsiーRed"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "魔法の金属ミスリル銀で作られた盾。",
+        "translation": "Shields made of metal Mithril Silver Magic。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    6,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ドラゴンシールド",
+        "translation": "DragonsーRed"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ドラゴンの鱗を加工して作られた盾。",
+        "translation": "Made a dragon scale shield。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    7,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "フェザーハット",
+        "translation": "FeatherーHat"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "羽飾りをあしらった軽量の帽子。",
+        "translation": "Decorated with feather light Hat。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    8,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "チェインコイフ",
+        "translation": "Chain Koifu"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "細かい鎖を編んで作られた頭巾。",
+        "translation": "Hood made a fine chain。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    9,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アイアンヘルム",
+        "translation": "Iron Helm"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "頑丈な鉄板を加工して作られた兜。",
+        "translation": "Made of a sturdy steel plate helmet。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    10,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "サークレット",
+        "translation": "TheーKlett"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "防護の魔法がかけられた頭飾り。",
+        "translation": "A protective magic headdress。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    11,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ミスリルヘルム",
+        "translation": "Mythril Helm"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "魔法の金属ミスリル銀で作られた兜。",
+        "translation": "Helmet made of metal Mithril Silver Magic。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    12,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ドラゴンヘルム",
+        "translation": "Dragon helm"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ドラゴンの鱗を加工して作られた兜。",
+        "translation": "Made a dragon scale helmet。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    13,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ローブ",
+        "translation": "RoーThe"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "広く普及している一般的なローブ。",
+        "translation": "Common b which is widespreadーThe。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    14,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "レザープレート",
+        "translation": "LeatherーPreー"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "なめし皮で作られた軽量の胸当て。",
+        "translation": "Light weight made of tanned leather breastplate。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    15,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "リングメイル",
+        "translation": "Ring mail"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "金属製のリングを無数につなぎ合わせた鎧。",
+        "translation": "Armor stitched together by countless metal ring。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    16,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "マジックローブ",
+        "translation": "MagicroーThe"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "丈夫な布で作られた魔法のローブ。",
+        "translation": "Magical b] made of strong clothーThe。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    17,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "チェインメイル",
+        "translation": "Chainmail"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "細かい鎖を編んで作られた鎖かたびら。",
+        "translation": "Spartan fine strands made。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    18,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ミスティクロース",
+        "translation": "Misty blackー"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "特殊な生地で作られた動きやすい服。",
+        "translation": "Wear comfortable clothes made of a special fabric。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    19,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アイアンアーマー",
+        "translation": "Ironhaーー"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "頑丈な鉄板を加工して作られた鎧。",
+        "translation": "Made of a sturdy steel plate armor。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    20,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "セイントローブ",
+        "translation": "SaintroーThe"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "聖なる力を秘めた神々しいローブ。",
+        "translation": "A divine bible with secret powerーThe。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    21,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ミスリルプレート",
+        "translation": "Mythril Preー"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "魔法の金属ミスリル銀で作られた胸当て。",
+        "translation": "Breastplates made of metal Mithril Silver Magic。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    22,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ドラゴンメイル",
+        "translation": "Dragon Mail"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ドラゴンの鱗を加工して作られた鎧。",
+        "translation": "Made a dragon scale armor。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    23,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "炎の指輪",
+        "translation": "Ring of fire"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "炎属性の攻撃から身を守る指輪。",
+        "translation": "Protect yourself from fire attribute attacks ring。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    24,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "氷の指輪",
+        "translation": "Ice ring"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "冷気属性の攻撃から身を守る指輪。",
+        "translation": "Protect yourself from the cold attribute attack ring。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    25,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "戦士の腕輪",
+        "translation": "Warrior bracelets"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "攻撃力を上げ、暗闇状態を防止する腕輪。",
+        "translation": "Increase attack power、To avoid dark bracelets。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    26,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "魔術師の腕輪",
+        "translation": "Magician bands"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "精神力を上げ、沈黙状態を防止する腕輪。",
+        "translation": "Increase mental power、To avoid the silence status bracelet。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    27,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "幸運の首飾り",
+        "translation": "Good luck necklaces"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "痛恨の一撃を受けなくなるお守り。",
+        "translation": "Not a blow of charm。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    28,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "妖精の靴",
+        "translation": "Fairy shoes"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "敏捷性と回避率を高める魔法の靴。",
+        "translation": "Increase agility and evasion rate magic shoes。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    29,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "命の指輪",
+        "translation": "Life ring"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ＨＰが少量ずつ自動的に回復する指輪。",
+        "translation": "ＨＰRing to automatically recover small amounts at a time。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    30,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "賢者の指輪",
+        "translation": "Sorcerer's ring"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "魔法の消費ＭＰが通常の半分になる指輪。",
+        "translation": "Magical consumptionＭＰRing to be half of normal。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    31,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    32,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "鈴蘭の衣",
+        "translation": "Cloth of Suzuran"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "草木の色が微かに香るマシロの普段着。|不思議と安心感に包まれるのでお気に入りの服。",
+        "translation": "Massilla's everyday clothes fragrant colors of vegetables finely。|Favorite clothes as it is wrapped in wonder and security。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    33,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    34,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    35,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    36,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    37,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    38,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    39,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    40,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    41,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "炎護の指輪",
+        "translation": "Ring of protection"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "炎に属する効果を軽減する指輪。|蝋燭くらいなら指で鎮火できます。",
+        "translation": "Ring that reduces the effect belonging to flame。|You can kill a fire with a finger if it is a candle。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    42,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "水護の指輪",
+        "translation": "Ring bags"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "水に属する効果を軽減する指輪。|水仕事もばっちり。消化液にも効きます。",
+        "translation": "Rings that reduce the effects belonging to water。|Hot work perfectly。It also works for digestive juices。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    43,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "雷護の指輪",
+        "translation": "Thunder ring"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "雷に属する効果を軽減する指輪。|ドアノブにバチッってきたりしません。",
+        "translation": "Ring that reduces the effect belonging to thunder。|I do not get a click on the door knob。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    44,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "炎護の指輪・改",
+        "translation": "Ring of protection・Reform"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "炎に属する効果を軽減する指輪。|火傷の心配は無くなります。",
+        "translation": "Ring that reduces the effect belonging to flame。|The worry of burns disappears。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    45,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "水護の指輪・改",
+        "translation": "Ring bags・Reform"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "水に属する効果を軽減する指輪。|肌の\"周り\"に膜を張ってそれなりに水分を弾くように。",
+        "translation": "Rings that reduce the effects belonging to water。|Skin's\"Around\"To stretch the membrane and play moisture as it is。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    46,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "雷護の指輪・改",
+        "translation": "Thunder ring・Reform"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "雷に属する効果を軽減する指輪。|濡れた手でコンセント差しても大丈夫？",
+        "translation": "Ring that reduces the effect belonging to thunder。|It's okay if you plug the power outlet with wet hands？"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    47,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    48,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    49,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    50,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    51,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "レアメタルメイル",
+        "translation": "Rare metal mail"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "希少な鉱石を錬成して組み上げられた鎧。|周囲に微小の結界が張られ、見た目以上の防御力を誇る。",
+        "translation": "Armor assembled by trimming rare ore。|A small boundary is stretched around、Boasts more defense than it looks。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    52,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    53,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    54,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    55,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    56,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    57,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    58,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    59,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    60,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    61,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    62,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    63,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    64,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    65,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    66,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "魔法使いローブ",
+        "translation": "Witch braーThe"
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "魔法使いが良く着ているローブ。|内ポケットが付いているので物を仕舞っておける。",
+        "translation": "The wizard is wearing wellーThe。|With inner pocket you can keep things。"
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    67,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    68,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    69,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    70,
+    {
+      "json_class": "RPG::Armor",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ]
+]

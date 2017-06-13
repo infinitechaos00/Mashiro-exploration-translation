@@ -1,0 +1,4387 @@
+{
+  "json_class": "RPG::Map",
+  "events": [
+    [
+      1,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "寝マシロ",
+          "translation": "Sleeping machine"
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      2,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV002",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      3,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "夜ニノさん",
+          "translation": "Night Nino"
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んふふ……いらっしゃいませ、レイさん…❤",
+                    "…お嬢様も寝付いたことですし……",
+                    "夜分の淫らなお付き合いと参りましょうか…❤"
+                  ],
+                  "translation": [
+                    "Hifu……Welcome、Ray…❤",
+                    "…My daughter is asleep as well.……",
+                    "Shall we go out with a nasty nightlife association?…❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……は、はい…",
+                    "よろしくお願いしますね……"
+                  ],
+                  "translation": [
+                    "……Is、Yes…",
+                    "Thank you……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "では、レイさんはどうされちゃいたいですか？",
+                    "小さくされちゃって私に弄ばれるか……",
+                    "ごっくんされてとろとろに溶けちゃうか……",
+                    "それとも…この穴で味わってあげましょうか…❤"
+                  ],
+                  "translation": [
+                    "Okay.、What would you like to do with Rei?？",
+                    "Will you be smaller and chat with me?……",
+                    "Do you want me to have it snacked and melt it all over?……",
+                    "Or…Shall I taste it with this hole…❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……ん……",
+                    "それは……悩み…ますね……",
+                    "ニノさんなら…どれも気持ちよさそうですし……"
+                  ],
+                  "translation": [
+                    "……Hmm……",
+                    "That is……Trouble…I will……",
+                    "If Nino…Every one seems to be comfortable……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "そのどれもがいぢめるものだって言うのに……",
+                    "…レイさんってば、ご自分が責めるよりも",
+                    "責められちゃう方がお好きなんですね…❤"
+                  ],
+                  "translation": [
+                    "Although all of them tell me……",
+                    "…Ray's says、Rather than blame yourself",
+                    "I like you who can be blamed…❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…そ、そんなこと言ったって……",
+                    "小さくされちゃったら…もう僕には何も……",
+                    "されるがままにされちゃうのが普通ですよ…"
+                  ],
+                  "translation": [
+                    "…That、You say that……",
+                    "If it is made small…Nothing to me anymore……",
+                    "It is normal to get away as it is done…"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "大人しくても男の子ですのにねぇ……",
+                    "女性に好きに弄ばれて悦んじゃうなんて…",
+                    "立派な変態さんだと思いますよ、私は❤"
+                  ],
+                  "translation": [
+                    "Even if you are grown up, you are a boy, are not you?……",
+                    "Why are you pleased with being fiddled with love by a woman?…",
+                    "I think that it is a splendid metaphor、I❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…うぅ………",
+                    "…否定は…出来ないです……"
+                  ],
+                  "translation": [
+                    "…Uh………",
+                    "…The contradiction…I can not do it.……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んふふっ…❤",
+                    "でも私、そんなレイさんが愛らしくて❤",
+                    "そんなに可愛い顔してらっしゃるのに",
+                    "ココはちゃんと男の子なんですからぁ❤"
+                  ],
+                  "translation": [
+                    "Huhu…❤",
+                    "But I、That Rei is adorable❤",
+                    "Even though you have such a cute face",
+                    "Coco is a boy properly❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "うっ…！"
+                  ],
+                  "translation": [
+                    "Ahh…！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ほぉら、もぅこんなにカタくなっちゃって❤",
+                    "そろそろ我慢できないんじゃないですか？",
+                    "今すぐにでもコスってびゅるびゅるぅって…",
+                    "しちゃいたいんじゃないですかぁ？"
+                  ],
+                  "translation": [
+                    "So often、Wow, it got so kissed❤",
+                    "I guess I can not put up with it sooner or later.？",
+                    "You can change it from now on even now.…",
+                    "I do not want to do it？"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あっ……うっ…！",
+                    "…あ、あんまり…触っちゃだめですよぉ…！",
+                    "ニノさんの指…気持ちよくて……！"
+                  ],
+                  "translation": [
+                    "Ah……Ahh…！",
+                    "…Ah、Not really……！",
+                    "Nino's finger…It felt nice.……！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あぁん、まだ出しちゃダメですよぉ❤",
+                    "ぴゅっぴゅしちゃうなら呑ませてくださいな❤",
+                    "上でも下でもどちらでも…❤",
+                    "カラダごとでもいいんですよぉ❤"
+                  ],
+                  "translation": [
+                    "Ohh、I can not put it out yet❤",
+                    "Please drink if it is Pyu Pyu❤",
+                    "Either above or below…❤",
+                    "Every body can be good❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…んん……",
+                    "…どうしようかな……"
+                  ],
+                  "translation": [
+                    "………",
+                    "…What should I do……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Self Switch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Switches"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んふっ…如何なさいますか？",
+                    "私に呑まれて虜になるのか……",
+                    "それとも快楽に堕ち蕩けてしまいたいのか……",
+                    "どうぞ、お好きにお選びくださいな❤"
+                  ],
+                  "translation": [
+                    "Huh…How can I help you?？",
+                    "Are you being captivated by being swallowed by me?……",
+                    "Or do you want to fade away in pleasure?……",
+                    "Here you go、Please choose as you like❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…えっと……それじゃあ……"
+                  ],
+                  "translation": [
+                    "…Um……Well then……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Choices",
+                "parameters": [
+                  [
+                    {
+                      "json_class": "TranslatableString",
+                      "original   ": "食べてください",
+                      "translation": "Please eat"
+                    },
+                    {
+                      "json_class": "TranslatableString",
+                      "original   ": "気持ち良くしてください",
+                      "translation": "Please be comfortable"
+                    },
+                    {
+                      "json_class": "TranslatableString",
+                      "original   ": "ちょっと待っててください",
+                      "translation": "Please wait a moment."
+                    }
+                  ],
+                  2
+                ]
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "When"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "はい、畏まりました❤",
+                    "上のお口で味わわれてからごっくんされて",
+                    "とろとろに溶かされちゃうコースですね❤"
+                  ],
+                  "translation": [
+                    "Yes、I felt❤",
+                    "I was beside you being tasted by your mouth",
+                    "It will be melted in the leavesーThat's right❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Call Common Event"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Change Transparency"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…では、嚥下の前の余興と参りましょうか❤",
+                    "お腹の中で出されるよりもまず…",
+                    "ちゃんとこの舌に味わわせてくださいね…❤"
+                  ],
+                  "translation": [
+                    "…Okay.、Shall we go for a morning start before swallowing?❤",
+                    "Better than being served in the stomach…",
+                    "Please let me taste this tongue properly…❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あっ……"
+                  ],
+                  "translation": [
+                    "Ah……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んっふふふ❤",
+                    "ズボンに引っかかっちゃってましたねぇ……",
+                    "こんなに小っちゃいのに…ビンビンになって❤",
+                    "可愛いおちんちんですね❤"
+                  ],
+                  "translation": [
+                    "Firsthand❤",
+                    "I was caught in the pants……",
+                    "Although it is small like this…Become a bing❤",
+                    "It's cute little girlfriend❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あぅっ……",
+                    "…ツンツン…しないでくださいよぉ……"
+                  ],
+                  "translation": [
+                    "Huh……",
+                    "……Please do not do it……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あら……指じゃ満足できません…？",
+                    "じゃぁ、気持ち良いこのお口で…ふふっ…",
+                    "咥え込んであげますね…❤"
+                  ],
+                  "translation": [
+                    "Oh……I can not be satisfied with my fingers…？",
+                    "Alrighty then、With this mouth feels good…Heh…",
+                    "I will hold you in…❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout BGM"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Tint Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ふぁっ！？"
+                  ],
+                  "translation": [
+                    "Huh！？"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ちゅっ……んっ…❤",
+                    "…小っちゃくても…男の子の味しますね…❤",
+                    "熱くて…ビクンビクン、って脈打ってます…❤"
+                  ],
+                  "translation": [
+                    "Tattoos……nn…❤",
+                    "…Even if it is small…The boys taste…❤",
+                    "Hot…Bikunbikun、He is pulsing…❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…うぅ…んっ……",
+                    "ニノさんの唇…大きくて柔らかい…ですね……"
+                  ],
+                  "translation": [
+                    "…Uh…nn……",
+                    "Nino's lips…Large and soft…Is not it……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んんっ……んふっ…❤",
+                    "…レイさんのが小さいんですよ…",
+                    "だってほら…私の唇の厚さより短いですもの❤",
+                    "舌を出さなきゃ…舐めてあげられません……っ❤"
+                  ],
+                  "translation": [
+                    "A little……Huh…❤",
+                    "…Ray's are small…",
+                    "Because you see…What is shorter than my lip thickness❤",
+                    "I have to take my tongue out…I can not lick it.……❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あ…うっ……！"
+                  ],
+                  "translation": [
+                    "Ah…Ahh……！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…んっ…くちゅ……っ❤",
+                    "…ちょっと舌で押し付けちゃえば…",
+                    "レイさんのおちんちん…埋もれちゃいますね❤"
+                  ],
+                  "translation": [
+                    "…nn………❤",
+                    "…Just a little bit with a tongue…",
+                    "Ray's sack…I'm buried.❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……でも…だんだん先っぽから……んっ…",
+                    "レイさんのお汁…溢れてきてますよ…❤",
+                    "……ちょっとだけ…吸っちゃいますから…っ❤"
+                  ],
+                  "translation": [
+                    "……But…Gradually ahead……nn…",
+                    "Ray's soup…It is overflowing…❤",
+                    "……Just a bit…I will smoke.…❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadein Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んぅっ……ああぁぁっ！？",
+                    "ちょ、ちょっと…強すぎ、ですよぉ…！！",
+                    "そっ…そんなこと…されたらぁ……っ！！"
+                  ],
+                  "translation": [
+                    "Oh!……Oh my goodness！？",
+                    "Ch�o、A little…Too strong、Is not it…！！",
+                    "Along…Such a thing…I wish I could……！！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Flash Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Flash Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Flash Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…んっ……んふふっ❤",
+                    "…ほんのちょっと吸い込んだだけですのに…",
+                    "そんなお声で悲鳴上げちゃって……❤"
+                  ],
+                  "translation": [
+                    "…nn……Huhu❤",
+                    "…I just breathed a bit…",
+                    "I screamed with such a voice……❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "………舌の先っぽに…何か感じますね…",
+                    "ちょっと苦くて…とろとろしてて……"
+                  ],
+                  "translation": [
+                    "………Behind the tongue…I feel something…",
+                    "A little bitter………"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……はぁ………はぁ……"
+                  ],
+                  "translation": [
+                    "…………………"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…んっ……\\.こくんっ……❤\\se[gokun11,80,115]"
+                  ],
+                  "translation": [
+                    "…んっ……\\.こくんっ……❤\\se[gokun11,80,115]"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……んっふふ…❤",
+                    "レイさんの精液…私の唾液に混ざっちゃって",
+                    "ほとんど分かんなくなっちゃいました…❤"
+                  ],
+                  "translation": [
+                    "……A half…❤",
+                    "Ray's semen…I mixed with my saliva",
+                    "I almost did not understand…❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "でも、しっかり射精なされちゃったんですね❤",
+                    "ふふっ、お約束通りにちゃぁんと頂きました❤",
+                    "ほんとにちょっとだけで物足りないですけど❤"
+                  ],
+                  "translation": [
+                    "But、You've been ejaculated tightly❤",
+                    "Heh、I received you as promised.❤",
+                    "It's really quite a bit short but❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……はぁ……ふぅ……",
+                    "そんな…ちょっとだけ…なんて………",
+                    "…僕としては…結構出ちゃったんですよ…？"
+                  ],
+                  "translation": [
+                    "…………Fuu……",
+                    "Such…Just a bit…Why………",
+                    "…As I am…I got it pretty good…？"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "その小さなお体では何をなされてもダメですよ❤",
+                    "私を満足させたいなら…全身を捧げませんとね❤"
+                  ],
+                  "translation": [
+                    "Whatever you do with that little body you will not be able to do it❤",
+                    "If you want to satisfy me…If you do not dedicate your whole body❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あっ……"
+                  ],
+                  "translation": [
+                    "Ah……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……さて、前戯はここまで❤",
+                    "そろそろ御膳に移らせて貰いましょうか❤"
+                  ],
+                  "translation": [
+                    "……Now、Foreplay is here far❤",
+                    "Shall I take it to the dinner soon?❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……心の準備は宜しいですね？",
+                    "今からレイさんは私の胃に呑み込まれて…",
+                    "溢れる胃液で緩慢に溶かされちゃうんです…❤"
+                  ],
+                  "translation": [
+                    "……Preparation of the mind is good？",
+                    "Ray is swallowed in my stomach from now…",
+                    "It gets dissolved slowly with overflowing gastric juice…❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "腹中より逃がすつもりは御座いませんが",
+                    "精一杯抵抗なさってくださいね❤",
+                    "でないと、私も盛り上がれませんから…ね❤"
+                  ],
+                  "translation": [
+                    "I do not intend to escape from my abdomen",
+                    "Please do resistance as much as possible❤",
+                    "Otherwise、I can not get excited too…It is❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…はい……",
+                    "頑張りますね……"
+                  ],
+                  "translation": [
+                    "…Yes……",
+                    "I will do my best.……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んふっ…❤",
+                    "では、いってらっしゃいませ❤",
+                    "そして、私のカラダの一部になってくださいな❤"
+                  ],
+                  "translation": [
+                    "Huh…❤",
+                    "Okay.、Hey there it is.❤",
+                    "And、Please be a part of my body❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play BGS"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadein Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…んっ……うぅ…っ…！",
+                    "…ニノさんの…食道のお肉で…んっ……",
+                    "……擦れて…気持ち良いよ……っ…"
+                  ],
+                  "translation": [
+                    "…nn……Uh……！",
+                    "…Nino's…With the meat of the esophagus…nn……",
+                    "……Rubbed…It feels good.………"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……んっ………あぁ…っ…❤",
+                    "……レイさんが喉の中を落ちてて……",
+                    "……んふふっ…なんか、もじもじしてますね…❤"
+                  ],
+                  "translation": [
+                    "……nn………Ahh……❤",
+                    "……Ray is falling in the throat……",
+                    "……Huhu…Something、I feel sorely…❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…そんな所でも出しちゃったら",
+                    "これから先の体力無くなっちゃいますよ？",
+                    "すぐに運んで胃に着きますから…",
+                    "もう少々、我慢した方が良いですよ…❤"
+                  ],
+                  "translation": [
+                    "…If you put it in such a place",
+                    "I will lose my physical strength in the future？",
+                    "I will carry it soon and will get to the stomach…",
+                    "A little more、You had better be patient…❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Tint Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Switches"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Switches"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Change Actor Graphic"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Variables"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Variables"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Variables"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Erase Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Script",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "start_daynight"
+                  ],
+                  "translation": [
+                    "start_daynight"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Script",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "change_daynight_phase(0)"
+                  ],
+                  "translation": [
+                    "change_daynight_phase(0)"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Script",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "stop_daynight"
+                  ],
+                  "translation": [
+                    "stop_daynight"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Weather Effects"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Script",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "c_zoom(-1, 60)"
+                  ],
+                  "translation": [
+                    "c_zoom(-1, 60)"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadein Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Change Transparency"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Script",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "c_zoom_end(-1)"
+                  ],
+                  "translation": [
+                    "c_zoom_end(-1)"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……うぅっ……んっ……",
+                    "また、漏らしちゃう所だったよ……"
+                  ],
+                  "translation": [
+                    "……Ugh……nn……",
+                    "Also、It was a place to leak out……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……胃の活動が活発だね。",
+                    "もたもたしてると溶かされちゃいそうだ。"
+                  ],
+                  "translation": [
+                    "……Stomach activity is active。",
+                    "It seems that it will be melted if it keeps on.。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "When"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "When"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Choices End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Switches"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      4,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV004",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      5,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV005",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      6,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "夜アヤメちゃん",
+          "translation": "Ayaya-chan at night"
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      7,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV007",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Variables"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Call Common Event"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      8,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV008",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Change Level"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      9,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV009",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "………ん…ふぅ…………"
+                  ],
+                  "translation": [
+                    "………Hmm…Fuu…………"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……よく寝とるな。"
+                  ],
+                  "translation": [
+                    "……Do not sleep well.。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "えぇ……本当に……",
+                    "…疲れてしまったんでしょうね、きっと。"
+                  ],
+                  "translation": [
+                    "Yeah……Truly……",
+                    "…I guess I got tired.、。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "昼間からずうっと…私を看病してくれたんです。",
+                    "…まぁ、全部が全部任せっきりとは",
+                    "いきませんでしたけれど。"
+                  ],
+                  "translation": [
+                    "Late from daytime…You nursed me。",
+                    "…Well、All I can leave it all",
+                    "Although I did not go。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "林檎剥いてあげる、って包丁持ち出した時も",
+                    "気が気じゃなかったですし……",
+                    "安静にしてるだけで良いのに氷枕とか",
+                    "作ってきたりして……"
+                  ],
+                  "translation": [
+                    "I will strip an apple、Even when you bring out the kitchen knife",
+                    "I did not feel like it.……",
+                    "I just need to rest, but ice pillows or something",
+                    "Make it.……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "用を済ませようとしても動かないでって言われて",
+                    "タライ持ってこられたり……",
+                    "お嬢様がずっとここで心配そうに",
+                    "ウロウロしてたりで……"
+                  ],
+                  "translation": [
+                    "I was told not to move even if I try to finish",
+                    "You can get Tarai……",
+                    "Lady seems anxious here forever",
+                    "Take your time……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……あちゃー……",
+                    "…あいっかわらず空回りしとるのな……"
+                  ],
+                  "translation": [
+                    "……Oopsー……",
+                    "…I will keep idling all the time……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "えぇ…それはもう……",
+                    "明日イトリさんたちにお礼言っておきませんと…",
+                    "何度お嬢様の暴走を止めてくれたことか…"
+                  ],
+                  "translation": [
+                    "Yeah…It is already……",
+                    "I will not say thanks to the men tomorrow…",
+                    "How many times did your mistress stop running away…"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "でも……それでも、お嬢様がこんなにも",
+                    "私を大事にしてくれてるんだな、って…",
+                    "そう伝わって……"
+                  ],
+                  "translation": [
+                    "But……But even so、Lady is like this",
+                    "You treat me carefully、To…",
+                    "So conveyed……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……とても、嬉しかったですね。"
+                  ],
+                  "translation": [
+                    "……Very much、I was happy。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Label"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……まっこと…穏和な微笑みじゃな。",
+                    "初めて会った頃に見えていた陰りの面影が",
+                    "もうどこからも感じ取れぬ位にな。"
+                  ],
+                  "translation": [
+                    "……Heck…It is a gentle smile.。",
+                    "The shadow of the shadow that I saw for the first time",
+                    "I can not feel it from anywhere anymore。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "えぇ。皆様のお陰で。",
+                    "アヤメさんと女将様が招いてくれたから",
+                    "こんな可愛いお嬢様とも出会えましたし…ね。"
+                  ],
+                  "translation": [
+                    "Yeah。Thanks to everyone。",
+                    "Because Ayame and the lady invited me",
+                    "I also met such a lovely lady…It is。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "女将様が目覚めましたら",
+                    "また改めてお礼を言わせてもらいますよ？",
+                    "何度感謝しても、し足りないんですから。"
+                  ],
+                  "translation": [
+                    "If the lady wakes up",
+                    "I would like to thank you again.？",
+                    "No matter how many times I appreciate、I am missing it。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "かっかっか。",
+                    "目覚める度にマシロと仲良うなっとると",
+                    "ヒミヅキ様も流石に妬むぞぉ？"
+                  ],
+                  "translation": [
+                    "。",
+                    "Every time you wake up you get along with Mashiro",
+                    "Himitsuki-sama is also jealous of fossil.？"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あの方あれで中々に嫉妬深いからな。",
+                    "目覚めてる間中ニノに付きっきりにされたら",
+                    "それはもう見ておらぬ所で歯ぎしりを……"
+                  ],
+                  "translation": [
+                    "He is jealous inside with that person。",
+                    "When I am awake, it is made clear to Nino",
+                    "Bruxism in a place I have not seen it yet……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あら、そうなんですか。",
+                    "それは悪いことをしてますね。"
+                  ],
+                  "translation": [
+                    "Oh、Really。",
+                    "That is a bad thing。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あの方に随って以来、あんな表情など",
+                    "殆ど見かけなかったからの。"
+                  ],
+                  "translation": [
+                    "Ever since he followed him、Such expressions",
+                    "Because I did not see it nearly.。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "良くも悪くも、この世界はヒミヅキ様にとって",
+                    "想いが触れる世界であることは間違いない。",
+                    "マシロやニノ達…皆のお陰でな。"
+                  ],
+                  "translation": [
+                    "Good or bad、This world for Mr. Hiimitsuki",
+                    "There is no doubt that the world is touched by feelings。",
+                    "Mashiro and Nino…Thanks to everyone。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "礼ならば此方が先だ。",
+                    "ありがとうな、ニノ。"
+                  ],
+                  "translation": [
+                    "Thank you for being here.。",
+                    "Thanks、Nino。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "えぇ、こちらこそ。"
+                  ],
+                  "translation": [
+                    "Yeah、Likewise。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "今の世界に満足頂けているのなら…",
+                    "これからも好きにさせて頂きますよ？"
+                  ],
+                  "translation": [
+                    "If you are satisfied with the current world…",
+                    "I will love you from now on？"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "うむ、それでいい。",
+                    "小難しいモノの教えは、マシロがもう少し",
+                    "大人になってからで良いだろうしな。"
+                  ],
+                  "translation": [
+                    "Well、That's fine。",
+                    "The teachings of small things are、Massilo is a little more",
+                    "I wonder if I become an adult。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……ただまぁ、性教育はほどほどにな。"
+                  ],
+                  "translation": [
+                    "……Just、Sex education is moderate。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "えぇー？",
+                    "それこそ得意分野、なのですけどねぇ♪",
+                    "服従開発、抵抗耐性、なんでもこざれですのに♪"
+                  ],
+                  "translation": [
+                    "Yeahー？",
+                    "That is the field of excellence、Though it is♪",
+                    "Submission development、Resistance tolerance、Everything is here♪"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……ま、ウチはそういうの解らんからな。",
+                    "悪い虫が付かんようにだけ頼むぞ？"
+                  ],
+                  "translation": [
+                    "……Up、I do not understand that kind of stuff like that。",
+                    "I will just ask you to have a bad insect？"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "はい♪",
+                    "お任せ下さいな♪"
+                  ],
+                  "translation": [
+                    "Yes♪",
+                    "Please leave it to me.♪"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Jump to Label"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……ま、流石に歯ぎしりなどはしとらんがの。",
+                    "それでも多少しょげとるのは事実よ。"
+                  ],
+                  "translation": [
+                    "……Up、There is nothing to do with toothbrushing。",
+                    "Still it is true that it takes a little bit。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…お嬢様への想いは…複雑ですものね……"
+                  ],
+                  "translation": [
+                    "…The thought to the lady is…It's complicated.……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "まぁな。",
+                    "……マシロに好かれ、慕われている事実は",
+                    "間違いなく嬉しく思うとるがな……"
+                  ],
+                  "translation": [
+                    "Yes, I guess。",
+                    "……It is liked by Mashiro、The fact that is loved is",
+                    "I would definitely be pleased.……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "………私に向けられる…お嬢様の視線……",
+                    "…本来ならば、女将様に向けるべきものだと…",
+                    "…そう、思うんです。"
+                  ],
+                  "translation": [
+                    "………Pointed to me…Lady's gaze……",
+                    "…Originally、It should be directed to the ladiesman…",
+                    "…So、I think.。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "………………"
+                  ],
+                  "translation": [
+                    "………………"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…女将様が常にお嬢様の傍に居られない分…",
+                    "私が、代わりを務めている……",
+                    "…私は…あくまで…お嬢様の、お世話役……"
+                  ],
+                  "translation": [
+                    "…For the lady majesta always can not stay near the lady…",
+                    "I、I am acting as a substitute……",
+                    "…I…Only…Lady's、A family member……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…………でも……私は…………"
+                  ],
+                  "translation": [
+                    "…………But……I…………"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Jump to Label"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…さっきも、私のことを「お姉様」と呼んで",
+                    "…それは嬉しそうにしてました。",
+                    "…呼ばせたのは私…なのですが……"
+                  ],
+                  "translation": [
+                    "…A little while ago、About me「Sister」Call me",
+                    "…It made me happy。",
+                    "…I called him I…Is it?……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…やはり、血の繋がりを感じることに",
+                    "憧れの念を抱いているみたいです。",
+                    "何度も何度も、噛み締めるように、呟いて……"
+                  ],
+                  "translation": [
+                    "…Also、To feel the connection of blood",
+                    "It seems that I have a philosophy of admiration。",
+                    "Again and again、To grab、Mutter……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "私たちは円卓という場に住む家族ではありますが",
+                    "皆が血を同じにしてはいないですからね……",
+                    "お嬢様の知る「家庭」を望んでいるのであれば",
+                    "そう思うのも無理はないかと……"
+                  ],
+                  "translation": [
+                    "Although we are a family living in a place called a round table",
+                    "Because everyone does not make blood the same……",
+                    "Lady knows「Home」If you want",
+                    "I wonder if it is impossible to think so……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……やはりか。",
+                    "ウチらの絆が深まるにつれ…",
+                    "その壁に突き当たるのもやむを得ん…が……"
+                  ],
+                  "translation": [
+                    "……Nevertheless。",
+                    "As Uchira's bonds deepen…",
+                    "It is inevitable to hit that wall…But……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Label"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…女将様はもうじきお目覚めになるんですよね。"
+                  ],
+                  "translation": [
+                    "…The lady manager will soon awake soon。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あぁ。",
+                    "ここを循環させる魔力も直に安定値に届く。",
+                    "そう遠くない内に目覚められると思うが……"
+                  ],
+                  "translation": [
+                    "Ahh。",
+                    "The magical power which circulates here also reaches a stable value directly。",
+                    "I think I can be awake within not far……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ウチはこの世界と人のあり方には疎い。",
+                    "ヒミヅキ様とはあくまで主人と従者の関係。",
+                    "人と人、ましてや家族のあるべき姿など",
+                    "想像することしか出来ん。"
+                  ],
+                  "translation": [
+                    "I am not clear about this world and people's way of thinking。",
+                    "Himitsuki-sama is the relationship between the master and the follower to the last。",
+                    "People and people、Yet the family figure should be",
+                    "It can only be imagined。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "じゃが、それはニノも変わらんはずじゃな。"
+                  ],
+                  "translation": [
+                    "A potato、Nino should not change either.。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "………はい。",
+                    "……父は、元より無く……母も………既に……"
+                  ],
+                  "translation": [
+                    "………Yes。",
+                    "……Father、Unexpectedly……Mother too………Already……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ニノ。"
+                  ],
+                  "translation": [
+                    "Nino。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……はい……"
+                  ],
+                  "translation": [
+                    "……Yes……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ヒミヅキ様には儂らに足りぬ者がいた。",
+                    "その者を喪ってもう久しいが……",
+                    "未だヒミヅキ様は重みと痛みを引き摺っている。"
+                  ],
+                  "translation": [
+                    "There was a person who was insufficient in the way of Himizuki-sama。",
+                    "It has been a long time since I lost that person……",
+                    "Himitsuki-sama is still dragging weights and pain。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "………………"
+                  ],
+                  "translation": [
+                    "………………"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "その者の重みも意味も知らん我らが",
+                    "それ故に負った痛みを拭えるとでも思うのか？",
+                    "上辺だけの言の葉で承服するほど",
+                    "容易い方ではないのだぞ。"
+                  ],
+                  "translation": [
+                    "We do not know the weight or meaning of that person",
+                    "Do you think that you can wipe the pain you owe because of it？",
+                    "The more you accept in the leaf of only the upper side",
+                    "It is not easy one。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…………ふぁ………"
+                  ],
+                  "translation": [
+                    "…………Fa………"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "！"
+                  ],
+                  "translation": [
+                    "！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "っと、いかん…！",
+                    "起こしてしまったか？"
+                  ],
+                  "translation": [
+                    "Innovation、Regrettable…！",
+                    "Did you wake it up?？"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…………んぅ………❤"
+                  ],
+                  "translation": [
+                    "…………nn………❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……いえ。",
+                    "夢を、見ているようですね。",
+                    "幸せそうな…良い夢を。"
+                  ],
+                  "translation": [
+                    "……House。",
+                    "Dream、You seem to be watching。",
+                    "I'd be happy.…A good dream。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ……それは良かったな……",
+                    "…いやいや、イカンイカン。",
+                    "少々気を張りすぎたようじゃな。"
+                  ],
+                  "translation": [
+                    "Oh……That was nice.……",
+                    "…No no、。",
+                    "You seem to be a bit overwhelmed。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……………"
+                  ],
+                  "translation": [
+                    "……………"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……………ふむふぅ……"
+                  ],
+                  "translation": [
+                    "……………Hmmmy……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……まったく。",
+                    "裏ではいつもウチらがあれこれと",
+                    "気を使っておるのに……",
+                    "呑気な娘じゃの。"
+                  ],
+                  "translation": [
+                    "……Absolutely。",
+                    "On the back side always with us",
+                    "I am careful……",
+                    "A daughter girl。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…でも、その愛らしさがお嬢様の良い所ですよ。",
+                    "みんなに笑顔を振りまいて…",
+                    "この小さな世界を明るくしてくれる。",
+                    "とても小さな…天使様みたいです。"
+                  ],
+                  "translation": [
+                    "…But、That loveliness is a good place for a lady。",
+                    "Sprinkle smiles to everyone…",
+                    "It will brighten up this little world。",
+                    "Very small…It looks like an angel。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "天使のぅ……",
+                    "……ま、分からんではないがな。"
+                  ],
+                  "translation": [
+                    "Angel who?……",
+                    "……Up、I do not know.。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "女将様とのことは、お嬢様に任せましょう。",
+                    "私たちかとやかく口を出す事じゃないですしね。"
+                  ],
+                  "translation": [
+                    "Things with Mr. Gen.、Let's leave it to the lady。",
+                    "It is not something that we should say.。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……うむ。"
+                  ],
+                  "translation": [
+                    "……Well。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "お嬢様と、ヒミヅキ様との間にある隔たりも",
+                    "いつかきっと、お嬢様が解してくれます。",
+                    "この愛くるしさで、きっと。"
+                  ],
+                  "translation": [
+                    "With a lady、The gap between Himizuki-sama and",
+                    "Surely someday、Milady will answer。",
+                    "With this affectionateness、。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "その力は、私が証明していますから。"
+                  ],
+                  "translation": [
+                    "That power is、Because I prove it。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…じゃな。",
+                    "ウチらみんなの愛娘の力を信じるとしようぞ。",
+                    "その想い、必ずやヒミヅキ様にも届くだろうさ。"
+                  ],
+                  "translation": [
+                    "…Is not it。",
+                    "I will believe in the power of everyone's daughter。",
+                    "That feeling、It will definitely arrive as well。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "………そして、お主の葛藤も、な。",
+                    "この子は、人を解く力を持っておるからの。"
+                  ],
+                  "translation": [
+                    "………And、Your conflict is also、。",
+                    "This child、Because I have the power to solve people。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "………ふふっ……そうですね。",
+                    "……こんな幸せそうな寝顔を見てると…",
+                    "私の記憶も後悔も、解けてしまいそうです……"
+                  ],
+                  "translation": [
+                    "………Heh……I agree。",
+                    "……Looking at such a happy sleeping face…",
+                    "Neither my memory nor regret、It is likely to be solved……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Label"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…………むふぅ…………♪"
+                  ],
+                  "translation": [
+                    "…………Mumfu…………♪"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Else"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "一仕事終えたぞー、って顔ですよね。",
+                    "随分と満足気だと思いませんか？"
+                  ],
+                  "translation": [
+                    "I got a job done.ー、It is a face is not it。",
+                    "Do not you think it is quite satisfying?？"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……ふふん。",
+                    "たかが腹痛の一個や二個でよくもまぁ……"
+                  ],
+                  "translation": [
+                    "……。",
+                    "Even one or two of abdominal pain often……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "また少し大げさにしたんじゃろ？",
+                    "毎度毎度ニノも寂しがりじゃのぅ。"
+                  ],
+                  "translation": [
+                    "I also made it a little louder.？",
+                    "Every time Nino is lonely too。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "いえいえ、そんな。",
+                    "そこまであからさまにはしてないですよ。"
+                  ],
+                  "translation": [
+                    "No、Such。",
+                    "I have not made it obvious so far。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "いつの間にやらお嬢様も僅かな表情を見て",
+                    "私のウソを見破れるようになってるみたいです。",
+                    "…まぁ、多少分かりやすかったとは思いますが。"
+                  ],
+                  "translation": [
+                    "Until a woman girl looks at a slight expression",
+                    "It seems I am able to overlook my lie。",
+                    "…Well、I think that it was somewhat easy to understand。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "っふん、ぬかしおって。"
+                  ],
+                  "translation": [
+                    "Perfume、Hang on.。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……少なからず嘘に釣られ操られたとはいえ…",
+                    "何の迷いもなくそんな荒療治に走れるとは",
+                    "ニノは本当にマシロに好かれておるな。"
+                  ],
+                  "translation": [
+                    "……Even though I was caught by a lie for a while and manipulated…",
+                    "With no hesitation being able to run such a rough cure",
+                    "Nino really is liked by Mashiro。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "愛情いっぱい、注いでますから❤",
+                    "好きな分だけ、お嬢様も受け止めてくれて",
+                    "好きって気持ちを沢山返してくれるんです。"
+                  ],
+                  "translation": [
+                    "Full of affection、Because I am poured❤",
+                    "Only as much as I want、He also accepted the lady",
+                    "It gives me lots of feelings to love。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "……私には……勿体ないくらい……"
+                  ],
+                  "translation": [
+                    "……To me……Ashameda……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Jump to Label"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout BGM"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Script",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "start_daynight"
+                  ],
+                  "translation": [
+                    "start_daynight"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Script",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "change_daynight_phase(0)"
+                  ],
+                  "translation": [
+                    "change_daynight_phase(0)"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Script",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "stop_daynight"
+                  ],
+                  "translation": [
+                    "stop_daynight"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Weather Effects"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Tint Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Erase Picture"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout BGS"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Stop SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Change Actor Graphic"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Switches"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadein Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "………んぉ………"
+                  ],
+                  "translation": [
+                    "………Ah………"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おはようございます、お嬢様。"
+                  ],
+                  "translation": [
+                    "Good morning、Lady。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "…ん、おはよ。"
+                  ],
+                  "translation": [
+                    "…Hmm、Good morning。"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "あ、お腹の調子は！？",
+                    "大丈夫なの！？"
+                  ],
+                  "translation": [
+                    "Ah、Stomach condition is！？",
+                    "Are you OK?！？"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "えぇ、それはもう♪",
+                    "お嬢様が賢明に看病してくれたお陰で",
+                    "もう本調子で全快で困っちゃうくらいですよぉ♪"
+                  ],
+                  "translation": [
+                    "Yeah、It is already♪",
+                    "Because of my wife 's wise nursing attention",
+                    "I'm already in trouble because I am in trouble completely♪"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "おぉ！",
+                    "よかったねぇ！"
+                  ],
+                  "translation": [
+                    "Oh！",
+                    "Good thing.！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んふふふっ…❤",
+                    "ありがとうございました❤",
+                    "感謝の印です❤"
+                  ],
+                  "translation": [
+                    "Hehe hefu…❤",
+                    "Thank you very much❤",
+                    "It is a sign of gratitude❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "ふぇ❤"
+                  ],
+                  "translation": [
+                    "Fe❤"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shot Balloon Icon"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Wait"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "それじゃ、今日も一日よろしくね！"
+                  ],
+                  "translation": [
+                    "Well then、Happy day today！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "はいっ！",
+                    "楽しい一日の始まりですよぉ！"
+                  ],
+                  "translation": [
+                    "Yes！",
+                    "It's a fun beginning of the day！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadeout Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Switches"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Switches"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Call Common Event"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Recover All"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Transfer Player"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Set Move Route"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Move Command"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Fadein Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    [
+      13,
+      {
+        "json_class": "RPG::Event",
+        "name": {
+          "json_class": "TranslatableString",
+          "original   ": "EV013",
+          "translation": ""
+        },
+        "pages": [
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Change Items"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "特製ニノ薬を手に入れた！"
+                  ],
+                  "translation": [
+                    "I got a special nino medicine！"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Erase Event"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Variables"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          },
+          {
+            "json_class": "RPG::Event::Page",
+            "commands": [
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ]
+}
