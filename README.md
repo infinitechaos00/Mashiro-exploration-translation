@@ -16,7 +16,7 @@ This project aims to provide an easy to use in game translation.
 3. Commit changes
 
 ## Notes
-Note that 99% of the translations right now are machine translated.
+99% of the translations right now are machine translated.
 
 As people contribute translations the accuracy and fluency will improve.
 
