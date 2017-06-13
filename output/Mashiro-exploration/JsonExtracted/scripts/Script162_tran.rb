@@ -4,12 +4,16 @@
 # 　各クラスの定義が終わった後、ここから実際の処理が始まります。
 #==============================================================================
 
-unless Font.exist?("UmePlus Gothic")
-  print "UmePlus Gothic フォントが見つかりません。"
+unless Font.exist?("Segoe UI")
+  print "Segoe UI"
   exit
 end
 
+
+
 begin
+  Font.default_size = 18
+  Font.default_name = "Segoe UI"
   Graphics.freeze
   $scene = Scene_Title.new
   $scene.main while $scene != nil

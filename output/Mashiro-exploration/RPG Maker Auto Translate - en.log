@@ -273,838 +273,838 @@ Cache file exists, loading...
 24089 cached values
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Actors.json
-2017-06-13 13:59:18 -0400 Progress: Total [0/2307556] Mashiro-exploration/Actors.json [0/336] Cache hits [0] Translations [0] Failures [0]
+2017-06-13 14:23:20 -0400 Progress: Total [0/2307556] Mashiro-exploration/Actors.json [0/336] Cache hits [0] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Animations.json
-2017-06-13 13:59:18 -0400 Progress: Total [336/2307556] Mashiro-exploration/Animations.json [0/1777] Cache hits [9] Translations [0] Failures [0]
+2017-06-13 14:23:20 -0400 Progress: Total [336/2307556] Mashiro-exploration/Animations.json [0/1777] Cache hits [9] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Areas.json
-2017-06-13 13:59:18 -0400 Progress: Total [2113/2307556] Mashiro-exploration/Areas.json [0/3] Cache hits [175] Translations [0] Failures [0]
+2017-06-13 14:23:20 -0400 Progress: Total [2113/2307556] Mashiro-exploration/Areas.json [0/3] Cache hits [175] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Armors.json
-2017-06-13 13:59:18 -0400 Progress: Total [2116/2307556] Mashiro-exploration/Armors.json [0/1476] Cache hits [175] Translations [0] Failures [0]
+2017-06-13 14:23:20 -0400 Progress: Total [2116/2307556] Mashiro-exploration/Armors.json [0/1476] Cache hits [175] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Classes.json
-2017-06-13 13:59:18 -0400 Progress: Total [3592/2307556] Mashiro-exploration/Classes.json [0/336] Cache hits [297] Translations [0] Failures [0]
+2017-06-13 14:23:20 -0400 Progress: Total [3592/2307556] Mashiro-exploration/Classes.json [0/336] Cache hits [297] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/CommonEvents.json
-2017-06-13 13:59:18 -0400 Progress: Total [3928/2307556] Mashiro-exploration/CommonEvents.json [0/28885] Cache hits [307] Translations [0] Failures [0]
-2017-06-13 13:59:18 -0400 Progress: Total [13928/2307556] Mashiro-exploration/CommonEvents.json [10000/28885] Cache hits [480] Translations [0] Failures [0]
-2017-06-13 13:59:19 -0400 Progress: Total [23928/2307556] Mashiro-exploration/CommonEvents.json [20000/28885] Cache hits [756] Translations [0] Failures [0]
+2017-06-13 14:23:20 -0400 Progress: Total [3928/2307556] Mashiro-exploration/CommonEvents.json [0/28885] Cache hits [307] Translations [0] Failures [0]
+2017-06-13 14:23:21 -0400 Progress: Total [13928/2307556] Mashiro-exploration/CommonEvents.json [10000/28885] Cache hits [480] Translations [0] Failures [0]
+2017-06-13 14:23:22 -0400 Progress: Total [23928/2307556] Mashiro-exploration/CommonEvents.json [20000/28885] Cache hits [756] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Enemies.json
-2017-06-13 13:59:20 -0400 Progress: Total [32813/2307556] Mashiro-exploration/Enemies.json [0/1286] Cache hits [915] Translations [0] Failures [0]
+2017-06-13 14:23:23 -0400 Progress: Total [32813/2307556] Mashiro-exploration/Enemies.json [0/1286] Cache hits [915] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Items.json
-2017-06-13 13:59:20 -0400 Progress: Total [34099/2307556] Mashiro-exploration/Items.json [0/2106] Cache hits [952] Translations [0] Failures [0]
+2017-06-13 14:23:23 -0400 Progress: Total [34099/2307556] Mashiro-exploration/Items.json [0/2106] Cache hits [952] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map001.json
-2017-06-13 13:59:20 -0400 Progress: Total [36205/2307556] Mashiro-exploration/Map001.json [0/91294] Cache hits [1175] Translations [0] Failures [0]
-2017-06-13 13:59:21 -0400 Progress: Total [46205/2307556] Mashiro-exploration/Map001.json [10000/91294] Cache hits [2165] Translations [0] Failures [0]
-2017-06-13 13:59:22 -0400 Progress: Total [56205/2307556] Mashiro-exploration/Map001.json [20000/91294] Cache hits [3055] Translations [0] Failures [0]
-2017-06-13 13:59:24 -0400 Progress: Total [66205/2307556] Mashiro-exploration/Map001.json [30000/91294] Cache hits [3858] Translations [0] Failures [0]
-2017-06-13 13:59:27 -0400 Progress: Total [76205/2307556] Mashiro-exploration/Map001.json [40000/91294] Cache hits [4703] Translations [0] Failures [0]
-2017-06-13 13:59:31 -0400 Progress: Total [86205/2307556] Mashiro-exploration/Map001.json [50000/91294] Cache hits [5606] Translations [0] Failures [0]
-2017-06-13 13:59:36 -0400 Progress: Total [96205/2307556] Mashiro-exploration/Map001.json [60000/91294] Cache hits [6527] Translations [0] Failures [0]
-2017-06-13 13:59:42 -0400 Progress: Total [106205/2307556] Mashiro-exploration/Map001.json [70000/91294] Cache hits [7423] Translations [0] Failures [0]
-2017-06-13 13:59:48 -0400 Progress: Total [116205/2307556] Mashiro-exploration/Map001.json [80000/91294] Cache hits [8323] Translations [0] Failures [0]
-2017-06-13 13:59:56 -0400 Progress: Total [126205/2307556] Mashiro-exploration/Map001.json [90000/91294] Cache hits [9081] Translations [0] Failures [0]
+2017-06-13 14:23:23 -0400 Progress: Total [36205/2307556] Mashiro-exploration/Map001.json [0/91294] Cache hits [1175] Translations [0] Failures [0]
+2017-06-13 14:23:24 -0400 Progress: Total [46205/2307556] Mashiro-exploration/Map001.json [10000/91294] Cache hits [2165] Translations [0] Failures [0]
+2017-06-13 14:23:25 -0400 Progress: Total [56205/2307556] Mashiro-exploration/Map001.json [20000/91294] Cache hits [3055] Translations [0] Failures [0]
+2017-06-13 14:23:27 -0400 Progress: Total [66205/2307556] Mashiro-exploration/Map001.json [30000/91294] Cache hits [3858] Translations [0] Failures [0]
+2017-06-13 14:23:30 -0400 Progress: Total [76205/2307556] Mashiro-exploration/Map001.json [40000/91294] Cache hits [4703] Translations [0] Failures [0]
+2017-06-13 14:23:34 -0400 Progress: Total [86205/2307556] Mashiro-exploration/Map001.json [50000/91294] Cache hits [5606] Translations [0] Failures [0]
+2017-06-13 14:23:39 -0400 Progress: Total [96205/2307556] Mashiro-exploration/Map001.json [60000/91294] Cache hits [6527] Translations [0] Failures [0]
+2017-06-13 14:23:45 -0400 Progress: Total [106205/2307556] Mashiro-exploration/Map001.json [70000/91294] Cache hits [7423] Translations [0] Failures [0]
+2017-06-13 14:23:52 -0400 Progress: Total [116205/2307556] Mashiro-exploration/Map001.json [80000/91294] Cache hits [8323] Translations [0] Failures [0]
+2017-06-13 14:23:59 -0400 Progress: Total [126205/2307556] Mashiro-exploration/Map001.json [90000/91294] Cache hits [9081] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map002.json
-2017-06-13 13:59:57 -0400 Progress: Total [127499/2307556] Mashiro-exploration/Map002.json [0/99388] Cache hits [9209] Translations [0] Failures [0]
-2017-06-13 13:59:57 -0400 Progress: Total [137499/2307556] Mashiro-exploration/Map002.json [10000/99388] Cache hits [10259] Translations [0] Failures [0]
-2017-06-13 13:59:58 -0400 Progress: Total [147499/2307556] Mashiro-exploration/Map002.json [20000/99388] Cache hits [11155] Translations [0] Failures [0]
-2017-06-13 14:00:00 -0400 Progress: Total [157499/2307556] Mashiro-exploration/Map002.json [30000/99388] Cache hits [12061] Translations [0] Failures [0]
-2017-06-13 14:00:04 -0400 Progress: Total [167499/2307556] Mashiro-exploration/Map002.json [40000/99388] Cache hits [12916] Translations [0] Failures [0]
-2017-06-13 14:00:08 -0400 Progress: Total [177499/2307556] Mashiro-exploration/Map002.json [50000/99388] Cache hits [13800] Translations [0] Failures [0]
-2017-06-13 14:00:13 -0400 Progress: Total [187499/2307556] Mashiro-exploration/Map002.json [60000/99388] Cache hits [14866] Translations [0] Failures [0]
-2017-06-13 14:00:19 -0400 Progress: Total [197499/2307556] Mashiro-exploration/Map002.json [70000/99388] Cache hits [15885] Translations [0] Failures [0]
-2017-06-13 14:00:25 -0400 Progress: Total [207499/2307556] Mashiro-exploration/Map002.json [80000/99388] Cache hits [16897] Translations [0] Failures [0]
-2017-06-13 14:00:33 -0400 Progress: Total [217499/2307556] Mashiro-exploration/Map002.json [90000/99388] Cache hits [17722] Translations [0] Failures [0]
+2017-06-13 14:24:00 -0400 Progress: Total [127499/2307556] Mashiro-exploration/Map002.json [0/99388] Cache hits [9209] Translations [0] Failures [0]
+2017-06-13 14:24:01 -0400 Progress: Total [137499/2307556] Mashiro-exploration/Map002.json [10000/99388] Cache hits [10259] Translations [0] Failures [0]
+2017-06-13 14:24:02 -0400 Progress: Total [147499/2307556] Mashiro-exploration/Map002.json [20000/99388] Cache hits [11155] Translations [0] Failures [0]
+2017-06-13 14:24:04 -0400 Progress: Total [157499/2307556] Mashiro-exploration/Map002.json [30000/99388] Cache hits [12061] Translations [0] Failures [0]
+2017-06-13 14:24:07 -0400 Progress: Total [167499/2307556] Mashiro-exploration/Map002.json [40000/99388] Cache hits [12916] Translations [0] Failures [0]
+2017-06-13 14:24:11 -0400 Progress: Total [177499/2307556] Mashiro-exploration/Map002.json [50000/99388] Cache hits [13800] Translations [0] Failures [0]
+2017-06-13 14:24:17 -0400 Progress: Total [187499/2307556] Mashiro-exploration/Map002.json [60000/99388] Cache hits [14866] Translations [0] Failures [0]
+2017-06-13 14:24:22 -0400 Progress: Total [197499/2307556] Mashiro-exploration/Map002.json [70000/99388] Cache hits [15885] Translations [0] Failures [0]
+2017-06-13 14:24:29 -0400 Progress: Total [207499/2307556] Mashiro-exploration/Map002.json [80000/99388] Cache hits [16897] Translations [0] Failures [0]
+2017-06-13 14:24:37 -0400 Progress: Total [217499/2307556] Mashiro-exploration/Map002.json [90000/99388] Cache hits [17722] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map003.json
-2017-06-13 14:00:40 -0400 Progress: Total [226887/2307556] Mashiro-exploration/Map003.json [0/4228] Cache hits [18422] Translations [0] Failures [0]
+2017-06-13 14:24:45 -0400 Progress: Total [226887/2307556] Mashiro-exploration/Map003.json [0/4228] Cache hits [18422] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map004.json
-2017-06-13 14:00:41 -0400 Progress: Total [231115/2307556] Mashiro-exploration/Map004.json [0/3692] Cache hits [18897] Translations [0] Failures [0]
+2017-06-13 14:24:45 -0400 Progress: Total [231115/2307556] Mashiro-exploration/Map004.json [0/3692] Cache hits [18897] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map006.json
-2017-06-13 14:00:41 -0400 Progress: Total [234807/2307556] Mashiro-exploration/Map006.json [0/18303] Cache hits [18950] Translations [0] Failures [0]
-2017-06-13 14:00:41 -0400 Progress: Total [244807/2307556] Mashiro-exploration/Map006.json [10000/18303] Cache hits [19459] Translations [0] Failures [0]
+2017-06-13 14:24:45 -0400 Progress: Total [234807/2307556] Mashiro-exploration/Map006.json [0/18303] Cache hits [18950] Translations [0] Failures [0]
+2017-06-13 14:24:46 -0400 Progress: Total [244807/2307556] Mashiro-exploration/Map006.json [10000/18303] Cache hits [19459] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map007.json
-2017-06-13 14:00:42 -0400 Progress: Total [253110/2307556] Mashiro-exploration/Map007.json [0/12989] Cache hits [19675] Translations [0] Failures [0]
-2017-06-13 14:00:42 -0400 Progress: Total [263110/2307556] Mashiro-exploration/Map007.json [10000/12989] Cache hits [20354] Translations [0] Failures [0]
+2017-06-13 14:24:46 -0400 Progress: Total [253110/2307556] Mashiro-exploration/Map007.json [0/12989] Cache hits [19675] Translations [0] Failures [0]
+2017-06-13 14:24:47 -0400 Progress: Total [263110/2307556] Mashiro-exploration/Map007.json [10000/12989] Cache hits [20354] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map008.json
-2017-06-13 14:00:42 -0400 Progress: Total [266099/2307556] Mashiro-exploration/Map008.json [0/339] Cache hits [20524] Translations [0] Failures [0]
+2017-06-13 14:24:47 -0400 Progress: Total [266099/2307556] Mashiro-exploration/Map008.json [0/339] Cache hits [20524] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map009.json
-2017-06-13 14:00:42 -0400 Progress: Total [266438/2307556] Mashiro-exploration/Map009.json [0/10443] Cache hits [20524] Translations [0] Failures [0]
-2017-06-13 14:00:43 -0400 Progress: Total [276438/2307556] Mashiro-exploration/Map009.json [10000/10443] Cache hits [21260] Translations [0] Failures [0]
+2017-06-13 14:24:47 -0400 Progress: Total [266438/2307556] Mashiro-exploration/Map009.json [0/10443] Cache hits [20524] Translations [0] Failures [0]
+2017-06-13 14:24:47 -0400 Progress: Total [276438/2307556] Mashiro-exploration/Map009.json [10000/10443] Cache hits [21260] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map010.json
-2017-06-13 14:00:43 -0400 Progress: Total [276881/2307556] Mashiro-exploration/Map010.json [0/9524] Cache hits [21287] Translations [0] Failures [0]
+2017-06-13 14:24:47 -0400 Progress: Total [276881/2307556] Mashiro-exploration/Map010.json [0/9524] Cache hits [21287] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map011.json
-2017-06-13 14:00:43 -0400 Progress: Total [286405/2307556] Mashiro-exploration/Map011.json [0/11126] Cache hits [21546] Translations [0] Failures [0]
-2017-06-13 14:00:43 -0400 Progress: Total [296405/2307556] Mashiro-exploration/Map011.json [10000/11126] Cache hits [21852] Translations [0] Failures [0]
+2017-06-13 14:24:48 -0400 Progress: Total [286405/2307556] Mashiro-exploration/Map011.json [0/11126] Cache hits [21546] Translations [0] Failures [0]
+2017-06-13 14:24:48 -0400 Progress: Total [296405/2307556] Mashiro-exploration/Map011.json [10000/11126] Cache hits [21852] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map018.json
-2017-06-13 14:00:44 -0400 Progress: Total [297531/2307556] Mashiro-exploration/Map018.json [0/21803] Cache hits [21859] Translations [0] Failures [0]
-2017-06-13 14:00:44 -0400 Progress: Total [307531/2307556] Mashiro-exploration/Map018.json [10000/21803] Cache hits [22431] Translations [0] Failures [0]
-2017-06-13 14:00:45 -0400 Progress: Total [317531/2307556] Mashiro-exploration/Map018.json [20000/21803] Cache hits [22894] Translations [0] Failures [0]
+2017-06-13 14:24:48 -0400 Progress: Total [297531/2307556] Mashiro-exploration/Map018.json [0/21803] Cache hits [21859] Translations [0] Failures [0]
+2017-06-13 14:24:48 -0400 Progress: Total [307531/2307556] Mashiro-exploration/Map018.json [10000/21803] Cache hits [22431] Translations [0] Failures [0]
+2017-06-13 14:24:49 -0400 Progress: Total [317531/2307556] Mashiro-exploration/Map018.json [20000/21803] Cache hits [22894] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map019.json
-2017-06-13 14:00:45 -0400 Progress: Total [319334/2307556] Mashiro-exploration/Map019.json [0/4270] Cache hits [22984] Translations [0] Failures [0]
+2017-06-13 14:24:50 -0400 Progress: Total [319334/2307556] Mashiro-exploration/Map019.json [0/4270] Cache hits [22984] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map020.json
-2017-06-13 14:00:45 -0400 Progress: Total [323604/2307556] Mashiro-exploration/Map020.json [0/825] Cache hits [23071] Translations [0] Failures [0]
+2017-06-13 14:24:50 -0400 Progress: Total [323604/2307556] Mashiro-exploration/Map020.json [0/825] Cache hits [23071] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map021.json
-2017-06-13 14:00:45 -0400 Progress: Total [324429/2307556] Mashiro-exploration/Map021.json [0/7167] Cache hits [23138] Translations [0] Failures [0]
+2017-06-13 14:24:50 -0400 Progress: Total [324429/2307556] Mashiro-exploration/Map021.json [0/7167] Cache hits [23138] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map022.json
-2017-06-13 14:00:45 -0400 Progress: Total [331596/2307556] Mashiro-exploration/Map022.json [0/4973] Cache hits [23268] Translations [0] Failures [0]
+2017-06-13 14:24:50 -0400 Progress: Total [331596/2307556] Mashiro-exploration/Map022.json [0/4973] Cache hits [23268] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map024.json
-2017-06-13 14:00:45 -0400 Progress: Total [336569/2307556] Mashiro-exploration/Map024.json [0/60998] Cache hits [23445] Translations [0] Failures [0]
-2017-06-13 14:00:46 -0400 Progress: Total [346569/2307556] Mashiro-exploration/Map024.json [10000/60998] Cache hits [24330] Translations [0] Failures [0]
-2017-06-13 14:00:47 -0400 Progress: Total [356569/2307556] Mashiro-exploration/Map024.json [20000/60998] Cache hits [25178] Translations [0] Failures [0]
-2017-06-13 14:00:49 -0400 Progress: Total [366569/2307556] Mashiro-exploration/Map024.json [30000/60998] Cache hits [25914] Translations [0] Failures [0]
-2017-06-13 14:00:52 -0400 Progress: Total [376569/2307556] Mashiro-exploration/Map024.json [40000/60998] Cache hits [26777] Translations [0] Failures [0]
-2017-06-13 14:00:56 -0400 Progress: Total [386569/2307556] Mashiro-exploration/Map024.json [50000/60998] Cache hits [27651] Translations [0] Failures [0]
-2017-06-13 14:01:01 -0400 Progress: Total [396569/2307556] Mashiro-exploration/Map024.json [60000/60998] Cache hits [28453] Translations [0] Failures [0]
+2017-06-13 14:24:50 -0400 Progress: Total [336569/2307556] Mashiro-exploration/Map024.json [0/60998] Cache hits [23445] Translations [0] Failures [0]
+2017-06-13 14:24:50 -0400 Progress: Total [346569/2307556] Mashiro-exploration/Map024.json [10000/60998] Cache hits [24330] Translations [0] Failures [0]
+2017-06-13 14:24:51 -0400 Progress: Total [356569/2307556] Mashiro-exploration/Map024.json [20000/60998] Cache hits [25178] Translations [0] Failures [0]
+2017-06-13 14:24:53 -0400 Progress: Total [366569/2307556] Mashiro-exploration/Map024.json [30000/60998] Cache hits [25914] Translations [0] Failures [0]
+2017-06-13 14:24:57 -0400 Progress: Total [376569/2307556] Mashiro-exploration/Map024.json [40000/60998] Cache hits [26777] Translations [0] Failures [0]
+2017-06-13 14:25:01 -0400 Progress: Total [386569/2307556] Mashiro-exploration/Map024.json [50000/60998] Cache hits [27651] Translations [0] Failures [0]
+2017-06-13 14:25:06 -0400 Progress: Total [396569/2307556] Mashiro-exploration/Map024.json [60000/60998] Cache hits [28453] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map025.json
-2017-06-13 14:01:01 -0400 Progress: Total [397567/2307556] Mashiro-exploration/Map025.json [0/775] Cache hits [28542] Translations [0] Failures [0]
+2017-06-13 14:25:06 -0400 Progress: Total [397567/2307556] Mashiro-exploration/Map025.json [0/775] Cache hits [28542] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map026.json
-2017-06-13 14:01:01 -0400 Progress: Total [398342/2307556] Mashiro-exploration/Map026.json [0/4467] Cache hits [28542] Translations [0] Failures [0]
+2017-06-13 14:25:06 -0400 Progress: Total [398342/2307556] Mashiro-exploration/Map026.json [0/4467] Cache hits [28542] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map027.json
-2017-06-13 14:01:01 -0400 Progress: Total [402809/2307556] Mashiro-exploration/Map027.json [0/12196] Cache hits [28578] Translations [0] Failures [0]
-2017-06-13 14:01:01 -0400 Progress: Total [412809/2307556] Mashiro-exploration/Map027.json [10000/12196] Cache hits [29036] Translations [0] Failures [0]
+2017-06-13 14:25:06 -0400 Progress: Total [402809/2307556] Mashiro-exploration/Map027.json [0/12196] Cache hits [28578] Translations [0] Failures [0]
+2017-06-13 14:25:07 -0400 Progress: Total [412809/2307556] Mashiro-exploration/Map027.json [10000/12196] Cache hits [29036] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map028.json
-2017-06-13 14:01:02 -0400 Progress: Total [415005/2307556] Mashiro-exploration/Map028.json [0/6402] Cache hits [29105] Translations [0] Failures [0]
+2017-06-13 14:25:07 -0400 Progress: Total [415005/2307556] Mashiro-exploration/Map028.json [0/6402] Cache hits [29105] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map029.json
-2017-06-13 14:01:02 -0400 Progress: Total [421407/2307556] Mashiro-exploration/Map029.json [0/6697] Cache hits [29355] Translations [0] Failures [0]
+2017-06-13 14:25:07 -0400 Progress: Total [421407/2307556] Mashiro-exploration/Map029.json [0/6697] Cache hits [29355] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map030.json
-2017-06-13 14:01:02 -0400 Progress: Total [428104/2307556] Mashiro-exploration/Map030.json [0/755] Cache hits [29618] Translations [0] Failures [0]
+2017-06-13 14:25:07 -0400 Progress: Total [428104/2307556] Mashiro-exploration/Map030.json [0/755] Cache hits [29618] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map031.json
-2017-06-13 14:01:02 -0400 Progress: Total [428859/2307556] Mashiro-exploration/Map031.json [0/18800] Cache hits [29618] Translations [0] Failures [0]
-2017-06-13 14:01:02 -0400 Progress: Total [438859/2307556] Mashiro-exploration/Map031.json [10000/18800] Cache hits [30490] Translations [0] Failures [0]
+2017-06-13 14:25:07 -0400 Progress: Total [428859/2307556] Mashiro-exploration/Map031.json [0/18800] Cache hits [29618] Translations [0] Failures [0]
+2017-06-13 14:25:08 -0400 Progress: Total [438859/2307556] Mashiro-exploration/Map031.json [10000/18800] Cache hits [30490] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map032.json
-2017-06-13 14:01:03 -0400 Progress: Total [447659/2307556] Mashiro-exploration/Map032.json [0/36494] Cache hits [31434] Translations [0] Failures [0]
-2017-06-13 14:01:04 -0400 Progress: Total [457659/2307556] Mashiro-exploration/Map032.json [10000/36494] Cache hits [31980] Translations [0] Failures [0]
-2017-06-13 14:01:05 -0400 Progress: Total [467659/2307556] Mashiro-exploration/Map032.json [20000/36494] Cache hits [32471] Translations [0] Failures [0]
-2017-06-13 14:01:06 -0400 Progress: Total [477659/2307556] Mashiro-exploration/Map032.json [30000/36494] Cache hits [32631] Translations [0] Failures [0]
+2017-06-13 14:25:08 -0400 Progress: Total [447659/2307556] Mashiro-exploration/Map032.json [0/36494] Cache hits [31434] Translations [0] Failures [0]
+2017-06-13 14:25:09 -0400 Progress: Total [457659/2307556] Mashiro-exploration/Map032.json [10000/36494] Cache hits [31980] Translations [0] Failures [0]
+2017-06-13 14:25:10 -0400 Progress: Total [467659/2307556] Mashiro-exploration/Map032.json [20000/36494] Cache hits [32471] Translations [0] Failures [0]
+2017-06-13 14:25:11 -0400 Progress: Total [477659/2307556] Mashiro-exploration/Map032.json [30000/36494] Cache hits [32631] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map033.json
-2017-06-13 14:01:08 -0400 Progress: Total [484153/2307556] Mashiro-exploration/Map033.json [0/5492] Cache hits [33006] Translations [0] Failures [0]
+2017-06-13 14:25:13 -0400 Progress: Total [484153/2307556] Mashiro-exploration/Map033.json [0/5492] Cache hits [33006] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map034.json
-2017-06-13 14:01:08 -0400 Progress: Total [489645/2307556] Mashiro-exploration/Map034.json [0/12834] Cache hits [33274] Translations [0] Failures [0]
-2017-06-13 14:01:08 -0400 Progress: Total [499645/2307556] Mashiro-exploration/Map034.json [10000/12834] Cache hits [33773] Translations [0] Failures [0]
+2017-06-13 14:25:13 -0400 Progress: Total [489645/2307556] Mashiro-exploration/Map034.json [0/12834] Cache hits [33274] Translations [0] Failures [0]
+2017-06-13 14:25:13 -0400 Progress: Total [499645/2307556] Mashiro-exploration/Map034.json [10000/12834] Cache hits [33773] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map035.json
-2017-06-13 14:01:08 -0400 Progress: Total [502479/2307556] Mashiro-exploration/Map035.json [0/15269] Cache hits [33871] Translations [0] Failures [0]
-2017-06-13 14:01:09 -0400 Progress: Total [512479/2307556] Mashiro-exploration/Map035.json [10000/15269] Cache hits [34163] Translations [0] Failures [0]
+2017-06-13 14:25:13 -0400 Progress: Total [502479/2307556] Mashiro-exploration/Map035.json [0/15269] Cache hits [33871] Translations [0] Failures [0]
+2017-06-13 14:25:14 -0400 Progress: Total [512479/2307556] Mashiro-exploration/Map035.json [10000/15269] Cache hits [34163] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map036.json
-2017-06-13 14:01:09 -0400 Progress: Total [517748/2307556] Mashiro-exploration/Map036.json [0/13871] Cache hits [34268] Translations [0] Failures [0]
-2017-06-13 14:01:09 -0400 Progress: Total [527748/2307556] Mashiro-exploration/Map036.json [10000/13871] Cache hits [34578] Translations [0] Failures [0]
+2017-06-13 14:25:14 -0400 Progress: Total [517748/2307556] Mashiro-exploration/Map036.json [0/13871] Cache hits [34268] Translations [0] Failures [0]
+2017-06-13 14:25:14 -0400 Progress: Total [527748/2307556] Mashiro-exploration/Map036.json [10000/13871] Cache hits [34578] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map037.json
-2017-06-13 14:01:09 -0400 Progress: Total [531619/2307556] Mashiro-exploration/Map037.json [0/1649] Cache hits [34655] Translations [0] Failures [0]
+2017-06-13 14:25:15 -0400 Progress: Total [531619/2307556] Mashiro-exploration/Map037.json [0/1649] Cache hits [34655] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map038.json
-2017-06-13 14:01:10 -0400 Progress: Total [533268/2307556] Mashiro-exploration/Map038.json [0/32103] Cache hits [34677] Translations [0] Failures [0]
-2017-06-13 14:01:10 -0400 Progress: Total [543268/2307556] Mashiro-exploration/Map038.json [10000/32103] Cache hits [34957] Translations [0] Failures [0]
-2017-06-13 14:01:11 -0400 Progress: Total [553268/2307556] Mashiro-exploration/Map038.json [20000/32103] Cache hits [35443] Translations [0] Failures [0]
-2017-06-13 14:01:12 -0400 Progress: Total [563268/2307556] Mashiro-exploration/Map038.json [30000/32103] Cache hits [35911] Translations [0] Failures [0]
+2017-06-13 14:25:15 -0400 Progress: Total [533268/2307556] Mashiro-exploration/Map038.json [0/32103] Cache hits [34677] Translations [0] Failures [0]
+2017-06-13 14:25:15 -0400 Progress: Total [543268/2307556] Mashiro-exploration/Map038.json [10000/32103] Cache hits [34957] Translations [0] Failures [0]
+2017-06-13 14:25:16 -0400 Progress: Total [553268/2307556] Mashiro-exploration/Map038.json [20000/32103] Cache hits [35443] Translations [0] Failures [0]
+2017-06-13 14:25:17 -0400 Progress: Total [563268/2307556] Mashiro-exploration/Map038.json [30000/32103] Cache hits [35911] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map039.json
-2017-06-13 14:01:12 -0400 Progress: Total [565371/2307556] Mashiro-exploration/Map039.json [0/6179] Cache hits [36005] Translations [0] Failures [0]
+2017-06-13 14:25:17 -0400 Progress: Total [565371/2307556] Mashiro-exploration/Map039.json [0/6179] Cache hits [36005] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map040.json
-2017-06-13 14:01:13 -0400 Progress: Total [571550/2307556] Mashiro-exploration/Map040.json [0/3957] Cache hits [36287] Translations [0] Failures [0]
+2017-06-13 14:25:17 -0400 Progress: Total [571550/2307556] Mashiro-exploration/Map040.json [0/3957] Cache hits [36287] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map041.json
-2017-06-13 14:01:13 -0400 Progress: Total [575507/2307556] Mashiro-exploration/Map041.json [0/2996] Cache hits [36471] Translations [0] Failures [0]
+2017-06-13 14:25:18 -0400 Progress: Total [575507/2307556] Mashiro-exploration/Map041.json [0/2996] Cache hits [36471] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map042.json
-2017-06-13 14:01:13 -0400 Progress: Total [578503/2307556] Mashiro-exploration/Map042.json [0/2144] Cache hits [36514] Translations [0] Failures [0]
+2017-06-13 14:25:18 -0400 Progress: Total [578503/2307556] Mashiro-exploration/Map042.json [0/2144] Cache hits [36514] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map043.json
-2017-06-13 14:01:13 -0400 Progress: Total [580647/2307556] Mashiro-exploration/Map043.json [0/3038] Cache hits [36599] Translations [0] Failures [0]
+2017-06-13 14:25:18 -0400 Progress: Total [580647/2307556] Mashiro-exploration/Map043.json [0/3038] Cache hits [36599] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map044.json
-2017-06-13 14:01:13 -0400 Progress: Total [583685/2307556] Mashiro-exploration/Map044.json [0/1747] Cache hits [36840] Translations [0] Failures [0]
+2017-06-13 14:25:18 -0400 Progress: Total [583685/2307556] Mashiro-exploration/Map044.json [0/1747] Cache hits [36840] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map045.json
-2017-06-13 14:01:13 -0400 Progress: Total [585432/2307556] Mashiro-exploration/Map045.json [0/6] Cache hits [36983] Translations [0] Failures [0]
+2017-06-13 14:25:18 -0400 Progress: Total [585432/2307556] Mashiro-exploration/Map045.json [0/6] Cache hits [36983] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map046.json
-2017-06-13 14:01:13 -0400 Progress: Total [585438/2307556] Mashiro-exploration/Map046.json [0/12680] Cache hits [36983] Translations [0] Failures [0]
-2017-06-13 14:01:13 -0400 Progress: Total [595438/2307556] Mashiro-exploration/Map046.json [10000/12680] Cache hits [37595] Translations [0] Failures [0]
+2017-06-13 14:25:18 -0400 Progress: Total [585438/2307556] Mashiro-exploration/Map046.json [0/12680] Cache hits [36983] Translations [0] Failures [0]
+2017-06-13 14:25:18 -0400 Progress: Total [595438/2307556] Mashiro-exploration/Map046.json [10000/12680] Cache hits [37595] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map047.json
-2017-06-13 14:01:13 -0400 Progress: Total [598118/2307556] Mashiro-exploration/Map047.json [0/11438] Cache hits [37786] Translations [0] Failures [0]
-2017-06-13 14:01:13 -0400 Progress: Total [608118/2307556] Mashiro-exploration/Map047.json [10000/11438] Cache hits [37799] Translations [0] Failures [0]
+2017-06-13 14:25:18 -0400 Progress: Total [598118/2307556] Mashiro-exploration/Map047.json [0/11438] Cache hits [37786] Translations [0] Failures [0]
+2017-06-13 14:25:18 -0400 Progress: Total [608118/2307556] Mashiro-exploration/Map047.json [10000/11438] Cache hits [37799] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map070.json
-2017-06-13 14:01:14 -0400 Progress: Total [609556/2307556] Mashiro-exploration/Map070.json [0/499] Cache hits [37799] Translations [0] Failures [0]
+2017-06-13 14:25:19 -0400 Progress: Total [609556/2307556] Mashiro-exploration/Map070.json [0/499] Cache hits [37799] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map071.json
-2017-06-13 14:01:14 -0400 Progress: Total [610055/2307556] Mashiro-exploration/Map071.json [0/3299] Cache hits [37799] Translations [0] Failures [0]
+2017-06-13 14:25:19 -0400 Progress: Total [610055/2307556] Mashiro-exploration/Map071.json [0/3299] Cache hits [37799] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map081.json
-2017-06-13 14:01:14 -0400 Progress: Total [613354/2307556] Mashiro-exploration/Map081.json [0/113] Cache hits [38210] Translations [0] Failures [0]
+2017-06-13 14:25:19 -0400 Progress: Total [613354/2307556] Mashiro-exploration/Map081.json [0/113] Cache hits [38210] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map084.json
-2017-06-13 14:01:14 -0400 Progress: Total [613467/2307556] Mashiro-exploration/Map084.json [0/118] Cache hits [38214] Translations [0] Failures [0]
+2017-06-13 14:25:19 -0400 Progress: Total [613467/2307556] Mashiro-exploration/Map084.json [0/118] Cache hits [38214] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map095.json
-2017-06-13 14:01:14 -0400 Progress: Total [613585/2307556] Mashiro-exploration/Map095.json [0/17360] Cache hits [38214] Translations [0] Failures [0]
-2017-06-13 14:01:14 -0400 Progress: Total [623585/2307556] Mashiro-exploration/Map095.json [10000/17360] Cache hits [38900] Translations [0] Failures [0]
+2017-06-13 14:25:19 -0400 Progress: Total [613585/2307556] Mashiro-exploration/Map095.json [0/17360] Cache hits [38214] Translations [0] Failures [0]
+2017-06-13 14:25:19 -0400 Progress: Total [623585/2307556] Mashiro-exploration/Map095.json [10000/17360] Cache hits [38900] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map097.json
-2017-06-13 14:01:14 -0400 Progress: Total [630945/2307556] Mashiro-exploration/Map097.json [0/20496] Cache hits [39178] Translations [0] Failures [0]
-2017-06-13 14:01:15 -0400 Progress: Total [640945/2307556] Mashiro-exploration/Map097.json [10000/20496] Cache hits [39908] Translations [0] Failures [0]
-2017-06-13 14:01:16 -0400 Progress: Total [650945/2307556] Mashiro-exploration/Map097.json [20000/20496] Cache hits [40589] Translations [0] Failures [0]
+2017-06-13 14:25:20 -0400 Progress: Total [630945/2307556] Mashiro-exploration/Map097.json [0/20496] Cache hits [39178] Translations [0] Failures [0]
+2017-06-13 14:25:20 -0400 Progress: Total [640945/2307556] Mashiro-exploration/Map097.json [10000/20496] Cache hits [39908] Translations [0] Failures [0]
+2017-06-13 14:25:21 -0400 Progress: Total [650945/2307556] Mashiro-exploration/Map097.json [20000/20496] Cache hits [40589] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map098.json
-2017-06-13 14:01:16 -0400 Progress: Total [651441/2307556] Mashiro-exploration/Map098.json [0/12352] Cache hits [40620] Translations [0] Failures [0]
-2017-06-13 14:01:16 -0400 Progress: Total [661441/2307556] Mashiro-exploration/Map098.json [10000/12352] Cache hits [41441] Translations [0] Failures [0]
+2017-06-13 14:25:21 -0400 Progress: Total [651441/2307556] Mashiro-exploration/Map098.json [0/12352] Cache hits [40620] Translations [0] Failures [0]
+2017-06-13 14:25:21 -0400 Progress: Total [661441/2307556] Mashiro-exploration/Map098.json [10000/12352] Cache hits [41441] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map099.json
-2017-06-13 14:01:16 -0400 Progress: Total [663793/2307556] Mashiro-exploration/Map099.json [0/1257] Cache hits [41632] Translations [0] Failures [0]
+2017-06-13 14:25:22 -0400 Progress: Total [663793/2307556] Mashiro-exploration/Map099.json [0/1257] Cache hits [41632] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map100.json
-2017-06-13 14:01:16 -0400 Progress: Total [665050/2307556] Mashiro-exploration/Map100.json [0/236] Cache hits [41736] Translations [0] Failures [0]
+2017-06-13 14:25:22 -0400 Progress: Total [665050/2307556] Mashiro-exploration/Map100.json [0/236] Cache hits [41736] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map101.json
-2017-06-13 14:01:16 -0400 Progress: Total [665286/2307556] Mashiro-exploration/Map101.json [0/2680] Cache hits [41736] Translations [0] Failures [0]
+2017-06-13 14:25:22 -0400 Progress: Total [665286/2307556] Mashiro-exploration/Map101.json [0/2680] Cache hits [41736] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map102.json
-2017-06-13 14:01:16 -0400 Progress: Total [667966/2307556] Mashiro-exploration/Map102.json [0/492] Cache hits [41779] Translations [0] Failures [0]
+2017-06-13 14:25:22 -0400 Progress: Total [667966/2307556] Mashiro-exploration/Map102.json [0/492] Cache hits [41779] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map103.json
-2017-06-13 14:01:16 -0400 Progress: Total [668458/2307556] Mashiro-exploration/Map103.json [0/12759] Cache hits [41779] Translations [0] Failures [0]
-2017-06-13 14:01:17 -0400 Progress: Total [678458/2307556] Mashiro-exploration/Map103.json [10000/12759] Cache hits [42236] Translations [0] Failures [0]
+2017-06-13 14:25:22 -0400 Progress: Total [668458/2307556] Mashiro-exploration/Map103.json [0/12759] Cache hits [41779] Translations [0] Failures [0]
+2017-06-13 14:25:22 -0400 Progress: Total [678458/2307556] Mashiro-exploration/Map103.json [10000/12759] Cache hits [42236] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map104.json
-2017-06-13 14:01:17 -0400 Progress: Total [681217/2307556] Mashiro-exploration/Map104.json [0/29856] Cache hits [42319] Translations [0] Failures [0]
-2017-06-13 14:01:17 -0400 Progress: Total [691217/2307556] Mashiro-exploration/Map104.json [10000/29856] Cache hits [42816] Translations [0] Failures [0]
-2017-06-13 14:01:18 -0400 Progress: Total [701217/2307556] Mashiro-exploration/Map104.json [20000/29856] Cache hits [43503] Translations [0] Failures [0]
+2017-06-13 14:25:22 -0400 Progress: Total [681217/2307556] Mashiro-exploration/Map104.json [0/29856] Cache hits [42319] Translations [0] Failures [0]
+2017-06-13 14:25:22 -0400 Progress: Total [691217/2307556] Mashiro-exploration/Map104.json [10000/29856] Cache hits [42816] Translations [0] Failures [0]
+2017-06-13 14:25:23 -0400 Progress: Total [701217/2307556] Mashiro-exploration/Map104.json [20000/29856] Cache hits [43503] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map105.json
-2017-06-13 14:01:19 -0400 Progress: Total [711073/2307556] Mashiro-exploration/Map105.json [0/4931] Cache hits [43733] Translations [0] Failures [0]
+2017-06-13 14:25:24 -0400 Progress: Total [711073/2307556] Mashiro-exploration/Map105.json [0/4931] Cache hits [43733] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map106.json
-2017-06-13 14:01:19 -0400 Progress: Total [716004/2307556] Mashiro-exploration/Map106.json [0/79] Cache hits [43742] Translations [0] Failures [0]
+2017-06-13 14:25:24 -0400 Progress: Total [716004/2307556] Mashiro-exploration/Map106.json [0/79] Cache hits [43742] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map107.json
-2017-06-13 14:01:19 -0400 Progress: Total [716083/2307556] Mashiro-exploration/Map107.json [0/33921] Cache hits [43742] Translations [0] Failures [0]
-2017-06-13 14:01:20 -0400 Progress: Total [726083/2307556] Mashiro-exploration/Map107.json [10000/33921] Cache hits [43984] Translations [0] Failures [0]
-2017-06-13 14:01:20 -0400 Progress: Total [736083/2307556] Mashiro-exploration/Map107.json [20000/33921] Cache hits [44273] Translations [0] Failures [0]
-2017-06-13 14:01:22 -0400 Progress: Total [746083/2307556] Mashiro-exploration/Map107.json [30000/33921] Cache hits [44721] Translations [0] Failures [0]
+2017-06-13 14:25:24 -0400 Progress: Total [716083/2307556] Mashiro-exploration/Map107.json [0/33921] Cache hits [43742] Translations [0] Failures [0]
+2017-06-13 14:25:25 -0400 Progress: Total [726083/2307556] Mashiro-exploration/Map107.json [10000/33921] Cache hits [43984] Translations [0] Failures [0]
+2017-06-13 14:25:26 -0400 Progress: Total [736083/2307556] Mashiro-exploration/Map107.json [20000/33921] Cache hits [44273] Translations [0] Failures [0]
+2017-06-13 14:25:27 -0400 Progress: Total [746083/2307556] Mashiro-exploration/Map107.json [30000/33921] Cache hits [44721] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map108.json
-2017-06-13 14:01:22 -0400 Progress: Total [750004/2307556] Mashiro-exploration/Map108.json [0/68463] Cache hits [44897] Translations [0] Failures [0]
-2017-06-13 14:01:23 -0400 Progress: Total [760004/2307556] Mashiro-exploration/Map108.json [10000/68463] Cache hits [45218] Translations [0] Failures [0]
-2017-06-13 14:01:23 -0400 Progress: Total [770004/2307556] Mashiro-exploration/Map108.json [20000/68463] Cache hits [45395] Translations [0] Failures [0]
-2017-06-13 14:01:25 -0400 Progress: Total [780004/2307556] Mashiro-exploration/Map108.json [30000/68463] Cache hits [45804] Translations [0] Failures [0]
-2017-06-13 14:01:27 -0400 Progress: Total [790004/2307556] Mashiro-exploration/Map108.json [40000/68463] Cache hits [46208] Translations [0] Failures [0]
-2017-06-13 14:01:31 -0400 Progress: Total [800004/2307556] Mashiro-exploration/Map108.json [50000/68463] Cache hits [46589] Translations [0] Failures [0]
-2017-06-13 14:01:35 -0400 Progress: Total [810004/2307556] Mashiro-exploration/Map108.json [60000/68463] Cache hits [47028] Translations [0] Failures [0]
+2017-06-13 14:25:28 -0400 Progress: Total [750004/2307556] Mashiro-exploration/Map108.json [0/68463] Cache hits [44897] Translations [0] Failures [0]
+2017-06-13 14:25:28 -0400 Progress: Total [760004/2307556] Mashiro-exploration/Map108.json [10000/68463] Cache hits [45218] Translations [0] Failures [0]
+2017-06-13 14:25:29 -0400 Progress: Total [770004/2307556] Mashiro-exploration/Map108.json [20000/68463] Cache hits [45395] Translations [0] Failures [0]
+2017-06-13 14:25:30 -0400 Progress: Total [780004/2307556] Mashiro-exploration/Map108.json [30000/68463] Cache hits [45804] Translations [0] Failures [0]
+2017-06-13 14:25:33 -0400 Progress: Total [790004/2307556] Mashiro-exploration/Map108.json [40000/68463] Cache hits [46208] Translations [0] Failures [0]
+2017-06-13 14:25:36 -0400 Progress: Total [800004/2307556] Mashiro-exploration/Map108.json [50000/68463] Cache hits [46589] Translations [0] Failures [0]
+2017-06-13 14:25:41 -0400 Progress: Total [810004/2307556] Mashiro-exploration/Map108.json [60000/68463] Cache hits [47028] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map109.json
-2017-06-13 14:01:39 -0400 Progress: Total [818467/2307556] Mashiro-exploration/Map109.json [0/1514] Cache hits [47417] Translations [0] Failures [0]
+2017-06-13 14:25:45 -0400 Progress: Total [818467/2307556] Mashiro-exploration/Map109.json [0/1514] Cache hits [47417] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map110.json
-2017-06-13 14:01:39 -0400 Progress: Total [819981/2307556] Mashiro-exploration/Map110.json [0/4963] Cache hits [47447] Translations [0] Failures [0]
+2017-06-13 14:25:45 -0400 Progress: Total [819981/2307556] Mashiro-exploration/Map110.json [0/4963] Cache hits [47447] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map111.json
-2017-06-13 14:01:40 -0400 Progress: Total [824944/2307556] Mashiro-exploration/Map111.json [0/13046] Cache hits [47597] Translations [0] Failures [0]
-2017-06-13 14:01:40 -0400 Progress: Total [834944/2307556] Mashiro-exploration/Map111.json [10000/13046] Cache hits [48006] Translations [0] Failures [0]
+2017-06-13 14:25:46 -0400 Progress: Total [824944/2307556] Mashiro-exploration/Map111.json [0/13046] Cache hits [47597] Translations [0] Failures [0]
+2017-06-13 14:25:46 -0400 Progress: Total [834944/2307556] Mashiro-exploration/Map111.json [10000/13046] Cache hits [48006] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map112.json
-2017-06-13 14:01:40 -0400 Progress: Total [837990/2307556] Mashiro-exploration/Map112.json [0/1888] Cache hits [48103] Translations [0] Failures [0]
+2017-06-13 14:25:46 -0400 Progress: Total [837990/2307556] Mashiro-exploration/Map112.json [0/1888] Cache hits [48103] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map113.json
-2017-06-13 14:01:40 -0400 Progress: Total [839878/2307556] Mashiro-exploration/Map113.json [0/26247] Cache hits [48103] Translations [0] Failures [0]
-2017-06-13 14:01:40 -0400 Progress: Total [849878/2307556] Mashiro-exploration/Map113.json [10000/26247] Cache hits [48322] Translations [0] Failures [0]
-2017-06-13 14:01:41 -0400 Progress: Total [859878/2307556] Mashiro-exploration/Map113.json [20000/26247] Cache hits [48518] Translations [0] Failures [0]
+2017-06-13 14:25:46 -0400 Progress: Total [839878/2307556] Mashiro-exploration/Map113.json [0/26247] Cache hits [48103] Translations [0] Failures [0]
+2017-06-13 14:25:46 -0400 Progress: Total [849878/2307556] Mashiro-exploration/Map113.json [10000/26247] Cache hits [48322] Translations [0] Failures [0]
+2017-06-13 14:25:47 -0400 Progress: Total [859878/2307556] Mashiro-exploration/Map113.json [20000/26247] Cache hits [48518] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map114.json
-2017-06-13 14:01:42 -0400 Progress: Total [866125/2307556] Mashiro-exploration/Map114.json [0/19675] Cache hits [48599] Translations [0] Failures [0]
-2017-06-13 14:01:42 -0400 Progress: Total [876125/2307556] Mashiro-exploration/Map114.json [10000/19675] Cache hits [49157] Translations [0] Failures [0]
+2017-06-13 14:25:48 -0400 Progress: Total [866125/2307556] Mashiro-exploration/Map114.json [0/19675] Cache hits [48599] Translations [0] Failures [0]
+2017-06-13 14:25:48 -0400 Progress: Total [876125/2307556] Mashiro-exploration/Map114.json [10000/19675] Cache hits [49157] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map115.json
-2017-06-13 14:01:43 -0400 Progress: Total [885800/2307556] Mashiro-exploration/Map115.json [0/19735] Cache hits [49602] Translations [0] Failures [0]
-2017-06-13 14:01:43 -0400 Progress: Total [895800/2307556] Mashiro-exploration/Map115.json [10000/19735] Cache hits [50160] Translations [0] Failures [0]
+2017-06-13 14:25:49 -0400 Progress: Total [885800/2307556] Mashiro-exploration/Map115.json [0/19735] Cache hits [49602] Translations [0] Failures [0]
+2017-06-13 14:25:49 -0400 Progress: Total [895800/2307556] Mashiro-exploration/Map115.json [10000/19735] Cache hits [50160] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map116.json
-2017-06-13 14:01:44 -0400 Progress: Total [905535/2307556] Mashiro-exploration/Map116.json [0/898] Cache hits [50605] Translations [0] Failures [0]
+2017-06-13 14:25:50 -0400 Progress: Total [905535/2307556] Mashiro-exploration/Map116.json [0/898] Cache hits [50605] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map117.json
-2017-06-13 14:01:44 -0400 Progress: Total [906433/2307556] Mashiro-exploration/Map117.json [0/17598] Cache hits [50634] Translations [0] Failures [0]
-2017-06-13 14:01:44 -0400 Progress: Total [916433/2307556] Mashiro-exploration/Map117.json [10000/17598] Cache hits [50740] Translations [0] Failures [0]
+2017-06-13 14:25:50 -0400 Progress: Total [906433/2307556] Mashiro-exploration/Map117.json [0/17598] Cache hits [50634] Translations [0] Failures [0]
+2017-06-13 14:25:50 -0400 Progress: Total [916433/2307556] Mashiro-exploration/Map117.json [10000/17598] Cache hits [50740] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map118.json
-2017-06-13 14:01:45 -0400 Progress: Total [924031/2307556] Mashiro-exploration/Map118.json [0/12861] Cache hits [50957] Translations [0] Failures [0]
-2017-06-13 14:01:45 -0400 Progress: Total [934031/2307556] Mashiro-exploration/Map118.json [10000/12861] Cache hits [51122] Translations [0] Failures [0]
+2017-06-13 14:25:51 -0400 Progress: Total [924031/2307556] Mashiro-exploration/Map118.json [0/12861] Cache hits [50957] Translations [0] Failures [0]
+2017-06-13 14:25:51 -0400 Progress: Total [934031/2307556] Mashiro-exploration/Map118.json [10000/12861] Cache hits [51122] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map119.json
-2017-06-13 14:01:45 -0400 Progress: Total [936892/2307556] Mashiro-exploration/Map119.json [0/297] Cache hits [51234] Translations [0] Failures [0]
+2017-06-13 14:25:51 -0400 Progress: Total [936892/2307556] Mashiro-exploration/Map119.json [0/297] Cache hits [51234] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map120.json
-2017-06-13 14:01:45 -0400 Progress: Total [937189/2307556] Mashiro-exploration/Map120.json [0/1990] Cache hits [51234] Translations [0] Failures [0]
+2017-06-13 14:25:51 -0400 Progress: Total [937189/2307556] Mashiro-exploration/Map120.json [0/1990] Cache hits [51234] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map121.json
-2017-06-13 14:01:45 -0400 Progress: Total [939179/2307556] Mashiro-exploration/Map121.json [0/1125] Cache hits [51270] Translations [0] Failures [0]
+2017-06-13 14:25:51 -0400 Progress: Total [939179/2307556] Mashiro-exploration/Map121.json [0/1125] Cache hits [51270] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map122.json
-2017-06-13 14:01:45 -0400 Progress: Total [940304/2307556] Mashiro-exploration/Map122.json [0/925] Cache hits [51294] Translations [0] Failures [0]
+2017-06-13 14:25:51 -0400 Progress: Total [940304/2307556] Mashiro-exploration/Map122.json [0/925] Cache hits [51294] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map123.json
-2017-06-13 14:01:45 -0400 Progress: Total [941229/2307556] Mashiro-exploration/Map123.json [0/1949] Cache hits [51333] Translations [0] Failures [0]
+2017-06-13 14:25:51 -0400 Progress: Total [941229/2307556] Mashiro-exploration/Map123.json [0/1949] Cache hits [51333] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map124.json
-2017-06-13 14:01:45 -0400 Progress: Total [943178/2307556] Mashiro-exploration/Map124.json [0/1199] Cache hits [51380] Translations [0] Failures [0]
+2017-06-13 14:25:51 -0400 Progress: Total [943178/2307556] Mashiro-exploration/Map124.json [0/1199] Cache hits [51380] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map125.json
-2017-06-13 14:01:45 -0400 Progress: Total [944377/2307556] Mashiro-exploration/Map125.json [0/1574] Cache hits [51404] Translations [0] Failures [0]
+2017-06-13 14:25:51 -0400 Progress: Total [944377/2307556] Mashiro-exploration/Map125.json [0/1574] Cache hits [51404] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map126.json
-2017-06-13 14:01:45 -0400 Progress: Total [945951/2307556] Mashiro-exploration/Map126.json [0/2530] Cache hits [51445] Translations [0] Failures [0]
+2017-06-13 14:25:51 -0400 Progress: Total [945951/2307556] Mashiro-exploration/Map126.json [0/2530] Cache hits [51445] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map127.json
-2017-06-13 14:01:46 -0400 Progress: Total [948481/2307556] Mashiro-exploration/Map127.json [0/2409] Cache hits [51613] Translations [0] Failures [0]
+2017-06-13 14:25:51 -0400 Progress: Total [948481/2307556] Mashiro-exploration/Map127.json [0/2409] Cache hits [51613] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map128.json
-2017-06-13 14:01:46 -0400 Progress: Total [950890/2307556] Mashiro-exploration/Map128.json [0/4387] Cache hits [51893] Translations [0] Failures [0]
+2017-06-13 14:25:51 -0400 Progress: Total [950890/2307556] Mashiro-exploration/Map128.json [0/4387] Cache hits [51893] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map129.json
-2017-06-13 14:01:46 -0400 Progress: Total [955277/2307556] Mashiro-exploration/Map129.json [0/2054] Cache hits [52382] Translations [0] Failures [0]
+2017-06-13 14:25:51 -0400 Progress: Total [955277/2307556] Mashiro-exploration/Map129.json [0/2054] Cache hits [52382] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map130.json
-2017-06-13 14:01:46 -0400 Progress: Total [957331/2307556] Mashiro-exploration/Map130.json [0/13686] Cache hits [52467] Translations [0] Failures [0]
-2017-06-13 14:01:46 -0400 Progress: Total [967331/2307556] Mashiro-exploration/Map130.json [10000/13686] Cache hits [52746] Translations [0] Failures [0]
+2017-06-13 14:25:51 -0400 Progress: Total [957331/2307556] Mashiro-exploration/Map130.json [0/13686] Cache hits [52467] Translations [0] Failures [0]
+2017-06-13 14:25:52 -0400 Progress: Total [967331/2307556] Mashiro-exploration/Map130.json [10000/13686] Cache hits [52746] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map131.json
-2017-06-13 14:01:46 -0400 Progress: Total [971017/2307556] Mashiro-exploration/Map131.json [0/26128] Cache hits [52896] Translations [0] Failures [0]
-2017-06-13 14:01:47 -0400 Progress: Total [981017/2307556] Mashiro-exploration/Map131.json [10000/26128] Cache hits [53414] Translations [0] Failures [0]
-2017-06-13 14:01:47 -0400 Progress: Total [991017/2307556] Mashiro-exploration/Map131.json [20000/26128] Cache hits [53564] Translations [0] Failures [0]
+2017-06-13 14:25:52 -0400 Progress: Total [971017/2307556] Mashiro-exploration/Map131.json [0/26128] Cache hits [52896] Translations [0] Failures [0]
+2017-06-13 14:25:52 -0400 Progress: Total [981017/2307556] Mashiro-exploration/Map131.json [10000/26128] Cache hits [53414] Translations [0] Failures [0]
+2017-06-13 14:25:53 -0400 Progress: Total [991017/2307556] Mashiro-exploration/Map131.json [20000/26128] Cache hits [53564] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map132.json
-2017-06-13 14:01:48 -0400 Progress: Total [997145/2307556] Mashiro-exploration/Map132.json [0/13449] Cache hits [53713] Translations [0] Failures [0]
-2017-06-13 14:01:48 -0400 Progress: Total [1007145/2307556] Mashiro-exploration/Map132.json [10000/13449] Cache hits [54082] Translations [0] Failures [0]
+2017-06-13 14:25:54 -0400 Progress: Total [997145/2307556] Mashiro-exploration/Map132.json [0/13449] Cache hits [53713] Translations [0] Failures [0]
+2017-06-13 14:25:54 -0400 Progress: Total [1007145/2307556] Mashiro-exploration/Map132.json [10000/13449] Cache hits [54082] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map133.json
-2017-06-13 14:01:49 -0400 Progress: Total [1010594/2307556] Mashiro-exploration/Map133.json [0/8045] Cache hits [54166] Translations [0] Failures [0]
+2017-06-13 14:25:54 -0400 Progress: Total [1010594/2307556] Mashiro-exploration/Map133.json [0/8045] Cache hits [54166] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map134.json
-2017-06-13 14:01:49 -0400 Progress: Total [1018639/2307556] Mashiro-exploration/Map134.json [0/1406] Cache hits [54429] Translations [0] Failures [0]
+2017-06-13 14:25:55 -0400 Progress: Total [1018639/2307556] Mashiro-exploration/Map134.json [0/1406] Cache hits [54429] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map135.json
-2017-06-13 14:01:49 -0400 Progress: Total [1020045/2307556] Mashiro-exploration/Map135.json [0/1354] Cache hits [54454] Translations [0] Failures [0]
+2017-06-13 14:25:55 -0400 Progress: Total [1020045/2307556] Mashiro-exploration/Map135.json [0/1354] Cache hits [54454] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map136.json
-2017-06-13 14:01:49 -0400 Progress: Total [1021399/2307556] Mashiro-exploration/Map136.json [0/2588] Cache hits [54488] Translations [0] Failures [0]
+2017-06-13 14:25:55 -0400 Progress: Total [1021399/2307556] Mashiro-exploration/Map136.json [0/2588] Cache hits [54488] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map137.json
-2017-06-13 14:01:49 -0400 Progress: Total [1023987/2307556] Mashiro-exploration/Map137.json [0/1582] Cache hits [54570] Translations [0] Failures [0]
+2017-06-13 14:25:55 -0400 Progress: Total [1023987/2307556] Mashiro-exploration/Map137.json [0/1582] Cache hits [54570] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map138.json
-2017-06-13 14:01:49 -0400 Progress: Total [1025569/2307556] Mashiro-exploration/Map138.json [0/551] Cache hits [54617] Translations [0] Failures [0]
+2017-06-13 14:25:55 -0400 Progress: Total [1025569/2307556] Mashiro-exploration/Map138.json [0/551] Cache hits [54617] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map139.json
-2017-06-13 14:01:49 -0400 Progress: Total [1026120/2307556] Mashiro-exploration/Map139.json [0/10053] Cache hits [54667] Translations [0] Failures [0]
-2017-06-13 14:01:49 -0400 Progress: Total [1036120/2307556] Mashiro-exploration/Map139.json [10000/10053] Cache hits [54907] Translations [0] Failures [0]
+2017-06-13 14:25:55 -0400 Progress: Total [1026120/2307556] Mashiro-exploration/Map139.json [0/10053] Cache hits [54667] Translations [0] Failures [0]
+2017-06-13 14:25:55 -0400 Progress: Total [1036120/2307556] Mashiro-exploration/Map139.json [10000/10053] Cache hits [54907] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map140.json
-2017-06-13 14:01:49 -0400 Progress: Total [1036173/2307556] Mashiro-exploration/Map140.json [0/28911] Cache hits [54907] Translations [0] Failures [0]
-2017-06-13 14:01:49 -0400 Progress: Total [1046173/2307556] Mashiro-exploration/Map140.json [10000/28911] Cache hits [55189] Translations [0] Failures [0]
-2017-06-13 14:01:50 -0400 Progress: Total [1056173/2307556] Mashiro-exploration/Map140.json [20000/28911] Cache hits [55691] Translations [0] Failures [0]
+2017-06-13 14:25:55 -0400 Progress: Total [1036173/2307556] Mashiro-exploration/Map140.json [0/28911] Cache hits [54907] Translations [0] Failures [0]
+2017-06-13 14:25:55 -0400 Progress: Total [1046173/2307556] Mashiro-exploration/Map140.json [10000/28911] Cache hits [55189] Translations [0] Failures [0]
+2017-06-13 14:25:56 -0400 Progress: Total [1056173/2307556] Mashiro-exploration/Map140.json [20000/28911] Cache hits [55691] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map141.json
-2017-06-13 14:01:52 -0400 Progress: Total [1065084/2307556] Mashiro-exploration/Map141.json [0/2095] Cache hits [56033] Translations [0] Failures [0]
+2017-06-13 14:25:57 -0400 Progress: Total [1065084/2307556] Mashiro-exploration/Map141.json [0/2095] Cache hits [56033] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map142.json
-2017-06-13 14:01:52 -0400 Progress: Total [1067179/2307556] Mashiro-exploration/Map142.json [0/7515] Cache hits [56075] Translations [0] Failures [0]
+2017-06-13 14:25:57 -0400 Progress: Total [1067179/2307556] Mashiro-exploration/Map142.json [0/7515] Cache hits [56075] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map143.json
-2017-06-13 14:01:52 -0400 Progress: Total [1074694/2307556] Mashiro-exploration/Map143.json [0/9645] Cache hits [56255] Translations [0] Failures [0]
+2017-06-13 14:25:58 -0400 Progress: Total [1074694/2307556] Mashiro-exploration/Map143.json [0/9645] Cache hits [56255] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map144.json
-2017-06-13 14:01:52 -0400 Progress: Total [1084339/2307556] Mashiro-exploration/Map144.json [0/1381] Cache hits [56709] Translations [0] Failures [0]
+2017-06-13 14:25:58 -0400 Progress: Total [1084339/2307556] Mashiro-exploration/Map144.json [0/1381] Cache hits [56709] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map145.json
-2017-06-13 14:01:52 -0400 Progress: Total [1085720/2307556] Mashiro-exploration/Map145.json [0/2165] Cache hits [56733] Translations [0] Failures [0]
+2017-06-13 14:25:58 -0400 Progress: Total [1085720/2307556] Mashiro-exploration/Map145.json [0/2165] Cache hits [56733] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map146.json
-2017-06-13 14:01:52 -0400 Progress: Total [1087885/2307556] Mashiro-exploration/Map146.json [0/1425] Cache hits [56904] Translations [0] Failures [0]
+2017-06-13 14:25:58 -0400 Progress: Total [1087885/2307556] Mashiro-exploration/Map146.json [0/1425] Cache hits [56904] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map147.json
-2017-06-13 14:01:52 -0400 Progress: Total [1089310/2307556] Mashiro-exploration/Map147.json [0/1248] Cache hits [56928] Translations [0] Failures [0]
+2017-06-13 14:25:58 -0400 Progress: Total [1089310/2307556] Mashiro-exploration/Map147.json [0/1248] Cache hits [56928] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map148.json
-2017-06-13 14:01:52 -0400 Progress: Total [1090558/2307556] Mashiro-exploration/Map148.json [0/3988] Cache hits [56953] Translations [0] Failures [0]
+2017-06-13 14:25:58 -0400 Progress: Total [1090558/2307556] Mashiro-exploration/Map148.json [0/3988] Cache hits [56953] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map149.json
-2017-06-13 14:01:52 -0400 Progress: Total [1094546/2307556] Mashiro-exploration/Map149.json [0/14438] Cache hits [57123] Translations [0] Failures [0]
-2017-06-13 14:01:52 -0400 Progress: Total [1104546/2307556] Mashiro-exploration/Map149.json [10000/14438] Cache hits [57273] Translations [0] Failures [0]
+2017-06-13 14:25:58 -0400 Progress: Total [1094546/2307556] Mashiro-exploration/Map149.json [0/14438] Cache hits [57123] Translations [0] Failures [0]
+2017-06-13 14:25:58 -0400 Progress: Total [1104546/2307556] Mashiro-exploration/Map149.json [10000/14438] Cache hits [57273] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map150.json
-2017-06-13 14:01:53 -0400 Progress: Total [1108984/2307556] Mashiro-exploration/Map150.json [0/8614] Cache hits [57580] Translations [0] Failures [0]
+2017-06-13 14:25:59 -0400 Progress: Total [1108984/2307556] Mashiro-exploration/Map150.json [0/8614] Cache hits [57580] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map151.json
-2017-06-13 14:01:53 -0400 Progress: Total [1117598/2307556] Mashiro-exploration/Map151.json [0/1948] Cache hits [57890] Translations [0] Failures [0]
+2017-06-13 14:25:59 -0400 Progress: Total [1117598/2307556] Mashiro-exploration/Map151.json [0/1948] Cache hits [57890] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map152.json
-2017-06-13 14:01:53 -0400 Progress: Total [1119546/2307556] Mashiro-exploration/Map152.json [0/926] Cache hits [57942] Translations [0] Failures [0]
+2017-06-13 14:25:59 -0400 Progress: Total [1119546/2307556] Mashiro-exploration/Map152.json [0/926] Cache hits [57942] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map153.json
-2017-06-13 14:01:53 -0400 Progress: Total [1120472/2307556] Mashiro-exploration/Map153.json [0/948] Cache hits [57943] Translations [0] Failures [0]
+2017-06-13 14:25:59 -0400 Progress: Total [1120472/2307556] Mashiro-exploration/Map153.json [0/948] Cache hits [57943] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map154.json
-2017-06-13 14:01:53 -0400 Progress: Total [1121420/2307556] Mashiro-exploration/Map154.json [0/6428] Cache hits [57944] Translations [0] Failures [0]
+2017-06-13 14:25:59 -0400 Progress: Total [1121420/2307556] Mashiro-exploration/Map154.json [0/6428] Cache hits [57944] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map155.json
-2017-06-13 14:01:53 -0400 Progress: Total [1127848/2307556] Mashiro-exploration/Map155.json [0/3251] Cache hits [58237] Translations [0] Failures [0]
+2017-06-13 14:25:59 -0400 Progress: Total [1127848/2307556] Mashiro-exploration/Map155.json [0/3251] Cache hits [58237] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map156.json
-2017-06-13 14:01:53 -0400 Progress: Total [1131099/2307556] Mashiro-exploration/Map156.json [0/764] Cache hits [58405] Translations [0] Failures [0]
+2017-06-13 14:25:59 -0400 Progress: Total [1131099/2307556] Mashiro-exploration/Map156.json [0/764] Cache hits [58405] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map157.json
-2017-06-13 14:01:53 -0400 Progress: Total [1131863/2307556] Mashiro-exploration/Map157.json [0/5457] Cache hits [58415] Translations [0] Failures [0]
+2017-06-13 14:25:59 -0400 Progress: Total [1131863/2307556] Mashiro-exploration/Map157.json [0/5457] Cache hits [58415] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map158.json
-2017-06-13 14:01:53 -0400 Progress: Total [1137320/2307556] Mashiro-exploration/Map158.json [0/1911] Cache hits [58724] Translations [0] Failures [0]
+2017-06-13 14:25:59 -0400 Progress: Total [1137320/2307556] Mashiro-exploration/Map158.json [0/1911] Cache hits [58724] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map159.json
-2017-06-13 14:01:53 -0400 Progress: Total [1139231/2307556] Mashiro-exploration/Map159.json [0/6] Cache hits [58830] Translations [0] Failures [0]
+2017-06-13 14:25:59 -0400 Progress: Total [1139231/2307556] Mashiro-exploration/Map159.json [0/6] Cache hits [58830] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map160.json
-2017-06-13 14:01:53 -0400 Progress: Total [1139237/2307556] Mashiro-exploration/Map160.json [0/1072] Cache hits [58830] Translations [0] Failures [0]
+2017-06-13 14:25:59 -0400 Progress: Total [1139237/2307556] Mashiro-exploration/Map160.json [0/1072] Cache hits [58830] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map161.json
-2017-06-13 14:01:53 -0400 Progress: Total [1140309/2307556] Mashiro-exploration/Map161.json [0/724] Cache hits [58873] Translations [0] Failures [0]
+2017-06-13 14:25:59 -0400 Progress: Total [1140309/2307556] Mashiro-exploration/Map161.json [0/724] Cache hits [58873] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map162.json
-2017-06-13 14:01:53 -0400 Progress: Total [1141033/2307556] Mashiro-exploration/Map162.json [0/1753] Cache hits [58873] Translations [0] Failures [0]
+2017-06-13 14:25:59 -0400 Progress: Total [1141033/2307556] Mashiro-exploration/Map162.json [0/1753] Cache hits [58873] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map163.json
-2017-06-13 14:01:53 -0400 Progress: Total [1142786/2307556] Mashiro-exploration/Map163.json [0/6248] Cache hits [59011] Translations [0] Failures [0]
+2017-06-13 14:25:59 -0400 Progress: Total [1142786/2307556] Mashiro-exploration/Map163.json [0/6248] Cache hits [59011] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map164.json
-2017-06-13 14:01:54 -0400 Progress: Total [1149034/2307556] Mashiro-exploration/Map164.json [0/13378] Cache hits [59083] Translations [0] Failures [0]
-2017-06-13 14:01:54 -0400 Progress: Total [1159034/2307556] Mashiro-exploration/Map164.json [10000/13378] Cache hits [59236] Translations [0] Failures [0]
+2017-06-13 14:25:59 -0400 Progress: Total [1149034/2307556] Mashiro-exploration/Map164.json [0/13378] Cache hits [59083] Translations [0] Failures [0]
+2017-06-13 14:26:00 -0400 Progress: Total [1159034/2307556] Mashiro-exploration/Map164.json [10000/13378] Cache hits [59236] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map165.json
-2017-06-13 14:01:54 -0400 Progress: Total [1162412/2307556] Mashiro-exploration/Map165.json [0/3017] Cache hits [59344] Translations [0] Failures [0]
+2017-06-13 14:26:00 -0400 Progress: Total [1162412/2307556] Mashiro-exploration/Map165.json [0/3017] Cache hits [59344] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map166.json
-2017-06-13 14:01:54 -0400 Progress: Total [1165429/2307556] Mashiro-exploration/Map166.json [0/2290] Cache hits [59554] Translations [0] Failures [0]
+2017-06-13 14:26:00 -0400 Progress: Total [1165429/2307556] Mashiro-exploration/Map166.json [0/2290] Cache hits [59554] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map167.json
-2017-06-13 14:01:54 -0400 Progress: Total [1167719/2307556] Mashiro-exploration/Map167.json [0/554] Cache hits [59668] Translations [0] Failures [0]
+2017-06-13 14:26:00 -0400 Progress: Total [1167719/2307556] Mashiro-exploration/Map167.json [0/554] Cache hits [59668] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map168.json
-2017-06-13 14:01:54 -0400 Progress: Total [1168273/2307556] Mashiro-exploration/Map168.json [0/1480] Cache hits [59668] Translations [0] Failures [0]
+2017-06-13 14:26:00 -0400 Progress: Total [1168273/2307556] Mashiro-exploration/Map168.json [0/1480] Cache hits [59668] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map169.json
-2017-06-13 14:01:54 -0400 Progress: Total [1169753/2307556] Mashiro-exploration/Map169.json [0/11513] Cache hits [59714] Translations [0] Failures [0]
-2017-06-13 14:01:54 -0400 Progress: Total [1179753/2307556] Mashiro-exploration/Map169.json [10000/11513] Cache hits [59925] Translations [0] Failures [0]
+2017-06-13 14:26:00 -0400 Progress: Total [1169753/2307556] Mashiro-exploration/Map169.json [0/11513] Cache hits [59714] Translations [0] Failures [0]
+2017-06-13 14:26:00 -0400 Progress: Total [1179753/2307556] Mashiro-exploration/Map169.json [10000/11513] Cache hits [59925] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map170.json
-2017-06-13 14:01:55 -0400 Progress: Total [1181266/2307556] Mashiro-exploration/Map170.json [0/1709] Cache hits [59975] Translations [0] Failures [0]
+2017-06-13 14:26:01 -0400 Progress: Total [1181266/2307556] Mashiro-exploration/Map170.json [0/1709] Cache hits [59975] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map171.json
-2017-06-13 14:01:55 -0400 Progress: Total [1182975/2307556] Mashiro-exploration/Map171.json [0/10133] Cache hits [60035] Translations [0] Failures [0]
-2017-06-13 14:01:55 -0400 Progress: Total [1192975/2307556] Mashiro-exploration/Map171.json [10000/10133] Cache hits [60192] Translations [0] Failures [0]
+2017-06-13 14:26:01 -0400 Progress: Total [1182975/2307556] Mashiro-exploration/Map171.json [0/10133] Cache hits [60035] Translations [0] Failures [0]
+2017-06-13 14:26:01 -0400 Progress: Total [1192975/2307556] Mashiro-exploration/Map171.json [10000/10133] Cache hits [60192] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map172.json
-2017-06-13 14:01:55 -0400 Progress: Total [1193108/2307556] Mashiro-exploration/Map172.json [0/15017] Cache hits [60194] Translations [0] Failures [0]
-2017-06-13 14:01:55 -0400 Progress: Total [1203108/2307556] Mashiro-exploration/Map172.json [10000/15017] Cache hits [60416] Translations [0] Failures [0]
+2017-06-13 14:26:01 -0400 Progress: Total [1193108/2307556] Mashiro-exploration/Map172.json [0/15017] Cache hits [60194] Translations [0] Failures [0]
+2017-06-13 14:26:01 -0400 Progress: Total [1203108/2307556] Mashiro-exploration/Map172.json [10000/15017] Cache hits [60416] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map173.json
-2017-06-13 14:01:56 -0400 Progress: Total [1208125/2307556] Mashiro-exploration/Map173.json [0/10903] Cache hits [60480] Translations [0] Failures [0]
-2017-06-13 14:01:56 -0400 Progress: Total [1218125/2307556] Mashiro-exploration/Map173.json [10000/10903] Cache hits [60658] Translations [0] Failures [0]
+2017-06-13 14:26:02 -0400 Progress: Total [1208125/2307556] Mashiro-exploration/Map173.json [0/10903] Cache hits [60480] Translations [0] Failures [0]
+2017-06-13 14:26:02 -0400 Progress: Total [1218125/2307556] Mashiro-exploration/Map173.json [10000/10903] Cache hits [60658] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map174.json
-2017-06-13 14:01:56 -0400 Progress: Total [1219028/2307556] Mashiro-exploration/Map174.json [0/9368] Cache hits [60667] Translations [0] Failures [0]
+2017-06-13 14:26:02 -0400 Progress: Total [1219028/2307556] Mashiro-exploration/Map174.json [0/9368] Cache hits [60667] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map175.json
-2017-06-13 14:01:56 -0400 Progress: Total [1228396/2307556] Mashiro-exploration/Map175.json [0/72249] Cache hits [60858] Translations [0] Failures [0]
-2017-06-13 14:01:56 -0400 Progress: Total [1238396/2307556] Mashiro-exploration/Map175.json [10000/72249] Cache hits [61220] Translations [0] Failures [0]
-2017-06-13 14:01:57 -0400 Progress: Total [1248396/2307556] Mashiro-exploration/Map175.json [20000/72249] Cache hits [61731] Translations [0] Failures [0]
-2017-06-13 14:01:58 -0400 Progress: Total [1258396/2307556] Mashiro-exploration/Map175.json [30000/72249] Cache hits [62210] Translations [0] Failures [0]
-2017-06-13 14:02:01 -0400 Progress: Total [1268396/2307556] Mashiro-exploration/Map175.json [40000/72249] Cache hits [62603] Translations [0] Failures [0]
-2017-06-13 14:02:05 -0400 Progress: Total [1278396/2307556] Mashiro-exploration/Map175.json [50000/72249] Cache hits [63091] Translations [0] Failures [0]
-2017-06-13 14:02:09 -0400 Progress: Total [1288396/2307556] Mashiro-exploration/Map175.json [60000/72249] Cache hits [63618] Translations [0] Failures [0]
-2017-06-13 14:02:14 -0400 Progress: Total [1298396/2307556] Mashiro-exploration/Map175.json [70000/72249] Cache hits [64047] Translations [0] Failures [0]
+2017-06-13 14:26:02 -0400 Progress: Total [1228396/2307556] Mashiro-exploration/Map175.json [0/72249] Cache hits [60858] Translations [0] Failures [0]
+2017-06-13 14:26:02 -0400 Progress: Total [1238396/2307556] Mashiro-exploration/Map175.json [10000/72249] Cache hits [61220] Translations [0] Failures [0]
+2017-06-13 14:26:03 -0400 Progress: Total [1248396/2307556] Mashiro-exploration/Map175.json [20000/72249] Cache hits [61731] Translations [0] Failures [0]
+2017-06-13 14:26:05 -0400 Progress: Total [1258396/2307556] Mashiro-exploration/Map175.json [30000/72249] Cache hits [62210] Translations [0] Failures [0]
+2017-06-13 14:26:07 -0400 Progress: Total [1268396/2307556] Mashiro-exploration/Map175.json [40000/72249] Cache hits [62603] Translations [0] Failures [0]
+2017-06-13 14:26:11 -0400 Progress: Total [1278396/2307556] Mashiro-exploration/Map175.json [50000/72249] Cache hits [63091] Translations [0] Failures [0]
+2017-06-13 14:26:16 -0400 Progress: Total [1288396/2307556] Mashiro-exploration/Map175.json [60000/72249] Cache hits [63618] Translations [0] Failures [0]
+2017-06-13 14:26:21 -0400 Progress: Total [1298396/2307556] Mashiro-exploration/Map175.json [70000/72249] Cache hits [64047] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map176.json
-2017-06-13 14:02:15 -0400 Progress: Total [1300645/2307556] Mashiro-exploration/Map176.json [0/196074] Cache hits [64098] Translations [0] Failures [0]
-2017-06-13 14:02:16 -0400 Progress: Total [1310645/2307556] Mashiro-exploration/Map176.json [10000/196074] Cache hits [64345] Translations [0] Failures [0]
-2017-06-13 14:02:16 -0400 Progress: Total [1320645/2307556] Mashiro-exploration/Map176.json [20000/196074] Cache hits [64783] Translations [0] Failures [0]
-2017-06-13 14:02:18 -0400 Progress: Total [1330645/2307556] Mashiro-exploration/Map176.json [30000/196074] Cache hits [64918] Translations [0] Failures [0]
-2017-06-13 14:02:20 -0400 Progress: Total [1340645/2307556] Mashiro-exploration/Map176.json [40000/196074] Cache hits [65060] Translations [0] Failures [0]
-2017-06-13 14:02:24 -0400 Progress: Total [1350645/2307556] Mashiro-exploration/Map176.json [50000/196074] Cache hits [65203] Translations [0] Failures [0]
-2017-06-13 14:02:28 -0400 Progress: Total [1360645/2307556] Mashiro-exploration/Map176.json [60000/196074] Cache hits [65345] Translations [0] Failures [0]
-2017-06-13 14:02:33 -0400 Progress: Total [1370645/2307556] Mashiro-exploration/Map176.json [70000/196074] Cache hits [65488] Translations [0] Failures [0]
-2017-06-13 14:02:39 -0400 Progress: Total [1380645/2307556] Mashiro-exploration/Map176.json [80000/196074] Cache hits [65631] Translations [0] Failures [0]
-2017-06-13 14:02:45 -0400 Progress: Total [1390645/2307556] Mashiro-exploration/Map176.json [90000/196074] Cache hits [65769] Translations [0] Failures [0]
-2017-06-13 14:02:53 -0400 Progress: Total [1400645/2307556] Mashiro-exploration/Map176.json [100000/196074] Cache hits [65917] Translations [0] Failures [0]
-2017-06-13 14:03:01 -0400 Progress: Total [1410645/2307556] Mashiro-exploration/Map176.json [110000/196074] Cache hits [66077] Translations [0] Failures [0]
-2017-06-13 14:03:10 -0400 Progress: Total [1420645/2307556] Mashiro-exploration/Map176.json [120000/196074] Cache hits [66236] Translations [0] Failures [0]
-2017-06-13 14:03:20 -0400 Progress: Total [1430645/2307556] Mashiro-exploration/Map176.json [130000/196074] Cache hits [66391] Translations [0] Failures [0]
-2017-06-13 14:03:30 -0400 Progress: Total [1440645/2307556] Mashiro-exploration/Map176.json [140000/196074] Cache hits [66550] Translations [0] Failures [0]
-2017-06-13 14:03:42 -0400 Progress: Total [1450645/2307556] Mashiro-exploration/Map176.json [150000/196074] Cache hits [66709] Translations [0] Failures [0]
-2017-06-13 14:03:54 -0400 Progress: Total [1460645/2307556] Mashiro-exploration/Map176.json [160000/196074] Cache hits [66869] Translations [0] Failures [0]
-2017-06-13 14:04:07 -0400 Progress: Total [1470645/2307556] Mashiro-exploration/Map176.json [170000/196074] Cache hits [67021] Translations [0] Failures [0]
-2017-06-13 14:04:21 -0400 Progress: Total [1480645/2307556] Mashiro-exploration/Map176.json [180000/196074] Cache hits [67177] Translations [0] Failures [0]
-2017-06-13 14:04:35 -0400 Progress: Total [1490645/2307556] Mashiro-exploration/Map176.json [190000/196074] Cache hits [67336] Translations [0] Failures [0]
+2017-06-13 14:26:22 -0400 Progress: Total [1300645/2307556] Mashiro-exploration/Map176.json [0/196074] Cache hits [64098] Translations [0] Failures [0]
+2017-06-13 14:26:23 -0400 Progress: Total [1310645/2307556] Mashiro-exploration/Map176.json [10000/196074] Cache hits [64345] Translations [0] Failures [0]
+2017-06-13 14:26:23 -0400 Progress: Total [1320645/2307556] Mashiro-exploration/Map176.json [20000/196074] Cache hits [64783] Translations [0] Failures [0]
+2017-06-13 14:26:25 -0400 Progress: Total [1330645/2307556] Mashiro-exploration/Map176.json [30000/196074] Cache hits [64918] Translations [0] Failures [0]
+2017-06-13 14:26:27 -0400 Progress: Total [1340645/2307556] Mashiro-exploration/Map176.json [40000/196074] Cache hits [65060] Translations [0] Failures [0]
+2017-06-13 14:26:31 -0400 Progress: Total [1350645/2307556] Mashiro-exploration/Map176.json [50000/196074] Cache hits [65203] Translations [0] Failures [0]
+2017-06-13 14:26:35 -0400 Progress: Total [1360645/2307556] Mashiro-exploration/Map176.json [60000/196074] Cache hits [65345] Translations [0] Failures [0]
+2017-06-13 14:26:40 -0400 Progress: Total [1370645/2307556] Mashiro-exploration/Map176.json [70000/196074] Cache hits [65488] Translations [0] Failures [0]
+2017-06-13 14:26:47 -0400 Progress: Total [1380645/2307556] Mashiro-exploration/Map176.json [80000/196074] Cache hits [65631] Translations [0] Failures [0]
+2017-06-13 14:26:53 -0400 Progress: Total [1390645/2307556] Mashiro-exploration/Map176.json [90000/196074] Cache hits [65769] Translations [0] Failures [0]
+2017-06-13 14:27:01 -0400 Progress: Total [1400645/2307556] Mashiro-exploration/Map176.json [100000/196074] Cache hits [65917] Translations [0] Failures [0]
+2017-06-13 14:27:09 -0400 Progress: Total [1410645/2307556] Mashiro-exploration/Map176.json [110000/196074] Cache hits [66077] Translations [0] Failures [0]
+2017-06-13 14:27:18 -0400 Progress: Total [1420645/2307556] Mashiro-exploration/Map176.json [120000/196074] Cache hits [66236] Translations [0] Failures [0]
+2017-06-13 14:27:28 -0400 Progress: Total [1430645/2307556] Mashiro-exploration/Map176.json [130000/196074] Cache hits [66391] Translations [0] Failures [0]
+2017-06-13 14:27:39 -0400 Progress: Total [1440645/2307556] Mashiro-exploration/Map176.json [140000/196074] Cache hits [66550] Translations [0] Failures [0]
+2017-06-13 14:27:51 -0400 Progress: Total [1450645/2307556] Mashiro-exploration/Map176.json [150000/196074] Cache hits [66709] Translations [0] Failures [0]
+2017-06-13 14:28:03 -0400 Progress: Total [1460645/2307556] Mashiro-exploration/Map176.json [160000/196074] Cache hits [66869] Translations [0] Failures [0]
+2017-06-13 14:28:16 -0400 Progress: Total [1470645/2307556] Mashiro-exploration/Map176.json [170000/196074] Cache hits [67021] Translations [0] Failures [0]
+2017-06-13 14:28:31 -0400 Progress: Total [1480645/2307556] Mashiro-exploration/Map176.json [180000/196074] Cache hits [67177] Translations [0] Failures [0]
+2017-06-13 14:28:45 -0400 Progress: Total [1490645/2307556] Mashiro-exploration/Map176.json [190000/196074] Cache hits [67336] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map177.json
-2017-06-13 14:04:45 -0400 Progress: Total [1496719/2307556] Mashiro-exploration/Map177.json [0/81484] Cache hits [67431] Translations [0] Failures [0]
-2017-06-13 14:04:45 -0400 Progress: Total [1506719/2307556] Mashiro-exploration/Map177.json [10000/81484] Cache hits [67822] Translations [0] Failures [0]
-2017-06-13 14:04:46 -0400 Progress: Total [1516719/2307556] Mashiro-exploration/Map177.json [20000/81484] Cache hits [67978] Translations [0] Failures [0]
-2017-06-13 14:04:47 -0400 Progress: Total [1526719/2307556] Mashiro-exploration/Map177.json [30000/81484] Cache hits [68137] Translations [0] Failures [0]
-2017-06-13 14:04:49 -0400 Progress: Total [1536719/2307556] Mashiro-exploration/Map177.json [40000/81484] Cache hits [68297] Translations [0] Failures [0]
-2017-06-13 14:04:53 -0400 Progress: Total [1546719/2307556] Mashiro-exploration/Map177.json [50000/81484] Cache hits [68452] Translations [0] Failures [0]
-2017-06-13 14:04:57 -0400 Progress: Total [1556719/2307556] Mashiro-exploration/Map177.json [60000/81484] Cache hits [68595] Translations [0] Failures [0]
-2017-06-13 14:05:02 -0400 Progress: Total [1566719/2307556] Mashiro-exploration/Map177.json [70000/81484] Cache hits [68738] Translations [0] Failures [0]
-2017-06-13 14:05:08 -0400 Progress: Total [1576719/2307556] Mashiro-exploration/Map177.json [80000/81484] Cache hits [68874] Translations [0] Failures [0]
+2017-06-13 14:28:55 -0400 Progress: Total [1496719/2307556] Mashiro-exploration/Map177.json [0/81484] Cache hits [67431] Translations [0] Failures [0]
+2017-06-13 14:28:55 -0400 Progress: Total [1506719/2307556] Mashiro-exploration/Map177.json [10000/81484] Cache hits [67822] Translations [0] Failures [0]
+2017-06-13 14:28:56 -0400 Progress: Total [1516719/2307556] Mashiro-exploration/Map177.json [20000/81484] Cache hits [67978] Translations [0] Failures [0]
+2017-06-13 14:28:57 -0400 Progress: Total [1526719/2307556] Mashiro-exploration/Map177.json [30000/81484] Cache hits [68137] Translations [0] Failures [0]
+2017-06-13 14:28:59 -0400 Progress: Total [1536719/2307556] Mashiro-exploration/Map177.json [40000/81484] Cache hits [68297] Translations [0] Failures [0]
+2017-06-13 14:29:03 -0400 Progress: Total [1546719/2307556] Mashiro-exploration/Map177.json [50000/81484] Cache hits [68452] Translations [0] Failures [0]
+2017-06-13 14:29:08 -0400 Progress: Total [1556719/2307556] Mashiro-exploration/Map177.json [60000/81484] Cache hits [68595] Translations [0] Failures [0]
+2017-06-13 14:29:13 -0400 Progress: Total [1566719/2307556] Mashiro-exploration/Map177.json [70000/81484] Cache hits [68738] Translations [0] Failures [0]
+2017-06-13 14:29:19 -0400 Progress: Total [1576719/2307556] Mashiro-exploration/Map177.json [80000/81484] Cache hits [68874] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map178.json
-2017-06-13 14:05:09 -0400 Progress: Total [1578203/2307556] Mashiro-exploration/Map178.json [0/1090] Cache hits [68884] Translations [0] Failures [0]
+2017-06-13 14:29:20 -0400 Progress: Total [1578203/2307556] Mashiro-exploration/Map178.json [0/1090] Cache hits [68884] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map179.json
-2017-06-13 14:05:09 -0400 Progress: Total [1579293/2307556] Mashiro-exploration/Map179.json [0/3101] Cache hits [68910] Translations [0] Failures [0]
+2017-06-13 14:29:20 -0400 Progress: Total [1579293/2307556] Mashiro-exploration/Map179.json [0/3101] Cache hits [68910] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map190.json
-2017-06-13 14:05:09 -0400 Progress: Total [1582394/2307556] Mashiro-exploration/Map190.json [0/1189] Cache hits [69048] Translations [0] Failures [0]
+2017-06-13 14:29:20 -0400 Progress: Total [1582394/2307556] Mashiro-exploration/Map190.json [0/1189] Cache hits [69048] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map191.json
-2017-06-13 14:05:09 -0400 Progress: Total [1583583/2307556] Mashiro-exploration/Map191.json [0/8151] Cache hits [69066] Translations [0] Failures [0]
+2017-06-13 14:29:20 -0400 Progress: Total [1583583/2307556] Mashiro-exploration/Map191.json [0/8151] Cache hits [69066] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map192.json
-2017-06-13 14:05:10 -0400 Progress: Total [1591734/2307556] Mashiro-exploration/Map192.json [0/4779] Cache hits [69266] Translations [0] Failures [0]
+2017-06-13 14:29:20 -0400 Progress: Total [1591734/2307556] Mashiro-exploration/Map192.json [0/4779] Cache hits [69266] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map193.json
-2017-06-13 14:05:10 -0400 Progress: Total [1596513/2307556] Mashiro-exploration/Map193.json [0/1667] Cache hits [69460] Translations [0] Failures [0]
+2017-06-13 14:29:20 -0400 Progress: Total [1596513/2307556] Mashiro-exploration/Map193.json [0/1667] Cache hits [69460] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map194.json
-2017-06-13 14:05:10 -0400 Progress: Total [1598180/2307556] Mashiro-exploration/Map194.json [0/4881] Cache hits [69463] Translations [0] Failures [0]
+2017-06-13 14:29:20 -0400 Progress: Total [1598180/2307556] Mashiro-exploration/Map194.json [0/4881] Cache hits [69463] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map195.json
-2017-06-13 14:05:10 -0400 Progress: Total [1603061/2307556] Mashiro-exploration/Map195.json [0/2072] Cache hits [69607] Translations [0] Failures [0]
+2017-06-13 14:29:20 -0400 Progress: Total [1603061/2307556] Mashiro-exploration/Map195.json [0/2072] Cache hits [69607] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map196.json
-2017-06-13 14:05:10 -0400 Progress: Total [1605133/2307556] Mashiro-exploration/Map196.json [0/24605] Cache hits [69625] Translations [0] Failures [0]
-2017-06-13 14:05:10 -0400 Progress: Total [1615133/2307556] Mashiro-exploration/Map196.json [10000/24605] Cache hits [70139] Translations [0] Failures [0]
-2017-06-13 14:05:11 -0400 Progress: Total [1625133/2307556] Mashiro-exploration/Map196.json [20000/24605] Cache hits [70683] Translations [0] Failures [0]
+2017-06-13 14:29:20 -0400 Progress: Total [1605133/2307556] Mashiro-exploration/Map196.json [0/24605] Cache hits [69625] Translations [0] Failures [0]
+2017-06-13 14:29:21 -0400 Progress: Total [1615133/2307556] Mashiro-exploration/Map196.json [10000/24605] Cache hits [70139] Translations [0] Failures [0]
+2017-06-13 14:29:22 -0400 Progress: Total [1625133/2307556] Mashiro-exploration/Map196.json [20000/24605] Cache hits [70683] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map197.json
-2017-06-13 14:05:12 -0400 Progress: Total [1629738/2307556] Mashiro-exploration/Map197.json [0/26209] Cache hits [70915] Translations [0] Failures [0]
-2017-06-13 14:05:12 -0400 Progress: Total [1639738/2307556] Mashiro-exploration/Map197.json [10000/26209] Cache hits [71167] Translations [0] Failures [0]
-2017-06-13 14:05:13 -0400 Progress: Total [1649738/2307556] Mashiro-exploration/Map197.json [20000/26209] Cache hits [71320] Translations [0] Failures [0]
+2017-06-13 14:29:22 -0400 Progress: Total [1629738/2307556] Mashiro-exploration/Map197.json [0/26209] Cache hits [70915] Translations [0] Failures [0]
+2017-06-13 14:29:22 -0400 Progress: Total [1639738/2307556] Mashiro-exploration/Map197.json [10000/26209] Cache hits [71167] Translations [0] Failures [0]
+2017-06-13 14:29:23 -0400 Progress: Total [1649738/2307556] Mashiro-exploration/Map197.json [20000/26209] Cache hits [71320] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map198.json
-2017-06-13 14:05:13 -0400 Progress: Total [1655947/2307556] Mashiro-exploration/Map198.json [0/5675] Cache hits [71429] Translations [0] Failures [0]
+2017-06-13 14:29:24 -0400 Progress: Total [1655947/2307556] Mashiro-exploration/Map198.json [0/5675] Cache hits [71429] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map199.json
-2017-06-13 14:05:13 -0400 Progress: Total [1661622/2307556] Mashiro-exploration/Map199.json [0/291] Cache hits [71614] Translations [0] Failures [0]
+2017-06-13 14:29:24 -0400 Progress: Total [1661622/2307556] Mashiro-exploration/Map199.json [0/291] Cache hits [71614] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map200.json
-2017-06-13 14:05:13 -0400 Progress: Total [1661913/2307556] Mashiro-exploration/Map200.json [0/31] Cache hits [71614] Translations [0] Failures [0]
+2017-06-13 14:29:24 -0400 Progress: Total [1661913/2307556] Mashiro-exploration/Map200.json [0/31] Cache hits [71614] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map202.json
-2017-06-13 14:05:13 -0400 Progress: Total [1661944/2307556] Mashiro-exploration/Map202.json [0/3809] Cache hits [71614] Translations [0] Failures [0]
+2017-06-13 14:29:24 -0400 Progress: Total [1661944/2307556] Mashiro-exploration/Map202.json [0/3809] Cache hits [71614] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map203.json
-2017-06-13 14:05:13 -0400 Progress: Total [1665753/2307556] Mashiro-exploration/Map203.json [0/3102] Cache hits [71697] Translations [0] Failures [0]
+2017-06-13 14:29:24 -0400 Progress: Total [1665753/2307556] Mashiro-exploration/Map203.json [0/3102] Cache hits [71697] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map204.json
-2017-06-13 14:05:13 -0400 Progress: Total [1668855/2307556] Mashiro-exploration/Map204.json [0/6] Cache hits [71783] Translations [0] Failures [0]
+2017-06-13 14:29:24 -0400 Progress: Total [1668855/2307556] Mashiro-exploration/Map204.json [0/6] Cache hits [71783] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map205.json
-2017-06-13 14:05:13 -0400 Progress: Total [1668861/2307556] Mashiro-exploration/Map205.json [0/6] Cache hits [71783] Translations [0] Failures [0]
+2017-06-13 14:29:24 -0400 Progress: Total [1668861/2307556] Mashiro-exploration/Map205.json [0/6] Cache hits [71783] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map206.json
-2017-06-13 14:05:13 -0400 Progress: Total [1668867/2307556] Mashiro-exploration/Map206.json [0/8560] Cache hits [71783] Translations [0] Failures [0]
+2017-06-13 14:29:24 -0400 Progress: Total [1668867/2307556] Mashiro-exploration/Map206.json [0/8560] Cache hits [71783] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map207.json
-2017-06-13 14:05:14 -0400 Progress: Total [1677427/2307556] Mashiro-exploration/Map207.json [0/225] Cache hits [71899] Translations [0] Failures [0]
+2017-06-13 14:29:24 -0400 Progress: Total [1677427/2307556] Mashiro-exploration/Map207.json [0/225] Cache hits [71899] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map208.json
-2017-06-13 14:05:14 -0400 Progress: Total [1677652/2307556] Mashiro-exploration/Map208.json [0/180] Cache hits [71899] Translations [0] Failures [0]
+2017-06-13 14:29:24 -0400 Progress: Total [1677652/2307556] Mashiro-exploration/Map208.json [0/180] Cache hits [71899] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map209.json
-2017-06-13 14:05:14 -0400 Progress: Total [1677832/2307556] Mashiro-exploration/Map209.json [0/6] Cache hits [71908] Translations [0] Failures [0]
+2017-06-13 14:29:24 -0400 Progress: Total [1677832/2307556] Mashiro-exploration/Map209.json [0/6] Cache hits [71908] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map210.json
-2017-06-13 14:05:14 -0400 Progress: Total [1677838/2307556] Mashiro-exploration/Map210.json [0/27] Cache hits [71908] Translations [0] Failures [0]
+2017-06-13 14:29:24 -0400 Progress: Total [1677838/2307556] Mashiro-exploration/Map210.json [0/27] Cache hits [71908] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map211.json
-2017-06-13 14:05:14 -0400 Progress: Total [1677865/2307556] Mashiro-exploration/Map211.json [0/19194] Cache hits [71908] Translations [0] Failures [0]
-2017-06-13 14:05:14 -0400 Progress: Total [1687865/2307556] Mashiro-exploration/Map211.json [10000/19194] Cache hits [72367] Translations [0] Failures [0]
+2017-06-13 14:29:24 -0400 Progress: Total [1677865/2307556] Mashiro-exploration/Map211.json [0/19194] Cache hits [71908] Translations [0] Failures [0]
+2017-06-13 14:29:25 -0400 Progress: Total [1687865/2307556] Mashiro-exploration/Map211.json [10000/19194] Cache hits [72367] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map212.json
-2017-06-13 14:05:15 -0400 Progress: Total [1697059/2307556] Mashiro-exploration/Map212.json [0/2476] Cache hits [72761] Translations [0] Failures [0]
+2017-06-13 14:29:25 -0400 Progress: Total [1697059/2307556] Mashiro-exploration/Map212.json [0/2476] Cache hits [72761] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map213.json
-2017-06-13 14:05:15 -0400 Progress: Total [1699535/2307556] Mashiro-exploration/Map213.json [0/6] Cache hits [72998] Translations [0] Failures [0]
+2017-06-13 14:29:25 -0400 Progress: Total [1699535/2307556] Mashiro-exploration/Map213.json [0/6] Cache hits [72998] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map214.json
-2017-06-13 14:05:15 -0400 Progress: Total [1699541/2307556] Mashiro-exploration/Map214.json [0/15311] Cache hits [72998] Translations [0] Failures [0]
-2017-06-13 14:05:15 -0400 Progress: Total [1709541/2307556] Mashiro-exploration/Map214.json [10000/15311] Cache hits [73550] Translations [0] Failures [0]
+2017-06-13 14:29:25 -0400 Progress: Total [1699541/2307556] Mashiro-exploration/Map214.json [0/15311] Cache hits [72998] Translations [0] Failures [0]
+2017-06-13 14:29:26 -0400 Progress: Total [1709541/2307556] Mashiro-exploration/Map214.json [10000/15311] Cache hits [73550] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map215.json
-2017-06-13 14:05:15 -0400 Progress: Total [1714852/2307556] Mashiro-exploration/Map215.json [0/783] Cache hits [73821] Translations [0] Failures [0]
+2017-06-13 14:29:26 -0400 Progress: Total [1714852/2307556] Mashiro-exploration/Map215.json [0/783] Cache hits [73821] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map216.json
-2017-06-13 14:05:15 -0400 Progress: Total [1715635/2307556] Mashiro-exploration/Map216.json [0/675] Cache hits [73825] Translations [0] Failures [0]
+2017-06-13 14:29:26 -0400 Progress: Total [1715635/2307556] Mashiro-exploration/Map216.json [0/675] Cache hits [73825] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map217.json
-2017-06-13 14:05:15 -0400 Progress: Total [1716310/2307556] Mashiro-exploration/Map217.json [0/1256] Cache hits [73825] Translations [0] Failures [0]
+2017-06-13 14:29:26 -0400 Progress: Total [1716310/2307556] Mashiro-exploration/Map217.json [0/1256] Cache hits [73825] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map219.json
-2017-06-13 14:05:15 -0400 Progress: Total [1717566/2307556] Mashiro-exploration/Map219.json [0/3579] Cache hits [73895] Translations [0] Failures [0]
+2017-06-13 14:29:26 -0400 Progress: Total [1717566/2307556] Mashiro-exploration/Map219.json [0/3579] Cache hits [73895] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map220.json
-2017-06-13 14:05:16 -0400 Progress: Total [1721145/2307556] Mashiro-exploration/Map220.json [0/554] Cache hits [74075] Translations [0] Failures [0]
+2017-06-13 14:29:26 -0400 Progress: Total [1721145/2307556] Mashiro-exploration/Map220.json [0/554] Cache hits [74075] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map221.json
-2017-06-13 14:05:16 -0400 Progress: Total [1721699/2307556] Mashiro-exploration/Map221.json [0/6582] Cache hits [74075] Translations [0] Failures [0]
+2017-06-13 14:29:26 -0400 Progress: Total [1721699/2307556] Mashiro-exploration/Map221.json [0/6582] Cache hits [74075] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map222.json
-2017-06-13 14:05:16 -0400 Progress: Total [1728281/2307556] Mashiro-exploration/Map222.json [0/17598] Cache hits [74371] Translations [0] Failures [0]
-2017-06-13 14:05:16 -0400 Progress: Total [1738281/2307556] Mashiro-exploration/Map222.json [10000/17598] Cache hits [74473] Translations [0] Failures [0]
+2017-06-13 14:29:26 -0400 Progress: Total [1728281/2307556] Mashiro-exploration/Map222.json [0/17598] Cache hits [74371] Translations [0] Failures [0]
+2017-06-13 14:29:27 -0400 Progress: Total [1738281/2307556] Mashiro-exploration/Map222.json [10000/17598] Cache hits [74473] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map223.json
-2017-06-13 14:05:17 -0400 Progress: Total [1745879/2307556] Mashiro-exploration/Map223.json [0/6] Cache hits [74686] Translations [0] Failures [0]
+2017-06-13 14:29:27 -0400 Progress: Total [1745879/2307556] Mashiro-exploration/Map223.json [0/6] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map224.json
-2017-06-13 14:05:17 -0400 Progress: Total [1745885/2307556] Mashiro-exploration/Map224.json [0/6] Cache hits [74686] Translations [0] Failures [0]
+2017-06-13 14:29:27 -0400 Progress: Total [1745885/2307556] Mashiro-exploration/Map224.json [0/6] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map225.json
-2017-06-13 14:05:17 -0400 Progress: Total [1745891/2307556] Mashiro-exploration/Map225.json [0/6] Cache hits [74686] Translations [0] Failures [0]
+2017-06-13 14:29:27 -0400 Progress: Total [1745891/2307556] Mashiro-exploration/Map225.json [0/6] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map226.json
-2017-06-13 14:05:17 -0400 Progress: Total [1745897/2307556] Mashiro-exploration/Map226.json [0/6] Cache hits [74686] Translations [0] Failures [0]
+2017-06-13 14:29:27 -0400 Progress: Total [1745897/2307556] Mashiro-exploration/Map226.json [0/6] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map227.json
-2017-06-13 14:05:17 -0400 Progress: Total [1745903/2307556] Mashiro-exploration/Map227.json [0/6] Cache hits [74686] Translations [0] Failures [0]
+2017-06-13 14:29:27 -0400 Progress: Total [1745903/2307556] Mashiro-exploration/Map227.json [0/6] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map228.json
-2017-06-13 14:05:17 -0400 Progress: Total [1745909/2307556] Mashiro-exploration/Map228.json [0/6] Cache hits [74686] Translations [0] Failures [0]
+2017-06-13 14:29:27 -0400 Progress: Total [1745909/2307556] Mashiro-exploration/Map228.json [0/6] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map229.json
-2017-06-13 14:05:17 -0400 Progress: Total [1745915/2307556] Mashiro-exploration/Map229.json [0/6] Cache hits [74686] Translations [0] Failures [0]
+2017-06-13 14:29:27 -0400 Progress: Total [1745915/2307556] Mashiro-exploration/Map229.json [0/6] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map230.json
-2017-06-13 14:05:17 -0400 Progress: Total [1745921/2307556] Mashiro-exploration/Map230.json [0/6] Cache hits [74686] Translations [0] Failures [0]
+2017-06-13 14:29:27 -0400 Progress: Total [1745921/2307556] Mashiro-exploration/Map230.json [0/6] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map231.json
-2017-06-13 14:05:17 -0400 Progress: Total [1745927/2307556] Mashiro-exploration/Map231.json [0/561] Cache hits [74686] Translations [0] Failures [0]
+2017-06-13 14:29:27 -0400 Progress: Total [1745927/2307556] Mashiro-exploration/Map231.json [0/561] Cache hits [74686] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map232.json
-2017-06-13 14:05:17 -0400 Progress: Total [1746488/2307556] Mashiro-exploration/Map232.json [0/2245] Cache hits [74741] Translations [0] Failures [0]
+2017-06-13 14:29:27 -0400 Progress: Total [1746488/2307556] Mashiro-exploration/Map232.json [0/2245] Cache hits [74741] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map233.json
-2017-06-13 14:05:17 -0400 Progress: Total [1748733/2307556] Mashiro-exploration/Map233.json [0/2515] Cache hits [74921] Translations [0] Failures [0]
+2017-06-13 14:29:27 -0400 Progress: Total [1748733/2307556] Mashiro-exploration/Map233.json [0/2515] Cache hits [74921] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map234.json
-2017-06-13 14:05:17 -0400 Progress: Total [1751248/2307556] Mashiro-exploration/Map234.json [0/8426] Cache hits [75117] Translations [0] Failures [0]
+2017-06-13 14:29:27 -0400 Progress: Total [1751248/2307556] Mashiro-exploration/Map234.json [0/8426] Cache hits [75117] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map235.json
-2017-06-13 14:05:17 -0400 Progress: Total [1759674/2307556] Mashiro-exploration/Map235.json [0/7244] Cache hits [75324] Translations [0] Failures [0]
+2017-06-13 14:29:27 -0400 Progress: Total [1759674/2307556] Mashiro-exploration/Map235.json [0/7244] Cache hits [75324] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map236.json
-2017-06-13 14:05:17 -0400 Progress: Total [1766918/2307556] Mashiro-exploration/Map236.json [0/13654] Cache hits [75509] Translations [0] Failures [0]
-2017-06-13 14:05:17 -0400 Progress: Total [1776918/2307556] Mashiro-exploration/Map236.json [10000/13654] Cache hits [76004] Translations [0] Failures [0]
+2017-06-13 14:29:28 -0400 Progress: Total [1766918/2307556] Mashiro-exploration/Map236.json [0/13654] Cache hits [75509] Translations [0] Failures [0]
+2017-06-13 14:29:28 -0400 Progress: Total [1776918/2307556] Mashiro-exploration/Map236.json [10000/13654] Cache hits [76004] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map237.json
-2017-06-13 14:05:18 -0400 Progress: Total [1780572/2307556] Mashiro-exploration/Map237.json [0/7252] Cache hits [76183] Translations [0] Failures [0]
+2017-06-13 14:29:28 -0400 Progress: Total [1780572/2307556] Mashiro-exploration/Map237.json [0/7252] Cache hits [76183] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map238.json
-2017-06-13 14:05:18 -0400 Progress: Total [1787824/2307556] Mashiro-exploration/Map238.json [0/14478] Cache hits [76368] Translations [0] Failures [0]
-2017-06-13 14:05:18 -0400 Progress: Total [1797824/2307556] Mashiro-exploration/Map238.json [10000/14478] Cache hits [76980] Translations [0] Failures [0]
+2017-06-13 14:29:29 -0400 Progress: Total [1787824/2307556] Mashiro-exploration/Map238.json [0/14478] Cache hits [76368] Translations [0] Failures [0]
+2017-06-13 14:29:29 -0400 Progress: Total [1797824/2307556] Mashiro-exploration/Map238.json [10000/14478] Cache hits [76980] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map239.json
-2017-06-13 14:05:18 -0400 Progress: Total [1802302/2307556] Mashiro-exploration/Map239.json [0/4154] Cache hits [77332] Translations [0] Failures [0]
+2017-06-13 14:29:29 -0400 Progress: Total [1802302/2307556] Mashiro-exploration/Map239.json [0/4154] Cache hits [77332] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map240.json
-2017-06-13 14:05:19 -0400 Progress: Total [1806456/2307556] Mashiro-exploration/Map240.json [0/7874] Cache hits [77818] Translations [0] Failures [0]
+2017-06-13 14:29:29 -0400 Progress: Total [1806456/2307556] Mashiro-exploration/Map240.json [0/7874] Cache hits [77818] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map241.json
-2017-06-13 14:05:19 -0400 Progress: Total [1814330/2307556] Mashiro-exploration/Map241.json [0/1509] Cache hits [78058] Translations [0] Failures [0]
+2017-06-13 14:29:29 -0400 Progress: Total [1814330/2307556] Mashiro-exploration/Map241.json [0/1509] Cache hits [78058] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map242.json
-2017-06-13 14:05:19 -0400 Progress: Total [1815839/2307556] Mashiro-exploration/Map242.json [0/1936] Cache hits [78122] Translations [0] Failures [0]
+2017-06-13 14:29:30 -0400 Progress: Total [1815839/2307556] Mashiro-exploration/Map242.json [0/1936] Cache hits [78122] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map243.json
-2017-06-13 14:05:19 -0400 Progress: Total [1817775/2307556] Mashiro-exploration/Map243.json [0/6] Cache hits [78323] Translations [0] Failures [0]
+2017-06-13 14:29:30 -0400 Progress: Total [1817775/2307556] Mashiro-exploration/Map243.json [0/6] Cache hits [78323] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map244.json
-2017-06-13 14:05:19 -0400 Progress: Total [1817781/2307556] Mashiro-exploration/Map244.json [0/6991] Cache hits [78323] Translations [0] Failures [0]
+2017-06-13 14:29:30 -0400 Progress: Total [1817781/2307556] Mashiro-exploration/Map244.json [0/6991] Cache hits [78323] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map245.json
-2017-06-13 14:05:19 -0400 Progress: Total [1824772/2307556] Mashiro-exploration/Map245.json [0/9783] Cache hits [78546] Translations [0] Failures [0]
+2017-06-13 14:29:30 -0400 Progress: Total [1824772/2307556] Mashiro-exploration/Map245.json [0/9783] Cache hits [78546] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map246.json
-2017-06-13 14:05:19 -0400 Progress: Total [1834555/2307556] Mashiro-exploration/Map246.json [0/37736] Cache hits [79253] Translations [0] Failures [0]
-2017-06-13 14:05:20 -0400 Progress: Total [1844555/2307556] Mashiro-exploration/Map246.json [10000/37736] Cache hits [79946] Translations [0] Failures [0]
-2017-06-13 14:05:21 -0400 Progress: Total [1854555/2307556] Mashiro-exploration/Map246.json [20000/37736] Cache hits [80867] Translations [0] Failures [0]
-2017-06-13 14:05:22 -0400 Progress: Total [1864555/2307556] Mashiro-exploration/Map246.json [30000/37736] Cache hits [81768] Translations [0] Failures [0]
+2017-06-13 14:29:30 -0400 Progress: Total [1834555/2307556] Mashiro-exploration/Map246.json [0/37736] Cache hits [79253] Translations [0] Failures [0]
+2017-06-13 14:29:30 -0400 Progress: Total [1844555/2307556] Mashiro-exploration/Map246.json [10000/37736] Cache hits [79946] Translations [0] Failures [0]
+2017-06-13 14:29:31 -0400 Progress: Total [1854555/2307556] Mashiro-exploration/Map246.json [20000/37736] Cache hits [80867] Translations [0] Failures [0]
+2017-06-13 14:29:33 -0400 Progress: Total [1864555/2307556] Mashiro-exploration/Map246.json [30000/37736] Cache hits [81768] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map247.json
-2017-06-13 14:05:24 -0400 Progress: Total [1872291/2307556] Mashiro-exploration/Map247.json [0/13445] Cache hits [82539] Translations [0] Failures [0]
-2017-06-13 14:05:25 -0400 Progress: Total [1882291/2307556] Mashiro-exploration/Map247.json [10000/13445] Cache hits [83198] Translations [0] Failures [0]
+2017-06-13 14:29:35 -0400 Progress: Total [1872291/2307556] Mashiro-exploration/Map247.json [0/13445] Cache hits [82539] Translations [0] Failures [0]
+2017-06-13 14:29:35 -0400 Progress: Total [1882291/2307556] Mashiro-exploration/Map247.json [10000/13445] Cache hits [83198] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map254.json
-2017-06-13 14:05:25 -0400 Progress: Total [1885736/2307556] Mashiro-exploration/Map254.json [0/6] Cache hits [83570] Translations [0] Failures [0]
+2017-06-13 14:29:35 -0400 Progress: Total [1885736/2307556] Mashiro-exploration/Map254.json [0/6] Cache hits [83570] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map255.json
-2017-06-13 14:05:25 -0400 Progress: Total [1885742/2307556] Mashiro-exploration/Map255.json [0/3436] Cache hits [83570] Translations [0] Failures [0]
+2017-06-13 14:29:35 -0400 Progress: Total [1885742/2307556] Mashiro-exploration/Map255.json [0/3436] Cache hits [83570] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map257.json
-2017-06-13 14:05:25 -0400 Progress: Total [1889178/2307556] Mashiro-exploration/Map257.json [0/6] Cache hits [83648] Translations [0] Failures [0]
+2017-06-13 14:29:35 -0400 Progress: Total [1889178/2307556] Mashiro-exploration/Map257.json [0/6] Cache hits [83648] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map258.json
-2017-06-13 14:05:25 -0400 Progress: Total [1889184/2307556] Mashiro-exploration/Map258.json [0/5504] Cache hits [83648] Translations [0] Failures [0]
+2017-06-13 14:29:35 -0400 Progress: Total [1889184/2307556] Mashiro-exploration/Map258.json [0/5504] Cache hits [83648] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map259.json
-2017-06-13 14:05:25 -0400 Progress: Total [1894688/2307556] Mashiro-exploration/Map259.json [0/538] Cache hits [83790] Translations [0] Failures [0]
+2017-06-13 14:29:36 -0400 Progress: Total [1894688/2307556] Mashiro-exploration/Map259.json [0/538] Cache hits [83790] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map260.json
-2017-06-13 14:05:25 -0400 Progress: Total [1895226/2307556] Mashiro-exploration/Map260.json [0/3846] Cache hits [83852] Translations [0] Failures [0]
+2017-06-13 14:29:36 -0400 Progress: Total [1895226/2307556] Mashiro-exploration/Map260.json [0/3846] Cache hits [83852] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map261.json
-2017-06-13 14:05:25 -0400 Progress: Total [1899072/2307556] Mashiro-exploration/Map261.json [0/36584] Cache hits [83975] Translations [0] Failures [0]
-2017-06-13 14:05:25 -0400 Progress: Total [1909072/2307556] Mashiro-exploration/Map261.json [10000/36584] Cache hits [84560] Translations [0] Failures [0]
-2017-06-13 14:05:26 -0400 Progress: Total [1919072/2307556] Mashiro-exploration/Map261.json [20000/36584] Cache hits [85200] Translations [0] Failures [0]
-2017-06-13 14:05:28 -0400 Progress: Total [1929072/2307556] Mashiro-exploration/Map261.json [30000/36584] Cache hits [85833] Translations [0] Failures [0]
+2017-06-13 14:29:36 -0400 Progress: Total [1899072/2307556] Mashiro-exploration/Map261.json [0/36584] Cache hits [83975] Translations [0] Failures [0]
+2017-06-13 14:29:36 -0400 Progress: Total [1909072/2307556] Mashiro-exploration/Map261.json [10000/36584] Cache hits [84560] Translations [0] Failures [0]
+2017-06-13 14:29:37 -0400 Progress: Total [1919072/2307556] Mashiro-exploration/Map261.json [20000/36584] Cache hits [85200] Translations [0] Failures [0]
+2017-06-13 14:29:38 -0400 Progress: Total [1929072/2307556] Mashiro-exploration/Map261.json [30000/36584] Cache hits [85833] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map262.json
-2017-06-13 14:05:29 -0400 Progress: Total [1935656/2307556] Mashiro-exploration/Map262.json [0/39709] Cache hits [86044] Translations [0] Failures [0]
-2017-06-13 14:05:30 -0400 Progress: Total [1945656/2307556] Mashiro-exploration/Map262.json [10000/39709] Cache hits [86269] Translations [0] Failures [0]
-2017-06-13 14:05:30 -0400 Progress: Total [1955656/2307556] Mashiro-exploration/Map262.json [20000/39709] Cache hits [86428] Translations [0] Failures [0]
-2017-06-13 14:05:31 -0400 Progress: Total [1965656/2307556] Mashiro-exploration/Map262.json [30000/39709] Cache hits [86655] Translations [0] Failures [0]
+2017-06-13 14:29:40 -0400 Progress: Total [1935656/2307556] Mashiro-exploration/Map262.json [0/39709] Cache hits [86044] Translations [0] Failures [0]
+2017-06-13 14:29:40 -0400 Progress: Total [1945656/2307556] Mashiro-exploration/Map262.json [10000/39709] Cache hits [86269] Translations [0] Failures [0]
+2017-06-13 14:29:41 -0400 Progress: Total [1955656/2307556] Mashiro-exploration/Map262.json [20000/39709] Cache hits [86428] Translations [0] Failures [0]
+2017-06-13 14:29:41 -0400 Progress: Total [1965656/2307556] Mashiro-exploration/Map262.json [30000/39709] Cache hits [86655] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map263.json
-2017-06-13 14:05:34 -0400 Progress: Total [1975365/2307556] Mashiro-exploration/Map263.json [0/7127] Cache hits [86813] Translations [0] Failures [0]
+2017-06-13 14:29:44 -0400 Progress: Total [1975365/2307556] Mashiro-exploration/Map263.json [0/7127] Cache hits [86813] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map264.json
-2017-06-13 14:05:34 -0400 Progress: Total [1982492/2307556] Mashiro-exploration/Map264.json [0/5962] Cache hits [86984] Translations [0] Failures [0]
+2017-06-13 14:29:44 -0400 Progress: Total [1982492/2307556] Mashiro-exploration/Map264.json [0/5962] Cache hits [86984] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map265.json
-2017-06-13 14:05:34 -0400 Progress: Total [1988454/2307556] Mashiro-exploration/Map265.json [0/60059] Cache hits [87099] Translations [0] Failures [0]
-2017-06-13 14:05:35 -0400 Progress: Total [1998454/2307556] Mashiro-exploration/Map265.json [10000/60059] Cache hits [87672] Translations [0] Failures [0]
-2017-06-13 14:05:35 -0400 Progress: Total [2008454/2307556] Mashiro-exploration/Map265.json [20000/60059] Cache hits [88314] Translations [0] Failures [0]
-2017-06-13 14:05:37 -0400 Progress: Total [2018454/2307556] Mashiro-exploration/Map265.json [30000/60059] Cache hits [88923] Translations [0] Failures [0]
-2017-06-13 14:05:39 -0400 Progress: Total [2028454/2307556] Mashiro-exploration/Map265.json [40000/60059] Cache hits [89396] Translations [0] Failures [0]
-2017-06-13 14:05:43 -0400 Progress: Total [2038454/2307556] Mashiro-exploration/Map265.json [50000/60059] Cache hits [90012] Translations [0] Failures [0]
-2017-06-13 14:05:48 -0400 Progress: Total [2048454/2307556] Mashiro-exploration/Map265.json [60000/60059] Cache hits [90502] Translations [0] Failures [0]
+2017-06-13 14:29:44 -0400 Progress: Total [1988454/2307556] Mashiro-exploration/Map265.json [0/60059] Cache hits [87099] Translations [0] Failures [0]
+2017-06-13 14:29:44 -0400 Progress: Total [1998454/2307556] Mashiro-exploration/Map265.json [10000/60059] Cache hits [87672] Translations [0] Failures [0]
+2017-06-13 14:29:45 -0400 Progress: Total [2008454/2307556] Mashiro-exploration/Map265.json [20000/60059] Cache hits [88314] Translations [0] Failures [0]
+2017-06-13 14:29:46 -0400 Progress: Total [2018454/2307556] Mashiro-exploration/Map265.json [30000/60059] Cache hits [88923] Translations [0] Failures [0]
+2017-06-13 14:29:49 -0400 Progress: Total [2028454/2307556] Mashiro-exploration/Map265.json [40000/60059] Cache hits [89396] Translations [0] Failures [0]
+2017-06-13 14:29:53 -0400 Progress: Total [2038454/2307556] Mashiro-exploration/Map265.json [50000/60059] Cache hits [90012] Translations [0] Failures [0]
+2017-06-13 14:29:57 -0400 Progress: Total [2048454/2307556] Mashiro-exploration/Map265.json [60000/60059] Cache hits [90502] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map266.json
-2017-06-13 14:05:48 -0400 Progress: Total [2048513/2307556] Mashiro-exploration/Map266.json [0/40404] Cache hits [90502] Translations [0] Failures [0]
-2017-06-13 14:05:48 -0400 Progress: Total [2058513/2307556] Mashiro-exploration/Map266.json [10000/40404] Cache hits [90739] Translations [0] Failures [0]
-2017-06-13 14:05:49 -0400 Progress: Total [2068513/2307556] Mashiro-exploration/Map266.json [20000/40404] Cache hits [90898] Translations [0] Failures [0]
-2017-06-13 14:05:50 -0400 Progress: Total [2078513/2307556] Mashiro-exploration/Map266.json [30000/40404] Cache hits [91141] Translations [0] Failures [0]
-2017-06-13 14:05:53 -0400 Progress: Total [2088513/2307556] Mashiro-exploration/Map266.json [40000/40404] Cache hits [91349] Translations [0] Failures [0]
+2017-06-13 14:29:57 -0400 Progress: Total [2048513/2307556] Mashiro-exploration/Map266.json [0/40404] Cache hits [90502] Translations [0] Failures [0]
+2017-06-13 14:29:57 -0400 Progress: Total [2058513/2307556] Mashiro-exploration/Map266.json [10000/40404] Cache hits [90739] Translations [0] Failures [0]
+2017-06-13 14:29:58 -0400 Progress: Total [2068513/2307556] Mashiro-exploration/Map266.json [20000/40404] Cache hits [90898] Translations [0] Failures [0]
+2017-06-13 14:29:59 -0400 Progress: Total [2078513/2307556] Mashiro-exploration/Map266.json [30000/40404] Cache hits [91141] Translations [0] Failures [0]
+2017-06-13 14:30:01 -0400 Progress: Total [2088513/2307556] Mashiro-exploration/Map266.json [40000/40404] Cache hits [91349] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map267.json
-2017-06-13 14:05:53 -0400 Progress: Total [2088917/2307556] Mashiro-exploration/Map267.json [0/8727] Cache hits [91351] Translations [0] Failures [0]
+2017-06-13 14:30:02 -0400 Progress: Total [2088917/2307556] Mashiro-exploration/Map267.json [0/8727] Cache hits [91351] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map268.json
-2017-06-13 14:05:53 -0400 Progress: Total [2097644/2307556] Mashiro-exploration/Map268.json [0/59592] Cache hits [91568] Translations [0] Failures [0]
-2017-06-13 14:05:54 -0400 Progress: Total [2107644/2307556] Mashiro-exploration/Map268.json [10000/59592] Cache hits [92218] Translations [0] Failures [0]
-2017-06-13 14:05:54 -0400 Progress: Total [2117644/2307556] Mashiro-exploration/Map268.json [20000/59592] Cache hits [92864] Translations [0] Failures [0]
-2017-06-13 14:05:56 -0400 Progress: Total [2127644/2307556] Mashiro-exploration/Map268.json [30000/59592] Cache hits [93324] Translations [0] Failures [0]
-2017-06-13 14:05:59 -0400 Progress: Total [2137644/2307556] Mashiro-exploration/Map268.json [40000/59592] Cache hits [93749] Translations [0] Failures [0]
-2017-06-13 14:06:02 -0400 Progress: Total [2147644/2307556] Mashiro-exploration/Map268.json [50000/59592] Cache hits [94449] Translations [0] Failures [0]
+2017-06-13 14:30:02 -0400 Progress: Total [2097644/2307556] Mashiro-exploration/Map268.json [0/59592] Cache hits [91568] Translations [0] Failures [0]
+2017-06-13 14:30:02 -0400 Progress: Total [2107644/2307556] Mashiro-exploration/Map268.json [10000/59592] Cache hits [92218] Translations [0] Failures [0]
+2017-06-13 14:30:03 -0400 Progress: Total [2117644/2307556] Mashiro-exploration/Map268.json [20000/59592] Cache hits [92864] Translations [0] Failures [0]
+2017-06-13 14:30:04 -0400 Progress: Total [2127644/2307556] Mashiro-exploration/Map268.json [30000/59592] Cache hits [93324] Translations [0] Failures [0]
+2017-06-13 14:30:07 -0400 Progress: Total [2137644/2307556] Mashiro-exploration/Map268.json [40000/59592] Cache hits [93749] Translations [0] Failures [0]
+2017-06-13 14:30:10 -0400 Progress: Total [2147644/2307556] Mashiro-exploration/Map268.json [50000/59592] Cache hits [94449] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map269.json
-2017-06-13 14:06:07 -0400 Progress: Total [2157236/2307556] Mashiro-exploration/Map269.json [0/39026] Cache hits [95128] Translations [0] Failures [0]
-2017-06-13 14:06:07 -0400 Progress: Total [2167236/2307556] Mashiro-exploration/Map269.json [10000/39026] Cache hits [95691] Translations [0] Failures [0]
-2017-06-13 14:06:08 -0400 Progress: Total [2177236/2307556] Mashiro-exploration/Map269.json [20000/39026] Cache hits [96105] Translations [0] Failures [0]
-2017-06-13 14:06:09 -0400 Progress: Total [2187236/2307556] Mashiro-exploration/Map269.json [30000/39026] Cache hits [96518] Translations [0] Failures [0]
+2017-06-13 14:30:15 -0400 Progress: Total [2157236/2307556] Mashiro-exploration/Map269.json [0/39026] Cache hits [95128] Translations [0] Failures [0]
+2017-06-13 14:30:15 -0400 Progress: Total [2167236/2307556] Mashiro-exploration/Map269.json [10000/39026] Cache hits [95691] Translations [0] Failures [0]
+2017-06-13 14:30:16 -0400 Progress: Total [2177236/2307556] Mashiro-exploration/Map269.json [20000/39026] Cache hits [96105] Translations [0] Failures [0]
+2017-06-13 14:30:17 -0400 Progress: Total [2187236/2307556] Mashiro-exploration/Map269.json [30000/39026] Cache hits [96518] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map270.json
-2017-06-13 14:06:12 -0400 Progress: Total [2196262/2307556] Mashiro-exploration/Map270.json [0/7521] Cache hits [97091] Translations [0] Failures [0]
+2017-06-13 14:30:20 -0400 Progress: Total [2196262/2307556] Mashiro-exploration/Map270.json [0/7521] Cache hits [97091] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map271.json
-2017-06-13 14:06:12 -0400 Progress: Total [2203783/2307556] Mashiro-exploration/Map271.json [0/6] Cache hits [97384] Translations [0] Failures [0]
+2017-06-13 14:30:20 -0400 Progress: Total [2203783/2307556] Mashiro-exploration/Map271.json [0/6] Cache hits [97384] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map272.json
-2017-06-13 14:06:12 -0400 Progress: Total [2203789/2307556] Mashiro-exploration/Map272.json [0/21307] Cache hits [97384] Translations [0] Failures [0]
-2017-06-13 14:06:12 -0400 Progress: Total [2213789/2307556] Mashiro-exploration/Map272.json [10000/21307] Cache hits [97564] Translations [0] Failures [0]
-2017-06-13 14:06:13 -0400 Progress: Total [2223789/2307556] Mashiro-exploration/Map272.json [20000/21307] Cache hits [97975] Translations [0] Failures [0]
+2017-06-13 14:30:20 -0400 Progress: Total [2203789/2307556] Mashiro-exploration/Map272.json [0/21307] Cache hits [97384] Translations [0] Failures [0]
+2017-06-13 14:30:20 -0400 Progress: Total [2213789/2307556] Mashiro-exploration/Map272.json [10000/21307] Cache hits [97564] Translations [0] Failures [0]
+2017-06-13 14:30:21 -0400 Progress: Total [2223789/2307556] Mashiro-exploration/Map272.json [20000/21307] Cache hits [97975] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map273.json
-2017-06-13 14:06:13 -0400 Progress: Total [2225096/2307556] Mashiro-exploration/Map273.json [0/6] Cache hits [98033] Translations [0] Failures [0]
+2017-06-13 14:30:21 -0400 Progress: Total [2225096/2307556] Mashiro-exploration/Map273.json [0/6] Cache hits [98033] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map275.json
-2017-06-13 14:06:13 -0400 Progress: Total [2225102/2307556] Mashiro-exploration/Map275.json [0/8139] Cache hits [98033] Translations [0] Failures [0]
+2017-06-13 14:30:21 -0400 Progress: Total [2225102/2307556] Mashiro-exploration/Map275.json [0/8139] Cache hits [98033] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map276.json
-2017-06-13 14:06:13 -0400 Progress: Total [2233241/2307556] Mashiro-exploration/Map276.json [0/9316] Cache hits [98770] Translations [0] Failures [0]
+2017-06-13 14:30:21 -0400 Progress: Total [2233241/2307556] Mashiro-exploration/Map276.json [0/9316] Cache hits [98770] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map277.json
-2017-06-13 14:06:13 -0400 Progress: Total [2242557/2307556] Mashiro-exploration/Map277.json [0/6] Cache hits [99422] Translations [0] Failures [0]
+2017-06-13 14:30:22 -0400 Progress: Total [2242557/2307556] Mashiro-exploration/Map277.json [0/6] Cache hits [99422] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map278.json
-2017-06-13 14:06:13 -0400 Progress: Total [2242563/2307556] Mashiro-exploration/Map278.json [0/6] Cache hits [99422] Translations [0] Failures [0]
+2017-06-13 14:30:22 -0400 Progress: Total [2242563/2307556] Mashiro-exploration/Map278.json [0/6] Cache hits [99422] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map279.json
-2017-06-13 14:06:13 -0400 Progress: Total [2242569/2307556] Mashiro-exploration/Map279.json [0/1465] Cache hits [99422] Translations [0] Failures [0]
+2017-06-13 14:30:22 -0400 Progress: Total [2242569/2307556] Mashiro-exploration/Map279.json [0/1465] Cache hits [99422] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map280.json
-2017-06-13 14:06:13 -0400 Progress: Total [2244034/2307556] Mashiro-exploration/Map280.json [0/25867] Cache hits [99504] Translations [0] Failures [0]
-2017-06-13 14:06:14 -0400 Progress: Total [2254034/2307556] Mashiro-exploration/Map280.json [10000/25867] Cache hits [100131] Translations [0] Failures [0]
-2017-06-13 14:06:14 -0400 Progress: Total [2264034/2307556] Mashiro-exploration/Map280.json [20000/25867] Cache hits [100792] Translations [0] Failures [0]
+2017-06-13 14:30:22 -0400 Progress: Total [2244034/2307556] Mashiro-exploration/Map280.json [0/25867] Cache hits [99504] Translations [0] Failures [0]
+2017-06-13 14:30:22 -0400 Progress: Total [2254034/2307556] Mashiro-exploration/Map280.json [10000/25867] Cache hits [100131] Translations [0] Failures [0]
+2017-06-13 14:30:23 -0400 Progress: Total [2264034/2307556] Mashiro-exploration/Map280.json [20000/25867] Cache hits [100792] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map284.json
-2017-06-13 14:06:15 -0400 Progress: Total [2269901/2307556] Mashiro-exploration/Map284.json [0/7363] Cache hits [101128] Translations [0] Failures [0]
+2017-06-13 14:30:23 -0400 Progress: Total [2269901/2307556] Mashiro-exploration/Map284.json [0/7363] Cache hits [101128] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map286.json
-2017-06-13 14:06:15 -0400 Progress: Total [2277264/2307556] Mashiro-exploration/Map286.json [0/79] Cache hits [101591] Translations [0] Failures [0]
+2017-06-13 14:30:24 -0400 Progress: Total [2277264/2307556] Mashiro-exploration/Map286.json [0/79] Cache hits [101591] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Map288.json
-2017-06-13 14:06:15 -0400 Progress: Total [2277343/2307556] Mashiro-exploration/Map288.json [0/6] Cache hits [101591] Translations [0] Failures [0]
+2017-06-13 14:30:24 -0400 Progress: Total [2277343/2307556] Mashiro-exploration/Map288.json [0/6] Cache hits [101591] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/MapInfos.json
-2017-06-13 14:06:15 -0400 Progress: Total [2277349/2307556] Mashiro-exploration/MapInfos.json [0/2345] Cache hits [101591] Translations [0] Failures [0]
+2017-06-13 14:30:24 -0400 Progress: Total [2277349/2307556] Mashiro-exploration/MapInfos.json [0/2345] Cache hits [101591] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Scripts.json
-2017-06-13 14:06:15 -0400 Progress: Total [2279694/2307556] Mashiro-exploration/Scripts.json [0/1487] Cache hits [101924] Translations [0] Failures [0]
+2017-06-13 14:30:24 -0400 Progress: Total [2279694/2307556] Mashiro-exploration/Scripts.json [0/1487] Cache hits [101924] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Skills.json
-2017-06-13 14:06:15 -0400 Progress: Total [2281181/2307556] Mashiro-exploration/Skills.json [0/9616] Cache hits [102014] Translations [0] Failures [0]
+2017-06-13 14:30:24 -0400 Progress: Total [2281181/2307556] Mashiro-exploration/Skills.json [0/9616] Cache hits [101924] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/States.json
-2017-06-13 14:06:16 -0400 Progress: Total [2290797/2307556] Mashiro-exploration/States.json [0/7206] Cache hits [102496] Translations [0] Failures [0]
+2017-06-13 14:30:24 -0400 Progress: Total [2290797/2307556] Mashiro-exploration/States.json [0/7206] Cache hits [102406] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/System.json
-2017-06-13 14:06:16 -0400 Progress: Total [2298003/2307556] Mashiro-exploration/System.json [0/6268] Cache hits [102569] Translations [0] Failures [0]
+2017-06-13 14:30:24 -0400 Progress: Total [2298003/2307556] Mashiro-exploration/System.json [0/6268] Cache hits [102479] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Troops.json
-2017-06-13 14:06:16 -0400 Progress: Total [2304271/2307556] Mashiro-exploration/Troops.json [0/2229] Cache hits [103226] Translations [0] Failures [0]
+2017-06-13 14:30:24 -0400 Progress: Total [2304271/2307556] Mashiro-exploration/Troops.json [0/2229] Cache hits [103136] Translations [0] Failures [0]
 
 Translating: ../output/Mashiro-exploration/JsonExtracted/Weapons.json
-2017-06-13 14:06:16 -0400 Progress: Total [2306500/2307556] Mashiro-exploration/Weapons.json [0/1056] Cache hits [103265] Translations [0] Failures [0]
+2017-06-13 14:30:24 -0400 Progress: Total [2306500/2307556] Mashiro-exploration/Weapons.json [0/1056] Cache hits [103175] Translations [0] Failures [0]
 Running command: ruby "Z:/Github/Mashiro/Mashiro-exploration/RPG-Maker-Translator/3rdParty/rmxp_translator/rmvx_translator.rb" --translate="../output/Mashiro-exploration/DataExtracted/*.rvdata" --dest="../output/Mashiro-exploration/Data"
 Translating ../output/Mashiro-exploration/DataExtracted/Actors.rvdata... ok
 Translating ../output/Mashiro-exploration/DataExtracted/Animations.rvdata... ok
@@ -1498,4 +1498,4 @@ Translating ../output/Mashiro-exploration/DataExtracted/System.rvdata... ok
 Translating ../output/Mashiro-exploration/DataExtracted/Troops.rvdata... ok
 Translating ../output/Mashiro-exploration/DataExtracted/Weapons.rvdata... ok
 
-Processed 2307556 lines in 445.620455 seconds
+Processed 2307556 lines in 450.589112 seconds

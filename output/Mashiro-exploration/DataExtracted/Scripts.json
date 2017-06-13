@@ -4,8 +4,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script000.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "DEP 無効化",
-      "translation": "DEP Invalidation"
+      "original   ": "DEP Invalidation",
+      "translation": ""
     }
   },
   {
@@ -22,8 +22,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script002.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "▼ モジュール",
-      "translation": "▼ ModuleーLe"
+      "original   ": "▼ ModuleーLe",
+      "translation": ""
     }
   },
   {
@@ -67,8 +67,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script007.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "▼ ゲームオブジェクト",
-      "translation": "▼ AgeーObject"
+      "original   ": "▼ AgeーObject",
+      "translation": ""
     }
   },
   {
@@ -292,8 +292,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script032.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "▼ スプライト",
-      "translation": "▼ Sprite"
+      "original   ": "▼ Sprite",
+      "translation": ""
     }
   },
   {
@@ -382,8 +382,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script042.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "▼ ウィンドウ",
-      "translation": "▼ Window"
+      "original   ": "▼ Window",
+      "translation": ""
     }
   },
   {
@@ -661,8 +661,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script073.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "▼ シーン",
-      "translation": "▼ ー"
+      "original   ": "▼ ー",
+      "translation": ""
     }
   },
   {
@@ -814,8 +814,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script090.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "▼ 素材",
-      "translation": "▼ Material"
+      "original   ": "▼ Material",
+      "translation": ""
     }
   },
   {
@@ -823,8 +823,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script091.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "BGM 継続",
-      "translation": "BGM Continuation"
+      "original   ": "BGM Continuation",
+      "translation": ""
     }
   },
   {
@@ -841,8 +841,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script093.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "\\seの制御文字",
-      "translation": "\\seControl characters"
+      "original   ": "\\seControl characters",
+      "translation": ""
     }
   },
   {
@@ -859,8 +859,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script095.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "200x/XP 機能再現",
-      "translation": "200x/XP Function reproduction"
+      "original   ": "200x/XP Function reproduction",
+      "translation": ""
     }
   },
   {
@@ -868,8 +868,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script096.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "限界突破 - KGC_LimitBreak",
-      "translation": "Limit breaking - KGC_LimitBreak"
+      "original   ": "Limit breaking - KGC_LimitBreak",
+      "translation": ""
     }
   },
   {
@@ -877,8 +877,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script097.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "マップ軽量化",
-      "translation": "Map weight saving"
+      "original   ": "Map weight saving",
+      "translation": ""
     }
   },
   {
@@ -886,8 +886,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script098.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "不死身ステート",
-      "translation": "Immortal Stageー"
+      "original   ": "Immortal Stageー",
+      "translation": ""
     }
   },
   {
@@ -895,8 +895,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script099.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "無敵ステート",
-      "translation": "Invincible stepー"
+      "original   ": "Invincible stepー",
+      "translation": ""
     }
   },
   {
@@ -904,8 +904,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script100.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "多人数パーティ",
-      "translation": "Massive number of peopleーTea"
+      "original   ": "Massive number of peopleーTea",
+      "translation": ""
     }
   },
   {
@@ -913,8 +913,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script101.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "書式指定文字描画",
-      "translation": "Format specification character drawing"
+      "original   ": "Format specification character drawing",
+      "translation": ""
     }
   },
   {
@@ -922,8 +922,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script102.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "ヘルプウィンドウ機能拡張",
-      "translation": "Help Window Extension"
+      "original   ": "Help Window Extension",
+      "translation": ""
     }
   },
   {
@@ -931,8 +931,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script103.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "スリップダメージ拡張",
-      "translation": "No slipーDiversion"
+      "original   ": "No slipーDiversion",
+      "translation": ""
     }
   },
   {
@@ -940,8 +940,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script104.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "勝利時 ME 強制停止",
-      "translation": "Time of victory ME Forced stop"
+      "original   ": "Time of victory ME Forced stop",
+      "translation": ""
     }
   },
   {
@@ -949,8 +949,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script105.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "アイテム合成",
-      "translation": "Item composition"
+      "original   ": "Item composition",
+      "translation": ""
     }
   },
   {
@@ -958,8 +958,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script106.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "装備品オプション追加",
-      "translation": "Equipment option addition"
+      "original   ": "Equipment option addition",
+      "translation": ""
     }
   },
   {
@@ -967,8 +967,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script107.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "スキル習得装備",
-      "translation": "Skill acquisition equipment"
+      "original   ": "Skill acquisition equipment",
+      "translation": ""
     }
   },
   {
@@ -976,8 +976,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script108.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "オーバードライブ",
-      "translation": "ーーDrive"
+      "original   ": "ーーDrive",
+      "translation": ""
     }
   },
   {
@@ -985,8 +985,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script109.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "装備拡張",
-      "translation": "Equipment extension"
+      "original   ": "Equipment extension",
+      "translation": ""
     }
   },
   {
@@ -994,8 +994,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script110.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "タイルセット拡張",
-      "translation": "Tile set extension"
+      "original   ": "Tile set extension",
+      "translation": ""
     }
   },
   {
@@ -1003,8 +1003,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script111.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "素手詳細設定 ",
-      "translation": "Bare hand detailed setting "
+      "original   ": "Bare hand detailed setting ",
+      "translation": ""
     }
   },
   {
@@ -1021,8 +1021,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script113.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "バトルレイアウト変更",
-      "translation": "Battle layout change"
+      "original   ": "Battle layout change",
+      "translation": ""
     }
   },
   {
@@ -1039,8 +1039,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script115.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "分かりやすい？",
-      "translation": "Easy to understand？"
+      "original   ": "Easy to understand？",
+      "translation": ""
     }
   },
   {
@@ -1048,8 +1048,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script116.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "セーブファイル増やす",
-      "translation": "ToーIncrease file size"
+      "original   ": "ToーIncrease file size",
+      "translation": ""
     }
   },
   {
@@ -1066,8 +1066,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script118.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "★ウィンドウスキン変更★",
-      "translation": "★Window skin change★"
+      "original   ": "★Window skin change★",
+      "translation": ""
     }
   },
   {
@@ -1075,8 +1075,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script119.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "生者・死者両方に使えるアイテム・スキル",
-      "translation": "A living creature・Items that can be used for both dead・Skill"
+      "original   ": "A living creature・Items that can be used for both dead・Skill",
+      "translation": ""
     }
   },
   {
@@ -1084,8 +1084,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script120.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "割合上昇装備",
-      "translation": "Rate rising equipment"
+      "original   ": "Rate rising equipment",
+      "translation": ""
     }
   },
   {
@@ -1102,8 +1102,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script122.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "装備能力限界突破",
-      "translation": "Equipment capacity breaking through limit"
+      "original   ": "Equipment capacity breaking through limit",
+      "translation": ""
     }
   },
   {
@@ -1120,8 +1120,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script124.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "特殊効果判定用ベーススクリプトＡ",
-      "translation": "Beat for special effect determinationーScriptＡ"
+      "original   ": "Beat for special effect determinationーScriptＡ",
+      "translation": ""
     }
   },
   {
@@ -1129,8 +1129,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script125.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "アクターと敵キャラの複数回行動",
-      "translation": "ActaーAnd multiple actions of enemy character"
+      "original   ": "ActaーAnd multiple actions of enemy character",
+      "translation": ""
     }
   },
   {
@@ -1147,8 +1147,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script127.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "エネミー行動パターン改良5.53",
-      "translation": "EnemiーAction PataーImprovement5.53"
+      "original   ": "EnemiーAction PataーImprovement5.53",
+      "translation": ""
     }
   },
   {
@@ -1156,8 +1156,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script128.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "行動条件追加：対象のステート",
-      "translation": "Add action condition：Targetー"
+      "original   ": "Add action condition：Targetー",
+      "translation": ""
     }
   },
   {
@@ -1174,8 +1174,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script130.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "画面シェイク縦揺れ",
-      "translation": "Screen shake pitch shake"
+      "original   ": "Screen shake pitch shake",
+      "translation": ""
     }
   },
   {
@@ -1192,8 +1192,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script132.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "XRXSv44. ベーシック・セッティング",
-      "translation": "XRXSv44. ーChic・Setting"
+      "original   ": "XRXSv44. ーChic・Setting",
+      "translation": ""
     }
   },
   {
@@ -1201,8 +1201,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script133.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "アイテム対象制限／スキル使用条件",
-      "translation": "Item target restriction／Skill use conditions"
+      "original   ": "Item target restriction／Skill use conditions",
+      "translation": ""
     }
   },
   {
@@ -1219,8 +1219,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script135.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "UKRA Scripted Region⇒ コア機能スクリプト",
-      "translation": "UKRA Scripted Region⇒ Core function script"
+      "original   ": "UKRA Scripted Region⇒ Core function script",
+      "translation": ""
     }
   },
   {
@@ -1228,8 +1228,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script136.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "装備/ステート 特殊オプション",
-      "translation": "Equipment/Stepー Special options"
+      "original   ": "Equipment/Stepー Special options",
+      "translation": ""
     }
   },
   {
@@ -1246,8 +1246,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script138.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "割合ダメージ",
-      "translation": "ProportionーDi"
+      "original   ": "ProportionーDi",
+      "translation": ""
     }
   },
   {
@@ -1255,8 +1255,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script139.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "スキルメッセージ",
-      "translation": "Skill MesseーDi"
+      "original   ": "Skill MesseーDi",
+      "translation": ""
     }
   },
   {
@@ -1273,8 +1273,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script141.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "必中スキル＆ステート",
-      "translation": "Mandatory skills＆Stepー"
+      "original   ": "Mandatory skills＆Stepー",
+      "translation": ""
     }
   },
   {
@@ -1282,8 +1282,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script142.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "キャラクター拡大縮小",
-      "translation": "CharactorーScaling"
+      "original   ": "CharactorーScaling",
+      "translation": ""
     }
   },
   {
@@ -1291,8 +1291,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script143.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "残像演出 RGSS2 DAIpage",
-      "translation": "Afterimage effect RGSS2 DAIpage"
+      "original   ": "Afterimage effect RGSS2 DAIpage",
+      "translation": ""
     }
   },
   {
@@ -1309,8 +1309,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script145.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "先制確率と不意打ち確率が変動する装備品",
-      "translation": "Equipment with varying pre-emption probability and surprise probability"
+      "original   ": "Equipment with varying pre-emption probability and surprise probability",
+      "translation": ""
     }
   },
   {
@@ -1318,8 +1318,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script146.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "カウンター ",
-      "translation": "Counterー "
+      "original   ": "Counterー ",
+      "translation": ""
     }
   },
   {
@@ -1336,8 +1336,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script148.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "呪われた装備",
-      "translation": "Cursed Equipment"
+      "original   ": "Cursed Equipment",
+      "translation": ""
     }
   },
   {
@@ -1354,8 +1354,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script150.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "自作メニュー・自作ウィンドウ",
-      "translation": "Homebrew menuー・Homebrew window"
+      "original   ": "Homebrew menuー・Homebrew window",
+      "translation": ""
     }
   },
   {
@@ -1372,8 +1372,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script152.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "Map Effects　外人さん",
-      "translation": "Map Effects　Foreigner"
+      "original   ": "Map Effects　Foreigner",
+      "translation": ""
     }
   },
   {
@@ -1381,8 +1381,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script153.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "昼夜切り替え",
-      "translation": "Day and night switching"
+      "original   ": "Day and night switching",
+      "translation": ""
     }
   },
   {
@@ -1399,8 +1399,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script155.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "ヒット回数",
-      "translation": "Number of hits"
+      "original   ": "Number of hits",
+      "translation": ""
     }
   },
   {
@@ -1408,8 +1408,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script156.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "STR22Core_メッセージウィンドウEXT++",
-      "translation": "STR22Core_MesseーA windowEXT++"
+      "original   ": "STR22Core_MesseーA windowEXT++",
+      "translation": ""
     }
   },
   {
@@ -1435,8 +1435,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script159.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "コモンイベント優先",
-      "translation": "Common event priority"
+      "original   ": "Common event priority",
+      "translation": ""
     }
   },
   {
@@ -1444,8 +1444,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script160.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "( ここに追加 )",
-      "translation": "( Add here )"
+      "original   ": "( Add here )",
+      "translation": ""
     }
   },
   {
@@ -1453,8 +1453,8 @@
     "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script161.rb",
     "name": {
       "json_class": "TranslatableString",
-      "original   ": "▼ メイン",
-      "translation": "▼ Main"
+      "original   ": "▼ Main",
+      "translation": ""
     }
   },
   {

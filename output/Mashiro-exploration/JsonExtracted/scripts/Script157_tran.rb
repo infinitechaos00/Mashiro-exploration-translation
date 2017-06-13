@@ -34,8 +34,8 @@ class Window_Message < Window_Selectable
   POPUP_LR     = 0        # ふきだしグラフィックの向き
                           # 0 = 左　1 = 右
   # ネームウィンドウ
-  N_WINDOW_FN  = "UmePlus Gothic" # フォント (デフォ値:"UmePlus Gothic")
-  N_WINDOW_FS  = 16       # フォントサイズ (デフォ値:16)
+  N_WINDOW_FN  = "Segoe UI" # フォント (デフォ値:"UmePlus Gothic")
+  N_WINDOW_FS  = 18      # フォントサイズ (デフォ値:16)
   N_WINDOW_ED  = true     # 縁取り (デフォ値:true)
   N_WINDOW_CO  = Color.new(255,255,255) # 通常カラー
   N_WINDOW_CE  = Color.new( 64, 32,128) # 縁取りカラー
@@ -67,15 +67,15 @@ class Window_Message < Window_Selectable
   # ★ フォント                                                             #
   #-------------------------------------------------------------------------#
   # 基本
-  DEFAULT_SIZE = 20       # デフォルトの文字サイズ (デフォ値:20)
+  DEFAULT_SIZE = 18     # デフォルトの文字サイズ (デフォ値:20)
   WLH          = 24       # 行間 (デフォ値:24)
   ALIGN        = 0        # 文字揃え　0 = 左 1 = 中央 2 = 右 (デフォ値:0)
   # フォントリスト定義(\F[n]で指定するフォントです)
-  FONTLIST = {0 => "UmePlus Gothic",  # ■デフォルトのフォント
-              1 => "ＭＳ Ｐゴシック", # XPデフォルト
-              2 => "ＭＳ Ｐ明朝",     # 渋い
-              3 => "Arial",           # XPタイマーフォント
-              4 => "Arial Black",     # XPダメージポップフォント
+  FONTLIST = {0 => "Segoe UI",  # ■デフォルトのフォント
+              1 => "Segoe UI", # XPデフォルト
+              2 => "Segoe UI",     # 渋い
+              3 => "Segoe UI",           # XPタイマーフォント
+              4 => "Segoe UI",     # XPダメージポップフォント
               }
   # 縁取りカラーリスト定義(\CE[n]で指定するカラーです)
   EDGE_COLOR = {0 => Color.new( 64, 32,128),   # 青
