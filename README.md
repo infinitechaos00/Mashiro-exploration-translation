@@ -7,7 +7,6 @@ This project aims to provide an easy to use in game translation.
 ## How to play game in English
 
 1. Download repository
-
 2. Run Game.exe in output/Mashiro-exploration
 
 ## How to contribute to the translation
