@@ -1,0 +1,1180 @@
+Settings file exists: {
+  "output": "../output",
+  "showTranslation": 1,
+  "cacheOnly": 0,
+  "deleteExisting": 1,
+  "skipDataExtract": 0,
+  "skipJsonDump": 0,
+  "skipTranslate": 0,
+  "logCacheHits": 0,
+  "logTranslations": 1,
+  "breakBlocksOnKatakana": 0,
+  "translateScripts": 0,
+  "translateLinesWithVars": 0,
+  "overrideCharacters": "ー,",
+  "outputLanguage": "en",
+  "Actors": "Skip",
+  "Animators": "Skip",
+  "Armors": "Skip",
+  "Classes": "Skip",
+  "CommonEvents": "Skip",
+  "Enemies": "Skip",
+  "Items": "Skip",
+  "Map": "Skip",
+  "Scripts": "Skip",
+  "Skills": "Skip",
+  "States": "Skip",
+  "System": "Skip",
+  "Tilesets": "Skip",
+  "Troops": "Skip",
+  "Weapons": "Skip",
+  "Other": "Skip"
+}
+Output path: [../output/Mashiro-exploration]
+Setting up directories
+Creating output directory: ../output/Mashiro-exploration
+Copying [Z:/Github/Mashiro/Mashiro-exploration/Mashiro-exploration] to [../output/Mashiro-exploration]
+Failed to find game data file!
+Moving Data from [../output/Mashiro-exploration/DataOriginal] to [../output/Mashiro-exploration/DataExtracted]
+Moving backed up original data files into ../output/Mashiro-exploration/DataExtracted
+Evaluating extension of file: .
+Evaluating extension of file: ..
+Evaluating extension of file: Actors.rvdata
+Found data extension [.rvdata]. Using [rmvx_translator.rb] to unpack
+Running command: ruby "Z:/Github/Mashiro/Mashiro-exploration/RPG-Maker-Translator/3rdParty/rmxp_translator/rmvx_translator.rb" --dump="../output/Mashiro-exploration/DataExtracted/*.rvdata" --dest="../output/Mashiro-exploration/JsonExtracted"
+Dumping ../output/Mashiro-exploration/DataExtracted/Actors.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Animations.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Areas.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Armors.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Classes.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/CommonEvents.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Enemies.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Items.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map001.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map002.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map003.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map004.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map006.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map007.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map008.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map009.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map010.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map011.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map018.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map019.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map020.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map021.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map022.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map024.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map025.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map026.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map027.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map028.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map029.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map030.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map031.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map032.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map033.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map034.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map035.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map036.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map037.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map038.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map039.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map040.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map041.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map042.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map043.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map044.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map045.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map046.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map047.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map070.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map071.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map081.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map084.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map095.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map097.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map098.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map099.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map100.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map101.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map102.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map103.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map104.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map105.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map106.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map107.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map108.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map109.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map110.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map111.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map112.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map113.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map114.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map115.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map116.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map117.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map118.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map119.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map120.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map121.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map122.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map123.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map124.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map125.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map126.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map127.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map128.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map129.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map130.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map131.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map132.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map133.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map134.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map135.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map136.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map137.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map138.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map139.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map140.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map141.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map142.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map143.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map144.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map145.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map146.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map147.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map148.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map149.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map150.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map151.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map152.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map153.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map154.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map155.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map156.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map157.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map158.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map159.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map160.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map161.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map162.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map163.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map164.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map165.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map166.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map167.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map168.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map169.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map170.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map171.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map172.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map173.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map174.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map175.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map176.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map177.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map178.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map179.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map190.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map191.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map192.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map193.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map194.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map195.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map196.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map197.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map198.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map199.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map200.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map202.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map203.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map204.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map205.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map206.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map207.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map208.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map209.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map210.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map211.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map212.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map213.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map214.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map215.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map216.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map217.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map219.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map220.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map221.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map222.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map223.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map224.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map225.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map226.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map227.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map228.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map229.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map230.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map231.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map232.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map233.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map234.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map235.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map236.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map237.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map238.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map239.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map240.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map241.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map242.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map243.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map244.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map245.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map246.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map247.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map254.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map255.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map257.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map258.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map259.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map260.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map261.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map262.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map263.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map264.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map265.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map266.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map267.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map268.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map269.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map270.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map271.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map272.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map273.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map275.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map276.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map277.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map278.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map279.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map280.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map284.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map286.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Map288.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/MapInfos.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Scripts.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Skills.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/States.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/System.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Troops.rvdata... ok
+Dumping ../output/Mashiro-exploration/DataExtracted/Weapons.rvdata... ok
+
+Cache file exists, loading...
+24089 cached values
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Actors.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Actors.rvdata] to [../output/Mashiro-exploration/Data/Actors.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Animations.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Animations.rvdata] to [../output/Mashiro-exploration/Data/Animations.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Areas.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Areas.rvdata] to [../output/Mashiro-exploration/Data/Areas.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Armors.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Armors.rvdata] to [../output/Mashiro-exploration/Data/Armors.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Classes.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Classes.rvdata] to [../output/Mashiro-exploration/Data/Classes.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/CommonEvents.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/CommonEvents.rvdata] to [../output/Mashiro-exploration/Data/CommonEvents.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Enemies.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Enemies.rvdata] to [../output/Mashiro-exploration/Data/Enemies.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Items.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Items.rvdata] to [../output/Mashiro-exploration/Data/Items.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map001.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map001.rvdata] to [../output/Mashiro-exploration/Data/Map001.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map002.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map002.rvdata] to [../output/Mashiro-exploration/Data/Map002.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map003.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map003.rvdata] to [../output/Mashiro-exploration/Data/Map003.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map004.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map004.rvdata] to [../output/Mashiro-exploration/Data/Map004.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map006.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map006.rvdata] to [../output/Mashiro-exploration/Data/Map006.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map007.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map007.rvdata] to [../output/Mashiro-exploration/Data/Map007.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map008.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map008.rvdata] to [../output/Mashiro-exploration/Data/Map008.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map009.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map009.rvdata] to [../output/Mashiro-exploration/Data/Map009.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map010.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map010.rvdata] to [../output/Mashiro-exploration/Data/Map010.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map011.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map011.rvdata] to [../output/Mashiro-exploration/Data/Map011.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map018.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map018.rvdata] to [../output/Mashiro-exploration/Data/Map018.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map019.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map019.rvdata] to [../output/Mashiro-exploration/Data/Map019.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map020.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map020.rvdata] to [../output/Mashiro-exploration/Data/Map020.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map021.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map021.rvdata] to [../output/Mashiro-exploration/Data/Map021.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map022.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map022.rvdata] to [../output/Mashiro-exploration/Data/Map022.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map024.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map024.rvdata] to [../output/Mashiro-exploration/Data/Map024.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map025.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map025.rvdata] to [../output/Mashiro-exploration/Data/Map025.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map026.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map026.rvdata] to [../output/Mashiro-exploration/Data/Map026.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map027.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map027.rvdata] to [../output/Mashiro-exploration/Data/Map027.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map028.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map028.rvdata] to [../output/Mashiro-exploration/Data/Map028.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map029.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map029.rvdata] to [../output/Mashiro-exploration/Data/Map029.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map030.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map030.rvdata] to [../output/Mashiro-exploration/Data/Map030.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map031.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map031.rvdata] to [../output/Mashiro-exploration/Data/Map031.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map032.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map032.rvdata] to [../output/Mashiro-exploration/Data/Map032.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map033.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map033.rvdata] to [../output/Mashiro-exploration/Data/Map033.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map034.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map034.rvdata] to [../output/Mashiro-exploration/Data/Map034.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map035.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map035.rvdata] to [../output/Mashiro-exploration/Data/Map035.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map036.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map036.rvdata] to [../output/Mashiro-exploration/Data/Map036.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map037.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map037.rvdata] to [../output/Mashiro-exploration/Data/Map037.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map038.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map038.rvdata] to [../output/Mashiro-exploration/Data/Map038.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map039.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map039.rvdata] to [../output/Mashiro-exploration/Data/Map039.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map040.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map040.rvdata] to [../output/Mashiro-exploration/Data/Map040.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map041.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map041.rvdata] to [../output/Mashiro-exploration/Data/Map041.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map042.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map042.rvdata] to [../output/Mashiro-exploration/Data/Map042.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map043.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map043.rvdata] to [../output/Mashiro-exploration/Data/Map043.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map044.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map044.rvdata] to [../output/Mashiro-exploration/Data/Map044.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map045.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map045.rvdata] to [../output/Mashiro-exploration/Data/Map045.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map046.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map046.rvdata] to [../output/Mashiro-exploration/Data/Map046.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map047.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map047.rvdata] to [../output/Mashiro-exploration/Data/Map047.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map070.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map070.rvdata] to [../output/Mashiro-exploration/Data/Map070.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map071.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map071.rvdata] to [../output/Mashiro-exploration/Data/Map071.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map081.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map081.rvdata] to [../output/Mashiro-exploration/Data/Map081.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map084.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map084.rvdata] to [../output/Mashiro-exploration/Data/Map084.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map095.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map095.rvdata] to [../output/Mashiro-exploration/Data/Map095.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map097.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map097.rvdata] to [../output/Mashiro-exploration/Data/Map097.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map098.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map098.rvdata] to [../output/Mashiro-exploration/Data/Map098.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map099.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map099.rvdata] to [../output/Mashiro-exploration/Data/Map099.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map100.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map100.rvdata] to [../output/Mashiro-exploration/Data/Map100.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map101.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map101.rvdata] to [../output/Mashiro-exploration/Data/Map101.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map102.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map102.rvdata] to [../output/Mashiro-exploration/Data/Map102.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map103.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map103.rvdata] to [../output/Mashiro-exploration/Data/Map103.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map104.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map104.rvdata] to [../output/Mashiro-exploration/Data/Map104.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map105.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map105.rvdata] to [../output/Mashiro-exploration/Data/Map105.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map106.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map106.rvdata] to [../output/Mashiro-exploration/Data/Map106.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map107.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map107.rvdata] to [../output/Mashiro-exploration/Data/Map107.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map108.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map108.rvdata] to [../output/Mashiro-exploration/Data/Map108.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map109.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map109.rvdata] to [../output/Mashiro-exploration/Data/Map109.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map110.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map110.rvdata] to [../output/Mashiro-exploration/Data/Map110.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map111.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map111.rvdata] to [../output/Mashiro-exploration/Data/Map111.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map112.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map112.rvdata] to [../output/Mashiro-exploration/Data/Map112.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map113.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map113.rvdata] to [../output/Mashiro-exploration/Data/Map113.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map114.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map114.rvdata] to [../output/Mashiro-exploration/Data/Map114.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map115.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map115.rvdata] to [../output/Mashiro-exploration/Data/Map115.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map116.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map116.rvdata] to [../output/Mashiro-exploration/Data/Map116.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map117.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map117.rvdata] to [../output/Mashiro-exploration/Data/Map117.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map118.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map118.rvdata] to [../output/Mashiro-exploration/Data/Map118.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map119.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map119.rvdata] to [../output/Mashiro-exploration/Data/Map119.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map120.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map120.rvdata] to [../output/Mashiro-exploration/Data/Map120.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map121.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map121.rvdata] to [../output/Mashiro-exploration/Data/Map121.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map122.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map122.rvdata] to [../output/Mashiro-exploration/Data/Map122.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map123.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map123.rvdata] to [../output/Mashiro-exploration/Data/Map123.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map124.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map124.rvdata] to [../output/Mashiro-exploration/Data/Map124.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map125.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map125.rvdata] to [../output/Mashiro-exploration/Data/Map125.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map126.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map126.rvdata] to [../output/Mashiro-exploration/Data/Map126.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map127.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map127.rvdata] to [../output/Mashiro-exploration/Data/Map127.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map128.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map128.rvdata] to [../output/Mashiro-exploration/Data/Map128.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map129.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map129.rvdata] to [../output/Mashiro-exploration/Data/Map129.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map130.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map130.rvdata] to [../output/Mashiro-exploration/Data/Map130.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map131.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map131.rvdata] to [../output/Mashiro-exploration/Data/Map131.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map132.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map132.rvdata] to [../output/Mashiro-exploration/Data/Map132.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map133.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map133.rvdata] to [../output/Mashiro-exploration/Data/Map133.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map134.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map134.rvdata] to [../output/Mashiro-exploration/Data/Map134.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map135.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map135.rvdata] to [../output/Mashiro-exploration/Data/Map135.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map136.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map136.rvdata] to [../output/Mashiro-exploration/Data/Map136.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map137.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map137.rvdata] to [../output/Mashiro-exploration/Data/Map137.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map138.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map138.rvdata] to [../output/Mashiro-exploration/Data/Map138.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map139.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map139.rvdata] to [../output/Mashiro-exploration/Data/Map139.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map140.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map140.rvdata] to [../output/Mashiro-exploration/Data/Map140.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map141.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map141.rvdata] to [../output/Mashiro-exploration/Data/Map141.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map142.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map142.rvdata] to [../output/Mashiro-exploration/Data/Map142.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map143.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map143.rvdata] to [../output/Mashiro-exploration/Data/Map143.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map144.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map144.rvdata] to [../output/Mashiro-exploration/Data/Map144.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map145.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map145.rvdata] to [../output/Mashiro-exploration/Data/Map145.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map146.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map146.rvdata] to [../output/Mashiro-exploration/Data/Map146.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map147.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map147.rvdata] to [../output/Mashiro-exploration/Data/Map147.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map148.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map148.rvdata] to [../output/Mashiro-exploration/Data/Map148.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map149.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map149.rvdata] to [../output/Mashiro-exploration/Data/Map149.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map150.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map150.rvdata] to [../output/Mashiro-exploration/Data/Map150.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map151.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map151.rvdata] to [../output/Mashiro-exploration/Data/Map151.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map152.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map152.rvdata] to [../output/Mashiro-exploration/Data/Map152.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map153.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map153.rvdata] to [../output/Mashiro-exploration/Data/Map153.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map154.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map154.rvdata] to [../output/Mashiro-exploration/Data/Map154.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map155.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map155.rvdata] to [../output/Mashiro-exploration/Data/Map155.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map156.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map156.rvdata] to [../output/Mashiro-exploration/Data/Map156.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map157.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map157.rvdata] to [../output/Mashiro-exploration/Data/Map157.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map158.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map158.rvdata] to [../output/Mashiro-exploration/Data/Map158.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map159.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map159.rvdata] to [../output/Mashiro-exploration/Data/Map159.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map160.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map160.rvdata] to [../output/Mashiro-exploration/Data/Map160.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map161.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map161.rvdata] to [../output/Mashiro-exploration/Data/Map161.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map162.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map162.rvdata] to [../output/Mashiro-exploration/Data/Map162.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map163.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map163.rvdata] to [../output/Mashiro-exploration/Data/Map163.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map164.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map164.rvdata] to [../output/Mashiro-exploration/Data/Map164.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map165.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map165.rvdata] to [../output/Mashiro-exploration/Data/Map165.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map166.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map166.rvdata] to [../output/Mashiro-exploration/Data/Map166.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map167.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map167.rvdata] to [../output/Mashiro-exploration/Data/Map167.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map168.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map168.rvdata] to [../output/Mashiro-exploration/Data/Map168.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map169.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map169.rvdata] to [../output/Mashiro-exploration/Data/Map169.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map170.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map170.rvdata] to [../output/Mashiro-exploration/Data/Map170.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map171.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map171.rvdata] to [../output/Mashiro-exploration/Data/Map171.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map172.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map172.rvdata] to [../output/Mashiro-exploration/Data/Map172.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map173.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map173.rvdata] to [../output/Mashiro-exploration/Data/Map173.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map174.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map174.rvdata] to [../output/Mashiro-exploration/Data/Map174.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map175.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map175.rvdata] to [../output/Mashiro-exploration/Data/Map175.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map176.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map176.rvdata] to [../output/Mashiro-exploration/Data/Map176.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map177.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map177.rvdata] to [../output/Mashiro-exploration/Data/Map177.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map178.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map178.rvdata] to [../output/Mashiro-exploration/Data/Map178.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map179.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map179.rvdata] to [../output/Mashiro-exploration/Data/Map179.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map190.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map190.rvdata] to [../output/Mashiro-exploration/Data/Map190.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map191.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map191.rvdata] to [../output/Mashiro-exploration/Data/Map191.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map192.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map192.rvdata] to [../output/Mashiro-exploration/Data/Map192.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map193.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map193.rvdata] to [../output/Mashiro-exploration/Data/Map193.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map194.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map194.rvdata] to [../output/Mashiro-exploration/Data/Map194.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map195.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map195.rvdata] to [../output/Mashiro-exploration/Data/Map195.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map196.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map196.rvdata] to [../output/Mashiro-exploration/Data/Map196.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map197.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map197.rvdata] to [../output/Mashiro-exploration/Data/Map197.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map198.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map198.rvdata] to [../output/Mashiro-exploration/Data/Map198.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map199.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map199.rvdata] to [../output/Mashiro-exploration/Data/Map199.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map200.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map200.rvdata] to [../output/Mashiro-exploration/Data/Map200.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map202.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map202.rvdata] to [../output/Mashiro-exploration/Data/Map202.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map203.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map203.rvdata] to [../output/Mashiro-exploration/Data/Map203.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map204.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map204.rvdata] to [../output/Mashiro-exploration/Data/Map204.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map205.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map205.rvdata] to [../output/Mashiro-exploration/Data/Map205.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map206.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map206.rvdata] to [../output/Mashiro-exploration/Data/Map206.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map207.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map207.rvdata] to [../output/Mashiro-exploration/Data/Map207.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map208.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map208.rvdata] to [../output/Mashiro-exploration/Data/Map208.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map209.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map209.rvdata] to [../output/Mashiro-exploration/Data/Map209.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map210.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map210.rvdata] to [../output/Mashiro-exploration/Data/Map210.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map211.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map211.rvdata] to [../output/Mashiro-exploration/Data/Map211.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map212.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map212.rvdata] to [../output/Mashiro-exploration/Data/Map212.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map213.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map213.rvdata] to [../output/Mashiro-exploration/Data/Map213.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map214.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map214.rvdata] to [../output/Mashiro-exploration/Data/Map214.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map215.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map215.rvdata] to [../output/Mashiro-exploration/Data/Map215.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map216.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map216.rvdata] to [../output/Mashiro-exploration/Data/Map216.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map217.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map217.rvdata] to [../output/Mashiro-exploration/Data/Map217.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map219.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map219.rvdata] to [../output/Mashiro-exploration/Data/Map219.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map220.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map220.rvdata] to [../output/Mashiro-exploration/Data/Map220.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map221.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map221.rvdata] to [../output/Mashiro-exploration/Data/Map221.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map222.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map222.rvdata] to [../output/Mashiro-exploration/Data/Map222.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map223.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map223.rvdata] to [../output/Mashiro-exploration/Data/Map223.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map224.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map224.rvdata] to [../output/Mashiro-exploration/Data/Map224.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map225.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map225.rvdata] to [../output/Mashiro-exploration/Data/Map225.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map226.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map226.rvdata] to [../output/Mashiro-exploration/Data/Map226.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map227.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map227.rvdata] to [../output/Mashiro-exploration/Data/Map227.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map228.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map228.rvdata] to [../output/Mashiro-exploration/Data/Map228.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map229.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map229.rvdata] to [../output/Mashiro-exploration/Data/Map229.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map230.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map230.rvdata] to [../output/Mashiro-exploration/Data/Map230.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map231.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map231.rvdata] to [../output/Mashiro-exploration/Data/Map231.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map232.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map232.rvdata] to [../output/Mashiro-exploration/Data/Map232.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map233.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map233.rvdata] to [../output/Mashiro-exploration/Data/Map233.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map234.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map234.rvdata] to [../output/Mashiro-exploration/Data/Map234.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map235.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map235.rvdata] to [../output/Mashiro-exploration/Data/Map235.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map236.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map236.rvdata] to [../output/Mashiro-exploration/Data/Map236.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map237.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map237.rvdata] to [../output/Mashiro-exploration/Data/Map237.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map238.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map238.rvdata] to [../output/Mashiro-exploration/Data/Map238.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map239.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map239.rvdata] to [../output/Mashiro-exploration/Data/Map239.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map240.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map240.rvdata] to [../output/Mashiro-exploration/Data/Map240.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map241.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map241.rvdata] to [../output/Mashiro-exploration/Data/Map241.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map242.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map242.rvdata] to [../output/Mashiro-exploration/Data/Map242.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map243.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map243.rvdata] to [../output/Mashiro-exploration/Data/Map243.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map244.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map244.rvdata] to [../output/Mashiro-exploration/Data/Map244.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map245.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map245.rvdata] to [../output/Mashiro-exploration/Data/Map245.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map246.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map246.rvdata] to [../output/Mashiro-exploration/Data/Map246.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map247.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map247.rvdata] to [../output/Mashiro-exploration/Data/Map247.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map254.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map254.rvdata] to [../output/Mashiro-exploration/Data/Map254.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map255.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map255.rvdata] to [../output/Mashiro-exploration/Data/Map255.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map257.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map257.rvdata] to [../output/Mashiro-exploration/Data/Map257.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map258.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map258.rvdata] to [../output/Mashiro-exploration/Data/Map258.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map259.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map259.rvdata] to [../output/Mashiro-exploration/Data/Map259.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map260.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map260.rvdata] to [../output/Mashiro-exploration/Data/Map260.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map261.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map261.rvdata] to [../output/Mashiro-exploration/Data/Map261.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map262.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map262.rvdata] to [../output/Mashiro-exploration/Data/Map262.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map263.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map263.rvdata] to [../output/Mashiro-exploration/Data/Map263.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map264.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map264.rvdata] to [../output/Mashiro-exploration/Data/Map264.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map265.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map265.rvdata] to [../output/Mashiro-exploration/Data/Map265.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map266.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map266.rvdata] to [../output/Mashiro-exploration/Data/Map266.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map267.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map267.rvdata] to [../output/Mashiro-exploration/Data/Map267.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map268.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map268.rvdata] to [../output/Mashiro-exploration/Data/Map268.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map269.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map269.rvdata] to [../output/Mashiro-exploration/Data/Map269.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map270.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map270.rvdata] to [../output/Mashiro-exploration/Data/Map270.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map271.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map271.rvdata] to [../output/Mashiro-exploration/Data/Map271.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map272.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map272.rvdata] to [../output/Mashiro-exploration/Data/Map272.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map273.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map273.rvdata] to [../output/Mashiro-exploration/Data/Map273.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map275.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map275.rvdata] to [../output/Mashiro-exploration/Data/Map275.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map276.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map276.rvdata] to [../output/Mashiro-exploration/Data/Map276.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map277.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map277.rvdata] to [../output/Mashiro-exploration/Data/Map277.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map278.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map278.rvdata] to [../output/Mashiro-exploration/Data/Map278.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map279.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map279.rvdata] to [../output/Mashiro-exploration/Data/Map279.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map280.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map280.rvdata] to [../output/Mashiro-exploration/Data/Map280.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map284.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map284.rvdata] to [../output/Mashiro-exploration/Data/Map284.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map286.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map286.rvdata] to [../output/Mashiro-exploration/Data/Map286.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Map288.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Map288.rvdata] to [../output/Mashiro-exploration/Data/Map288.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/MapInfos.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/MapInfos.rvdata] to [../output/Mashiro-exploration/Data/MapInfos.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Scripts.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Scripts.rvdata] to [../output/Mashiro-exploration/Data/Scripts.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Skills.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Skills.rvdata] to [../output/Mashiro-exploration/Data/Skills.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/States.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/States.rvdata] to [../output/Mashiro-exploration/Data/States.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/System.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/System.rvdata] to [../output/Mashiro-exploration/Data/System.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Troops.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Troops.rvdata] to [../output/Mashiro-exploration/Data/Troops.rvdata]
+
+Translating: ../output/Mashiro-exploration/JsonExtracted/Weapons.json
+Skipping file based on filter... Copying [../output/Mashiro-exploration/DataExtracted/Weapons.rvdata] to [../output/Mashiro-exploration/Data/Weapons.rvdata]
+Running command: ruby "Z:/Github/Mashiro/Mashiro-exploration/RPG-Maker-Translator/3rdParty/rmxp_translator/rmvx_translator.rb" --translate="../output/Mashiro-exploration/DataExtracted/*.rvdata" --dest="../output/Mashiro-exploration/Data"
+Translating ../output/Mashiro-exploration/DataExtracted/Actors.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Animations.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Areas.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Armors.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Classes.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/CommonEvents.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Enemies.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Items.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map001.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map002.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map003.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map004.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map006.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map007.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map008.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map009.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map010.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map011.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map018.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map019.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map020.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map021.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map022.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map024.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map025.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map026.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map027.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map028.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map029.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map030.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map031.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map032.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map033.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map034.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map035.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map036.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map037.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map038.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map039.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map040.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map041.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map042.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map043.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map044.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map045.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map046.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map047.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map070.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map071.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map081.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map084.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map095.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map097.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map098.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map099.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map100.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map101.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map102.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map103.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map104.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map105.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map106.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map107.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map108.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map109.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map110.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map111.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map112.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map113.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map114.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map115.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map116.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map117.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map118.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map119.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map120.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map121.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map122.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map123.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map124.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map125.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map126.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map127.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map128.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map129.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map130.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map131.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map132.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map133.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map134.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map135.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map136.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map137.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map138.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map139.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map140.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map141.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map142.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map143.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map144.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map145.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map146.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map147.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map148.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map149.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map150.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map151.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map152.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map153.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map154.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map155.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map156.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map157.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map158.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map159.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map160.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map161.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map162.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map163.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map164.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map165.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map166.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map167.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map168.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map169.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map170.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map171.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map172.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map173.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map174.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map175.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map176.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map177.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map178.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map179.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map190.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map191.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map192.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map193.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map194.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map195.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map196.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map197.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map198.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map199.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map200.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map202.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map203.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map204.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map205.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map206.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map207.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map208.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map209.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map210.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map211.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map212.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map213.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map214.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map215.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map216.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map217.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map219.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map220.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map221.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map222.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map223.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map224.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map225.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map226.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map227.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map228.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map229.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map230.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map231.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map232.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map233.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map234.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map235.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map236.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map237.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map238.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map239.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map240.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map241.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map242.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map243.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map244.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map245.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map246.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map247.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map254.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map255.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map257.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map258.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map259.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map260.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map261.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map262.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map263.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map264.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map265.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map266.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map267.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map268.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map269.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map270.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map271.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map272.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map273.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map275.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map276.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map277.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map278.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map279.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map280.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map284.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map286.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Map288.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/MapInfos.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Scripts.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Skills.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/States.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/System.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Troops.rvdata... translation missing, ignoring.
+Translating ../output/Mashiro-exploration/DataExtracted/Weapons.rvdata... translation missing, ignoring.
+
+Processed 0 lines in 16.671365 seconds

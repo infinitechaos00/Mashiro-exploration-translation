@@ -1,0 +1,2106 @@
+[
+  [
+    0,
+    null
+  ],
+  [
+    1,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "きずぐすり",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ＨＰを100ポイント回復する。|ＭＰも僅かに回復。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "必中",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    2,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ミドルきずぐすり",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ＨＰを300ポイント回復する。|ＭＰも少し回復。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "必中",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    3,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハイきずぐすり",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ＨＰを500ポイント回復する。|ＭＰも回復。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "必中",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    4,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "フルきずぐすり",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ＨＰを完全に回復する。|ＭＰも大きく回復。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "必中",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    5,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "エーテル",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ＭＰを25回復する。|ＨＰもちょっと回復。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "必中",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    6,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハイエーテル",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ＭＰを100回復する。|ＨＰもじんわり回復。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "必中",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    7,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "フルエーテル",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ＭＰを完全に回復する。|ＨＰもそれなりに回復。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "必中",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    8,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "万能の霊薬",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ＨＰとＭＰを完全に回復する。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "<回避率無視>\r\n必中",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    9,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "全能の神薬",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "何からナニまで治してくれる奇蹟のお薬。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "<生者にも効果>\r\n必中\r\n",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    10,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ぬるぬる唾液",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "口内で取得できる粘液。|ぬるぬるしている。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    11,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "どろどろ消化液",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "塩酸。触ると危険。|小瓶に入れましょう。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    12,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "べとべと膵液",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "何かしらのホルモンを含んだ体液。|セクレチン。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    13,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ねとねと膣分泌液",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "膣壁から溢れてくる粘液で液体。|いやん、えっち。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    14,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "性感酵素",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ある種族の女性の胎内に生じる。|惚れ薬の素になるとか。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    15,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "消化前のごはん",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノ「…それ…た、食べる…んですか…？」|HP微量回復。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    16,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "丸呑みされたごはん",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "よく噛みもせずに飲み込んだごはん。これならなんとか。|HPとMPが小量回復。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    17,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    18,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    19,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    20,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ムチン粘膜",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "胃液を中和、抑制してダメージを軽減する粘液。|ＨＰもちょっとだけ回復する。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    21,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "下る薬",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "お腹が下るおくすり。使う人は選びましょう。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    22,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "疼く薬",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "お腹が疼く薬。時を考えて使いましょう。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    23,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノのお守り",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノから貰ったなにか。何故か体力が全快する。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "必中",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    24,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリのミルク",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "飲めば体の何処かに効く、イトリお手製の特濃ミルク。|ＨＰが1000回復する+α。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "必中",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    25,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの原液ミルク",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの乳腺で採取した、原液そのままのミルク。|ＨＰが100・ＭＰが50回復する。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "必中",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    26,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "胃腸薬",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "お腹の調子を整える薬。錠剤とかではございません。|直に浸透、直ちに効能。手段が一番の問題です。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    27,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "マシロのぱんつ",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "拾った。　売れる。　高い。|　なにゆえ。　どうして。　アホな。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    28,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    29,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    30,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "特製ニノ薬",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノが作ってくれる特製の薬。色々全回復する。|無くなってもニノがまた作ってくれます。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "<生者にも効果>\r\n必中",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    31,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "悶々する液体",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "肌に触れるとなんだか体が火照る液体。|濡れ濡れです。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    32,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    33,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    34,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "飴ちゃん",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "とってもあまーい飴。|HPとMPが微量回復する。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "必中",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    35,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリのおやつ",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリがよく食べてるお菓子。|HPとMPが少量回復する。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "必中",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    36,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノのおもち",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "魔法で造られたお餅。触ってもちもち食べてもちもち。|HPとMPがそれなりに回復する。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "必中",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    37,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    38,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    39,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    40,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    41,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    42,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハヤーシ",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "使うと足が速くなる。もう一度使うと戻る。|たまにうまく機能しない時もあります。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    43,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "トサレイ",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "これ使えば消化もカナり弱まるんじゃないカナ？|体内で受けるダメージを大幅に減らせます。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    44,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヌケリス",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "壁とか諸々を問答無用ですり抜けるようになります。|調べて発生させるイベントを見失いやすいので注意。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    45,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    46,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    47,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    48,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    49,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    50,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    51,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ポーション",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ＨＰを 500 ポイント回復する。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    52,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハイポーション",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ＨＰを 2500 ポイント回復する。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    53,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "フルポーション",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ＨＰを完全に回復する。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    54,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "マジックウォーター",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ＳＰを 200 ポイント回復する。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    55,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "スティミュラント",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "戦闘不能から復活させる。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    56,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンチドーテ",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "毒状態を治療する。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    57,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ディスペルハーブ",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "戦闘不能以外の状態異常を治療する。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    58,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "エリクサー",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "ＨＰとＭＰを完全に回復する。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    59,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ライフアップ",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "最大ＨＰを 50 ポイント上げる。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    60,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "マナアップ",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "最大ＭＰを 10 ポイント上げる。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    61,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "パワーアップ",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "攻撃力を 3 ポイント上げる。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    62,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ガードアップ",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "防御力を 3 ポイント上げる。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    63,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "マインドアップ",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "精神力を 3 ポイント上げる。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    64,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "スピードアップ",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "敏捷性を 3 ポイント上げる。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    65,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ファイアの巻物",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "敵単体に炎属性のダメージを与える。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    66,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "フレイムの巻物",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "敵全体に炎属性のダメージを与える。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    67,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アイスの巻物",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "敵単体に冷気属性のダメージを与える。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    68,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ブリザードの巻物",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "敵全体に冷気属性のダメージを与える。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    69,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "サンダーの巻物",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "敵単体に雷属性のダメージを与える。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    70,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "スパークの巻物",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "敵全体に雷属性のダメージを与える。",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    71,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    72,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    73,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    74,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    75,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    76,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    77,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    78,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    79,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    80,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    81,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    82,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    83,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    84,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    85,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    86,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    87,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    88,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    89,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    90,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    91,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    92,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    93,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    94,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    95,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    96,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    97,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    98,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    99,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    100,
+    {
+      "json_class": "RPG::Item",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "description": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "note": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ]
+]

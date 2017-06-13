@@ -1,0 +1,2345 @@
+[
+  [
+    1,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "マシロ家１F",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    2,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "マシロ家２Ｆ",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    3,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "スバル家",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    4,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの胃・胃液たっぷり[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    6,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの胃[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    7,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・入口[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    8,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒミヅキ様の円卓",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    9,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの膣[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    10,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの胃[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    11,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュの胃[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    18,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの小腸[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    19,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナの胃[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    20,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナの膣[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    21,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの大腸[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    22,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノのおしり[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    24,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "みんなのへや",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    25,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "即死胃",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    26,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "スバルの胃[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    27,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "スバルの小腸[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    28,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "スバルの大腸[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    29,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "スバルのおしり[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    30,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "円卓右隣",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    31,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハルアキ家",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    32,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの膣・改[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    33,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリのおしり[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    34,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの大腸[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    35,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュの大腸[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    36,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュのおしり[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    37,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナの小腸[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    38,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュの小腸[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    39,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナの大腸[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    40,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナのおしり[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    41,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハルの胃[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    42,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハルの小腸[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    43,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハルの大腸[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    44,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハルのおしり[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    45,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの奥[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    46,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの小腸[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    47,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノ巨大胃[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    70,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "円卓左隣",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    71,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アヤメ家",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    81,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの膣狭・改[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    83,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "女将様の寝床",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    84,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "円卓右隣・夜",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    95,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・中道[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    97,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・子宮前[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    98,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・搾精器官[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    99,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "転移部屋",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    100,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "円卓・夜",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    101,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アキの胃[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    102,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの胃さらに[A5 A5-2][D D-2][E E-2]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    103,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノのおしり・改[A5 A5-3][D D-3][E E-3][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    104,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・改[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    105,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノ巨大胃・改[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    106,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハルアキ家・夜",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    107,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの胃・改[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    108,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの小腸・改[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    109,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの小袋[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    110,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣奥・改[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    111,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの大腸・改[A5 A5-3][D D-3][E E-3][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    112,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アヤメの胃[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    113,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣奥の奥[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    114,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アヤメの小腸[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    115,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アヤメの大腸[A5 A5-3][D D-3][E E-3][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    116,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アヤメのおしり[A5 A5-3][D D-3][E E-3][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    117,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの子宮前・改[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    118,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの食道[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    119,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "円卓左隣・夜",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    120,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの小袋２[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    121,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・小袋[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    122,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣狭・改[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    123,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣狭狭・改[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    124,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・小袋2[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    125,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの小袋3[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    126,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "マシロ家１F・夜",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    127,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "スバル家・夜",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    128,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "マシロ家２Ｆ・夜",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    129,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アキの小腸[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    130,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの胃・改[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    131,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの小腸・改[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    132,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの大腸・改[A5 A5-3][D D-3][E E-3][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    133,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリのおしり・改[A5 A5-3][D D-3][E E-3][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    134,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの小袋[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    135,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの小袋2[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    136,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの膣奥・改[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    137,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの膣狭狭・改[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    138,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの膣奥の憩い場[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    139,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの子宮前・改[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    140,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの胸[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    141,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリのちんちん[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    142,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの胸・乳腺内[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    143,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリのちんちん・精嚢[DN_VOID][A5 A5-4][D D-4-01][E E-4-01]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    144,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・小袋3[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    145,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アキの大腸[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    146,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・小袋4[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    147,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・子宮前袋2[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    148,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・子宮前袋1[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    149,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・罠袋[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    150,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・罠袋狭[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    151,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・罠袋狭狭[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    152,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・罠袋狭狭狭[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    153,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・罠袋おわり[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    154,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの子宮[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    155,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの子宮・房内[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    156,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの子宮・房内[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    157,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの子宮・房内[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    158,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの子宮・房内[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    159,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イベント用マップ",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    160,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの子宮[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    161,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの子宮[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    162,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アキのおしり[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    163,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノ改・胃液満タン[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    164,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリ改・活発[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    165,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの子宮・閉じ[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    166,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの子宮・閉じ閉じ[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    167,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの子宮・閉じ閉じ閉じ[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    168,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの胸・乳腺奥[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    169,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュの胃・改(標準)[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    170,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの食道[DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    171,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュの胃・改(微量)[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    172,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュの胃・改(多量)[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    173,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュの胃・改(多々量)[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    174,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュの胃・改(満杯)[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    175,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュの小腸・改[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    176,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュの大腸・改[A5 A5-3][D D-3][E E-3][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    177,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュのおしり・改[A5 A5-3][D D-3][E E-3][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    178,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "海辺の洞窟",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    179,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "海辺の洞窟2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    183,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "夢世界",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    190,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノ巨大胃・改[A5 A5-2-01][D D-2-01][E E-2-01][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    191,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣・改ちんちん用[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    192,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナの胃・改　上部[A5 A5-2][D D-2-01][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    193,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナの食道・改[A5 A5-2][D D-2-01][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    194,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナの胃・改　下部[A5 A5-2][D D-2-01][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    195,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュの小腸・改の奥[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    196,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナの小腸・改[A5 A5-2][D D-2-01][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    197,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナの大腸・改[A5 A5-3][D D-3-01][E E-3][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    198,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナのおしり・改[A5 A5-3][D D-3-01][E E-3][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    199,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膀胱[A5 A5-2-02][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    200,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナの食道・改[A5 A5-2][D D-2-01][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    202,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナの胃・改　ちぢみ[A5 A5-2][D D-2-01][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    203,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナの胃・改　ちぢちぢみ[A5 A5-2][D D-2-01][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    204,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ゆびさき",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    205,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ゆびさき・ミラクル",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    206,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膀胱・空き[A5 A5-2-02][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    207,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膀胱[A5 A5-2-02][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    208,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "トイレ",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    209,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "トイレ・でっかい",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    210,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "トイレ・超でっかい",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    211,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの胃 腹痛[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    212,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノさん用",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    213,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリさん用",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    214,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの膣 媚薬[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    215,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの膣狭 媚薬[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    216,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの膣狭狭 媚薬[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    217,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリ媚薬 お部屋[A5 A5-4-01][C C-4-01][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    219,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの子宮・閉じ閉じ[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    220,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリの子宮・閉じ閉じ閉じ[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    221,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの膣 媚薬用[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    222,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "子宮前 媚薬用[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    223,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "改築前",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    224,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "改築前",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    225,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノ体内",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    226,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリ体内",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    227,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "改築前",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    228,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュ体内",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    229,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "改築前",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    230,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナ体内",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    231,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュさん用",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    232,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "２Ｆ・アンジュイベント用",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    233,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "２Ｆ・夜",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    234,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュの膣[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    235,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュの膣・狭[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    236,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュの膣[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    237,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アンジュの膣・狭[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    238,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの胸[DN_VOID][A5 A5-4][D D-4][E E-4]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    239,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "マシロ家２Ｆ・夜 腹痛イベント用",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    240,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの胸・二層目[DN_VOID][A5 A5-4][D D-4-01][E E-4-01][B B-2]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    241,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの胸・二層目おっぱいがいっぱい[DN_VOID][A5 A5-4][D D-4-01][E E-4-01]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    242,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "イトリさんふたなり",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    243,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "フィルオウル様[A5 A5-null]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    244,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの胸・二層目ミルク増え[DN_VOID][A5 A5-4][D D-4-01][E E-4-01][B B-2]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    245,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノちんちん",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    246,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノのたまたま[DN_VOID][A5 A5-4][D D-4-01][E E-4-01][B B-2]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    247,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノちんちん内部[DN_VOID][A5 A5-4][D D-4-01][E E-4-01][B B-2]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    254,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナちゃん用",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    255,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヒバナ胃下部いぢわる中[A5 A5-2][D D-2-01][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    257,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハルアキ改装前",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    258,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アキの胃・改[A5 A5-2][D D-2-01][E E-2-01][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    259,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハルアキちゃん用",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    260,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アキの胃・改[A5 A5-2][D D-2-01][E E-2-01][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    261,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アキの小腸・改[A5 A5-2][D D-2-01][E E-2-01][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    262,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アキの大腸・改[A5 A5-3][D D-3-01][E E-3][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    263,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "アキのおしり・改[A5 A5-3][D D-3-01][E E-3][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    264,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハルの胃・改[A5 A5-2][D D-2-01][E E-2-01][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    265,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハルの小腸・改[A5 A5-2][D D-2-01][E E-2-01][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    266,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハルの大腸・改[A5 A5-3][D D-3-01][E E-3][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    267,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ハルのおしり・改[A5 A5-3][D D-3-01][E E-3][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    268,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノ巨大胃・改上部[A5 A5-null][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    269,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノ巨大胃・改中部[A5 A5-null][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    270,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノ巨大胃・改下部[A5 A5-null][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    271,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノ巨大胃・改上部[A5 A5-null][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    272,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "フィル様体内[A5 A5-2][D D-2][E E-2][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    273,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "フィル様まっくら",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    275,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "フィル様と初めて",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    276,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノちんちんあそび",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    277,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "東方イベント",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    278,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "聖様2倍その２",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    279,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "畳",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    280,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ニノの子宮・お仕置き部屋[A5 A5-4][D D-4][E E-4][DN_VOID]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    284,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "聖様2倍",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    286,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "聖様4倍食道付き[D D-4-01]",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    288,
+    {
+      "json_class": "RPG::MapInfo",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "聖様の胃",
+        "translation": ""
+      }
+    }
+  ]
+]

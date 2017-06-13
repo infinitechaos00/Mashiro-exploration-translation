@@ -1,0 +1,1487 @@
+[
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script000.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "DEP 無効化",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script001.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script002.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "▼ モジュール",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script003.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Vocab",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script004.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Sound",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script005.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Cache",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script006.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script007.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "▼ ゲームオブジェクト",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script008.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Temp",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script009.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_System",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script010.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Message",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script011.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Switches",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script012.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Variables",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script013.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_SelfSwitches",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script014.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Screen",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script015.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Picture",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script016.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Battler",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script017.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_BattleAction",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script018.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Actor",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script019.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Enemy",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script020.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Actors",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script021.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Unit",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script022.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Party",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script023.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Troop",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script024.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Map",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script025.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_CommonEvent",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script026.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Character",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script027.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Event",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script028.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Vehicle",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script029.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Player",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script030.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Game_Interpreter",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script031.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script032.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "▼ スプライト",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script033.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Sprite_Base",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script034.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Sprite_Character",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script035.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Sprite_Battler",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script036.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Sprite_Picture",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script037.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Sprite_Timer",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script038.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Spriteset_Weather",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script039.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Spriteset_Map",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script040.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Spriteset_Battle",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script041.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script042.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "▼ ウィンドウ",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script043.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_Base",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script044.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_Selectable",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script045.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_Command",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script046.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_Help",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script047.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_Gold",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script048.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_MenuStatus",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script049.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_Item",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script050.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_Skill",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script051.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_SkillStatus",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script052.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_Equip",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script053.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_EquipItem",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script054.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_EquipStatus",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script055.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_Status",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script056.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_SaveFile",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script057.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_ShopBuy",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script058.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_ShopSell",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script059.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_ShopNumber",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script060.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_ShopStatus",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script061.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_NameEdit",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script062.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_NameInput",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script063.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_NumberInput",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script064.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_Message",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script065.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_BattleMessage",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script066.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_PartyCommand",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script067.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_ActorCommand",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script068.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_TargetEnemy",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script069.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_BattleStatus",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script070.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_DebugLeft",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script071.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Window_DebugRight",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script072.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script073.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "▼ シーン",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script074.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Scene_Base",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script075.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Scene_Title",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script076.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Scene_Map",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script077.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Scene_Menu",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script078.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Scene_Item",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script079.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Scene_Skill",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script080.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Scene_Equip",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script081.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Scene_Status",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script082.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Scene_File",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script083.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Scene_End",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script084.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Scene_Shop",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script085.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Scene_Name",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script086.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Scene_Debug",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script087.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Scene_Battle",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script088.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Scene_Gameover",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script089.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script090.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "▼ 素材",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script091.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "BGM 継続",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script092.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script093.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "\\seの制御文字",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script094.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script095.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "200x/XP 機能再現",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script096.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "限界突破 - KGC_LimitBreak",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script097.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "マップ軽量化",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script098.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "不死身ステート",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script099.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "無敵ステート",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script100.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "多人数パーティ",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script101.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "書式指定文字描画",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script102.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "ヘルプウィンドウ機能拡張",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script103.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "スリップダメージ拡張",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script104.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "勝利時 ME 強制停止",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script105.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "アイテム合成",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script106.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "装備品オプション追加",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script107.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "スキル習得装備",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script108.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "オーバードライブ",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script109.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "装備拡張",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script110.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "タイルセット拡張",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script111.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "素手詳細設定 ",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script112.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script113.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "バトルレイアウト変更",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script114.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script115.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "分かりやすい？",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script116.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "セーブファイル増やす",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script117.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Scene_Menu_load",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script118.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "★ウィンドウスキン変更★",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script119.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "生者・死者両方に使えるアイテム・スキル",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script120.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "割合上昇装備",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script121.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script122.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "装備能力限界突破",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script123.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script124.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "特殊効果判定用ベーススクリプトＡ",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script125.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "アクターと敵キャラの複数回行動",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script126.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script127.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "エネミー行動パターン改良5.53",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script128.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "行動条件追加：対象のステート",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script129.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script130.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "画面シェイク縦揺れ",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script131.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script132.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "XRXSv44. ベーシック・セッティング",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script133.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "アイテム対象制限／スキル使用条件",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script134.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script135.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "UKRA Scripted Region⇒ コア機能スクリプト",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script136.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "装備/ステート 特殊オプション",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script137.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script138.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "割合ダメージ",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script139.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "スキルメッセージ",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script140.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script141.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "必中スキル＆ステート",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script142.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "キャラクター拡大縮小",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script143.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "残像演出 RGSS2 DAIpage",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script144.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script145.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "先制確率と不意打ち確率が変動する装備品",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script146.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "カウンター ",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script147.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script148.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "呪われた装備",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script149.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script150.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "自作メニュー・自作ウィンドウ",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script151.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script152.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Map Effects　外人さん",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script153.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "昼夜切り替え",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script154.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script155.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "ヒット回数",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script156.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "STR22Core_メッセージウィンドウEXT++",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script157.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "STR22Edit_MWEXT++",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script158.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script159.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "コモンイベント優先",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script160.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "( ここに追加 )",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script161.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "▼ メイン",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script162.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "Main",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script163.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  },
+  {
+    "json_class": "Script",
+    "filename": "../output/Mashiro-exploration/JsonExtracted/scripts/Script164.rb",
+    "name": {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  }
+]

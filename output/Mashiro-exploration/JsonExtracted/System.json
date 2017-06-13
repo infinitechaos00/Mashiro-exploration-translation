@@ -1,0 +1,6268 @@
+{
+  "json_class": "RPG::System",
+  "game_title": {
+    "json_class": "TranslatableString",
+    "original   ": "マシロのとがで探険記",
+    "translation": ""
+  },
+  "terms": {
+    "level": {
+      "json_class": "TranslatableString",
+      "original   ": "レベル",
+      "translation": ""
+    },
+    "level_a": {
+      "json_class": "TranslatableString",
+      "original   ": "Ｌ",
+      "translation": ""
+    },
+    "hp": {
+      "json_class": "TranslatableString",
+      "original   ": "ＨＰ",
+      "translation": ""
+    },
+    "hp_a": {
+      "json_class": "TranslatableString",
+      "original   ": "Ｈ",
+      "translation": ""
+    },
+    "mp": {
+      "json_class": "TranslatableString",
+      "original   ": "ＭＰ",
+      "translation": ""
+    },
+    "mp_a": {
+      "json_class": "TranslatableString",
+      "original   ": "Ｍ",
+      "translation": ""
+    },
+    "atk": {
+      "json_class": "TranslatableString",
+      "original   ": "攻撃力",
+      "translation": ""
+    },
+    "def": {
+      "json_class": "TranslatableString",
+      "original   ": "防御力",
+      "translation": ""
+    },
+    "spi": {
+      "json_class": "TranslatableString",
+      "original   ": "精神力",
+      "translation": ""
+    },
+    "agi": {
+      "json_class": "TranslatableString",
+      "original   ": "敏捷性",
+      "translation": ""
+    },
+    "weapon": {
+      "json_class": "TranslatableString",
+      "original   ": "武器",
+      "translation": ""
+    },
+    "armor1": {
+      "json_class": "TranslatableString",
+      "original   ": "盾",
+      "translation": ""
+    },
+    "armor2": {
+      "json_class": "TranslatableString",
+      "original   ": "頭",
+      "translation": ""
+    },
+    "armor3": {
+      "json_class": "TranslatableString",
+      "original   ": "身体",
+      "translation": ""
+    },
+    "armor4": {
+      "json_class": "TranslatableString",
+      "original   ": "装飾品",
+      "translation": ""
+    },
+    "weapon1": {
+      "json_class": "TranslatableString",
+      "original   ": "武器１",
+      "translation": ""
+    },
+    "weapon2": {
+      "json_class": "TranslatableString",
+      "original   ": "武器２",
+      "translation": ""
+    },
+    "attack": {
+      "json_class": "TranslatableString",
+      "original   ": "攻撃",
+      "translation": ""
+    },
+    "skill": {
+      "json_class": "TranslatableString",
+      "original   ": "スキル",
+      "translation": ""
+    },
+    "guard": {
+      "json_class": "TranslatableString",
+      "original   ": "防御",
+      "translation": ""
+    },
+    "item": {
+      "json_class": "TranslatableString",
+      "original   ": "アイテム",
+      "translation": ""
+    },
+    "equip": {
+      "json_class": "TranslatableString",
+      "original   ": "装備",
+      "translation": ""
+    },
+    "status": {
+      "json_class": "TranslatableString",
+      "original   ": "ステータス",
+      "translation": ""
+    },
+    "save": {
+      "json_class": "TranslatableString",
+      "original   ": "セーブ",
+      "translation": ""
+    },
+    "game_end": {
+      "json_class": "TranslatableString",
+      "original   ": "ゲーム終了",
+      "translation": ""
+    },
+    "fight": {
+      "json_class": "TranslatableString",
+      "original   ": "戦う",
+      "translation": ""
+    },
+    "escape": {
+      "json_class": "TranslatableString",
+      "original   ": "逃げる",
+      "translation": ""
+    },
+    "new_game": {
+      "json_class": "TranslatableString",
+      "original   ": "初めから",
+      "translation": ""
+    },
+    "continue": {
+      "json_class": "TranslatableString",
+      "original   ": "続きから",
+      "translation": ""
+    },
+    "shutdown": {
+      "json_class": "TranslatableString",
+      "original   ": "シャットダウン",
+      "translation": ""
+    },
+    "to_title": {
+      "json_class": "TranslatableString",
+      "original   ": "タイトルへ",
+      "translation": ""
+    },
+    "cancel": {
+      "json_class": "TranslatableString",
+      "original   ": "やめる",
+      "translation": ""
+    },
+    "gold": {
+      "json_class": "TranslatableString",
+      "original   ": "円",
+      "translation": ""
+    }
+  },
+  "elements": [
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "格闘",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "斬撃",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "刺突",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "打撃",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "弓",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "鞭",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "精神",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "吸収",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "炎",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "冷気",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "雷",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "水",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "大地",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "風",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "神聖",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "暗黒",
+      "translation": ""
+    }
+  ],
+  "switches": [
+    null,
+    {
+      "json_class": "TranslatableString",
+      "original   ": "小さくなった",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "もっと小さくなった",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "マシロON",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "小さくされた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ミニマシロ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ミラクルマシロ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ミニレイ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ミラクルレイ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ドコールレイ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "気付かれないマシロ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "向町解放",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ドコール解放",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒミヅキ様解放",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "夜",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ピクチャ？",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "たてゆれ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ口はじめて",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ会話",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノはじめて終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノはじめて脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ口から脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ膣から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ膣脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ胃デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ小腸デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ大腸デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ臀部デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ膣デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ膣はじめて終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ奥まで",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ膣はじめて脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ膣穴入った",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ミニミニノ会話",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ミニノ飲まれ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ触手デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリはじめて",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリはじめて脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリはじめて終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ口から脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ膣から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ膣から脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ胃デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ小腸デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ大腸デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ臀部デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ膣デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリおっぱい",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリおっぱい終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ膣から終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ奥まで",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ子宮おわり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ子宮イン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリおっぱい疼き",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ触手デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュはじめて",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュはじめて脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュはじめて終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ口から脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ膣から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ膣から脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ胃デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ小腸デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ大腸デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ臀部デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ膣デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ膣から終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ無理だよ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュなんとか",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ムチン後",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ固形便",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュいじわるデス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ穴オン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ穴中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナはじめて",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナはじめて脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナはじめて終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナ口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナ口から脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナ胃デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナ小腸デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナ大腸デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナ臀部デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナおしおき",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナおしおき中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナ触手吸収",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "スピーダーおん",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "胎内侵入",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "膣デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "膣入",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "胃侵入",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "胃液イン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "胃液ＭＡＸ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "小腸イン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "大腸イン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "直腸イン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "溶けた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "押し潰された",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "揉み潰された",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "力尽きた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "吸収された",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "蕩けた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "流された",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "触手で吸収された",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "気付かれない侵入",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "体力２０",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ノベルon",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイオン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "スバルとお話",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "スバル口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "スバルはじめて脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "スバルはじめて終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "スバルいつも脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "スバル優しく脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイ小さくなった",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイもっと",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイ小さくされた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイアル口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイアル体内デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイアル脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイリリ口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイリリ体内デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイリリ脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "溶けレイ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "胃液インレイ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "腸インレイ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "大腸インレイ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "スバル胃デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "スバル腸デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "スバル大腸デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "スバル触手デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイアン口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイアン体内デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイアン脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイイト口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイイト体内デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイイト脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイヒバ口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイヒバ体内デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイヒバ脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイニノ口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイニノ体内デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイニノ脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイニノ脱出改",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイマシ口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイマシ体内デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイマシ脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイユズ口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイユズ体内デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイユズ脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイシエ口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイシエ体内デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイシエ脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "合成on",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ムチンon",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "お小遣いon",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "合成スタート",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "スバルといっしょ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ胃液中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ハルアキおやすみ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アキなにか作成中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ハルなにか作成中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "巨大胃液イン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "罠胃液イン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "罠胃液ダメージ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "胃液穴イン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリベッドおん",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "トーサレーイ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ムチンできた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レア結晶オン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "すりぬけ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "なにかしてる",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ違和感開始",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ違和感脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ違和感終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ違和感消化",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナ食べられ中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナと話した",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ中ヒバナデス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ怒った",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ中ヒバナ脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノヒバナ終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノポンプ脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリうずうず開始",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリうずうず終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリうずうず中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリうずうず口",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリうずうず膣",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノヒバナ中デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノヒバナデスあと",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ子宮おわり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ミラクルニノ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ミラクル消化",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ腹痛中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "患部大体塗布",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノお腹治った",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ腹痛中デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ腹痛脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ腹痛終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ腹痛スタート",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ疼き開始",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ疼き中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ疼き終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ疼き中消化",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ疼きすたーと",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ疼きクリア",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ触手オン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ疼き脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ触手デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ疼き吸収",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ハルアキ口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ハル口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アキ口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ハル口から脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アキ口から脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ハル胃デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アキ胃デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ハル大腸デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アキ大腸デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ハルアキ本日",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ子宮イン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ絶頂した",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ膣穴１",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ膣穴２",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ膣穴３",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ食道脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノスポット潰し",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アルシアたちと話した",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アルシア口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アルシア脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アルシアデス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アルシアはじめて",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "リリーネ口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "リリーネ脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "リリーネデス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "リリーネはじめて",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ユズハ口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ユズハ脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ユズハデス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ユズハはじめて",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "シエン口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "シエン脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "シエンデス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "シエンはじめて",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "バニさん口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "みんなに喰われた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "人捜し中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカ魔方陣侵入",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカに喰われた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカに消化された",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカ消化で出てきた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカ体内会話",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカおたすけ中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカ先遣隊",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカダウン中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカ救出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカイベント終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカ円卓加入",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカはじめて",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカはじめて脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカはじめて終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカ口から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカ口から脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカ胃デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカ小腸デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカ大腸デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリカラダ遊び",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "口にいる",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "おっぱいにいる",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "お腹にいる",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "おまんこにいる",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリに食べられた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリおっぱいミルク",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリおっぱい呑み",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリカラダで子宮",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "出ようとした",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリおっぱい吸収",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "カラダあそび終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリのナニか",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ティーナ家入った",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "スバルといっしょにデス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ膣奥まで",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "子宮たっち",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "膣穴食べられた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノスバル膣デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノスバル膣脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノスバルと溶けた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノスバルと膣出た",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ改スバルと",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリの穴中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリお尻から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリお尻から脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュお尻から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュお尻から脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリスバル脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリスバル溶けた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュスバル脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュスバル溶けた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナスバル脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナスバル溶けた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "超級攻略",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ごっくん",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "消化されてる",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ごっくんされた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "下口ごっくん",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "膣内吸収",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "おっぱい揉み",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "おっぱいごっくん",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "おっぱい吸収",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "子宮吸収",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ改脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "こっそりイトリ膣から",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "こっそりイトリ脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "こっそりイトリデス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリスバル膣デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリスバル膣脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ中道の奥",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ子宮解放",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ子宮フラグ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ子宮入った",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイニノ改脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイニノ改デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイイト改脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイイト改デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイピク",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイ出てきた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "メッセージ1",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "メッセージ2",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "メッセージ3",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "タイピングSEoff",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "SEスピード",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "サブメニュー解放",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "音スイッチ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "垂れ胃液オン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ジャンプ禁止",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "メンバー入れ替え",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ジャンプ禁止ダメージ用",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "内壁触れ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "武器持ってる",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "拡大縮小スイッチ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "便砕いた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ジャンプ改使用",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ジャンプずり落ち発動",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ジャンプした",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "よじ登り最中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベントスイッチ1",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベントスイッチ2",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベントスイッチ3",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベントスイッチ4",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベントスイッチ5",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベントスイッチ6",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベントスイッチ7",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベントスイッチ8",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベントスイッチ9",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベント中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "おっぱいの上",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "パンツ脱いだ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ダンジョン初級",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ダンジョン中級",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ダンジョン上級",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "呼び止めツキミさん",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ改解放",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ我慢できない",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ潰しちゃった",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノきもちー",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノかなりきもちー",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ食べちゃった",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ膀胱スタート",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ膀胱おわり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ膀胱脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ改スバルと",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ改腹痛終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ改子宮前",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "子宮袋休み",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノダミーデス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ダミーの餌食にされた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ子宮に入った",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ改触手吸収",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "お仕置き部屋",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ改解放",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリスポット潰し",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリきもちー",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリかなりきもちー",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ食べちゃった",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリニオイ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニオイ２",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ子宮赤ちゃん",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ子宮入った",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリおっぱい体験",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリおっぱい",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "おっぱいのみ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "おっぱいのみのみ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "のみすぎ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリおっぱいデス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ乳腺吸収",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリのミルクになった",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ食道脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ気付かれない脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "口気付かれない脱出済み",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ気付かれないお仕置き",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ媚薬おめざめ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ媚薬終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリフラグ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリちんちん無しデス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリちんちん遭遇",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリちんちんデス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリちんちん終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリの精子になった",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ改解放",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ改はじめて終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ隠れて進行中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ隠れておわり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ隠れて脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ膣デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ膣脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ子宮触った",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナ改解放",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナ改はじめて終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナいぢわる中",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナいぢわるおわり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナいぢわるデス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナ監禁溶けた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "風邪引いた",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "風邪終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ハルアキ改解放",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アキ風邪デス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アキ触手吸収",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ハル触手吸収",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "夢スタート",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "夢初めて終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "夢終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "聖様夢",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "フィル様消化",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノおっぱいフラグ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノおっぱいイン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノおっぱいデス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノおっぱい終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノおっぱい脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノちんちんフラグ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノちんちん終わり",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノちんちんイン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノちんちんデス",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノちんちん脱出",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  ],
+  "variables": [
+    null,
+    {
+      "json_class": "TranslatableString",
+      "original   ": "主人公Ｘ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "主人公Ｙ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "一時Ｘ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "一時Ｙ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "主人公体力",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "一時レベル",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "主人公向き",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "主人公レベル",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "胃液ダメージ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "一時変数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "魔力値加算",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "魔力結晶",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "胃液回数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "膣回数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "罠胃液表示",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ぱんつ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ薬",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "デュランダル所持",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "触手吸収",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "マップID",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "おこづかい",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ患部",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ性感",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "マシロ体力",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリおっぱい性感",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "マシロミルク回数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノおさわり回数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ腹痛回数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "マシ地点",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ランダム胃液",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "消化液穴表示",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "淫液乱数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "結晶変数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "パーティ人数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ウィンドウID",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アクター番号",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "カーソル位置",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "会話乱数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ愛情値",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノの気まぐれ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノのやきもち",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノの弱点",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ体内カウント",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ愛情値",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリの弱点",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリおっぱい",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリうずうず",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ気まぐれ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ愛情値",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ気配",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュお尻",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュクリア回数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュ気まぐれ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナ愛情値",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナの喉",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ヒバナ気まぐれ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "エイカふらふら",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリこっそり回数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリもぐもぐ回数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ膣穴変数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリおやつ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "小袋位置",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "穴変数2",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "胃液ダメージ保管",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "穴表示2",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "穴表示3",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベント通過変数1",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベント通過変数2",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベント通過変数3",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ランダムイベント変数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "くちゅ音変数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ジャンプ回数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "便砕き回数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "プレイヤーX",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "プレイヤーY",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "一時のX",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "一時のY",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "一時変数2",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "フェーズ1",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "フェーズ2",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ダメージ変数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイ地点",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "スバル気持ち",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "スバル愛情値",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ハルアキ非番",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベント場所変数X",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベント場所変数Y",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "タイピングSEスピード",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "タイピングSE",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ウィンドウ",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "丸呑みターン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "子宮ターン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "加速ターン",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベントカウント",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベントカウント変数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "おっぱいカウント",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "スバルHP",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ性感回数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノ腹痛カウント",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "レイ性感回数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ性感回数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリ焦らし回数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリいじり回数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリミルク回数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ミルク所持数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュむらむら",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "夢進行変数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イベント確認用",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノイベント会話",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "イトリイベント会話",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "アンジュイベント会話",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "体内アクション1",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "体内アクション2",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "体内アクション3",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "体内アクション4",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "体内アクション5",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "外でアクション1",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "外でアクション2",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "外でアクション3",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "外でアクション4",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "外でアクション5",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "ニノイベント進行変数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "夢分岐変数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "フィル様進行変数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "聖様進行変数",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    },
+    {
+      "json_class": "TranslatableString",
+      "original   ": "",
+      "translation": ""
+    }
+  ]
+}

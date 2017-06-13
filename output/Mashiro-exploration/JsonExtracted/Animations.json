@@ -1,0 +1,1777 @@
+[
+  [
+    0,
+    null
+  ],
+  [
+    1,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "格闘/物理",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    2,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "格闘/炎",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    3,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "格闘/冷気",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    4,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "格闘/雷",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    5,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "格闘/必殺技1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    6,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "格闘/必殺技2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    7,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "斬撃/物理",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    8,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "斬撃/炎",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    9,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "斬撃/冷気",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    10,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "斬撃/雷",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    11,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "斬撃/必殺技1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    12,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "斬撃/必殺技2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    13,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "刺突/物理",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    14,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "刺突/炎",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    15,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "刺突/冷気",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    16,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "刺突/雷",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    17,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "刺突/必殺技1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    18,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "刺突/必殺技2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    19,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "打撃/物理",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    20,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "打撃/炎",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    21,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "打撃/冷気",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    22,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "打撃/雷",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    23,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "打撃/必殺技1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    24,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "打撃/必殺技2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    25,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "息/炎",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    26,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "息/冷気",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    27,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "息/雷",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    28,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "息/状態異常",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    29,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "花粉",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    30,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "超音波",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    31,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "霧",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    32,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "歌",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    33,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "閃光",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    34,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "咆哮",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    35,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "足払い",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    36,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "体当たり",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    37,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "回復1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    38,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "回復2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    39,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "回復3",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    40,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "治療1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    41,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "治療2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    42,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "蘇生",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    43,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "強化1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    44,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "強化2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    45,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "弱体1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    46,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "弱体2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    47,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "呪縛1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    48,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "呪縛2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    49,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "吸収",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    50,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "毒",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    51,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "暗闇",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    52,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "沈黙",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    53,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "混乱",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    54,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "睡眠",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    55,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "麻痺",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    56,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "即死",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    57,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "炎/単体1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    58,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "炎/単体2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    59,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "炎/全体1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    60,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "炎/全体2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    61,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "冷気/単体1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    62,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "冷気/単体2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    63,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "冷気/全体1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    64,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "冷気/全体2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    65,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "雷/単体1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    66,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "雷/単体2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    67,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "雷/全体1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    68,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "雷/全体2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    69,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "水/単体",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    70,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "水/全体",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    71,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "大地/単体",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    72,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "大地/全体",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    73,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "風/単体",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    74,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "風/全体",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    75,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "神聖/単体",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    76,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "神聖/全体",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    77,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "暗黒/単体",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    78,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "暗黒/全体",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    79,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "無属性/単体",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    80,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "無属性/全体",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    81,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ぬるぬる",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    82,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "神出鬼没",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    83,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "刺突/炎",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    84,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "強化1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    85,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "みず",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    86,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "うさぬま",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    87,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    88,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    89,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    90,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "回復1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    91,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "込め２",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    92,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "込め",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    93,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    94,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    95,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    96,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    97,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    98,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    99,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    100,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    101,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ミニミニ",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    102,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "回復マップ用",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    103,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ミラクルミニ",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    104,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "治療2",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    105,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ぬるぬる",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    106,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "神出鬼没",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    107,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "刺突/炎",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    108,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "強化1",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    109,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "みず",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    110,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ドコール",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    111,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "胃液",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    112,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "におい",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    113,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "魔法",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    114,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ぬるみず",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    115,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "たたく",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    116,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "魔法陣",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    117,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    118,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    119,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    120,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    121,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    122,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    123,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    124,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    125,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    126,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    127,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    128,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    129,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    130,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    131,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    132,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    133,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    134,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    135,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    136,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    137,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    138,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    139,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    140,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    141,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    142,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    143,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    144,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    145,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    146,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    147,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    148,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    149,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    150,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    151,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "つまはじき",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    152,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "すりつぶし",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    153,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "おしつぶす",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    154,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "つまむ",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    155,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "しめあげる",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    156,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "たたきつぶす",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    157,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    158,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    159,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    160,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ],
+  [
+    161,
+    {
+      "json_class": "RPG::Animation",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      }
+    }
+  ]
+]

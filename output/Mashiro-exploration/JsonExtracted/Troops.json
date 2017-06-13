@@ -1,0 +1,2229 @@
+[
+  [
+    0,
+    null
+  ],
+  [
+    1,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "スライム*2",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    2,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "こうもり*2",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    3,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ホーネット*2",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    4,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "大グモ*3",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    5,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "大ネズミ*3",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    6,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ウィスプ*3",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    7,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "大蛇*2",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    8,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "大サソリ*3",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    9,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "大クラゲ*2",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    10,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "食人花*3",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    11,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ゴースト*3",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    12,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "スケルトン*2",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    13,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "オーク*3",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    14,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "インプ*2",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    15,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ゲイザー*3",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    16,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "パペット*2",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    17,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ゾンビ*3",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    18,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "コカトリス*2",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    19,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "キマイラ",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    20,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ミミック",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    21,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ウェアウルフ*2",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    22,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "サハギン*2",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    23,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "オーガ",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    24,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ガーゴイル*2",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    25,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ラミア",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    26,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "ヴァンパイア",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    27,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "サキュバス",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    28,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "デーモン",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    29,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "魔王",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    30,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "魔神",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    31,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    32,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    33,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    34,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    35,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    36,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    37,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    38,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    39,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    40,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    41,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    42,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    43,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    44,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    45,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    46,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    47,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    48,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    49,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    50,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    51,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    52,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    53,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    54,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    55,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    56,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    57,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    58,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    59,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    60,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    61,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    62,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    63,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    64,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    65,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    66,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    67,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    68,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    69,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    70,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    71,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "シャフィアンシス",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Show Text Attributes"
+            },
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Show Text",
+              "parameters": {
+                "json_class": "TranslatableArray",
+                "original   ": [
+                  "\\NA[シャフィアンシス]ふぅん……\\|",
+                  "…キミ、なかなかやるじゃない……"
+                ],
+                "translation": [
+                  "",
+                  ""
+                ]
+              }
+            },
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Abort Battle"
+            },
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    72,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    73,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    74,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    75,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    76,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    77,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    78,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    79,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    80,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    81,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    82,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    83,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    84,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    85,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    86,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    87,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    88,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    89,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    90,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    91,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    92,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    93,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    94,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    95,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    96,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    97,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    98,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    99,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  [
+    100,
+    {
+      "json_class": "RPG::Troop",
+      "name": {
+        "json_class": "TranslatableString",
+        "original   ": "",
+        "translation": ""
+      },
+      "pages": [
+        {
+          "json_class": "RPG::Troop::Page",
+          "commands": [
+            {
+              "json_class": "RPG::EventCommand",
+              "type": "Empty"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+]
