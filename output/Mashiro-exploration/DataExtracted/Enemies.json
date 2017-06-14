@@ -42,7 +42,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ホーネット",
-        "translation": "ーNet"
+        "translation": "Hornet"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -170,7 +170,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ゴースト",
-        "translation": "ーA strike"
+        "translation": "Ghost"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -202,7 +202,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "オーク",
-        "translation": "ー"
+        "translation": "Oak"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -234,7 +234,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ゲイザー",
-        "translation": "Geyserー"
+        "translation": "Gaither"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -362,7 +362,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "オーガ",
-        "translation": "ー"
+        "translation": "Ogre"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -378,7 +378,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ガーゴイル",
-        "translation": "ーGoil"
+        "translation": "Gargoyle"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -442,7 +442,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "デーモン",
-        "translation": "ー"
+        "translation": "Daemon"
       },
       "note": {
         "json_class": "TranslatableString",

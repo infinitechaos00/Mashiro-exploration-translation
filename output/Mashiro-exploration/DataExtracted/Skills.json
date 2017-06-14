@@ -15,7 +15,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体に連続してダメージを与える。",
-        "translation": "Continuously to an enemy unit no moreーTo give。"
+        "translation": "Continually deals damage to an enemy unit。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -46,7 +46,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵二体にダメージを与える。",
-        "translation": "It is not good against two enemiesーTo give。"
+        "translation": "Damaging enemy body。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -77,7 +77,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵三体にダメージを与える。",
-        "translation": "Do not work on enemy three bodiesーTo give。"
+        "translation": "Damaging enemy three-body。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -108,7 +108,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体にダメージを与え、毒状態にする。",
-        "translation": "Do not be an enemy unitーGive it、To poison。"
+        "translation": "Damage enemies alone、To poison。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -139,7 +139,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体にダメージを与え、暗闇状態にする。",
-        "translation": "Do not be an enemy unitーGive it、To darkness。"
+        "translation": "Damage enemies alone、To darkness。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -170,7 +170,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体にダメージを与え、混乱状態にする。",
-        "translation": "Do not be an enemy unitーGive it、Make it confusing。"
+        "translation": "Damage enemies alone、Make it confusing。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -201,7 +201,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体にダメージを与え、睡眠状態にする。",
-        "translation": "Do not be an enemy unitーGive it、To sleep。"
+        "translation": "Damage enemies alone、To sleep。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -232,7 +232,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体にダメージを与え、麻痺状態にする。",
-        "translation": "Do not be an enemy unitーGive it、To paralyze。"
+        "translation": "Damage enemies alone、To paralyze。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -263,7 +263,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に炎属性のダメージを与える。",
-        "translation": "Flame attribute no good for all enemiesーTo give。"
+        "translation": "Damage fire damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -294,7 +294,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に冷気属性のダメージを与える。",
-        "translation": "Damage of cold air attribute to the enemy as a wholeーTo give。"
+        "translation": "Deals cold air damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -325,7 +325,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に雷属性のダメージを与える。",
-        "translation": "No thunder attribute on the enemy as a wholeーTo give。"
+        "translation": "Deals lightning damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -356,7 +356,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に水属性のダメージを与える。",
-        "translation": "Damage of water attributes to the entire enemyーTo give。"
+        "translation": "Deals water damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -387,7 +387,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に大地属性のダメージを与える。",
-        "translation": "Attack of the earth attribute to the enemy as a wholeーTo give。"
+        "translation": "Damage earth damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -418,7 +418,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に風属性のダメージを与える。",
-        "translation": "Wind attributes are not allowed for the entire enemyーTo give。"
+        "translation": "Deals wind damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -852,7 +852,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体にダメージを与え、バランスを崩させる。",
-        "translation": "Do not be an enemy unitーGive it、To break the balance。"
+        "translation": "Damage enemies alone、To break the balance。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -1002,7 +1002,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ヒール",
-        "translation": "ーLe"
+        "translation": "Heel"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1017,7 +1017,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はヒールを唱えた！",
-        "translation": "ーI recited Le！"
+        "translation": "He cast a heal！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -1033,7 +1033,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ヒールⅡ",
-        "translation": "ーLeⅡ"
+        "translation": "HeelⅡ"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1048,7 +1048,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はヒールⅡを唱えた！",
-        "translation": "ーLeⅡI recited！"
+        "translation": "HeelⅡI recited！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -1064,7 +1064,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ヒールⅢ",
-        "translation": "ーLeⅢ"
+        "translation": "HeelⅢ"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1079,7 +1079,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はヒールⅢを唱えた！",
-        "translation": "ーLeⅢI recited！"
+        "translation": "HeelⅢI recited！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -1095,7 +1095,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "リカバー",
-        "translation": "Recoveryー"
+        "translation": "Recovery"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1110,7 +1110,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はリカバーを唱えた！",
-        "translation": "RecoverーI recited！"
+        "translation": "I recalled Recover！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -1126,7 +1126,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "リカバーⅡ",
-        "translation": "RecoveryーⅡ"
+        "translation": "RecoveryⅡ"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1141,7 +1141,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はリカバーⅡを唱えた！",
-        "translation": "RecoverーⅡI recited！"
+        "translation": "RecoverⅡI recited！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -1157,7 +1157,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "セルフヒール",
-        "translation": "Self-heaーLe"
+        "translation": "Self heal"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1172,7 +1172,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はセルフヒールを唱えた！",
-        "translation": "Self-heaーI recited Le！"
+        "translation": "Has objected to self heal！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -1405,7 +1405,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "コンフューズ",
-        "translation": "ConfluenceーA"
+        "translation": "Confuse"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1420,7 +1420,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はコンフューズを唱えた！",
-        "translation": "Is conーI spoke！"
+        "translation": "I called a confession！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -1436,7 +1436,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "スリープ",
-        "translation": "PickpocketーA"
+        "translation": "Sleep"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1451,7 +1451,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はスリープを唱えた！",
-        "translation": "SRIーI spoke！"
+        "translation": "I called a sleep！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -1529,7 +1529,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "アーマーブレス",
-        "translation": "ーーBless"
+        "translation": "Armor breath"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1544,7 +1544,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はアーマーブレスを唱えた！",
-        "translation": "ーーI spoke Blessce！"
+        "translation": "I called Armor Breath！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -1591,7 +1591,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "クイックムーブ",
-        "translation": "QuickieーThe"
+        "translation": "Quick Move"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1606,7 +1606,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はクイックムーブを唱えた！",
-        "translation": "Is a quickーI recited！"
+        "translation": "I cast a quick move！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -1622,7 +1622,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ウェポンカース",
-        "translation": "Weaponkaー"
+        "translation": "Weapon curse"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1637,7 +1637,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はウェポンカースを唱えた！",
-        "translation": "Is WeaponkaーI spoke！"
+        "translation": "I called Weapon Curse！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -1653,7 +1653,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "アーマーカース",
-        "translation": "ーーー"
+        "translation": "Armor curse"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1668,7 +1668,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はアーマーカースを唱えた！",
-        "translation": "ーーーI spoke！"
+        "translation": "He cast Armor Curse！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -1684,7 +1684,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "スピリットカース",
-        "translation": "Spirit Kaー"
+        "translation": "Spirit case"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1699,7 +1699,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はスピリットカースを唱えた！",
-        "translation": "Spirit KaーI spoke！"
+        "translation": "Has objected to spirit case！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -1715,7 +1715,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "スロームーブ",
-        "translation": "SloーArmーThe"
+        "translation": "Slow Move"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1730,7 +1730,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はスロームーブを唱えた！",
-        "translation": "Is SloーArmーI recited！"
+        "translation": "I advocated Slow Move！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -1813,7 +1813,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体に炎属性のダメージを与える。",
-        "translation": "Flame attribute no good for enemy unitーTo give。"
+        "translation": "Deals flame attribute damage to an enemy unit。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -1844,7 +1844,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体に炎属性のダメージを与える。",
-        "translation": "Flame attribute no good for enemy unitーTo give。"
+        "translation": "Deals flame attribute damage to an enemy unit。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -1875,7 +1875,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に炎属性のダメージを与える。",
-        "translation": "Flame attribute no good for all enemiesーTo give。"
+        "translation": "Damage fire damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -1906,7 +1906,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に炎属性のダメージを与える。",
-        "translation": "Flame attribute no good for all enemiesーTo give。"
+        "translation": "Damage fire damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -1937,7 +1937,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体に冷気属性のダメージを与える。",
-        "translation": "The cold air attribute is unnecessary to an enemy unitーTo give。"
+        "translation": "Damage of the cold attribute giving enemy unit。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -1968,7 +1968,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体に冷気属性のダメージを与える。",
-        "translation": "The cold air attribute is unnecessary to an enemy unitーTo give。"
+        "translation": "Damage of the cold attribute giving enemy unit。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -1994,12 +1994,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ブリザード",
-        "translation": "Brizaー"
+        "translation": "Blizzard"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に冷気属性のダメージを与える。",
-        "translation": "Damage of cold air attribute to the enemy as a wholeーTo give。"
+        "translation": "Deals cold air damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2009,7 +2009,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はブリザードを唱えた！",
-        "translation": "BrizaーI recited！"
+        "translation": "I cast Blizzard！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -2025,12 +2025,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ブリザードⅡ",
-        "translation": "BrizaーⅡ"
+        "translation": "BlizzardⅡ"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に冷気属性のダメージを与える。",
-        "translation": "Damage of cold air attribute to the enemy as a wholeーTo give。"
+        "translation": "Deals cold air damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2040,7 +2040,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はブリザードⅡを唱えた！",
-        "translation": "BrizaーⅡI recited！"
+        "translation": "BlizzardⅡI recited！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -2056,12 +2056,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "サンダー",
-        "translation": "Sandaー"
+        "translation": "Thunder"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体に雷属性のダメージを与える。",
-        "translation": "No thunder attribute on enemy unitーTo give。"
+        "translation": "Deals lightning attribute damage to an enemy unit。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2071,7 +2071,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はサンダーを唱えた！",
-        "translation": "Is SandaーI recited！"
+        "translation": "I cast Thunder！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -2087,12 +2087,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "サンダーⅡ",
-        "translation": "SandaーⅡ"
+        "translation": "ThunderⅡ"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体に雷属性のダメージを与える。",
-        "translation": "No thunder attribute on enemy unitーTo give。"
+        "translation": "Deals lightning attribute damage to an enemy unit。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2102,7 +2102,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はサンダーⅡを唱えた！",
-        "translation": "Is SandaーⅡI recited！"
+        "translation": "ThunderⅡI recited！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -2118,12 +2118,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "スパーク",
-        "translation": "Spaー"
+        "translation": "Spark"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に雷属性のダメージを与える。",
-        "translation": "No thunder attribute on the enemy as a wholeーTo give。"
+        "translation": "Deals lightning damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2133,7 +2133,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はスパークを唱えた！",
-        "translation": "Is a spaーI recited！"
+        "translation": "I spoke a spark！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -2149,12 +2149,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "スパークⅡ",
-        "translation": "SpaーⅡ"
+        "translation": "SparkⅡ"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に雷属性のダメージを与える。",
-        "translation": "No thunder attribute on the enemy as a wholeーTo give。"
+        "translation": "Deals lightning damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2164,7 +2164,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はスパークⅡを唱えた！",
-        "translation": "Is a spaーⅡI recited！"
+        "translation": "Is SparkⅡI recited！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -2180,12 +2180,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ウォーター",
-        "translation": "Wーー"
+        "translation": "Water"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体に水属性のダメージを与える。",
-        "translation": "Damage of water attribute to enemy unitーTo give。"
+        "translation": "Deals water attribute damage to an enemy unit。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2195,7 +2195,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はウォーターを唱えた！",
-        "translation": "TheーーI recited！"
+        "translation": "I called Water！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -2211,12 +2211,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ウェーブ",
-        "translation": "ーThe"
+        "translation": "Wave"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に水属性のダメージを与える。",
-        "translation": "Damage of water attributes to the entire enemyーTo give。"
+        "translation": "Deals water damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2226,7 +2226,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はウェーブを唱えた！",
-        "translation": "Is aーI recited！"
+        "translation": "I cast a wave！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -2242,12 +2242,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ストーン",
-        "translation": "A strikeー"
+        "translation": "Stone"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体に大地属性のダメージを与える。",
-        "translation": "Attack of the earth attribute to the enemy unit aloneーTo give。"
+        "translation": "Damage earth damage to enemies alone。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2257,7 +2257,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はストーンを唱えた！",
-        "translation": "A strikeーI recited！"
+        "translation": "I cast a stone！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -2278,7 +2278,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に大地属性のダメージを与える。",
-        "translation": "Attack of the earth attribute to the enemy as a wholeーTo give。"
+        "translation": "Damage earth damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2309,7 +2309,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体に風属性のダメージを与える。",
-        "translation": "No wind attribute as enemy unitーTo give。"
+        "translation": "Damage wind damage to enemies alone。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2335,12 +2335,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "トルネード",
-        "translation": "Torneー"
+        "translation": "Tornado"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に風属性のダメージを与える。",
-        "translation": "Wind attributes are not allowed for the entire enemyーTo give。"
+        "translation": "Deals wind damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2350,7 +2350,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はトルネードを唱えた！",
-        "translation": "Is TorneーI recited！"
+        "translation": "I cast a tornado！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -2371,7 +2371,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体に神聖属性のダメージを与える。",
-        "translation": "No sacred attribute to enemy unitーTo give。"
+        "translation": "Deals sacred attribute damage to an enemy unit。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2397,12 +2397,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "スターライト",
-        "translation": "StarーLight"
+        "translation": "Starlight"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に神聖属性のダメージを与える。",
-        "translation": "The sacred attribute is not allowed to the whole enemyーTo give。"
+        "translation": "Deals sacred damage to enemies as a whole。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2412,7 +2412,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はスターライトを唱えた！",
-        "translation": "A starーI cast a light！"
+        "translation": "I cast Starlight！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -2433,7 +2433,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体に暗黒属性のダメージを与える。",
-        "translation": "No dark attribute on enemy unitーTo give。"
+        "translation": "Deals dark attribute damage to enemies alone。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2459,12 +2459,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ダークネス",
-        "translation": "ーKnoss"
+        "translation": "Darkness"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に暗黒属性のダメージを与える。",
-        "translation": "Dark attribute of the enemy as a wholeーTo give。"
+        "translation": "Deals dark attribute damage to the enemy as a whole。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2474,7 +2474,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はダークネスを唱えた！",
-        "translation": "The daughterーI recited Knoss！"
+        "translation": "I advocated darkness！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -2490,12 +2490,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "バースト",
-        "translation": "ーA strike"
+        "translation": "Burst"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体に防御無視のダメージを与える。",
-        "translation": "Do not defend your enemies aloneーTo give。"
+        "translation": "Inflict defense ignorance damage to enemies alone。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2505,7 +2505,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はバーストを唱えた！",
-        "translation": "TheーI called a strike！"
+        "translation": "I cast a burst！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -2521,12 +2521,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ニュークリア",
-        "translation": "NewーClear"
+        "translation": "Nuclear"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に防御無視のダメージを与える。",
-        "translation": "Defeat ignore the enemy as a wholeーTo give。"
+        "translation": "Damage defense ignorance damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2536,7 +2536,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はニュークリアを唱えた！",
-        "translation": "The newーI cast a clear！"
+        "translation": "I called New Clear！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -2805,7 +2805,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "ちっちゃくなーる。|もう一回使うともどーる。",
-        "translation": "Tinyー。|When I use it againー。"
+        "translation": "A few people。|You can also use it once more。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2836,7 +2836,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "もっとちっちゃくなーる",
-        "translation": "More smallー"
+        "translation": "More minutely"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2867,7 +2867,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "ちっちゃくなーる。|もう一回使うともどーる。",
-        "translation": "Tinyー。|When I use it againー。"
+        "translation": "A few people。|You can also use it once more。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2898,7 +2898,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "もっとちっちゃくなーる",
-        "translation": "More smallー"
+        "translation": "More minutely"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -2955,7 +2955,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ドコール",
-        "translation": "ーLe"
+        "translation": "Dokoro"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -3053,7 +3053,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "問答無用で脱出できます。メニューが開けるなら。|バグったりして進行不可になったら使ってください。",
-        "translation": "You can escape without asking questions。MenuーIf you can open it。|Please use it when it gets buggy and progress becomes impossible。"
+        "translation": "You can escape without asking questions。If you can open the menu。|Please use it when it gets buggy and progress becomes impossible。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -3182,7 +3182,7 @@
       "note": {
         "json_class": "TranslatableString",
         "original   ": "<割合ダメージ>\r\n必中",
-        "translation": "<ProportionーDi>\r\nHitting the target"
+        "translation": "<Rate damage>\r\nHitting the target"
       },
       "message1": {
         "json_class": "TranslatableString",
@@ -3234,7 +3234,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "サークルキュア",
-        "translation": "TheーCurcure"
+        "translation": "Circle Cure"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -3249,7 +3249,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はサークルキュアを唱えた！",
-        "translation": "TheーI recited Crocure！"
+        "translation": "I recited Circle Cure！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -3265,7 +3265,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "サークルキュアα",
-        "translation": "TheーCurcureα"
+        "translation": "Circle Cureα"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -3280,7 +3280,7 @@
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はサークルキュアαを唱えた！",
-        "translation": "TheーCurcureαI recited！"
+        "translation": "Circle CureαI recited！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -3296,7 +3296,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "サークルキュアγ",
-        "translation": "TheーCurcureγ"
+        "translation": "Circle Cureγ"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -3306,12 +3306,12 @@
       "note": {
         "json_class": "TranslatableString",
         "original   ": "<割合ダメージ>\r\n必中",
-        "translation": "<ProportionーDi>\r\nHitting the target"
+        "translation": "<Rate damage>\r\nHitting the target"
       },
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はサークルキュアγを唱えた！",
-        "translation": "TheーCurcureγI recited！"
+        "translation": "Circle CureγI recited！"
       },
       "message2": {
         "json_class": "TranslatableString",
@@ -3327,7 +3327,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "サークルキュアΔ",
-        "translation": "TheーCurcureΔ"
+        "translation": "Circle CureΔ"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -3337,12 +3337,12 @@
       "note": {
         "json_class": "TranslatableString",
         "original   ": "<割合ダメージ>\r\n必中",
-        "translation": "<ProportionーDi>\r\nHitting the target"
+        "translation": "<Rate damage>\r\nHitting the target"
       },
       "message1": {
         "json_class": "TranslatableString",
         "original   ": "はサークルキュアΔを唱えた！",
-        "translation": "TheーCurcureΔI recited！"
+        "translation": "Circle CureΔI recited！"
       },
       "message2": {
         "json_class": "TranslatableString",

@@ -8,7 +8,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃ダメージ",
-          "translation": "No stomachーDi"
+          "translation": "Stomach damage"
         },
         "pages": [
           {
@@ -34,7 +34,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃液ダメージ",
-          "translation": "No gastric juiceーDi"
+          "translation": "Gastric juice damage"
         },
         "pages": [
           {
@@ -115,7 +115,7 @@
                     "……もぉ……だめぇ…っ………"
                   ],
                   "translation": [
-                    "……nn……Uh………",
+                    "……N'……Uuu………",
                     "……Also……No good…………"
                   ]
                 }
@@ -343,7 +343,7 @@
                     "……もう…動けないよ……"
                   ],
                   "translation": [
-                    "…To…Uh………",
+                    "…To…Uuu………",
                     "……Already…I can not move.……"
                   ]
                 }
@@ -886,7 +886,7 @@
                   ],
                   "translation": [
                     "Wowoooo……！",
-                    "Jump…YuーWowー…！！",
+                    "Jump…Yuureruoo…！！",
                     "…Nino…Lifting…Ru……！？"
                   ]
                 }
@@ -998,7 +998,7 @@
                     "おなかは気付いてくれてないのぉ……❤"
                   ],
                   "translation": [
-                    "Yeahー……❤",
+                    "Ehhh……❤",
                     "Nino tried to eat me…？",
                     "I wish I had been so hungry……",
                     "I do not notice my stomach……❤"
@@ -1134,8 +1134,8 @@
                     "いるよぉ、ちゃんとおなかのなかにぃー！"
                   ],
                   "translation": [
-                    "…Alsoー！！",
-                    "There.、You are in a stomach wellー！"
+                    "…Well！！",
+                    "There.、Inside your stomach properly！"
                   ]
                 }
               },
@@ -1355,9 +1355,9 @@
                     "よーやくニノのおなか、わかってくれたんだね❤"
                   ],
                   "translation": [
-                    "Yourー❤",
-                    "I did it.ー❤",
-                    "YoーTaste of Nino、You understand me❤"
+                    "Wow❤",
+                    "What did.❤",
+                    "YOUNG Nino's stomach、You understand me❤"
                   ]
                 }
               },
@@ -1509,7 +1509,7 @@
                     "……胃液の分泌が…始まったみたいですよぉ……❤"
                   ],
                   "translation": [
-                    "………Yeahー…It seems I understood……❤",
+                    "………Ehhh…It seems I understood……❤",
                     "……Because it is understood……Try digesting the lady……",
                     "……Secretion of gastric juice…It seems that it started……❤"
                   ]
@@ -1538,7 +1538,7 @@
                   ],
                   "translation": [
                     "……Now……Nino's…It's gastric juice right?？",
-                    "…Ohー……I was scolded.ー………"
+                    "…Oh!……I was hungry………"
                   ]
                 }
               },
@@ -1608,9 +1608,9 @@
                     "今のわたしにはきょーいなんだよぅ……❤"
                   ],
                   "translation": [
-                    "……Nfuー…❤",
+                    "……I'm well…❤",
                     "…It's only one bite.……",
-                    "For me nowーWhat is it?……❤"
+                    "I have no time to go now……❤"
                   ]
                 }
               },
@@ -1630,7 +1630,7 @@
                     "…………ちょっと……こうやって……っ……❤"
                   ],
                   "translation": [
-                    "……Mafuー……❤",
+                    "……Mischief……❤",
                     "……But、If it really gets digested in a moment……",
                     "……That's it I'm boring……It is…❤",
                     "…………A little……Like this…………❤"
@@ -1809,7 +1809,7 @@
                     "……内部の酸性濃度は…そのままですけどねぇ……❤"
                   ],
                   "translation": [
-                    "………nn……Fuuー……❤",
+                    "………N'……Wow……❤",
                     "……Anyway for this…The digestive juice does not hang down……❤",
                     "……The internal acidic concentration is…It is as it is……❤"
                   ]
@@ -1840,7 +1840,7 @@
                   "translation": [
                     "Oh❤",
                     "It's Nino's mysterious addition❤",
-                    "Mushy from the top、I'm no longerー❤"
+                    "Mushy from the top、It's gone.❤"
                   ]
                 }
               },
@@ -1891,9 +1891,9 @@
                     "……まだまだ体内に渦巻いてるんですからねぇー……❤"
                   ],
                   "translation": [
-                    "……Even when the mud is gone、You should not let out of your way.ー……❤",
+                    "……Even when the mud is gone、You should not let out of your way……❤",
                     "……The power to digest the lady is……",
-                    "……It is still swirling inside the bodyー……❤"
+                    "……It is still swirling inside my body……❤"
                   ]
                 }
               },
@@ -1910,7 +1910,7 @@
                     "はぁーい❤"
                   ],
                   "translation": [
-                    "ーA❤"
+                    "Huh?❤"
                   ]
                 }
               },
@@ -2057,8 +2057,8 @@
                     "わたしあっという間に溶けちゃうもん❤"
                   ],
                   "translation": [
-                    "HeyーHmm❤",
-                    "ーWow❤",
+                    "Yahhn❤",
+                    "No, I do not.❤",
                     "If Nino gets serious……",
                     "I will melt in the blink of an eye❤"
                   ]
@@ -2155,7 +2155,7 @@
                     "………んふっ……いぢわる…したくなっちゃいますねぇ……❤"
                   ],
                   "translation": [
-                    "……nn…………❤",
+                    "……N'…………❤",
                     "……A really small lady…I think I'm doing my best in the stomach……❤",
                     "………Huh……Hurry up…I do not want to do it……❤"
                   ]
@@ -2695,8 +2695,8 @@
                     "………胃液に溶かして……吸収しちゃいたいんです……❤"
                   ],
                   "translation": [
-                    "………Yeah……❤",
-                    "……Muu…Patience limit…Is……❤",
+                    "………Ehh……❤",
+                    "……Megumu…Patience limit…Is……❤",
                     "……Milady's things…I want to eat it.……❤",
                     "………Melt in gastric juice……I want to absorb it……❤"
                   ]
@@ -2716,8 +2716,8 @@
                     "……もぉ……しょーがないなぁー……❤"
                   ],
                   "translation": [
-                    "…Nfuー……❤",
-                    "……Also……CaneーI do not have one.ー……❤"
+                    "…I'm well……❤",
+                    "……Also……I do not have water……❤"
                   ]
                 }
               },
@@ -2813,7 +2813,7 @@
                     "……一つにしちゃいたくなっちゃうの…止められませぇん…❤"
                   ],
                   "translation": [
-                    "…………Damnーnn……❤",
+                    "…………Cutting sounds……❤",
                     "……I see.……It was from the stomach.……If confession of love was done……❤",
                     "……I'm going to want to keep one.…I can not stop it…❤"
                   ]
@@ -2866,8 +2866,8 @@
                     "ニノの好きなように…しちゃってね❤"
                   ],
                   "translation": [
-                    "It's okayー❤",
-                    "You do not have to stop.ー❤",
+                    "It's okay.❤",
+                    "You do not have to stop.❤",
                     "As Nino likes…Do it❤"
                   ]
                 }
@@ -3134,7 +3134,7 @@
                   "translation": [
                     "……Huh……❤",
                     "………I am hugged……❤",
-                    "……Muu……I can not get it…It is……❤"
+                    "……Megumu……I can not get it…It is……❤"
                   ]
                 }
               },
@@ -3172,7 +3172,7 @@
                     "……お次は……そこに…胃液を垂らして………❤"
                   ],
                   "translation": [
-                    "………Yeah……I will not escape.………❤",
+                    "………Ehh……I will not escape.………❤",
                     "……Next……There…Hanging gastric juice………❤"
                   ]
                 }
@@ -3265,7 +3265,7 @@
                   "translation": [
                     "……Ha ha……❤",
                     "……Be bitten…Though not……❤",
-                    "…CaneーStation…I will come.……❤"
+                    "…Second day of business…I will come.……❤"
                   ]
                 }
               },
@@ -3310,7 +3310,7 @@
                     "……んっ…\\|\\^"
                   ],
                   "translation": [
-                    "……nn…\\|\\^"
+                    "……N'…\\|\\^"
                   ]
                 }
               },
@@ -3873,7 +3873,7 @@
                     "おぅおーうっ！"
                   ],
                   "translation": [
-                    "ーAhh！"
+                    "Ooooooooooooo！"
                   ]
                 }
               },
@@ -3927,7 +3927,7 @@
                     "……お嬢様…なんだか叫ばれたみたいですけど……❤"
                   ],
                   "translation": [
-                    "……A little……What's wrong?……❤",
+                    "……Nnnn……What's wrong?……❤",
                     "……Lady…It seems that somehow it was shouted.……❤"
                   ]
                 }
@@ -3966,7 +3966,7 @@
                     "ちょっと、ふらふらしちゃっただけだから……"
                   ],
                   "translation": [
-                    "……Becoming、AnythingーNot yet.！",
+                    "……Becoming、It does not matter anything！",
                     "A little、Because I just got sweaty……"
                   ]
                 }
@@ -4052,9 +4052,9 @@
                     "今のわたしには大変なんだねー……❤"
                   ],
                   "translation": [
-                    "………Fuheー❤",
+                    "………Well❤",
                     "…Nothing 's nothing……",
-                    "It's hard for me nowー……❤"
+                    "It's hard for me now……❤"
                   ]
                 }
               },
@@ -4342,8 +4342,8 @@
                     "今にもわたしのこと消化しちゃいそうなかんじ❤"
                   ],
                   "translation": [
-                    "……Mmmー❤",
-                    "…I'm moving all round and roundーFatten❤",
+                    "……It is❤",
+                    "…I'm going around spirally❤",
                     "I feel like I'm gonna digest now❤"
                   ]
                 }
@@ -4423,7 +4423,7 @@
                     "……前に後ろに飛び跳ねてたんですねぇ……❤"
                   ],
                   "translation": [
-                    "………Hmm, I see.……ThatーIs that it?……❤",
+                    "………Hmm, I see.……Is that it?……❤",
                     "……Lady is being tossed by unintentional peristalsis……",
                     "……I jumped back in front of you……❤"
                   ]
@@ -4644,7 +4644,7 @@
                     "そろそろ立ってられなくなっちゃうよぅ！"
                   ],
                   "translation": [
-                    "That's right……ActuallyーU！！",
+                    "That's right……Oh yeah！！",
                     "Well,、Talking、I will move again.！",
                     "It will not be able to stand soon！"
                   ]
@@ -4790,7 +4790,7 @@
                   "translation": [
                     "Increase…！？",
                     "…It is、No, I do not.！",
-                    "Now、CaneーWhen returning…",
+                    "Now、When you return…",
                     "I、I will melt away soon……！"
                   ]
                 }
@@ -5106,7 +5106,7 @@
                     "……栄養の吸収すら…一瞬で済んじゃうでしょうねぇ……❤"
                   ],
                   "translation": [
-                    "……Well,ーAlsoー……❤",
+                    "……Well, yeah……❤",
                     "……Just a single touch…It was digested without a trace……❤",
                     "……Even absorption of nutrition…I guess it will be done in a moment……❤"
                   ]
@@ -5217,7 +5217,7 @@
                     "……なんか、そろそろ…あぶなげなかんじ……"
                   ],
                   "translation": [
-                    "……Muuー……",
+                    "……Muuoo……",
                     "……Something、Gradually…Happy New Year……"
                   ]
                 }
@@ -5360,7 +5360,7 @@
                     "……ココまで我慢するのも……辛いですし…ね……❤"
                   ],
                   "translation": [
-                    "………A little……………❤",
+                    "………Nnnn……………❤",
                     "………Gradually……Digestion…Shall we start?……❤",
                     "……I will not endure it……It is painful…It is……❤"
                   ]
@@ -5633,7 +5633,7 @@
                     "…やっぱりぃ………！"
                   ],
                   "translation": [
-                    "……Ahー…！",
+                    "……Ahoo…！",
                     "…As expected………！"
                   ]
                 }
@@ -5856,7 +5856,7 @@
                     "………ほんとに……これ、だけ…で…っ･……"
                   ],
                   "translation": [
-                    "…Huh……nn……！",
+                    "…Huh……Nu……！",
                     "……Or、……Take it.………？",
                     "………Really……This、Only…So…･……"
                   ]
@@ -6394,8 +6394,8 @@
                     "ニノのおなか、ぶよぶよー❤"
                   ],
                   "translation": [
-                    "Ohー、It has been repulsed❤",
-                    "Nino's stomach、Pale boyー❤"
+                    "Oh!、It has been repulsed❤",
+                    "Nino's stomach、Budouyo❤"
                   ]
                 }
               },
@@ -6463,8 +6463,8 @@
                     "おっきいニノの中…すっごいたのしいから…❤"
                   ],
                   "translation": [
-                    "Yeahー……❤",
-                    "…AlsoーI want to play for a moment❤",
+                    "Ehhh……❤",
+                    "…I want to play a little bit❤",
                     "Oda in Nino…Because it's sooo fun…❤"
                   ]
                 }
@@ -6512,7 +6512,7 @@
                     "……次は私が…お嬢様で愉しませてもらう番ですよぉ……❤"
                   ],
                   "translation": [
-                    "……It isーIt is me.ー……❤",
+                    "……It's too bad.……❤",
                     "……Sooner or later…Because it is the limits of patience……❤",
                     "……Next is me…It is my turn to be pleased with the lady……❤"
                   ]
@@ -6564,8 +6564,8 @@
                     "ニノにぐちゅぐちゅにされちゃうよーぅ❤"
                   ],
                   "translation": [
-                    "HeyーHmm❤",
-                    "I will be caught in NinoーWow❤"
+                    "Yahhn❤",
+                    "I'm going to be caught in Nino❤"
                   ]
                 }
               },
@@ -7008,7 +7008,7 @@
                     "おぉー\\.\\^"
                   ],
                   "translation": [
-                    "Ohー\\.\\^"
+                    "Oh!\\.\\^"
                   ]
                 }
               },
@@ -7490,7 +7490,7 @@
                     "……そのまま…私の胃の底にご案内してあげましたのに……❤"
                   ],
                   "translation": [
-                    "………A little……Have you escaped……❤",
+                    "………Nnnn……Have you escaped……❤",
                     "……As it is…I brought you to the bottom of my stomach……❤"
                   ]
                 }
@@ -7641,7 +7641,7 @@
                     "今にはもうとけちゃってたかもだね❤"
                   ],
                   "translation": [
-                    "……Turnー…❤",
+                    "……Muhu…❤",
                     "……If you do not do anything like that",
                     "I guess he has already been released❤"
                   ]
@@ -7725,7 +7725,7 @@
                     "ニノのおなかったらどんよくだよぅ❤"
                   ],
                   "translation": [
-                    "HeyーHmm❤",
+                    "Yahhn❤",
                     "I do not have to do anything to eat it……",
                     "Without Nino it would be fine❤"
                   ]
@@ -8581,8 +8581,8 @@
                     "たべられちゃうー❤"
                   ],
                   "translation": [
-                    "The teacherー❤",
-                    "I will eatー❤"
+                    "Well,❤",
+                    "I will eat it.❤"
                   ]
                 }
               },
@@ -9367,7 +9367,7 @@
                     "…やっとここまで…こられたんだね……❤"
                   ],
                   "translation": [
-                    "……Ohー……❤",
+                    "……Oh!……❤",
                     "…Finally to this place…You got it done.……❤"
                   ]
                 }
@@ -9454,8 +9454,8 @@
                     "ちゃぷちゃぷ波打ってるよぉ❤"
                   ],
                   "translation": [
-                    "Nfuー❤",
-                    "Nino no RaburushoーStation、That's a lot❤",
+                    "I'm well❤",
+                    "Nino's Loopback Maple、That's a lot❤",
                     "Cha petit shoots waving❤"
                   ]
                 }
@@ -9591,7 +9591,7 @@
                     "…もう…逃がさないって…かんじする…❤"
                   ],
                   "translation": [
-                    "……Happinessー…❤",
+                    "……Heaven…❤",
                     "…Yeah……❤",
                     "…Already…I will not escape.…To feel relieved…❤"
                   ]
@@ -10070,7 +10070,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -10312,7 +10312,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -10371,8 +10371,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -10503,8 +10503,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -10771,7 +10771,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -11013,7 +11013,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -11072,8 +11072,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -11204,8 +11204,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -11472,7 +11472,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -11714,7 +11714,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -11773,8 +11773,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -11905,8 +11905,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -12173,7 +12173,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -12415,7 +12415,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -12474,8 +12474,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -12606,8 +12606,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -12874,7 +12874,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -13116,7 +13116,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -13175,8 +13175,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -13307,8 +13307,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -13575,7 +13575,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -13817,7 +13817,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -13876,8 +13876,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -14008,8 +14008,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -14276,7 +14276,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -14518,7 +14518,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -14577,8 +14577,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -14709,8 +14709,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -14977,7 +14977,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -15219,7 +15219,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -15278,8 +15278,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -15410,8 +15410,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -15678,7 +15678,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -15920,7 +15920,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -15979,8 +15979,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -16111,8 +16111,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -16379,7 +16379,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -16621,7 +16621,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -16680,8 +16680,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -16812,8 +16812,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -17080,7 +17080,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -17322,7 +17322,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -17381,8 +17381,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -17513,8 +17513,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -17781,7 +17781,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -18023,7 +18023,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -18082,8 +18082,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -18214,8 +18214,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -18482,7 +18482,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -18724,7 +18724,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -18783,8 +18783,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -18915,8 +18915,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -19183,7 +19183,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -19425,7 +19425,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -19484,8 +19484,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -19616,8 +19616,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -19884,7 +19884,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -20126,7 +20126,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -20185,8 +20185,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -20317,8 +20317,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -20585,7 +20585,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -20827,7 +20827,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -20886,8 +20886,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -21018,8 +21018,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -21286,7 +21286,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -21528,7 +21528,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -21587,8 +21587,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -21719,8 +21719,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -21987,7 +21987,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -22229,7 +22229,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -22288,8 +22288,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -22420,8 +22420,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -22688,7 +22688,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -22930,7 +22930,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -22989,8 +22989,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -23121,8 +23121,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -23389,7 +23389,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -23631,7 +23631,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -23690,8 +23690,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -23822,8 +23822,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -24090,7 +24090,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -24332,7 +24332,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -24391,8 +24391,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -24523,8 +24523,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -24791,7 +24791,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -25033,7 +25033,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -25092,8 +25092,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -25224,8 +25224,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -25492,7 +25492,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -25734,7 +25734,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -25793,8 +25793,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -25925,8 +25925,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -26193,7 +26193,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -26435,7 +26435,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -26494,8 +26494,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -26626,8 +26626,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -26894,7 +26894,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -27136,7 +27136,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -27195,8 +27195,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -27327,8 +27327,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -27595,7 +27595,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -27837,7 +27837,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -27896,8 +27896,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -28028,8 +28028,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -28296,7 +28296,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -28538,7 +28538,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -28597,8 +28597,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -28729,8 +28729,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -28997,7 +28997,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -29239,7 +29239,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -29298,8 +29298,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -29430,8 +29430,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -29698,7 +29698,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -29940,7 +29940,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -29999,8 +29999,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -30131,8 +30131,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -30399,7 +30399,7 @@
                     "ニノはおなかもすべすべだね❤"
                   ],
                   "translation": [
-                    "ー…❤",
+                    "Fun…❤",
                     "Because it is a little slippery、I slipped.❤",
                     "Nino is a very smooth stomach❤"
                   ]
@@ -30641,7 +30641,7 @@
                     "おー❤"
                   ],
                   "translation": [
-                    "Yourー❤"
+                    "Wow❤"
                   ]
                 }
               },
@@ -30700,8 +30700,8 @@
                     "ニノのいぶくろすべり台、だね❤"
                   ],
                   "translation": [
-                    "Hifuー❤",
-                    "It wasーNoisyーWow❤",
+                    "I'm fufuu❤",
+                    "That's right.❤",
                     "Nino's Gun Slide、You know.❤"
                   ]
                 }
@@ -30832,8 +30832,8 @@
                     "あぶないあぶなーい❤"
                   ],
                   "translation": [
-                    "Ohー❤",
-                    "Dangerous beanーA❤"
+                    "Oh!❤",
+                    "Dangerous bean jam❤"
                   ]
                 }
               },
@@ -31042,7 +31042,7 @@
                     "…なんか、すっごいやらしいね……❤"
                   ],
                   "translation": [
-                    "Huhー…❤",
+                    "Hehe…❤",
                     "…Here、Full of folds……❤",
                     "…Something、It seems to be awful……❤"
                   ]
@@ -31201,9 +31201,9 @@
                     "もうちょっとあそぶのぉー❤"
                   ],
                   "translation": [
-                    "HeyーHmm❤",
-                    "I'd like to be killed.ー❤",
-                    "A little more to playー❤"
+                    "Yahhn❤",
+                    "I want to be shy❤",
+                    "I will play a bit more❤"
                   ]
                 }
               },
@@ -31284,7 +31284,7 @@
                     "…なんか、すっごいやらしいね……❤"
                   ],
                   "translation": [
-                    "Huhー…❤",
+                    "Hehe…❤",
                     "…Here、Full of folds……❤",
                     "…Something、It seems to be awful……❤"
                   ]
@@ -31443,9 +31443,9 @@
                     "もうちょっとあそぶのぉー❤"
                   ],
                   "translation": [
-                    "HeyーHmm❤",
-                    "I'd like to be killed.ー❤",
-                    "A little more to playー❤"
+                    "Yahhn❤",
+                    "I want to be shy❤",
+                    "I will play a bit more❤"
                   ]
                 }
               },
@@ -31526,7 +31526,7 @@
                     "…なんか、すっごいやらしいね……❤"
                   ],
                   "translation": [
-                    "Huhー…❤",
+                    "Hehe…❤",
                     "…Here、Full of folds……❤",
                     "…Something、It seems to be awful……❤"
                   ]
@@ -31685,9 +31685,9 @@
                     "もうちょっとあそぶのぉー❤"
                   ],
                   "translation": [
-                    "HeyーHmm❤",
-                    "I'd like to be killed.ー❤",
-                    "A little more to playー❤"
+                    "Yahhn❤",
+                    "I want to be shy❤",
+                    "I will play a bit more❤"
                   ]
                 }
               },
@@ -31779,8 +31779,8 @@
                     "さっきのとこより、やわかいかんじー❤"
                   ],
                   "translation": [
-                    "Ohuー……Beckoningー❤",
-                    "From a little earlier、Naked alrightー❤"
+                    "Oh!……Kuchochocho❤",
+                    "From a little earlier、Yawning cartoon❤"
                   ]
                 }
               },
@@ -31923,8 +31923,8 @@
                     "さっきのとこより、やわかいかんじー❤"
                   ],
                   "translation": [
-                    "Ohuー……Beckoningー❤",
-                    "From a little earlier、Naked alrightー❤"
+                    "Oh!……Kuchochocho❤",
+                    "From a little earlier、Yawning cartoon❤"
                   ]
                 }
               },
@@ -32186,8 +32186,8 @@
                     "いっつもきもちぃもんね❤"
                   ],
                   "translation": [
-                    "That's right.ー❤",
-                    "Picture of NinoーWell it's kind of relaxing❤",
+                    "That's right❤",
+                    "Nino 's shoes are slow and carefree❤",
                     "Becoming lethargic while being suddenly done",
                     "It's always alright❤"
                   ]
@@ -32244,7 +32244,7 @@
                     "……Hehe hefu……❤",
                     "……I am sorry that I can not taste that soap this time……❤",
                     "……I can overrule a small lady with overwhelming digestive power……❤",
-                    "……This is it……I am excited.ー……❤"
+                    "……This is it……I'm getting excited.……❤"
                   ]
                 }
               },
@@ -32455,8 +32455,8 @@
                     "いっつもきもちぃもんね❤"
                   ],
                   "translation": [
-                    "That's right.ー❤",
-                    "Picture of NinoーWell it's kind of relaxing❤",
+                    "That's right❤",
+                    "Nino 's shoes are slow and carefree❤",
                     "Becoming lethargic while being suddenly done",
                     "It's always alright❤"
                   ]
@@ -32513,7 +32513,7 @@
                     "……Hehe hefu……❤",
                     "……I am sorry that I can not taste that soap this time……❤",
                     "……I can overrule a small lady with overwhelming digestive power……❤",
-                    "……This is it……I am excited.ー……❤"
+                    "……This is it……I'm getting excited.……❤"
                   ]
                 }
               },
@@ -32571,9 +32571,9 @@
                     "たっぷんたっぷんしてるんだよね……❤"
                   ],
                   "translation": [
-                    "ー……❤",
+                    "Fu……❤",
                     "…I can not see it because it is too deep.……❤",
-                    "……In the back、Full of NinoーStation",
+                    "……In the back、Lots of Nino map",
                     "I'm tapting a lot, do not you?……❤"
                   ]
                 }
@@ -32652,7 +32652,7 @@
                     "ニノのおなかが私を食べたがってるよぅ❤"
                   ],
                   "translation": [
-                    "TurnipーHmm❤",
+                    "Han❤",
                     "…Also、I can not wait.❤",
                     "Nino's tummy wants to eat me❤"
                   ]
@@ -32697,7 +32697,7 @@
                     "……一息に胃液に落として…消化しちゃいたいくらい……❤"
                   ],
                   "translation": [
-                    "……Yeah……❤",
+                    "……Ehh……❤",
                     "……Honestly…As if to talk like this……❤",
                     "……Drop it to gastric juice by breath…I want to digest it……❤"
                   ]
@@ -32814,7 +32814,7 @@
                     "ためてためてする方が、きもちぃもんね❤"
                   ],
                   "translation": [
-                    "Turnー❤",
+                    "Muhu❤",
                     "It's a repayment that always comes in handy❤",
                     "There is better way to do it、Good evening❤"
                   ]
@@ -33053,8 +33053,8 @@
                     "……どーしましたぁ……お嬢様ぁ……❤"
                   ],
                   "translation": [
-                    "………A little……？",
-                    "……WhenーI did it.……Lady……❤"
+                    "………Nnnn……？",
+                    "……What did you do?……Lady……❤"
                   ]
                 }
               },
@@ -33108,7 +33108,7 @@
                     "つるつる、ぬれて…でられない、よぅ…っ！"
                   ],
                   "translation": [
-                    "Hi、、In folds…I was eaten.……！",
+                    "Facial、、In folds…I was eaten.……！",
                     "、Wet…Can not be、…！"
                   ]
                 }
@@ -33184,7 +33184,7 @@
                   ],
                   "translation": [
                     "……Oh no……❤",
-                    "……That is、CaneーIs not there……❤"
+                    "……That is、I do not have water……❤"
                   ]
                 }
               },
@@ -33458,8 +33458,8 @@
                     "ありがとね、ニノ❤"
                   ],
                   "translation": [
-                    "Yourー❤",
-                    "It wasー❤",
+                    "Wow❤",
+                    "I was❤",
                     "Thanks dear、Nino❤"
                   ]
                 }
@@ -33499,7 +33499,7 @@
                     "気つけるよぅ❤"
                   ],
                   "translation": [
-                    "IsーA❤",
+                    "Yes❤",
                     "I can notice it.❤"
                   ]
                 }
@@ -33716,8 +33716,8 @@
                     "……どーしましたぁ……お嬢様ぁ……❤"
                   ],
                   "translation": [
-                    "………A little……？",
-                    "……WhenーI did it.……Lady……❤"
+                    "………Nnnn……？",
+                    "……What did you do?……Lady……❤"
                   ]
                 }
               },
@@ -33771,7 +33771,7 @@
                     "つるつる、ぬれて…でられない、よぅ…っ！"
                   ],
                   "translation": [
-                    "Hi、、In folds…I was eaten.……！",
+                    "Facial、、In folds…I was eaten.……！",
                     "、Wet…Can not be、…！"
                   ]
                 }
@@ -33847,7 +33847,7 @@
                   ],
                   "translation": [
                     "……Oh no……❤",
-                    "……That is、CaneーIs not there……❤"
+                    "……That is、I do not have water……❤"
                   ]
                 }
               },
@@ -34121,8 +34121,8 @@
                     "ありがとね、ニノ❤"
                   ],
                   "translation": [
-                    "Yourー❤",
-                    "It wasー❤",
+                    "Wow❤",
+                    "I was❤",
                     "Thanks dear、Nino❤"
                   ]
                 }
@@ -34162,7 +34162,7 @@
                     "気つけるよぅ❤"
                   ],
                   "translation": [
-                    "IsーA❤",
+                    "Yes❤",
                     "I can notice it.❤"
                   ]
                 }
@@ -34392,8 +34392,8 @@
                     "……どーしましたぁ……お嬢様ぁ……❤"
                   ],
                   "translation": [
-                    "………A little……？",
-                    "……WhenーI did it.……Lady……❤"
+                    "………Nnnn……？",
+                    "……What did you do?……Lady……❤"
                   ]
                 }
               },
@@ -34447,7 +34447,7 @@
                     "つるつる、ぬれて…でられない、よぅ…っ！"
                   ],
                   "translation": [
-                    "Hi、、In folds…I was eaten.……！",
+                    "Facial、、In folds…I was eaten.……！",
                     "、Wet…Can not be、…！"
                   ]
                 }
@@ -34523,7 +34523,7 @@
                   ],
                   "translation": [
                     "……Oh no……❤",
-                    "……That is、CaneーIs not there……❤"
+                    "……That is、I do not have water……❤"
                   ]
                 }
               },
@@ -34797,8 +34797,8 @@
                     "ありがとね、ニノ❤"
                   ],
                   "translation": [
-                    "Yourー❤",
-                    "It wasー❤",
+                    "Wow❤",
+                    "I was❤",
                     "Thanks dear、Nino❤"
                   ]
                 }
@@ -34838,7 +34838,7 @@
                     "気つけるよぅ❤"
                   ],
                   "translation": [
-                    "IsーA❤",
+                    "Yes❤",
                     "I can notice it.❤"
                   ]
                 }
@@ -35055,8 +35055,8 @@
                     "……どーしましたぁ……お嬢様ぁ……❤"
                   ],
                   "translation": [
-                    "………A little……？",
-                    "……WhenーI did it.……Lady……❤"
+                    "………Nnnn……？",
+                    "……What did you do?……Lady……❤"
                   ]
                 }
               },
@@ -35110,7 +35110,7 @@
                     "つるつる、ぬれて…でられない、よぅ…っ！"
                   ],
                   "translation": [
-                    "Hi、、In folds…I was eaten.……！",
+                    "Facial、、In folds…I was eaten.……！",
                     "、Wet…Can not be、…！"
                   ]
                 }
@@ -35186,7 +35186,7 @@
                   ],
                   "translation": [
                     "……Oh no……❤",
-                    "……That is、CaneーIs not there……❤"
+                    "……That is、I do not have water……❤"
                   ]
                 }
               },
@@ -35460,8 +35460,8 @@
                     "ありがとね、ニノ❤"
                   ],
                   "translation": [
-                    "Yourー❤",
-                    "It wasー❤",
+                    "Wow❤",
+                    "I was❤",
                     "Thanks dear、Nino❤"
                   ]
                 }
@@ -35501,7 +35501,7 @@
                     "気つけるよぅ❤"
                   ],
                   "translation": [
-                    "IsーA❤",
+                    "Yes❤",
                     "I can notice it.❤"
                   ]
                 }
@@ -35731,8 +35731,8 @@
                     "……どーしましたぁ……お嬢様ぁ……❤"
                   ],
                   "translation": [
-                    "………A little……？",
-                    "……WhenーI did it.……Lady……❤"
+                    "………Nnnn……？",
+                    "……What did you do?……Lady……❤"
                   ]
                 }
               },
@@ -35786,7 +35786,7 @@
                     "つるつる、ぬれて…でられない、よぅ…っ！"
                   ],
                   "translation": [
-                    "Hi、、In folds…I was eaten.……！",
+                    "Facial、、In folds…I was eaten.……！",
                     "、Wet…Can not be、…！"
                   ]
                 }
@@ -35862,7 +35862,7 @@
                   ],
                   "translation": [
                     "……Oh no……❤",
-                    "……That is、CaneーIs not there……❤"
+                    "……That is、I do not have water……❤"
                   ]
                 }
               },
@@ -36136,8 +36136,8 @@
                     "ありがとね、ニノ❤"
                   ],
                   "translation": [
-                    "Yourー❤",
-                    "It wasー❤",
+                    "Wow❤",
+                    "I was❤",
                     "Thanks dear、Nino❤"
                   ]
                 }
@@ -36177,7 +36177,7 @@
                     "気つけるよぅ❤"
                   ],
                   "translation": [
-                    "IsーA❤",
+                    "Yes❤",
                     "I can notice it.❤"
                   ]
                 }
@@ -36394,8 +36394,8 @@
                     "……どーしましたぁ……お嬢様ぁ……❤"
                   ],
                   "translation": [
-                    "………A little……？",
-                    "……WhenーI did it.……Lady……❤"
+                    "………Nnnn……？",
+                    "……What did you do?……Lady……❤"
                   ]
                 }
               },
@@ -36449,7 +36449,7 @@
                     "つるつる、ぬれて…でられない、よぅ…っ！"
                   ],
                   "translation": [
-                    "Hi、、In folds…I was eaten.……！",
+                    "Facial、、In folds…I was eaten.……！",
                     "、Wet…Can not be、…！"
                   ]
                 }
@@ -36525,7 +36525,7 @@
                   ],
                   "translation": [
                     "……Oh no……❤",
-                    "……That is、CaneーIs not there……❤"
+                    "……That is、I do not have water……❤"
                   ]
                 }
               },
@@ -36799,8 +36799,8 @@
                     "ありがとね、ニノ❤"
                   ],
                   "translation": [
-                    "Yourー❤",
-                    "It wasー❤",
+                    "Wow❤",
+                    "I was❤",
                     "Thanks dear、Nino❤"
                   ]
                 }
@@ -36840,7 +36840,7 @@
                     "気つけるよぅ❤"
                   ],
                   "translation": [
-                    "IsーA❤",
+                    "Yes❤",
                     "I can notice it.❤"
                   ]
                 }
@@ -37070,8 +37070,8 @@
                     "……どーしましたぁ……お嬢様ぁ……❤"
                   ],
                   "translation": [
-                    "………A little……？",
-                    "……WhenーI did it.……Lady……❤"
+                    "………Nnnn……？",
+                    "……What did you do?……Lady……❤"
                   ]
                 }
               },
@@ -37125,7 +37125,7 @@
                     "つるつる、ぬれて…でられない、よぅ…っ！"
                   ],
                   "translation": [
-                    "Hi、、In folds…I was eaten.……！",
+                    "Facial、、In folds…I was eaten.……！",
                     "、Wet…Can not be、…！"
                   ]
                 }
@@ -37201,7 +37201,7 @@
                   ],
                   "translation": [
                     "……Oh no……❤",
-                    "……That is、CaneーIs not there……❤"
+                    "……That is、I do not have water……❤"
                   ]
                 }
               },
@@ -37475,8 +37475,8 @@
                     "ありがとね、ニノ❤"
                   ],
                   "translation": [
-                    "Yourー❤",
-                    "It wasー❤",
+                    "Wow❤",
+                    "I was❤",
                     "Thanks dear、Nino❤"
                   ]
                 }
@@ -37516,7 +37516,7 @@
                     "気つけるよぅ❤"
                   ],
                   "translation": [
-                    "IsーA❤",
+                    "Yes❤",
                     "I can notice it.❤"
                   ]
                 }
@@ -37733,8 +37733,8 @@
                     "……どーしましたぁ……お嬢様ぁ……❤"
                   ],
                   "translation": [
-                    "………A little……？",
-                    "……WhenーI did it.……Lady……❤"
+                    "………Nnnn……？",
+                    "……What did you do?……Lady……❤"
                   ]
                 }
               },
@@ -37788,7 +37788,7 @@
                     "つるつる、ぬれて…でられない、よぅ…っ！"
                   ],
                   "translation": [
-                    "Hi、、In folds…I was eaten.……！",
+                    "Facial、、In folds…I was eaten.……！",
                     "、Wet…Can not be、…！"
                   ]
                 }
@@ -37864,7 +37864,7 @@
                   ],
                   "translation": [
                     "……Oh no……❤",
-                    "……That is、CaneーIs not there……❤"
+                    "……That is、I do not have water……❤"
                   ]
                 }
               },
@@ -38138,8 +38138,8 @@
                     "ありがとね、ニノ❤"
                   ],
                   "translation": [
-                    "Yourー❤",
-                    "It wasー❤",
+                    "Wow❤",
+                    "I was❤",
                     "Thanks dear、Nino❤"
                   ]
                 }
@@ -38179,7 +38179,7 @@
                     "気つけるよぅ❤"
                   ],
                   "translation": [
-                    "IsーA❤",
+                    "Yes❤",
                     "I can notice it.❤"
                   ]
                 }

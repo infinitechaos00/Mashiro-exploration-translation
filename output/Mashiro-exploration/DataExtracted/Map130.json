@@ -251,7 +251,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -744,7 +744,7 @@
                     "なるべく早く抜けなくちゃね……"
                   ],
                   "translation": [
-                    "nn……",
+                    "N'……",
                     "Even if you are doing this…It seems to be melted……",
                     "I should drop out as soon as possible……"
                   ]
@@ -2819,7 +2819,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃ダメージ",
-          "translation": "No stomachーDi"
+          "translation": "Stomach damage"
         },
         "pages": [
           {
@@ -2881,7 +2881,7 @@
                     "…よじ登れなくも…なさそうだけど……"
                   ],
                   "translation": [
-                    "Hmmー……",
+                    "Hmm……",
                     "…Even though you can not climb…I do not think so……"
                   ]
                 }
@@ -2921,7 +2921,7 @@
                     "…私はニノさんほど多芸じゃないんですから……"
                   ],
                   "translation": [
-                    "…………nn…This time……！",
+                    "…………N'…This time……！",
                     "……Mashiro…Do not think too strange……？",
                     "…Because I'm not as versatile as Nino……"
                   ]
@@ -3286,7 +3286,7 @@
                     "ゆれるゆれる……"
                   ],
                   "translation": [
-                    "Ohー。",
+                    "Oh!。",
                     "Shake up……"
                   ]
                 }
@@ -3398,7 +3398,7 @@
                     "……あまり長く留まってると…消化…しちゃいますよ…❤"
                   ],
                   "translation": [
-                    "……nn……",
+                    "……N'……",
                     "…Because I ate Mashiro-chan…The stomach has reacted…",
                     "……If it has stopped for too long…Digestion…I will do it.…❤"
                   ]
@@ -3855,7 +3855,7 @@
                     "…マシロちゃんを最後まで…食べちゃいたいんです…❤"
                   ],
                   "translation": [
-                    "……nn……Heh…❤",
+                    "……N'……Heh…❤",
                     "……Gradually…It is the limit…❤",
                     "…Mashilo to the last…I want to eat it.…❤"
                   ]
@@ -4020,7 +4020,7 @@
                     "……からだ……おもくなってきた……"
                   ],
                   "translation": [
-                    "……Hmm…Wow……",
+                    "……Hmm…u……",
                     "…………It is getting better……"
                   ]
                 }
@@ -5923,7 +5923,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃液ダメージ",
-          "translation": "No gastric juiceーDi"
+          "translation": "Gastric juice damage"
         },
         "pages": [
           {
@@ -5980,7 +5980,7 @@
                     "わたし…溶かされてるよぅ……"
                   ],
                   "translation": [
-                    "…nn……Wow……",
+                    "…N'……u……",
                     "I…It is melted……"
                   ]
                 }
@@ -6038,7 +6038,7 @@
                     "ちゃんと回復しないから……"
                   ],
                   "translation": [
-                    "Alsoー…So why did you say that?……",
+                    "Also,…So why did you say that?……",
                     "Because I will not recover properly……"
                   ]
                 }
@@ -6349,7 +6349,7 @@
                     "……もう…動けないよ……"
                   ],
                   "translation": [
-                    "…To…Uh………",
+                    "…To…Uuu………",
                     "……Already…I can not move.……"
                   ]
                 }
@@ -7461,7 +7461,7 @@
                     "うねうね…してるよぉ…❤"
                   ],
                   "translation": [
-                    "Ohー…❤",
+                    "Oh!…❤",
                     "Squat…I'm doing it.…❤"
                   ]
                 }
@@ -7807,7 +7807,7 @@
                     "…マシロちゃんはこのまま…お姉さんの栄養になるんです…❤"
                   ],
                   "translation": [
-                    "……nn……Hehehe……❤",
+                    "……N'……Hehehe……❤",
                     "…No matter how much you hit it…I will not give out…❤",
                     "…Mashiro as it is…It is your sister's nutrition…❤"
                   ]
@@ -7892,7 +7892,7 @@
                     "私のこと…消化しちゃおうとしてる…❤"
                   ],
                   "translation": [
-                    "Nfuー…❤",
+                    "I'm well…❤",
                     "Inside of Itri…We are going around…❤",
                     "…I'm trying to digest it.…❤"
                   ]
@@ -8075,7 +8075,7 @@
                     "…マシロちゃんはこのまま…お姉さんの栄養になるんです…❤"
                   ],
                   "translation": [
-                    "……nn……Hehehe……❤",
+                    "……N'……Hehehe……❤",
                     "…No matter how much you hit it…I will not give out…❤",
                     "…Mashiro as it is…It is your sister's nutrition…❤"
                   ]
@@ -8160,7 +8160,7 @@
                     "私のこと…消化しちゃおうとしてる…❤"
                   ],
                   "translation": [
-                    "Nfuー…❤",
+                    "I'm well…❤",
                     "Inside of Itri…We are going around…❤",
                     "…I'm trying to digest it.…❤"
                   ]
@@ -8343,7 +8343,7 @@
                     "…マシロちゃんはこのまま…お姉さんの栄養になるんです…❤"
                   ],
                   "translation": [
-                    "……nn……Hehehe……❤",
+                    "……N'……Hehehe……❤",
                     "…No matter how much you hit it…I will not give out…❤",
                     "…Mashiro as it is…It is your sister's nutrition…❤"
                   ]
@@ -8623,7 +8623,7 @@
                     "登っちゃったらバレちゃうかもだけど…❤"
                   ],
                   "translation": [
-                    "…Whenー…Rambling…❤",
+                    "…Where to go?…Rambling…❤",
                     "If you climb it might be bald…❤"
                   ]
                 }
@@ -9008,7 +9008,7 @@
                   "translation": [
                     "…Now！",
                     "I wonder how far I can climb？",
-                    "You surely notice it on the wayーOr。"
+                    "Does not it come to notice it?。"
                   ]
                 }
               },
@@ -9026,7 +9026,7 @@
                     "そいじゃ、行くよぉ！"
                   ],
                   "translation": [
-                    "WhenーWhether、Fun time to climb❤",
+                    "What is going to happen?、Fun time to climb❤",
                     "I see、I will go.！"
                   ]
                 }
@@ -9354,7 +9354,7 @@
                     "…マシロちゃんはこのまま…お姉さんの栄養になるんです…❤"
                   ],
                   "translation": [
-                    "……nn……Hehehe……❤",
+                    "……N'……Hehehe……❤",
                     "…No matter how much you hit it…I will not give out…❤",
                     "…Mashiro as it is…It is your sister's nutrition…❤"
                   ]
@@ -10372,7 +10372,7 @@
                     "かいふくー♪"
                   ],
                   "translation": [
-                    "Medical institutionー♪"
+                    "Kaafu♪"
                   ]
                 }
               },
@@ -11676,9 +11676,9 @@
                     "わたし、溶かされちゃうぅー…❤"
                   ],
                   "translation": [
-                    "Itritoryー♪",
-                    "I'm outta hereー…",
-                    "I、It will be meltedー…❤"
+                    "Itrii♪",
+                    "I'm outta here…",
+                    "I、I will be melted…❤"
                   ]
                 }
               },
@@ -11717,7 +11717,7 @@
                     "…もっと…消化してあげたく…っ…なっちゃいます……❤"
                   ],
                   "translation": [
-                    "……nn……Ahnn…❤",
+                    "……N'……Anth…❤",
                     "……I was to resist in my stomach……",
                     "…More…I want to digest it.……Becoming……❤"
                   ]
@@ -11822,9 +11822,9 @@
                     "わたし、溶かされちゃうぅー…❤"
                   ],
                   "translation": [
-                    "Itritoryー♪",
-                    "I'm outta hereー…",
-                    "I、It will be meltedー…❤"
+                    "Itrii♪",
+                    "I'm outta here…",
+                    "I、I will be melted…❤"
                   ]
                 }
               },
@@ -11863,7 +11863,7 @@
                     "…もっと…消化してあげたく…っ…なっちゃいます……❤"
                   ],
                   "translation": [
-                    "……nn……Ahnn…❤",
+                    "……N'……Anth…❤",
                     "……I was to resist in my stomach……",
                     "…More…I want to digest it.……Becoming……❤"
                   ]
@@ -12129,8 +12129,8 @@
                     "…お腹で暴れたから…うねうねだねー……❤"
                   ],
                   "translation": [
-                    "……Huhuhuー……❤",
-                    "…Because I was rampant on the stomach…It is sushiー……❤"
+                    "……Fufufu……❤",
+                    "…Because I was rampant on the stomach…Hey, sorry.……❤"
                   ]
                 }
               },
@@ -12423,7 +12423,7 @@
                     "お腹の音が強くて聞こえないよぅ……"
                   ],
                   "translation": [
-                    "……Uh……",
+                    "……Uuu……",
                     "…Something、I feel I could hear the voice of Itri…",
                     "The stomach sound is strong and can not be heard……"
                   ]
@@ -13038,7 +13038,7 @@
                   ],
                   "translation": [
                     "……Puha……！",
-                    "………Hmm…Wow……To gastric juice…I got it dropped……"
+                    "………Hmm…u……To gastric juice…I got it dropped……"
                   ]
                 }
               },
@@ -13152,7 +13152,7 @@
                     "……消化…つよい…よぅ……"
                   ],
                   "translation": [
-                    "……To…Wow……",
+                    "……To…u……",
                     "……Digestion…………"
                   ]
                 }
@@ -13323,7 +13323,7 @@
                     "さすがにこれじゃ拾えないよね……"
                   ],
                   "translation": [
-                    "…Ohー…Melt…Kuchochocho……",
+                    "…Oh!…Melt…Kuchochocho……",
                     "As expected, you can not pick it up……"
                   ]
                 }

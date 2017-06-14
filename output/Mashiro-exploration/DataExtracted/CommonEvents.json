@@ -1087,7 +1087,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ドコール汎用",
-        "translation": "ーGeneral purpose"
+        "translation": "Dokor general purpose"
       },
       "commands": [
         {
@@ -1117,7 +1117,7 @@
             ],
             "translation": [
               "I waited for a while。",
-              "AhーI will not let such a misunderstanding be there♪"
+              "I do not let such a misunderstanding even though there is ah-hoshi♪"
             ]
           }
         },
@@ -1606,7 +1606,7 @@
               "あぅー……"
             ],
             "translation": [
-              "Ahー……"
+              "Ahoo……"
             ]
           }
         },
@@ -1651,7 +1651,7 @@
               "ピリピリ…する……"
             ],
             "translation": [
-              "nn……",
+              "N'……",
               "Tingle…Through……"
             ]
           }
@@ -3708,7 +3708,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "胃液ダメージ",
-        "translation": "No gastric juiceーDi"
+        "translation": "Gastric juice damage"
       },
       "commands": [
         {
@@ -4474,9 +4474,9 @@
               "……あーし……溶けてきてる……"
             ],
             "translation": [
-              "…Hmm、…Damn……！",
+              "…Hmm、…Guu……！",
               "…This…………",
-              "……AhーTo……I'm melting.……"
+              "……Aashi……I'm melting.……"
             ]
           }
         },
@@ -4569,7 +4569,7 @@
               "……耐えられそうに…ない…よ………"
             ],
             "translation": [
-              "……Ug……Sorry、Mashiro……",
+              "……Kuu……Sorry、Mashiro……",
               "……To bear…Absent…Yo………"
             ]
           }
@@ -4792,7 +4792,7 @@
               "そろそろ…あぶない…かも……"
             ],
             "translation": [
-              "U…Well……",
+              "Cormorant…Na……",
               "Gradually…Dangerous………"
             ]
           }
@@ -5450,7 +5450,7 @@
               "……これ、このままだと危ない…かなぁ……"
             ],
             "translation": [
-              "Cutie…！",
+              "Kuuu…！",
               "……This、It is dangerous as it is…Wonder……"
             ]
           }
@@ -7711,7 +7711,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "膵液ダメージ",
-        "translation": "No pancreatic juiceーDi"
+        "translation": "Pancreatic juice damage"
       },
       "commands": [
         {
@@ -7963,7 +7963,7 @@
               "ちょっと……溶けたかな…？"
             ],
             "translation": [
-              "Ouch……",
+              "Ahuu……",
               "A little……Was it melted?…？"
             ]
           }
@@ -8127,7 +8127,7 @@
               "体が、ヒリヒリする……"
             ],
             "translation": [
-              "Uh……Digestive juice…I was hurt……",
+              "Uuu……Digestive juice…I was hurt……",
               "Body is、To be tingling……"
             ]
           }
@@ -8154,7 +8154,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "腸ダメージ",
-        "translation": "Intestinal bullsーDi"
+        "translation": "Intestinal damage"
       },
       "commands": [
         {
@@ -8967,7 +8967,7 @@
               "……マシロ……ゴメンね……"
             ],
             "translation": [
-              "……Ha ha……To…Wow……",
+              "……Haa……To…u……",
               "……Mashiro…………"
             ]
           }
@@ -9274,7 +9274,7 @@
               "そろそろ…あぶない…かも……"
             ],
             "translation": [
-              "U…Well……",
+              "Cormorant…Na……",
               "Gradually…Dangerous………"
             ]
           }
@@ -9479,7 +9479,7 @@
             ],
             "translation": [
               "You are welcome。",
-              "Tea、Shall we escape。"
+              "Njya、Shall we escape。"
             ]
           }
         },
@@ -10048,7 +10048,7 @@
               "……これ、このままだと危ない…かなぁ……"
             ],
             "translation": [
-              "Cutie…！",
+              "Kuuu…！",
               "……This、It is dangerous as it is…Wonder……"
             ]
           }
@@ -10139,7 +10139,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "胃ダメージ",
-        "translation": "No stomachーDi"
+        "translation": "Stomach damage"
       },
       "commands": [
         {
@@ -10801,9 +10801,9 @@
               "……あーし……溶けてきてる……"
             ],
             "translation": [
-              "…Hmm、…Damn……！",
+              "…Hmm、…Guu……！",
               "…This…………",
-              "……AhーTo……I'm melting.……"
+              "……Aashi……I'm melting.……"
             ]
           }
         },
@@ -10896,7 +10896,7 @@
               "……耐えられそうに…ない…よ………"
             ],
             "translation": [
-              "……Ug……Sorry、Mashiro……",
+              "……Kuu……Sorry、Mashiro……",
               "……To bear…Absent…Yo………"
             ]
           }
@@ -11127,7 +11127,7 @@
               "そろそろ…あぶない…かも……"
             ],
             "translation": [
-              "U…Well……",
+              "Cormorant…Na……",
               "Gradually…Dangerous………"
             ]
           }
@@ -11701,7 +11701,7 @@
               "……これ、このままだと危ない…かなぁ……"
             ],
             "translation": [
-              "Cutie…！",
+              "Kuuu…！",
               "……This、It is dangerous as it is…Wonder……"
             ]
           }
@@ -11792,7 +11792,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "胃液ダメージ改",
-        "translation": "No gastric juiceーReform"
+        "translation": "Gastric juice damage remediation"
       },
       "commands": [
         {
@@ -12602,9 +12602,9 @@
               "……あーし……溶けてきてる……"
             ],
             "translation": [
-              "…Hmm、…Damn……！",
+              "…Hmm、…Guu……！",
               "…This…………",
-              "……AhーTo……I'm melting.……"
+              "……Aashi……I'm melting.……"
             ]
           }
         },
@@ -12697,7 +12697,7 @@
               "……耐えられそうに…ない…よ………"
             ],
             "translation": [
-              "……Ug……Sorry、Mashiro……",
+              "……Kuu……Sorry、Mashiro……",
               "……To bear…Absent…Yo………"
             ]
           }
@@ -12928,7 +12928,7 @@
               "そろそろ…あぶない…かも……"
             ],
             "translation": [
-              "U…Well……",
+              "Cormorant…Na……",
               "Gradually…Dangerous………"
             ]
           }
@@ -13646,7 +13646,7 @@
               "……これ、このままだと危ない…かなぁ……"
             ],
             "translation": [
-              "Cutie…！",
+              "Kuuu…！",
               "……This、It is dangerous as it is…Wonder……"
             ]
           }
@@ -13737,7 +13737,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "膣ダメージ",
-        "translation": "Vaginal damageーDi"
+        "translation": "Vaginal damage"
       },
       "commands": [
         {
@@ -14815,7 +14815,7 @@
               "……吸われて…力なくなってく………"
             ],
             "translation": [
-              "……………………",
+              "…Haa………Haa…………",
               "…………Yo……",
               "……Sucked…It's gone.………"
             ]
@@ -14834,7 +14834,7 @@
               "んぅ…！？"
             ],
             "translation": [
-              "nn…！？"
+              "Nu…！？"
             ]
           }
         },
@@ -14920,7 +14920,7 @@
               "……苦手、なんだってば…ぁ………"
             ],
             "translation": [
-              "……So…AhーBrushwood………Like this……",
+              "……So…Aashiha………Like this……",
               "……Weak、For what…Ah………"
             ]
           }
@@ -15161,7 +15161,7 @@
               "そろそろ…あぶない…かも……"
             ],
             "translation": [
-              "U…Well……",
+              "Cormorant…Na……",
               "Gradually…Dangerous………"
             ]
           }
@@ -15821,7 +15821,7 @@
               "……これ、このままだと危ない…かなぁ……"
             ],
             "translation": [
-              "Cutie…！",
+              "Kuuu…！",
               "……This、It is dangerous as it is…Wonder……"
             ]
           }
@@ -15912,7 +15912,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "おっぱいダメージ",
-        "translation": "ーDi"
+        "translation": "Breast Damage"
       },
       "commands": [
         {
@@ -16994,7 +16994,7 @@
               "……吸われて…力なくなってく………"
             ],
             "translation": [
-              "……………………",
+              "…Haa………Haa…………",
               "…………Yo……",
               "……Sucked…It's gone.………"
             ]
@@ -17013,7 +17013,7 @@
               "んぅ…！？"
             ],
             "translation": [
-              "nn…！？"
+              "Nu…！？"
             ]
           }
         },
@@ -17099,7 +17099,7 @@
               "……苦手、なんだってば…ぁ………"
             ],
             "translation": [
-              "……So…AhーBrushwood………Like this……",
+              "……So…Aashiha………Like this……",
               "……Weak、For what…Ah………"
             ]
           }
@@ -17340,7 +17340,7 @@
               "そろそろ…あぶない…かも……"
             ],
             "translation": [
-              "U…Well……",
+              "Cormorant…Na……",
               "Gradually…Dangerous………"
             ]
           }
@@ -17992,7 +17992,7 @@
               "……これ、このままだと危ない…かなぁ……"
             ],
             "translation": [
-              "Cutie…！",
+              "Kuuu…！",
               "……This、It is dangerous as it is…Wonder……"
             ]
           }
@@ -18232,7 +18232,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "巨大胃ダメージ",
-        "translation": "Giant stomach no goodーDi"
+        "translation": "Giant stomach damage"
       },
       "commands": [
         {
@@ -18898,9 +18898,9 @@
               "……あーし……溶けてきてる……"
             ],
             "translation": [
-              "…Hmm、…Damn……！",
+              "…Hmm、…Guu……！",
               "…This…………",
-              "……AhーTo……I'm melting.……"
+              "……Aashi……I'm melting.……"
             ]
           }
         },
@@ -18985,7 +18985,7 @@
               "……耐えられそうに…ない…よ………"
             ],
             "translation": [
-              "……Ug……Sorry、Mashiro……",
+              "……Kuu……Sorry、Mashiro……",
               "……To bear…Absent…Yo………"
             ]
           }
@@ -19200,7 +19200,7 @@
               "そろそろ…あぶない…かも……"
             ],
             "translation": [
-              "U…Well……",
+              "Cormorant…Na……",
               "Gradually…Dangerous………"
             ]
           }
@@ -19774,7 +19774,7 @@
               "……これ、このままだと危ない…かなぁ……"
             ],
             "translation": [
-              "Cutie…！",
+              "Kuuu…！",
               "……This、It is dangerous as it is…Wonder……"
             ]
           }
@@ -19865,7 +19865,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "巨大の胃液ダメージ",
-        "translation": "Huge gastric fluid duckーDi"
+        "translation": "Giant gastric juice damage"
       },
       "commands": [
         {
@@ -20598,7 +20598,7 @@
               "そろそろ…あぶない…かも……"
             ],
             "translation": [
-              "U…Well……",
+              "Cormorant…Na……",
               "Gradually…Dangerous………"
             ]
           }
@@ -21212,7 +21212,7 @@
               "……これ、このままだと危ない…かなぁ……"
             ],
             "translation": [
-              "Cutie…！",
+              "Kuuu…！",
               "……This、It is dangerous as it is…Wonder……"
             ]
           }
@@ -21360,7 +21360,7 @@
               "ぬるぬるだぁ……"
             ],
             "translation": [
-              "Wow……",
+              "Waa……",
               "It's slimy.……"
             ]
           }
@@ -21456,7 +21456,7 @@
               "ぬるぬるだぁ……"
             ],
             "translation": [
-              "Wow……",
+              "Waa……",
               "It's slimy.……"
             ]
           }
@@ -21732,7 +21732,7 @@
               "ピリピリ…する……"
             ],
             "translation": [
-              "nn……",
+              "N'……",
               "Tingle…Through……"
             ]
           }
@@ -21978,7 +21978,7 @@
               "あまり長く浸かってると…消化されちゃう……"
             ],
             "translation": [
-              "Uh……Gastric juice comes to my eyes……",
+              "Uuu……Gastric juice comes to my eyes……",
               "If you are immersed for too long…It will be digested……"
             ]
           }
@@ -22008,7 +22008,7 @@
               "うぁっ！？"
             ],
             "translation": [
-              "Wow！？"
+              "Uaa！？"
             ]
           }
         },
@@ -22026,7 +22026,7 @@
               "さっきので…胃液が強くなったみたいだ……"
             ],
             "translation": [
-              "A little…Unpalatable…Wonder……",
+              "Nnnn…Unpalatable…Wonder……",
               "Since earlier…It seems that gastric juice became stronger……"
             ]
           }
@@ -23560,7 +23560,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "腸壁ダメージ",
-        "translation": "Intestinal wall irritationーDi"
+        "translation": "Intestinal Wall Damage"
       },
       "commands": [
         {
@@ -24653,7 +24653,7 @@
               "……マシロ……ゴメンね……"
             ],
             "translation": [
-              "……Ha ha……To…Wow……",
+              "……Haa……To…u……",
               "……Mashiro…………"
             ]
           }
@@ -24960,7 +24960,7 @@
               "そろそろ…あぶない…かも……"
             ],
             "translation": [
-              "U…Well……",
+              "Cormorant…Na……",
               "Gradually…Dangerous………"
             ]
           }
@@ -25165,7 +25165,7 @@
             ],
             "translation": [
               "You are welcome。",
-              "Tea、Shall we escape。"
+              "Njya、Shall we escape。"
             ]
           }
         },
@@ -25734,7 +25734,7 @@
               "……これ、このままだと危ない…かなぁ……"
             ],
             "translation": [
-              "Cutie…！",
+              "Kuuu…！",
               "……This、It is dangerous as it is…Wonder……"
             ]
           }
@@ -25858,7 +25858,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "胃ダメージヒバナ監禁",
-        "translation": "No stomachーJihabana confinement"
+        "translation": "Stomach damage Difficulty confinement"
       },
       "commands": [
         {
@@ -26409,7 +26409,7 @@
               "……んっ……ぷぅー………"
             ],
             "translation": [
-              "……nn……Puuー………"
+              "……N'……Powa………"
             ]
           }
         },
@@ -26559,7 +26559,7 @@
               "………ぁ………ぅ………"
             ],
             "translation": [
-              "………Ah………Wow………"
+              "………Ah………u………"
             ]
           }
         },
@@ -26957,7 +26957,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "スピーダー",
-        "translation": "Spinーー"
+        "translation": "Speeder"
       },
       "commands": [
         {
@@ -27075,7 +27075,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "トーサレーイ",
-        "translation": "ーー"
+        "translation": "Torsailay"
       },
       "commands": [
         {

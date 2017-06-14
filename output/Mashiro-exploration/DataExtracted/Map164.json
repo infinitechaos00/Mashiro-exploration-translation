@@ -251,7 +251,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -682,7 +682,7 @@
                     "…なんか…小腸の穴小さくなってる気する……"
                   ],
                   "translation": [
-                    "…nn……",
+                    "…Nu……",
                     "…Something…The hole in the small intestine is getting smaller……"
                   ]
                 }
@@ -2771,7 +2771,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃ダメージ",
-          "translation": "No stomachーDi"
+          "translation": "Stomach damage"
         },
         "pages": [
           {
@@ -2833,7 +2833,7 @@
                     "…よじ登れなくも…なさそうだけど……"
                   ],
                   "translation": [
-                    "Hmmー……",
+                    "Hmm……",
                     "…Even though you can not climb…I do not think so……"
                   ]
                 }
@@ -2873,7 +2873,7 @@
                     "…私はニノさんほど多芸じゃないんですから……"
                   ],
                   "translation": [
-                    "…………nn…This time……！",
+                    "…………N'…This time……！",
                     "……Mashiro…Do not think too strange……？",
                     "…Because I'm not as versatile as Nino……"
                   ]
@@ -3055,7 +3055,7 @@
                     "…マシロちゃんを最後まで…食べちゃいたいんです…❤"
                   ],
                   "translation": [
-                    "……nn……Heh…❤",
+                    "……N'……Heh…❤",
                     "……Gradually…It is the limit…❤",
                     "…Mashilo to the last…I want to eat it.…❤"
                   ]
@@ -3220,7 +3220,7 @@
                     "……からだ……おもくなってきた……"
                   ],
                   "translation": [
-                    "……Hmm…Wow……",
+                    "……Hmm…u……",
                     "…………It is getting better……"
                   ]
                 }
@@ -5298,7 +5298,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃液ダメージ",
-          "translation": "No gastric juiceーDi"
+          "translation": "Gastric juice damage"
         },
         "pages": [
           {
@@ -5355,7 +5355,7 @@
                     "わたし…溶かされてるよぅ……"
                   ],
                   "translation": [
-                    "…nn……Wow……",
+                    "…N'……u……",
                     "I…It is melted……"
                   ]
                 }
@@ -5413,7 +5413,7 @@
                     "ちゃんと回復しないから……"
                   ],
                   "translation": [
-                    "Alsoー…So why did you say that?……",
+                    "Also,…So why did you say that?……",
                     "Because I will not recover properly……"
                   ]
                 }
@@ -5724,7 +5724,7 @@
                     "……もう…動けないよ……"
                   ],
                   "translation": [
-                    "…To…Uh………",
+                    "…To…Uuu………",
                     "……Already…I can not move.……"
                   ]
                 }
@@ -6940,7 +6940,7 @@
                     "うねうね…してるよぉ…❤"
                   ],
                   "translation": [
-                    "Ohー…❤",
+                    "Oh!…❤",
                     "Squat…I'm doing it.…❤"
                   ]
                 }
@@ -7141,7 +7141,7 @@
                     "かいふくー♪"
                   ],
                   "translation": [
-                    "Medical institutionー♪"
+                    "Kaafu♪"
                   ]
                 }
               },
@@ -10124,7 +10124,7 @@
                     "かいふくー♪"
                   ],
                   "translation": [
-                    "Medical institutionー♪"
+                    "Kaafu♪"
                   ]
                 }
               },
@@ -11127,8 +11127,8 @@
                     "…お腹で暴れたから…うねうねだねー……❤"
                   ],
                   "translation": [
-                    "……Huhuhuー……❤",
-                    "…Because I was rampant on the stomach…It is sushiー……❤"
+                    "……Fufufu……❤",
+                    "…Because I was rampant on the stomach…Hey, sorry.……❤"
                   ]
                 }
               },
@@ -11421,7 +11421,7 @@
                     "お腹の音が強くて聞こえないよぅ……"
                   ],
                   "translation": [
-                    "……Uh……",
+                    "……Uuu……",
                     "…Something、I feel I could hear the voice of Itri…",
                     "The stomach sound is strong and can not be heard……"
                   ]
@@ -12036,7 +12036,7 @@
                   ],
                   "translation": [
                     "……Puha……！",
-                    "………Hmm…Wow……To gastric juice…I got it dropped……"
+                    "………Hmm…u……To gastric juice…I got it dropped……"
                   ]
                 }
               },
@@ -12150,7 +12150,7 @@
                     "……消化…つよい…よぅ……"
                   ],
                   "translation": [
-                    "……To…Wow……",
+                    "……To…u……",
                     "……Digestion…………"
                   ]
                 }

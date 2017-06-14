@@ -119,17 +119,17 @@
     "status": {
       "json_class": "TranslatableString",
       "original   ": "ステータス",
-      "translation": "Stepー"
+      "translation": "Status"
     },
     "save": {
       "json_class": "TranslatableString",
       "original   ": "セーブ",
-      "translation": "ToーThe"
+      "translation": "Save"
     },
     "game_end": {
       "json_class": "TranslatableString",
       "original   ": "ゲーム終了",
-      "translation": "AgeーEnd"
+      "translation": "Game over"
     },
     "fight": {
       "json_class": "TranslatableString",
@@ -144,17 +144,17 @@
     "new_game": {
       "json_class": "TranslatableString",
       "original   ": "初めから",
-      "translation": "From the beginning"
+      "translation": "New Game"
     },
     "continue": {
       "json_class": "TranslatableString",
       "original   ": "続きから",
-      "translation": "From the continuation"
+      "translation": "Continue"
     },
     "shutdown": {
       "json_class": "TranslatableString",
       "original   ": "シャットダウン",
-      "translation": "Shut down"
+      "translation": "Exit"
     },
     "to_title": {
       "json_class": "TranslatableString",
@@ -304,7 +304,7 @@
     {
       "json_class": "TranslatableString",
       "original   ": "ドコールレイ",
-      "translation": "ーRelay"
+      "translation": "Docoray"
     },
     {
       "json_class": "TranslatableString",
@@ -319,7 +319,7 @@
     {
       "json_class": "TranslatableString",
       "original   ": "ドコール解放",
-      "translation": "ーLeave released"
+      "translation": "DOCAL Liberation"
     },
     {
       "json_class": "TranslatableString",
@@ -759,7 +759,7 @@
     {
       "json_class": "TranslatableString",
       "original   ": "スピーダーおん",
-      "translation": "SpinーーMatsuri"
+      "translation": "Speeder"
     },
     {
       "json_class": "TranslatableString",
@@ -1179,7 +1179,7 @@
     {
       "json_class": "TranslatableString",
       "original   ": "合成スタート",
-      "translation": "Synthetic stuffー"
+      "translation": "Composite start"
     },
     {
       "json_class": "TranslatableString",
@@ -1219,7 +1219,7 @@
     {
       "json_class": "TranslatableString",
       "original   ": "罠胃液ダメージ",
-      "translation": "No trap gastric juiceーDi"
+      "translation": "Trap gastric juice damage"
     },
     {
       "json_class": "TranslatableString",
@@ -1239,7 +1239,7 @@
     {
       "json_class": "TranslatableString",
       "original   ": "トーサレーイ",
-      "translation": "ーー"
+      "translation": "Torsailay"
     },
     {
       "json_class": "TranslatableString",
@@ -1409,7 +1409,7 @@
     {
       "json_class": "TranslatableString",
       "original   ": "ニノ腹痛スタート",
-      "translation": "Nino abdominal pain starー"
+      "translation": "Nino abdominal pain start"
     },
     {
       "json_class": "TranslatableString",
@@ -1434,7 +1434,7 @@
     {
       "json_class": "TranslatableString",
       "original   ": "ニノ疼きすたーと",
-      "translation": "Nino SukiyutaーWhen"
+      "translation": "Nino slurping"
     },
     {
       "json_class": "TranslatableString",
@@ -1599,22 +1599,22 @@
     {
       "json_class": "TranslatableString",
       "original   ": "リリーネ口から",
-      "translation": "LilyーFrom the mouth"
+      "translation": "From the mouth of the Lily Sea"
     },
     {
       "json_class": "TranslatableString",
       "original   ": "リリーネ脱出",
-      "translation": "LilyーEscape"
+      "translation": "Escape from Le Liee"
     },
     {
       "json_class": "TranslatableString",
       "original   ": "リリーネデス",
-      "translation": "Lilyー"
+      "translation": "Lyleinedes"
     },
     {
       "json_class": "TranslatableString",
       "original   ": "リリーネはじめて",
-      "translation": "LilyーFirst time"
+      "translation": "Lillene for the first time"
     },
     {
       "json_class": "TranslatableString",
@@ -1964,7 +1964,7 @@
     {
       "json_class": "TranslatableString",
       "original   ": "ティーナ家入った",
-      "translation": "TeaーI got into the house."
+      "translation": "I entered Tina home."
     },
     {
       "json_class": "TranslatableString",
@@ -2764,17 +2764,17 @@
     {
       "json_class": "TranslatableString",
       "original   ": "メッセージ1",
-      "translation": "MesseーDi1"
+      "translation": "Message1"
     },
     {
       "json_class": "TranslatableString",
       "original   ": "メッセージ2",
-      "translation": "MesseーDi2"
+      "translation": "Message2"
     },
     {
       "json_class": "TranslatableString",
       "original   ": "メッセージ3",
-      "translation": "MesseーDi3"
+      "translation": "Message3"
     },
     {
       "json_class": "TranslatableString",
@@ -2784,12 +2784,12 @@
     {
       "json_class": "TranslatableString",
       "original   ": "SEスピード",
-      "translation": "SESpinー"
+      "translation": "SESpeed"
     },
     {
       "json_class": "TranslatableString",
       "original   ": "サブメニュー解放",
-      "translation": "SubmenuーRelease"
+      "translation": "Submenu release"
     },
     {
       "json_class": "TranslatableString",
@@ -2814,12 +2814,12 @@
     {
       "json_class": "TranslatableString",
       "original   ": "メンバー入れ替え",
-      "translation": "MemberーSwap"
+      "translation": "Member replacement"
     },
     {
       "json_class": "TranslatableString",
       "original   ": "ジャンプ禁止ダメージ用",
-      "translation": "No jumping prohibitionーFor"
+      "translation": "For jump inhibited damage"
     },
     {
       "json_class": "TranslatableString",
@@ -3279,12 +3279,12 @@
     {
       "json_class": "TranslatableString",
       "original   ": "ニノきもちー",
-      "translation": "Ninohogomiー"
+      "translation": "Ninohigami"
     },
     {
       "json_class": "TranslatableString",
       "original   ": "ニノかなりきもちー",
-      "translation": "Nino pretty feelingー"
+      "translation": "Nino quite a feeling"
     },
     {
       "json_class": "TranslatableString",
@@ -3294,7 +3294,7 @@
     {
       "json_class": "TranslatableString",
       "original   ": "ニノ膀胱スタート",
-      "translation": "Nino bladder starー"
+      "translation": "Nino bladder start"
     },
     {
       "json_class": "TranslatableString",
@@ -3334,12 +3334,12 @@
     {
       "json_class": "TranslatableString",
       "original   ": "ニノダミーデス",
-      "translation": "Ninodamiー"
+      "translation": "Ninoda mees"
     },
     {
       "json_class": "TranslatableString",
       "original   ": "ダミーの餌食にされた",
-      "translation": "DummyーIt was prey on"
+      "translation": "It was made a dummy's prey"
     },
     {
       "json_class": "TranslatableString",
@@ -3374,12 +3374,12 @@
     {
       "json_class": "TranslatableString",
       "original   ": "イトリきもちー",
-      "translation": "Itrirー"
+      "translation": "Itri-kimoi"
     },
     {
       "json_class": "TranslatableString",
       "original   ": "イトリかなりきもちー",
-      "translation": "Itri quite feelingー"
+      "translation": "Itri quite a feeling"
     },
     {
       "json_class": "TranslatableString",
@@ -3764,7 +3764,7 @@
     {
       "json_class": "TranslatableString",
       "original   ": "夢スタート",
-      "translation": "Dream starー"
+      "translation": "Dream start"
     },
     {
       "json_class": "TranslatableString",
@@ -5307,7 +5307,7 @@
     {
       "json_class": "TranslatableString",
       "original   ": "胃液ダメージ",
-      "translation": "No gastric juiceーDi"
+      "translation": "Gastric juice damage"
     },
     {
       "json_class": "TranslatableString",
@@ -5437,7 +5437,7 @@
     {
       "json_class": "TranslatableString",
       "original   ": "パーティ人数",
-      "translation": "ーNumber of people"
+      "translation": "Party number of people"
     },
     {
       "json_class": "TranslatableString",
@@ -5452,12 +5452,12 @@
     {
       "json_class": "TranslatableString",
       "original   ": "アクター番号",
-      "translation": "ActaーNumber"
+      "translation": "Actor number"
     },
     {
       "json_class": "TranslatableString",
       "original   ": "カーソル位置",
-      "translation": "ーSol position"
+      "translation": "Cursor position"
     },
     {
       "json_class": "TranslatableString",
@@ -5617,7 +5617,7 @@
     {
       "json_class": "TranslatableString",
       "original   ": "胃液ダメージ保管",
-      "translation": "No gastric juiceーStorage"
+      "translation": "Damage to gastric juice storage"
     },
     {
       "json_class": "TranslatableString",
@@ -5667,12 +5667,12 @@
     {
       "json_class": "TranslatableString",
       "original   ": "プレイヤーX",
-      "translation": "PlayerーX"
+      "translation": "PlayerX"
     },
     {
       "json_class": "TranslatableString",
       "original   ": "プレイヤーY",
-      "translation": "PlayerーY"
+      "translation": "PlayerY"
     },
     {
       "json_class": "TranslatableString",
@@ -5692,17 +5692,17 @@
     {
       "json_class": "TranslatableString",
       "original   ": "フェーズ1",
-      "translation": "ーA1"
+      "translation": "Phase1"
     },
     {
       "json_class": "TranslatableString",
       "original   ": "フェーズ2",
-      "translation": "ーA2"
+      "translation": "Phase2"
     },
     {
       "json_class": "TranslatableString",
       "original   ": "ダメージ変数",
-      "translation": "ーDe variable"
+      "translation": "Damage variable"
     },
     {
       "json_class": "TranslatableString",
@@ -5752,7 +5752,7 @@
     {
       "json_class": "TranslatableString",
       "original   ": "タイピングSEスピード",
-      "translation": "TypingSESpinー"
+      "translation": "TypingSESpeed"
     },
     {
       "json_class": "TranslatableString",
@@ -5767,12 +5767,12 @@
     {
       "json_class": "TranslatableString",
       "original   ": "丸呑みターン",
-      "translation": "Swallowtailー"
+      "translation": "Slurp turn"
     },
     {
       "json_class": "TranslatableString",
       "original   ": "子宮ターン",
-      "translation": "Uterusー"
+      "translation": "Uterine turn"
     },
     {
       "json_class": "TranslatableString",
@@ -5817,7 +5817,7 @@
     {
       "json_class": "TranslatableString",
       "original   ": "加速ターン",
-      "translation": "Acceleratorー"
+      "translation": "Acceleration turn"
     },
     {
       "json_class": "TranslatableString",

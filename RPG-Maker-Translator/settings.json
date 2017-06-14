@@ -1,6 +1,6 @@
 {
 "output": "../output",
-"showTranslation": 1,
+"showTranslation": 0,
 "cacheOnly": 0,
 "deleteExisting": 1,
 "skipDataExtract": 0,
@@ -11,7 +11,7 @@
 "breakBlocksOnKatakana": 0,
 "translateScripts": 0,
 "translateLinesWithVars": 0,
-"overrideCharacters": "ー,",
+"overrideCharacters": "",
 "outputLanguage": "en",
 "Actors": "Translate All",
 "Animators": "Translate All",

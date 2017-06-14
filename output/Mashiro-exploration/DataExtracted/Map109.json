@@ -126,7 +126,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃液ダメージ",
-          "translation": "No gastric juiceーDi"
+          "translation": "Gastric juice damage"
         },
         "pages": [
           {
@@ -411,7 +411,7 @@
                   ],
                   "translation": [
                     "If it melts together………",
-                    "…Up、AhーAnd you can not just run away……"
+                    "…Up、You can not just run away……"
                   ]
                 }
               },
@@ -598,7 +598,7 @@
                     "……もう…動けないよ……"
                   ],
                   "translation": [
-                    "…To…Uh………",
+                    "…To…Uuu………",
                     "……Already…I can not move.……"
                   ]
                 }

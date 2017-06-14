@@ -816,7 +816,7 @@
                     "これは…もう、あーしにも無理だよ…！"
                   ],
                   "translation": [
-                    "…Already、AhーI can not do it either.…！"
+                    "…Already、I can not do it for Hen…！"
                   ]
                 }
               },
@@ -858,7 +858,7 @@
                     "…だめぇ……溶けてる…よぉっ……"
                   ],
                   "translation": [
-                    "Ahh……nn……",
+                    "Ahh……N'……",
                     "…No good……Melting…Wow……"
                   ]
                 }
@@ -1068,7 +1068,7 @@
                   ],
                   "translation": [
                     "Ha ha……",
-                    "Muu…It may be the limit…………"
+                    "Megumu…It may be the limit…………"
                   ]
                 }
               },
@@ -1503,7 +1503,7 @@
                     "そいでは、イトリの腸にれっつごー！"
                   ],
                   "translation": [
-                    "Consequently、It sticks to the intestines of Itriー！"
+                    "Consequently、Stuck in the intestine of Itri！"
                   ]
                 }
               },
@@ -1665,7 +1665,7 @@
                   ],
                   "translation": [
                     "Consequently。",
-                    "I'm offーHey♪"
+                    "I am well known♪"
                   ]
                 }
               },
@@ -4876,7 +4876,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -5039,7 +5039,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -5194,7 +5194,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -5357,321 +5357,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
-                    "Digestion…Will it be done?……"
-                  ]
-                }
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Conditional Branch"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Control Variables"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Change HP"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Control Variables"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Empty"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Else"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Change HP"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Empty"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Branch End"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Empty"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Branch End"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Empty"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Branch End"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Empty"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Branch End"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Conditional Branch"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Conditional Branch"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Conditional Branch"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Play SE"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Shake Screen"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Show Text Attributes"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Show Text",
-                "parameters": {
-                  "json_class": "TranslatableArray",
-                  "original   ": [
-                    "わわっ……揺れてる…！\\|\\^"
-                  ],
-                  "translation": [
-                    "Understand……I'm shaking.…！\\|\\^"
-                  ]
-                }
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Play SE"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Play SE"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Show Animation"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Show Text Attributes"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Show Text",
-                "parameters": {
-                  "json_class": "TranslatableArray",
-                  "original   ": [
-                    "はぷっ！？",
-                    "\\|\\^"
-                  ],
-                  "translation": [
-                    "Cuteness！？",
-                    "\\|\\^"
-                  ]
-                }
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Play SE"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Play SE"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Flash Screen"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Show Text Attributes"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Show Text",
-                "parameters": {
-                  "json_class": "TranslatableArray",
-                  "original   ": [
-                    "んぅ……",
-                    "消化…されちゃうよぅ……"
-                  ],
-                  "translation": [
-                    "nn……",
-                    "Digestion…Will it be done?……"
-                  ]
-                }
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Conditional Branch"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Control Variables"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Change HP"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Control Variables"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Empty"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Else"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Change HP"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Empty"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Branch End"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Empty"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Branch End"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Empty"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Branch End"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Empty"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Branch End"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Conditional Branch"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Conditional Branch"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Play SE"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Shake Screen"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Show Text Attributes"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Show Text",
-                "parameters": {
-                  "json_class": "TranslatableArray",
-                  "original   ": [
-                    "わわっ……揺れてる…！\\|\\^"
-                  ],
-                  "translation": [
-                    "Understand……I'm shaking.…！\\|\\^"
-                  ]
-                }
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Play SE"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Play SE"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Show Animation"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Show Text Attributes"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Show Text",
-                "parameters": {
-                  "json_class": "TranslatableArray",
-                  "original   ": [
-                    "はぷっ！？",
-                    "\\|\\^"
-                  ],
-                  "translation": [
-                    "Cuteness！？",
-                    "\\|\\^"
-                  ]
-                }
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Play SE"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Play SE"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Flash Screen"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Show Text Attributes"
-              },
-              {
-                "json_class": "RPG::EventCommand",
-                "type": "Show Text",
-                "parameters": {
-                  "json_class": "TranslatableArray",
-                  "original   ": [
-                    "んぅ……",
-                    "消化…されちゃうよぅ……"
-                  ],
-                  "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -5830,7 +5516,162 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
+                    "Digestion…Will it be done?……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Variables"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Change HP"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Variables"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Else"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Change HP"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "わわっ……揺れてる…！\\|\\^"
+                  ],
+                  "translation": [
+                    "Understand……I'm shaking.…！\\|\\^"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Animation"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "はぷっ！？",
+                    "\\|\\^"
+                  ],
+                  "translation": [
+                    "Cuteness！？",
+                    "\\|\\^"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Flash Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んぅ……",
+                    "消化…されちゃうよぅ……"
+                  ],
+                  "translation": [
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -5989,7 +5830,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -6148,7 +5989,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -6307,7 +6148,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -6466,7 +6307,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -6625,7 +6466,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -6784,7 +6625,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -6943,7 +6784,166 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
+                    "Digestion…Will it be done?……"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Variables"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Change HP"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Control Variables"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Else"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Change HP"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Empty"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Branch End"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Conditional Branch"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Shake Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "わわっ……揺れてる…！\\|\\^"
+                  ],
+                  "translation": [
+                    "Understand……I'm shaking.…！\\|\\^"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Animation"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "はぷっ！？",
+                    "\\|\\^"
+                  ],
+                  "translation": [
+                    "Cuteness！？",
+                    "\\|\\^"
+                  ]
+                }
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Play SE"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Flash Screen"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text Attributes"
+              },
+              {
+                "json_class": "RPG::EventCommand",
+                "type": "Show Text",
+                "parameters": {
+                  "json_class": "TranslatableArray",
+                  "original   ": [
+                    "んぅ……",
+                    "消化…されちゃうよぅ……"
+                  ],
+                  "translation": [
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -7077,7 +7077,7 @@
                     "ちょっと…溶けちゃったよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "A little…It melted.……"
                   ]
                 }
@@ -7236,7 +7236,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -7395,7 +7395,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -7554,7 +7554,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -7713,7 +7713,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -7872,7 +7872,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -8031,7 +8031,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -8190,7 +8190,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -8349,7 +8349,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -8508,7 +8508,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -8667,7 +8667,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -8826,7 +8826,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -8985,7 +8985,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }

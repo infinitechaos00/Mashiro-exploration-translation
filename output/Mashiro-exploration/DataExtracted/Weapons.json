@@ -31,7 +31,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ロングソード",
-        "translation": "Longseoー"
+        "translation": "Long sword"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -94,7 +94,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "レザーウィップ",
-        "translation": "LeatherーWhip"
+        "translation": "Leather whip"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -115,12 +115,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ブロードソード",
-        "translation": "ProーDoosoー"
+        "translation": "Broad sword"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "オーソドックスな幅広の剣。",
-        "translation": "ーSodox wide sword。"
+        "translation": "Ordinary broad sword。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -199,7 +199,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "バスタードソード",
-        "translation": "BustaーDoosoー"
+        "translation": "Bastard sword"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -283,7 +283,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ハルバート",
-        "translation": "Halbaー"
+        "translation": "Hulbert"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -367,7 +367,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "モーニングスター",
-        "translation": "ーNingstaー"
+        "translation": "Morning star"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -430,7 +430,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ミスリルソード",
-        "translation": "Mythrilsosー"
+        "translation": "Mithril Sword"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -451,7 +451,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ゴールドスタッフ",
-        "translation": "ーRudd Staff"
+        "translation": "Gold staff"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -472,7 +472,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "グレートアックス",
-        "translation": "GrayーToax"
+        "translation": "Great AX"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -493,7 +493,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "グレートクロスボウ",
-        "translation": "GrayーCrossbow"
+        "translation": "Great crossbow"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -514,7 +514,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ウィザードロッド",
-        "translation": "WizardーA droid"
+        "translation": "Wizard road"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -577,7 +577,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ドラゴンクロー",
-        "translation": "Dragon Kuroー"
+        "translation": "Dragon claw"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -598,7 +598,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ドラゴンソード",
-        "translation": "Dragonsoー"
+        "translation": "Dragon sword"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -619,7 +619,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "キングスソード",
-        "translation": "King's Sー"
+        "translation": "Kings sword"
       },
       "description": {
         "json_class": "TranslatableString",

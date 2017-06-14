@@ -54,7 +54,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ホーネット*2",
-        "translation": "ーNet*2"
+        "translation": "Hornet*2"
       },
       "pages": [
         {
@@ -230,7 +230,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ゴースト*3",
-        "translation": "ーA strike*3"
+        "translation": "Ghost*3"
       },
       "pages": [
         {
@@ -274,7 +274,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "オーク*3",
-        "translation": "ー*3"
+        "translation": "Oak*3"
       },
       "pages": [
         {
@@ -318,7 +318,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ゲイザー*3",
-        "translation": "Geyserー*3"
+        "translation": "Gaither*3"
       },
       "pages": [
         {
@@ -494,7 +494,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "オーガ",
-        "translation": "ー"
+        "translation": "Ogre"
       },
       "pages": [
         {
@@ -516,7 +516,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ガーゴイル*2",
-        "translation": "ーGoil*2"
+        "translation": "Gargoyle*2"
       },
       "pages": [
         {
@@ -604,7 +604,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "デーモン",
-        "translation": "ー"
+        "translation": "Daemon"
       },
       "pages": [
         {

@@ -8,7 +8,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃ダメージ",
-          "translation": "No stomachーDi"
+          "translation": "Stomach damage"
         },
         "pages": [
           {
@@ -266,7 +266,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃液ダメージ",
-          "translation": "No gastric juiceーDi"
+          "translation": "Gastric juice damage"
         },
         "pages": [
           {
@@ -331,7 +331,7 @@
                     "…だ、めぇ……とかされ…てるぅ……"
                   ],
                   "translation": [
-                    "…Well……Uh……",
+                    "…Well……Uuu……",
                     "…It is、……It is called…Teruuu……"
                   ]
                 }
@@ -390,7 +390,7 @@
                     "回復遅いと、こうなっちゃうのか……"
                   ],
                   "translation": [
-                    "Oopsー……",
+                    "Oops……",
                     "As expected、You melt at once……",
                     "If recovery is slow、Is it going to be like this……"
                   ]
@@ -702,7 +702,7 @@
                     "……もう…動けないよ……"
                   ],
                   "translation": [
-                    "…To…Uh………",
+                    "…To…Uuu………",
                     "……Already…I can not move.……"
                   ]
                 }
@@ -985,7 +985,7 @@
                     "…かべの動きが…ぐにゅぐにゅしてる……"
                   ],
                   "translation": [
-                    "……nn……？",
+                    "……Nu……？",
                     "…The movement of the pot…Hurriedly……"
                   ]
                 }
@@ -1232,7 +1232,7 @@
                     "……ヒバナに……たべられ…てる………"
                   ],
                   "translation": [
-                    "……nn…Ah………",
+                    "……N'…Ah………",
                     "……Teruuu……",
                     "……In hibana……Eaten…Out………"
                   ]
@@ -3533,7 +3533,7 @@
                     "急いで小腸に行かなくちゃ…"
                   ],
                   "translation": [
-                    "……To……nn……",
+                    "……To……Nu……",
                     "…Even if it brings it…It will be melted…",
                     "I have to go to the small intestine in a hurry…"
                   ]
@@ -3722,7 +3722,7 @@
                     "……ヒバナの腸…ヘンな感じ……"
                   ],
                   "translation": [
-                    "………nn…",
+                    "………Nu…",
                     "Something、I'm slippery.……",
                     "……Intestine of Hibana…Feeling sore……"
                   ]

@@ -39,7 +39,7 @@ $preserveExistingData = true
 $lastLogged = Time.now
 $filter = {}
 $outputLanguage = 'en'
-$overrideCharacters = /ー,/
+$overrideCharacters = /☎,/
 
 def translateBlock(block)
 	if block.strip.length == 0
@@ -132,7 +132,7 @@ def isKatakana(char)
 end
 
 def isTerminatingCharacter(char)
-	!char.match($overrideCharacters) and (char.match(/[ '♥“”１２３４５６９０▲●←↑→↓（）▽★・、～」▼■＠「.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()-_\[\]\"<>\n|:…！?…。♪『？―”“~\/]/) == true or !(char =~ /\p{Han}|\p{Katakana}|\p{Hiragana}/))
+	!char.match($overrideCharacters) and (char.match(/[ '♥“”１２３４５６９０▲●←↑→↓（）▽★・、～」▼■＠「.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()-_\[\]\"<>\n|:…！?…。♪『？―”“~\/]/) == true or !(char =~ /ー|\p{Han}|\p{Katakana}|\p{Hiragana}/))
 end
 
 def log(line, debug = false, forceWrite = false)

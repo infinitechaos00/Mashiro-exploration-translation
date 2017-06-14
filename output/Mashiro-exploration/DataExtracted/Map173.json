@@ -8,7 +8,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃ダメージ",
-          "translation": "No stomachーDi"
+          "translation": "Stomach damage"
         },
         "pages": [
           {
@@ -34,7 +34,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃液ダメージ",
-          "translation": "No gastric juiceーDi"
+          "translation": "Gastric juice damage"
         },
         "pages": [
           {
@@ -123,7 +123,7 @@
                     "………ぐちゅ…ぐちゅに…されてるよぅ……"
                   ],
                   "translation": [
-                    "…Is…Wow……",
+                    "…Is…u……",
                     "………Guchi Orientals…In a crampon…It's been done.……"
                   ]
                 }
@@ -147,8 +147,8 @@
                     "適度に回復しないと消化されるのよん♪"
                   ],
                   "translation": [
-                    "AhーAh……",
-                    "It isーYou said it fromー。",
+                    "Oh……",
+                    "I told you not from me。",
                     "It will be digested unless it recovers moderately.♪"
                   ]
                 }
@@ -168,7 +168,7 @@
                     "……消化のほうが…つよい…の……"
                   ],
                   "translation": [
-                    "……Uh……",
+                    "……Uuu……",
                     "…Medical institution…Better than to……",
                     "……Digestion is better……Of……"
                   ]
@@ -224,7 +224,7 @@
                     "……アンジュ…に…たべられ……て………"
                   ],
                   "translation": [
-                    "……………Tease up…Wow……",
+                    "……………Tease up…u……",
                     "……Ange…Into…Eaten……The………"
                   ]
                 }
@@ -410,7 +410,7 @@
                   ],
                   "translation": [
                     "Good night、Mashiro……",
-                    "……Later、AhーIt will only escape。",
+                    "……Later、He only escape。",
                     "It looks a little difficult though…Let's go♪"
                   ]
                 }
@@ -551,7 +551,7 @@
                     "……ここまで……きて………"
                   ],
                   "translation": [
-                    "……nn……Wow……",
+                    "……N'……u……",
                     "…Such…Hey,……",
                     "……So far……Come………"
                   ]
@@ -816,7 +816,7 @@
                     "……もう…動けないよ……"
                   ],
                   "translation": [
-                    "…To…Uh………",
+                    "…To…Uuu………",
                     "……Already…I can not move.……"
                   ]
                 }
@@ -1237,7 +1237,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -1892,7 +1892,7 @@
                   ],
                   "translation": [
                     "When、Agreement…！！",
-                    "AhーBut even、This digestion power is a little tinkering.…！"
+                    "Even then、This digestion power is a little tinkering.…！"
                   ]
                 }
               },
@@ -3410,7 +3410,7 @@
                     "…ま、まさか…もう……！？"
                   ],
                   "translation": [
-                    "…Wow……Ah…！",
+                    "…u……Ah…！",
                     "…Up、No way…Already……！？"
                   ]
                 }
@@ -3606,7 +3606,7 @@
                     "……出口まで…遠そうだよ……"
                   ],
                   "translation": [
-                    "……nn……",
+                    "……Nu……",
                     "…Carrying…I was washed away……",
                     "……To the exit…It looks far from me.……"
                   ]

@@ -8,7 +8,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃ダメージ",
-          "translation": "No stomachーDi"
+          "translation": "Stomach damage"
         },
         "pages": [
           {
@@ -236,7 +236,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃液ダメージ",
-          "translation": "No gastric juiceーDi"
+          "translation": "Gastric juice damage"
         },
         "pages": [
           {
@@ -297,7 +297,7 @@
                     "………とけ…てるよぅ……"
                   ],
                   "translation": [
-                    "……Is……Uh………",
+                    "……Is……Uuu………",
                     "…………Get it.……"
                   ]
                 }
@@ -655,7 +655,7 @@
                     "……もう…動けないよ……"
                   ],
                   "translation": [
-                    "…To…Uh………",
+                    "…To…Uuu………",
                     "……Already…I can not move.……"
                   ]
                 }
@@ -1807,7 +1807,7 @@
                     "さてー、どーするかなー♪"
                   ],
                   "translation": [
-                    "Nowー、WhenーWondering ifー♪"
+                    "Well、How do you do?♪"
                   ]
                 }
               },
@@ -2171,7 +2171,7 @@
                     "やわくてもちもち、元気な胃だね❤"
                   ],
                   "translation": [
-                    "Hmmー、Puni Puni❤",
+                    "Hmm、Puni Puni❤",
                     "Yaochi rice cake、It's a cheerful stomach❤"
                   ]
                 }
@@ -2265,7 +2265,7 @@
                     "うで埋もれて…呑まれちゃいそうだよ❤"
                   ],
                   "translation": [
-                    "……Nfuー……❤",
+                    "……I'm well……❤",
                     "…Dragonfly、You are hunting hard❤",
                     "Buried in…It seems to be swallowed❤"
                   ]
@@ -2364,7 +2364,7 @@
                     "うで埋もれて…呑まれちゃいそうだよ❤"
                   ],
                   "translation": [
-                    "……Nfuー……❤",
+                    "……I'm well……❤",
                     "…Dragonfly、You are hunting hard❤",
                     "Buried in…It seems to be swallowed❤"
                   ]
@@ -2492,9 +2492,9 @@
                     "ハルにしょーかされちゃうよぅー❤"
                   ],
                   "translation": [
-                    "Yourー❤",
-                    "Moving roughlyー❤",
-                    "HulaーI will be hookedー❤"
+                    "Wow❤",
+                    "Moving roughly❤",
+                    "I will be taken care of by Hull❤"
                   ]
                 }
               },
@@ -2620,9 +2620,9 @@
                     "ハルにしょーかされちゃうよぅー❤"
                   ],
                   "translation": [
-                    "Yourー❤",
-                    "Moving roughlyー❤",
-                    "HulaーI will be hookedー❤"
+                    "Wow❤",
+                    "Moving roughly❤",
+                    "I will be taken care of by Hull❤"
                   ]
                 }
               },
@@ -3988,7 +3988,7 @@
                     "……むずむず……しちゃうね……❤"
                   ],
                   "translation": [
-                    "………Hmm……………❤",
+                    "………Hmm……Haa………❤",
                     "……Stomach…It's ringing……❤",
                     "……Itchy……I will do it.……❤"
                   ]
@@ -4029,7 +4029,7 @@
                     "消化、強くなるのかな？"
                   ],
                   "translation": [
-                    "Oohー……",
+                    "Ooh……",
                     "Something、I'm gonna rock……",
                     "Digestion、I wonder if it gets stronger.？"
                   ]
@@ -4388,9 +4388,9 @@
                     "ハルにしょーかされちゃうよぅー❤"
                   ],
                   "translation": [
-                    "Yourー❤",
-                    "Moving roughlyー❤",
-                    "HulaーI will be hookedー❤"
+                    "Wow❤",
+                    "Moving roughly❤",
+                    "I will be taken care of by Hull❤"
                   ]
                 }
               },

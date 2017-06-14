@@ -10,7 +10,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "レザーシールド",
-        "translation": "LeatherーーRed"
+        "translation": "Leather shield"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -31,7 +31,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "スケールシールド",
-        "translation": "ScheduleーーRed"
+        "translation": "Scale shield"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -52,12 +52,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "フレイムシールド",
-        "translation": "FleeceーRed"
+        "translation": "Revivify"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "炎属性のダメージを半減する盾。",
-        "translation": "Bad flame attributesーShield to halve。"
+        "translation": "To halve the fire attribute damage shield。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -73,12 +73,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "アイスシールド",
-        "translation": "Ice sushiーRed"
+        "translation": "Ice shield"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "冷気属性のダメージを半減する盾。",
-        "translation": "No coolness attributeーShield to halve。"
+        "translation": "Shield reduces the damage of the cold attribute。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -94,7 +94,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ミスリルシールド",
-        "translation": "MithrilsiーRed"
+        "translation": "Mithril shield"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -115,7 +115,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ドラゴンシールド",
-        "translation": "DragonsーRed"
+        "translation": "Dragon shield"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -136,7 +136,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "フェザーハット",
-        "translation": "FeatherーHat"
+        "translation": "Feather Hat"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -199,7 +199,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "サークレット",
-        "translation": "TheーKlett"
+        "translation": "Circlet"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -262,12 +262,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ローブ",
-        "translation": "RoーThe"
+        "translation": "Robe"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "広く普及している一般的なローブ。",
-        "translation": "Common b which is widespreadーThe。"
+        "translation": "Widely used common robe。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -283,7 +283,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "レザープレート",
-        "translation": "LeatherーPreー"
+        "translation": "Leather plate"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -325,12 +325,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "マジックローブ",
-        "translation": "MagicroーThe"
+        "translation": "Magic love"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "丈夫な布で作られた魔法のローブ。",
-        "translation": "Magical b] made of strong clothーThe。"
+        "translation": "Magic made of sturdy cloth robe。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -367,7 +367,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ミスティクロース",
-        "translation": "Misty blackー"
+        "translation": "Misty Claus"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -388,7 +388,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "アイアンアーマー",
-        "translation": "Ironhaーー"
+        "translation": "Iron armor"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -409,12 +409,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "セイントローブ",
-        "translation": "SaintroーThe"
+        "translation": "Saint love"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "聖なる力を秘めた神々しいローブ。",
-        "translation": "A divine bible with secret powerーThe。"
+        "translation": "A powerful Holy Holy robes。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -430,7 +430,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ミスリルプレート",
-        "translation": "Mythril Preー"
+        "translation": "Mythril plate"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1375,12 +1375,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "魔法使いローブ",
-        "translation": "Witch braーThe"
+        "translation": "Wizard Robe"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "魔法使いが良く着ているローブ。|内ポケットが付いているので物を仕舞っておける。",
-        "translation": "The wizard is wearing wellーThe。|With inner pocket you can keep things。"
+        "translation": "Robe that the mage wears well。|With inner pocket you can keep things。"
       },
       "note": {
         "json_class": "TranslatableString",

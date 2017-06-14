@@ -8,7 +8,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃ダメージ",
-          "translation": "No stomachーDi"
+          "translation": "Stomach damage"
         },
         "pages": [
           {
@@ -236,7 +236,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃液ダメージ",
-          "translation": "No gastric juiceーDi"
+          "translation": "Gastric juice damage"
         },
         "pages": [
           {
@@ -297,7 +297,7 @@
                     "………しょうか……されてるっ………"
                   ],
                   "translation": [
-                    "……nn……Ku………",
+                    "……N'……Ku………",
                     "………Ginger……It is being done.………"
                   ]
                 }
@@ -385,7 +385,7 @@
                     "……でも……とけてる……よぅ……"
                   ],
                   "translation": [
-                    "……Ah……Wow…Hmm……",
+                    "……Ah……u…Hmm……",
                     "………As expected……A little……Feeling………",
                     "……But……To turn…………"
                   ]
@@ -655,7 +655,7 @@
                     "……もう…動けないよ……"
                   ],
                   "translation": [
-                    "…To…Uh………",
+                    "…To…Uuu………",
                     "……Already…I can not move.……"
                   ]
                 }
@@ -2040,7 +2040,7 @@
                     "…溶けるのにもぐったから…溶けてるよぅ……"
                   ],
                   "translation": [
-                    "……ー……",
+                    "……FII……",
                     "…Because it melted to melt…It is melting……"
                   ]
                 }
@@ -2314,7 +2314,7 @@
                     "ぐりゅぐりゅ動いちゃってるよぅ❤"
                   ],
                   "translation": [
-                    "Yourー❤",
+                    "Wow❤",
                     "Even if you do not understand Aki、I wonder if the body knows❤",
                     "I'm moving in a chugly direction❤"
                   ]
@@ -2430,7 +2430,7 @@
                     "ぐりゅぐりゅ動いちゃってるよぅ❤"
                   ],
                   "translation": [
-                    "Yourー❤",
+                    "Wow❤",
                     "Even if you do not understand Aki、I wonder if the body knows❤",
                     "I'm moving in a chugly direction❤"
                   ]
@@ -2533,7 +2533,7 @@
                     "…………❤",
                     "…、It's ringing…❤",
                     "In the cheerful stomach of Aki…",
-                    "It's working so fastー…❤"
+                    "He is correctly moving properly…❤"
                   ]
                 }
               },
@@ -2634,7 +2634,7 @@
                     "…………❤",
                     "…、It's ringing…❤",
                     "In the cheerful stomach of Aki…",
-                    "It's working so fastー…❤"
+                    "He is correctly moving properly…❤"
                   ]
                 }
               },
@@ -2733,7 +2733,7 @@
                     "………んんっ…………"
                   ],
                   "translation": [
-                    "………A little…………"
+                    "………Nnnn…………"
                   ]
                 }
               },
@@ -3759,7 +3759,7 @@
                     "………んんっ…………"
                   ],
                   "translation": [
-                    "………A little…………"
+                    "………Nnnn…………"
                   ]
                 }
               },
@@ -3879,7 +3879,7 @@
                     "………んんっ…………"
                   ],
                   "translation": [
-                    "………A little…………"
+                    "………Nnnn…………"
                   ]
                 }
               },
@@ -3993,8 +3993,8 @@
                     "ぐるぐるしてるぅー❤"
                   ],
                   "translation": [
-                    "Yourー❤",
-                    "I'm going round and round.ー❤"
+                    "Wow❤",
+                    "We are going round and round❤"
                   ]
                 }
               },
@@ -4012,7 +4012,7 @@
                     "…お腹ん中…やったら動いてる………"
                   ],
                   "translation": [
-                    "………nn……Ooh……？",
+                    "………N'……Ooh……？",
                     "…Inside my belly…Doing it works………"
                   ]
                 }
@@ -4054,7 +4054,7 @@
                   "translation": [
                     "…………♪",
                     "…That reminds me, my stomach is empty……",
-                    "…I should eat sweets tooー……♪"
+                    "…I would like to eat sweets too……♪"
                   ]
                 }
               },
@@ -4266,7 +4266,7 @@
                     "………んんっ…………"
                   ],
                   "translation": [
-                    "………A little…………"
+                    "………Nnnn…………"
                   ]
                 }
               },
@@ -4388,7 +4388,7 @@
                     "…………❤",
                     "…、It's ringing…❤",
                     "In the cheerful stomach of Aki…",
-                    "It's working so fastー…❤"
+                    "He is correctly moving properly…❤"
                   ]
                 }
               },
@@ -5339,7 +5339,7 @@
                     "とろとろに溶けてて、吸収されそうになってる❤"
                   ],
                   "translation": [
-                    "Your、CaneーKagoshuーIt's rice.❤",
+                    "Your、It's Shotokaya's rice, is not it?❤",
                     "Melting in the mushrooms、It is likely to be absorbed❤"
                   ]
                 }
@@ -5388,7 +5388,7 @@
                     "とろとろに溶けてて、吸収されそうになってる❤"
                   ],
                   "translation": [
-                    "Your、CaneーKagoshuーIt's rice.❤",
+                    "Your、It's Shotokaya's rice, is not it?❤",
                     "Melting in the mushrooms、It is likely to be absorbed❤"
                   ]
                 }
@@ -5437,7 +5437,7 @@
                     "とろとろに溶けてて、吸収されそうになってる❤"
                   ],
                   "translation": [
-                    "Your、CaneーKagoshuーIt's rice.❤",
+                    "Your、It's Shotokaya's rice, is not it?❤",
                     "Melting in the mushrooms、It is likely to be absorbed❤"
                   ]
                 }
@@ -5486,7 +5486,7 @@
                     "とろとろに溶けてて、吸収されそうになってる❤"
                   ],
                   "translation": [
-                    "Your、CaneーKagoshuーIt's rice.❤",
+                    "Your、It's Shotokaya's rice, is not it?❤",
                     "Melting in the mushrooms、It is likely to be absorbed❤"
                   ]
                 }

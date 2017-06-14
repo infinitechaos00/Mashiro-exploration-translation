@@ -8,7 +8,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃ダメージ",
-          "translation": "No stomachーDi"
+          "translation": "Stomach damage"
         },
         "pages": [
           {
@@ -34,7 +34,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃液ダメージ",
-          "translation": "No gastric juiceーDi"
+          "translation": "Gastric juice damage"
         },
         "pages": [
           {
@@ -123,7 +123,7 @@
                     "………ぐちゅ…ぐちゅに…されてるよぅ……"
                   ],
                   "translation": [
-                    "…Is…Wow……",
+                    "…Is…u……",
                     "………Guchi Orientals…In a crampon…It's been done.……"
                   ]
                 }
@@ -170,7 +170,7 @@
                     "……アンジュ…に…たべられ……て………"
                   ],
                   "translation": [
-                    "……………Tease up…Wow……",
+                    "……………Tease up…u……",
                     "……Ange…Into…Eaten……The………"
                   ]
                 }
@@ -423,7 +423,7 @@
                     "……もう…動けないよ……"
                   ],
                   "translation": [
-                    "…To…Uh………",
+                    "…To…Uuu………",
                     "……Already…I can not move.……"
                   ]
                 }
@@ -844,7 +844,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -1460,7 +1460,7 @@
                   ],
                   "translation": [
                     "When、Agreement…！！",
-                    "AhーBut even、This digestion power is a little tinkering.…！"
+                    "Even then、This digestion power is a little tinkering.…！"
                   ]
                 }
               },
@@ -3082,8 +3082,8 @@
                     "…あんまりチンタラしてると…胃液が増えちゃうぞー……♪"
                   ],
                   "translation": [
-                    "……HoーStickyー…♪",
-                    "…If you are really tingling…Gastric juice will increaseー……♪"
+                    "……Welcome…♪",
+                    "…If you are really tingling…Gastric juice will increase……♪"
                   ]
                 }
               },

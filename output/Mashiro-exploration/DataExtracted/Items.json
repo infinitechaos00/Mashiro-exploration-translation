@@ -94,7 +94,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "エーテル",
-        "translation": "ー"
+        "translation": "Ether"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -115,7 +115,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ハイエーテル",
-        "translation": "Hayeー"
+        "translation": "High ether"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -136,7 +136,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "フルエーテル",
-        "translation": "ー"
+        "translation": "Full ether"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -414,7 +414,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "胃液を中和、抑制してダメージを軽減する粘液。|ＨＰもちょっとだけ回復する。",
-        "translation": "Neutralize gastric juice、Suppress itーMucus to reduce Di。|ＨＰI recover only a moment。"
+        "translation": "Neutralize gastric juice、Mucus that suppresses and reduces damage。|ＨＰI recover only a moment。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -708,7 +708,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "とってもあまーい飴。|HPとMPが微量回復する。",
-        "translation": "Very niceーSyrup。|HPWhenMPTrace recovery。"
+        "translation": "Very nice candy。|HPWhenMPTrace recovery。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -871,7 +871,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ハヤーシ",
-        "translation": "ー"
+        "translation": "Hayashi"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -897,7 +897,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "これ使えば消化もカナり弱まるんじゃないカナ？|体内で受けるダメージを大幅に減らせます。",
-        "translation": "If you use it it will not weaken digestion as well Kana？|Do not accept in the bodyーYou can greatly reduce。"
+        "translation": "If you use it it will not weaken digestion as well Kana？|Damage received in the body can be greatly reduced。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -1060,7 +1060,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ポーション",
-        "translation": "PoーIn"
+        "translation": "Portion"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1081,7 +1081,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ハイポーション",
-        "translation": "HypoーIn"
+        "translation": "Hi-Potion"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1102,7 +1102,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "フルポーション",
-        "translation": "FulloーIn"
+        "translation": "Full potion"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1123,7 +1123,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "マジックウォーター",
-        "translation": "Magic Warーー"
+        "translation": "Magic Water"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1165,7 +1165,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "アンチドーテ",
-        "translation": "Antideー"
+        "translation": "Antidote"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1186,7 +1186,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ディスペルハーブ",
-        "translation": "DispelhaーThe"
+        "translation": "Dispel herb"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1207,7 +1207,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "エリクサー",
-        "translation": "Elixaー"
+        "translation": "Elixir"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1270,7 +1270,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "パワーアップ",
-        "translation": "PowerーUp"
+        "translation": "Power up"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1291,7 +1291,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ガードアップ",
-        "translation": "ーDo"
+        "translation": "Guard up"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1333,7 +1333,7 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "スピードアップ",
-        "translation": "SpinーDo"
+        "translation": "Speed up"
       },
       "description": {
         "json_class": "TranslatableString",
@@ -1359,7 +1359,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体に炎属性のダメージを与える。",
-        "translation": "Flame attribute no good for enemy unitーTo give。"
+        "translation": "Deals flame attribute damage to an enemy unit。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -1380,7 +1380,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に炎属性のダメージを与える。",
-        "translation": "Flame attribute no good for all enemiesーTo give。"
+        "translation": "Damage fire damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -1401,7 +1401,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体に冷気属性のダメージを与える。",
-        "translation": "The cold air attribute is unnecessary to an enemy unitーTo give。"
+        "translation": "Damage of the cold attribute giving enemy unit。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -1417,12 +1417,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "ブリザードの巻物",
-        "translation": "BrizaーScroll of Do"
+        "translation": "Scroll of Blizzard"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に冷気属性のダメージを与える。",
-        "translation": "Damage of cold air attribute to the enemy as a wholeーTo give。"
+        "translation": "Deals cold air damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -1438,12 +1438,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "サンダーの巻物",
-        "translation": "SandaーScroll of"
+        "translation": "Scroll of Thunder"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵単体に雷属性のダメージを与える。",
-        "translation": "No thunder attribute on enemy unitーTo give。"
+        "translation": "Deals lightning attribute damage to an enemy unit。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -1459,12 +1459,12 @@
       "name": {
         "json_class": "TranslatableString",
         "original   ": "スパークの巻物",
-        "translation": "SpaーScroll of the game"
+        "translation": "Scroll of spark"
       },
       "description": {
         "json_class": "TranslatableString",
         "original   ": "敵全体に雷属性のダメージを与える。",
-        "translation": "No thunder attribute on the enemy as a wholeーTo give。"
+        "translation": "Deals lightning damage to the entire enemy。"
       },
       "note": {
         "json_class": "TranslatableString",

@@ -333,7 +333,7 @@
                     "初めましてだねぇ、憐れな餌の少年君♪"
                   ],
                   "translation": [
-                    "ーHelloー！",
+                    "Hello.！",
                     "Nice to meet you.、A boy with a pity♪"
                   ]
                 }
@@ -477,8 +477,8 @@
                   ],
                   "translation": [
                     "You can eat a few small Kimi♪",
-                    "This cute.ーAs a nutrition of Shafi Ansys",
-                    "This beautiful faceーIt will be part of a limb♪"
+                    "As this cute Shafi Ansys' s nutrition",
+                    "It will become part of this beautiful limb♪"
                   ]
                 }
               },
@@ -1815,7 +1815,7 @@
                   "translation": [
                     "\\NA[シャフィアンシス]ふふん♪",
                     "I love living with good life！",
-                    "So then、I wonder what I will do next.ー？"
+                    "So then、I wonder what I will do next？"
                   ]
                 }
               },
@@ -2994,7 +2994,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "カイト",
-          "translation": "Kite"
+          "translation": "Kaito"
         },
         "pages": [
           {
@@ -3060,7 +3060,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "フィア",
-          "translation": ""
+          "translation": "Fia"
         },
         "pages": [
           {

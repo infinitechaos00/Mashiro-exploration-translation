@@ -8,7 +8,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃ダメージ",
-          "translation": "No stomachーDi"
+          "translation": "Stomach damage"
         },
         "pages": [
           {
@@ -346,7 +346,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃液ダメージ",
-          "translation": "No gastric juiceーDi"
+          "translation": "Gastric juice damage"
         },
         "pages": [
           {
@@ -411,7 +411,7 @@
                     "…だ、めぇ……とかされ…てるぅ……"
                   ],
                   "translation": [
-                    "…Well……Uh……",
+                    "…Well……Uuu……",
                     "…It is、……It is called…Teruuu……"
                   ]
                 }
@@ -470,7 +470,7 @@
                     "回復遅いと、こうなっちゃうのか……"
                   ],
                   "translation": [
-                    "Oopsー……",
+                    "Oops……",
                     "As expected、You melt at once……",
                     "If recovery is slow、Is it going to be like this……"
                   ]
@@ -782,7 +782,7 @@
                     "……もう…動けないよ……"
                   ],
                   "translation": [
-                    "…To…Uh………",
+                    "…To…Uuu………",
                     "……Already…I can not move.……"
                   ]
                 }
@@ -1074,7 +1074,7 @@
                     "…かべの動きが…ぐにゅぐにゅしてる……"
                   ],
                   "translation": [
-                    "……nn……？",
+                    "……Nu……？",
                     "…The movement of the pot…Hurriedly……"
                   ]
                 }
@@ -1231,7 +1231,7 @@
                     "かべが…ぐにぐにして……"
                   ],
                   "translation": [
-                    "……Ouch……？",
+                    "……Ahuu……？",
                     "Wall…To the nose……"
                   ]
                 }
@@ -1298,7 +1298,7 @@
                     "……しょうか…されちゃう…よぅ……"
                   ],
                   "translation": [
-                    "……nn………Ah……",
+                    "……N'………Ah……",
                     "…Hibana's…It cries.……",
                     "……Ginger…I will be there.………"
                   ]
@@ -1399,7 +1399,7 @@
                     "……ヒバナに……たべられ…てる………"
                   ],
                   "translation": [
-                    "……Fa…U……",
+                    "……Fa…Cormorant……",
                     "……Teruuu……",
                     "……In hibana……Eaten…Out………"
                   ]

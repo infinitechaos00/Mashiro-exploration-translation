@@ -308,7 +308,7 @@
                   ],
                   "translation": [
                     "\\NA[カイト]へいへい。",
-                    "I know.ー。"
+                    "I am aware yo。"
                   ]
                 }
               },
@@ -943,7 +943,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "カイト",
-          "translation": "Kite"
+          "translation": "Kaito"
         },
         "pages": [
           {

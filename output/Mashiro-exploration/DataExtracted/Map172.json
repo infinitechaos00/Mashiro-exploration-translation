@@ -8,7 +8,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃ダメージ",
-          "translation": "No stomachーDi"
+          "translation": "Stomach damage"
         },
         "pages": [
           {
@@ -34,7 +34,7 @@
         "name": {
           "json_class": "TranslatableString",
           "original   ": "胃液ダメージ",
-          "translation": "No gastric juiceーDi"
+          "translation": "Gastric juice damage"
         },
         "pages": [
           {
@@ -123,7 +123,7 @@
                     "………ぐちゅ…ぐちゅに…されてるよぅ……"
                   ],
                   "translation": [
-                    "…Is…Wow……",
+                    "…Is…u……",
                     "………Guchi Orientals…In a crampon…It's been done.……"
                   ]
                 }
@@ -147,8 +147,8 @@
                     "適度に回復しないと消化されるのよん♪"
                   ],
                   "translation": [
-                    "AhーAh……",
-                    "It isーYou said it fromー。",
+                    "Oh……",
+                    "I told you not from me。",
                     "It will be digested unless it recovers moderately.♪"
                   ]
                 }
@@ -168,7 +168,7 @@
                     "……消化のほうが…つよい…の……"
                   ],
                   "translation": [
-                    "……Uh……",
+                    "……Uuu……",
                     "…Medical institution…Better than to……",
                     "……Digestion is better……Of……"
                   ]
@@ -224,7 +224,7 @@
                     "……アンジュ…に…たべられ……て………"
                   ],
                   "translation": [
-                    "……………Tease up…Wow……",
+                    "……………Tease up…u……",
                     "……Ange…Into…Eaten……The………"
                   ]
                 }
@@ -410,7 +410,7 @@
                   ],
                   "translation": [
                     "Good night、Mashiro……",
-                    "……Later、AhーIt will only escape。",
+                    "……Later、He only escape。",
                     "It looks a little difficult though…Let's go♪"
                   ]
                 }
@@ -551,7 +551,7 @@
                     "……ここまで……きて………"
                   ],
                   "translation": [
-                    "……nn……Wow……",
+                    "……N'……u……",
                     "…Such…Hey,……",
                     "……So far……Come………"
                   ]
@@ -816,7 +816,7 @@
                     "……もう…動けないよ……"
                   ],
                   "translation": [
-                    "…To…Uh………",
+                    "…To…Uuu………",
                     "……Already…I can not move.……"
                   ]
                 }
@@ -1237,7 +1237,7 @@
                     "消化…されちゃうよぅ……"
                   ],
                   "translation": [
-                    "nn……",
+                    "Nu……",
                     "Digestion…Will it be done?……"
                   ]
                 }
@@ -1737,7 +1737,7 @@
                     "…この手応えなら登れなくも無さそうだけど……"
                   ],
                   "translation": [
-                    "………ー……",
+                    "………Hmmm……",
                     "…Although it seems not to be able to climb if this response is made……"
                   ]
                 }
@@ -1801,7 +1801,7 @@
                     "いちかばちかぁー！！"
                   ],
                   "translation": [
-                    "Ichigaka?ー！！"
+                    "Ichigaoka！！"
                   ]
                 }
               },
@@ -1908,7 +1908,7 @@
                     "のぼり…にくいよぅ……"
                   ],
                   "translation": [
-                    "…nnー……",
+                    "…Oh!……",
                     "…Drooling and slimming………",
                     "Climbing…It's hard for you……"
                   ]
@@ -2141,7 +2141,7 @@
                     "やああぁぁーーー………！"
                   ],
                   "translation": [
-                    "Hi ahーーー………！"
+                    "Hello!………！"
                   ]
                 }
               },
@@ -2239,7 +2239,7 @@
                     "…やっぱり……だして…くれないの……？"
                   ],
                   "translation": [
-                    "………nn……",
+                    "………Nu……",
                     "…As expected……Take out…Do not give it……？"
                   ]
                 }
@@ -2527,7 +2527,7 @@
                   ],
                   "translation": [
                     "When、Agreement…！！",
-                    "AhーBut even、This digestion power is a little tinkering.…！"
+                    "Even then、This digestion power is a little tinkering.…！"
                   ]
                 }
               },
@@ -3140,7 +3140,7 @@
                     "……なっ…なに……？"
                   ],
                   "translation": [
-                    "…nn……U……",
+                    "…N'……Cormorant……",
                     "……Becoming…What……？"
                   ]
                 }
@@ -4440,7 +4440,7 @@
                     "……なんか…すごい動いてるよぅ……"
                   ],
                   "translation": [
-                    "……nnー……",
+                    "……Oh!……",
                     "……Something…It's going to move a lot……"
                   ]
                 }
@@ -4879,7 +4879,7 @@
                     "……体も…ピリピリする……"
                   ],
                   "translation": [
-                    "………Uh……",
+                    "………Uuu……",
                     "…Also snowy…Strong…Difficult to walk………",
                     "……Body too…To be tepid……"
                   ]
@@ -14178,7 +14178,7 @@
                     "…やっぱり腹の中で動いてくれる…ってとこだよねぇ…♪"
                   ],
                   "translation": [
-                    "………ー………♪",
+                    "………Guess………♪",
                     "…The real thrill of swallowing alive as it is alive……",
                     "…After all it moves in the belly…Well, I guess.…♪"
                   ]
@@ -14198,7 +14198,7 @@
                     "…アンジュ、喜んでるのかな……"
                   ],
                   "translation": [
-                    "Uh……",
+                    "Uuu……",
                     "…Ange、I wonder if she is pleased.……"
                   ]
                 }
@@ -14556,7 +14556,7 @@
                     "…胃液だまりに…落とされちゃったよぅ……"
                   ],
                   "translation": [
-                    "……nn……",
+                    "……Nu……",
                     "…To gastric juice…It was dropped.……"
                   ]
                 }
