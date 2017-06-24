@@ -3084,7 +3084,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "使ったその場でHPが10になる。どこでも使えます。|やられちゃいたい時に是非。",
-        "translation": "On the spot where I used itHPBut10Become。Can be used anywhere。|Come when we are in a train。"
+        "translation": "On the spot where I used itHP10Become。Can be used anywhere。|Come when we are in a train。"
       },
       "note": {
         "json_class": "TranslatableString",

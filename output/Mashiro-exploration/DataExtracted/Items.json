@@ -267,7 +267,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "膣壁から溢れてくる粘液で液体。|いやん、えっち。",
-        "translation": "Liquid with mucus overflowing from the vagina wall。|No、。"
+        "translation": "Liquid with mucus overflowing from the vagina wall。|No、Naughty。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -309,7 +309,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "ニノ「…それ…た、食べる…んですか…？」|HP微量回復。",
-        "translation": "Nino「…It…It was、Eat…Is it?…？」|HPTrace recovery。"
+        "translation": "Nino「…It…、Eat…Is it?…？」|HPTrace recovery。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -498,7 +498,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "飲めば体の何処かに効く、イトリお手製の特濃ミルク。|ＨＰが1000回復する+α。",
-        "translation": "It will work somewhere in the body if you drink it.、Handmade specialty milk of itriti。|ＨＰBut1000Recover+α。"
+        "translation": "It will work somewhere in the body if you drink it.、Handmade specialty milk of itriti。|ＨＰ1000Recover+α。"
       },
       "note": {
         "json_class": "TranslatableString",
@@ -519,7 +519,7 @@
       "description": {
         "json_class": "TranslatableString",
         "original   ": "イトリの乳腺で採取した、原液そのままのミルク。|ＨＰが100・ＭＰが50回復する。",
-        "translation": "It was collected in the mammary gland of Itri、Undiluted milk as it is。|ＨＰBut100・ＭＰBut50Recover。"
+        "translation": "It was collected in the mammary gland of Itri、Undiluted milk as it is。|ＨＰ100・ＭＰ50Recover。"
       },
       "note": {
         "json_class": "TranslatableString",
