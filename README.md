@@ -6,6 +6,11 @@ This project aims to provide an easy to use in game translation.
 
 ## How to play game in English
 
+Prerequisites:
+
+RPG Maker VX RTP
+http://www.rpgmakerweb.com/download/additional/run-time-packages#rpg-maker-vx
+
 1. Download repository
 2. Run "Game.exe" in output/Mashiro-exploration
 
